@@ -223,7 +223,9 @@ class Doc(FPDF):
             self.set_font("dv", "B" if head else "", size)
             heights = []
             for i, cell in enumerate(row):
-                n = len(self.multi_cell(widths[i], size * 0.54, cell,
+                # Mede na MESMA largura em que desenha (widths[i] - 2),
+                # senao a altura da linha fica curta e o texto e cortado.
+                n = len(self.multi_cell(widths[i] - 2, size * 0.54, cell,
                                         dry_run=True, output="LINES",
                                         align="L", markdown=True))
                 heights.append(max(1, n))

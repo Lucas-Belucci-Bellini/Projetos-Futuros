@@ -40,12 +40,14 @@ de branches acima.
 | [`base-movel/veiculo/`](base-movel/veiculo/ORCAMENTO-VEICULO-E-PLANTA.md) | Peterbilt 379, **planta baixa**, peso, acabamento | `base-movel/veiculo` |
 | [`base-movel/armaria/`](base-movel/armaria/ORCAMENTO-ARMARIA.md) | 30 armas longas + 15 curtas, referências legais | `base-movel/casa` |
 | [`base-movel/notebooks/`](base-movel/notebooks/ORCAMENTO-20-NOTEBOOKS.md) | **20 orçamentos de notebook** (10 rodam Hermes, 10 não) | `base-movel/notebooks` |
+| [`frota-corporativa/ORCAMENTO-20-PCS.md`](frota-corporativa/ORCAMENTO-20-PCS.md) | **Frota corporativa de 20 PCs** — 3 tiers, montar vs. OEM, TCO 3 anos, canais B2B | `frota-corporativa` |
 | [`docs/FONTES-DE-PRECO-2026.md`](docs/FONTES-DE-PRECO-2026.md) | Toda fonte de preço, com data e link | `base-movel/documentacao` |
 
 ### PDFs
 
 - [`pdf/orcamento-base-movel.pdf`](pdf/orcamento-base-movel.pdf) — 37 páginas, tudo da base móvel
 - [`pdf/orcamento-notebooks.pdf`](pdf/orcamento-notebooks.pdf) — 10 páginas, os 20 notebooks
+- [`pdf/orcamento-frota-20-pcs.pdf`](pdf/orcamento-frota-20-pcs.pdf) — 10 páginas, a frota corporativa de 20 estações
 
 Gerados por [`scripts/md2pdf.py`](scripts/md2pdf.py) (fpdf2, sem pandoc/LaTeX):
 
