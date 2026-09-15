@@ -1,33 +1,52 @@
-# Projetos-Futuros
+# Sistema Operacional Linux — Projeto
 
-Central de planejamento para projetos futuros.
+Branch: `sistema-operacional-linux`
 
-## Estrutura de branches
+Projeto conceitual para criar um sistema operacional desktop baseado em Linux, com foco em:
 
-- `main` — base estável / índice geral.
-- `projeto/base-movel` — arquitetura geral da Base Móvel.
-- `base-movel/servidores` — os 4 servidores e virtualização/orquestração.
-- `pc-01-gaming` — projeto completo do PC de Gaming/workstation.
-- `pc-02-ia-hermes` — projeto completo do PC de IA/Hermes.
-- `pc-03-minecraft` — projeto completo do PC de Minecraft.
-- `pc-04-servicos` — projeto completo do PC de serviços.
-- `pc-05-storage-nas` — projeto do storage/NAS e nuvem privada.
-- `base-movel/casa` — área habitacional, móveis e organização interna.
-- `base-movel/energia` — UPS, baterias, inversor, gerador e distribuição elétrica.
-- `base-movel/rede` — switches, firewall, VLANs, Wi-Fi, VPN e internet satelital.
-- `base-movel/storage` — NAS, nuvem privada, backups e expansão de armazenamento.
-- `base-movel/notebooks` — notebooks de trabalho, desenvolvimento, jogos e IA.
-- `base-movel/veiculo` — caminhão/baú, estrutura, peso, isolamento e integração.
-- `base-movel/climatizacao` — refrigeração, fluxo de ar e sala técnica.
-- `base-movel/documentacao` — requisitos, ADRs, diagramas, inventário e decisões.
+- experiência de uso inspirada nos melhores aspectos do Windows 11;
+- compatibilidade com jogos, desenvolvimento e IA;
+- segurança por camadas com raiz de confiança em hardware;
+- atualização confiável e rollback;
+- isolamento de aplicações;
+- estética militar/industrial futurista;
+- funcionamento offline e administração local;
+- documentação suficiente para que o Claude Code possa iniciar a implementação futuramente.
 
-## Compra e afiliados
+## Princípio central
 
-- Comparadores de preço e histórico devem ser usados para encontrar o menor preço real antes da compra.
-- Programas de afiliados devem ser usados apenas de acordo com os termos de cada plataforma.
-- O projeto deve registrar preço, loja, data/hora da verificação e link normal/oficial.
-- Um link de afiliado nunca deve ser apresentado como se fosse um preço melhor por si só.
+Não será um clone do Windows. O objetivo é combinar **usabilidade de desktop moderna + fundamentos Linux + segurança forte + identidade própria**.
 
-## Regra
+## Segurança alvo
 
-Cada branch deve conter somente o planejamento e os arquivos diretamente relacionados ao seu subsistema. Integrações que afetem mais de uma área devem ser documentadas em `projeto/base-movel` antes de serem incorporadas.
+A meta "nível Steam/VAC" é tratada como **referência de rigor**, não como uma alegação de equivalência técnica. O sistema deverá ter uma arquitetura de defesa em profundidade, incluindo Secure Boot, TPM 2.0, measured boot, criptografia, sandboxing, controle de aplicações, atualização assinada, redução de privilégios, telemetria opcional e recuperação segura.
+
+O VAC da Valve é um mecanismo de anti-cheat específico para jogos e não uma certificação geral de segurança de sistema operacional. A documentação oficial descreve detecção de cheats e penalidades em servidores protegidos; este projeto busca aplicar o mesmo espírito de proteção e integridade a um SO inteiro, sem copiar tecnologia proprietária da Valve.
+
+## Documentação
+
+- `docs/VISAO-E-REQUISITOS.md` — requisitos funcionais e não funcionais.
+- `docs/ARQUITETURA.md` — arquitetura de alto nível.
+- `docs/SEGURANCA.md` — modelo de ameaça e controles de segurança.
+- `docs/UX-WINDOWS11.md` — recursos de UX a preservar/reinterpretar.
+- `docs/ESTETICA.md` — identidade visual militar/industrial.
+- `docs/COMPATIBILIDADE-E-JOGOS.md` — Steam, Proton, anti-cheat e drivers.
+- `docs/PACOTE-HARDWARE.md` — requisitos mínimos, recomendados e high-end.
+- `docs/UPDATE-RECOVERY.md` — atualizações atômicas, rollback e recuperação.
+- `docs/PRIVACIDADE.md` — telemetria e proteção de dados.
+- `docs/ROADMAP.md` — fases do projeto.
+- `docs/CLAUDE-CODE.md` — instruções para futura construção com Claude Code.
+
+## Base técnica inicial
+
+- Kernel Linux.
+- Boot UEFI + Secure Boot.
+- systemd como referência inicial, sujeito a ADR futura.
+- Wayland como compositor/protocolo gráfico de referência.
+- Portais e sandbox de aplicações baseados em tecnologias Linux modernas.
+- Pacotes imutáveis/atômicos como direção arquitetural, a validar durante prototipagem.
+- Suporte a NVIDIA e AMD como prioridade.
+
+## Regra de projeto
+
+Toda decisão arquitetural deve virar ADR antes de ser considerada definitiva. O sistema deve evitar copiar código, marcas ou componentes proprietários sem licença compatível.
