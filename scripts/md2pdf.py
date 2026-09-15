@@ -255,6 +255,29 @@ class Doc(FPDF):
         self.ln(3.5)
 
 
+def gather_item(lines, i):
+    """Junta as linhas de continuacao (indentadas) de um item de lista.
+
+    Sem isso, um item quebrado em duas linhas no fonte perde a segunda metade
+    para um paragrafo solto — e marcacao inline aberta numa linha e fechada na
+    outra vaza como texto literal.
+    """
+    parts, j = [], i + 1
+    while j < len(lines):
+        nxt = lines[j]
+        if not nxt.strip():
+            break
+        if not nxt[:1].isspace():
+            break
+        if re.match(r"^\s*([-*+]|\d+[.)])\s+", nxt):
+            break
+        if nxt.strip().startswith(("```", "|", "#")):
+            break
+        parts.append(nxt.strip())
+        j += 1
+    return " ".join(parts), j
+
+
 def render(pdf, md):
     lines = md.split("\n")
     i, para_buf, quote_buf = 0, [], []
@@ -339,16 +362,18 @@ def render(pdf, md):
         m = re.match(r"^(\s*)[-*+]\s+(.*)", line)
         if m:
             flush()
-            pdf.bullet(m.group(2), depth=min(len(m.group(1)) // 2, 2))
-            i += 1
+            extra, i = gather_item(lines, i)
+            texto = (m.group(2) + " " + extra).strip() if extra else m.group(2)
+            pdf.bullet(texto, depth=min(len(m.group(1)) // 2, 2))
             continue
 
         m = re.match(r"^(\s*)(\d+)[.)]\s+(.*)", line)
         if m:
             flush()
-            pdf.numbered(m.group(2), m.group(3),
+            extra, i = gather_item(lines, i)
+            texto = (m.group(3) + " " + extra).strip() if extra else m.group(3)
+            pdf.numbered(m.group(2), texto,
                          depth=min(len(m.group(1)) // 2, 2))
-            i += 1
             continue
 
         para_buf.append(stripped)

@@ -43,6 +43,15 @@ de branches acima.
 | [`frota-corporativa/ORCAMENTO-20-PCS.md`](frota-corporativa/ORCAMENTO-20-PCS.md) | **Frota corporativa de 20 PCs** — 3 tiers, montar vs. OEM, TCO 3 anos, canais B2B | `frota-corporativa` |
 | [`docs/FONTES-DE-PRECO-2026.md`](docs/FONTES-DE-PRECO-2026.md) | Toda fonte de preço, com data e link | `base-movel/documentacao` |
 
+## Estudos
+
+Material de revisão para prova, com gabarito conferido questão a questão.
+
+| Documento | Cobre | PDF |
+|---|---|---|
+| [`estudos/REVISAO-LPOO.md`](estudos/REVISAO-LPOO.md) | **LPOO / Java** — os 4 pilares ancorados no código real do [FanVerse](https://github.com/Lucas-Belucci-Bellini/FanVerse) e do [Java-activities](https://github.com/Lucas-Belucci-Bellini/Java-activities), com inventário medido dos 103 arquivos `.java` e as lacunas que sobraram | [`pdf/revisao-lpoo.pdf`](pdf/revisao-lpoo.pdf) |
+| [`estudos/REVISAO-SISTEMAS-DIGITAIS.md`](estudos/REVISAO-SISTEMAS-DIGITAIS.md) | **Sistemas Digitais** — Álgebra Booleana, DeMorgan e Mapas de Karnaugh, com as 15 questões resolvidas e gabarito comentado | [`pdf/revisao-sistemas-digitais.pdf`](pdf/revisao-sistemas-digitais.pdf) |
+
 ### PDFs
 
 - [`pdf/orcamento-base-movel.pdf`](pdf/orcamento-base-movel.pdf) — 37 páginas, tudo da base móvel
