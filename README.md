@@ -20,6 +20,8 @@ Central de planejamento para projetos futuros.
 - `base-movel/veiculo` — caminhão/baú, estrutura, peso, isolamento e integração.
 - `base-movel/climatizacao` — refrigeração, fluxo de ar e sala técnica.
 - `base-movel/documentacao` — requisitos, ADRs, diagramas, inventário e decisões.
+- `site-promocoes-pc-faculdade` — futuro site de promoções e orçamentos de PCs/notebooks para estudantes e usuários gerais.
+- `sistema-operacional-linux` — projeto de sistema operacional desktop baseado em Linux, com UX inspirada em desktops modernos, segurança forte e identidade visual própria.
 
 ## Compra e afiliados
 
