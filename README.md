@@ -23,6 +23,44 @@ Central de planejamento para projetos futuros.
 - `site-promocoes-pc-faculdade` — futuro site de promoções e orçamentos de PCs/notebooks para estudantes e usuários gerais.
 - `sistema-operacional-linux` — projeto de sistema operacional desktop baseado em Linux, com UX inspirada em desktops modernos, segurança forte e identidade visual própria.
 
+## Orçamentos — cotação de 15/09/2026
+
+Os documentos abaixo põem preço real (com fonte e link) no que o planejamento
+descreve em conceito. Estão organizados nas pastas que correspondem à convenção
+de branches acima.
+
+| Documento | Cobre | Branch correspondente |
+|---|---|---|
+| [`base-movel/ORCAMENTO-2026.md`](base-movel/ORCAMENTO-2026.md) | **Orçamento mestre** — 3 cenários, consolidado, cronograma | `projeto/base-movel` |
+| [`base-movel/servidores/`](base-movel/servidores/ORCAMENTO-SERVIDORES.md) | Os 4 nós, consolidação em 2, pilha de software | `base-movel/servidores` |
+| [`base-movel/storage/`](base-movel/storage/ORCAMENTO-STORAGE-NUVEM.md) | Nuvem de 256 TB, ZFS, backup 3-2-1 | `base-movel/storage` |
+| [`base-movel/energia/`](base-movel/energia/ORCAMENTO-ENERGIA.md) | Carga, baterias, gerador, os 3 nobreaks | `base-movel/energia` |
+| [`base-movel/climatizacao/`](base-movel/climatizacao/ORCAMENTO-CLIMATIZACAO.md) | Carga térmica, corredor quente/frio | `base-movel/climatizacao` |
+| [`base-movel/rede/`](base-movel/rede/ORCAMENTO-REDE-SATELITE.md) | Starlink, VLANs, failover 5G | `base-movel/rede` |
+| [`base-movel/veiculo/`](base-movel/veiculo/ORCAMENTO-VEICULO-E-PLANTA.md) | Peterbilt 379, **planta baixa**, peso, acabamento | `base-movel/veiculo` |
+| [`base-movel/armaria/`](base-movel/armaria/ORCAMENTO-ARMARIA.md) | 30 armas longas + 15 curtas, referências legais | `base-movel/casa` |
+| [`base-movel/notebooks/`](base-movel/notebooks/ORCAMENTO-20-NOTEBOOKS.md) | **20 orçamentos de notebook** (10 rodam Hermes, 10 não) | `base-movel/notebooks` |
+| [`docs/FONTES-DE-PRECO-2026.md`](docs/FONTES-DE-PRECO-2026.md) | Toda fonte de preço, com data e link | `base-movel/documentacao` |
+
+### PDFs
+
+- [`pdf/orcamento-base-movel.pdf`](pdf/orcamento-base-movel.pdf) — 37 páginas, tudo da base móvel
+- [`pdf/orcamento-notebooks.pdf`](pdf/orcamento-notebooks.pdf) — 10 páginas, os 20 notebooks
+
+Gerados por [`scripts/md2pdf.py`](scripts/md2pdf.py) (fpdf2, sem pandoc/LaTeX):
+
+```bash
+python3 scripts/md2pdf.py pdf/saida.pdf "Título" "Subtítulo" arquivo.md [...]
+```
+
+### ⚠️ Contexto de mercado: 2026 é um ano ruim para comprar
+
+GPU e memória estão em crise de preço simultânea por causa da demanda de IA:
+a RTX 5090 está **+126%** sobre o MSRP e o kit DDR5 de 64 GB **+325%**. No
+escopo deste projeto isso representa **~$20.700 de sobrepreço**, e a previsão
+de alívio é **meados de 2027**. Detalhes e a recomendação de faseamento estão
+no [orçamento mestre](base-movel/ORCAMENTO-2026.md#-leia-isto-antes-de-qualquer-coisa-2026-é-o-pior-ano-da-década-para-comprar).
+
 ## Compra e afiliados
 
 - Comparadores de preço e histórico devem ser usados para encontrar o menor preço real antes da compra.
