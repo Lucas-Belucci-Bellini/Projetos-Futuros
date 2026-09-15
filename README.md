@@ -51,6 +51,7 @@ Material de revisão para prova, com gabarito conferido questão a questão.
 |---|---|---|
 | [`estudos/REVISAO-LPOO.md`](estudos/REVISAO-LPOO.md) | **LPOO / Java** — os 4 pilares ancorados no código real do [FanVerse](https://github.com/Lucas-Belucci-Bellini/FanVerse) e do [Java-activities](https://github.com/Lucas-Belucci-Bellini/Java-activities), com inventário medido dos 103 arquivos `.java` e as lacunas que sobraram | [`pdf/revisao-lpoo.pdf`](pdf/revisao-lpoo.pdf) |
 | [`estudos/REVISAO-SISTEMAS-DIGITAIS.md`](estudos/REVISAO-SISTEMAS-DIGITAIS.md) | **Sistemas Digitais** — Álgebra Booleana, DeMorgan e Mapas de Karnaugh, com as 15 questões resolvidas e gabarito comentado | [`pdf/revisao-sistemas-digitais.pdf`](pdf/revisao-sistemas-digitais.pdf) |
+| [`estudos/LISTA-SISTEMAS-DIGITAIS-2.md`](estudos/LISTA-SISTEMAS-DIGITAIS-2.md) | **Sistemas Digitais — caderno 2** — revisão, as 19 questões da lista para resolver em branco, gabarito comentado com os mapas desenhados e 7 exercícios extras | [`pdf/lista-sistemas-digitais-2.pdf`](pdf/lista-sistemas-digitais-2.pdf) |
 
 ### PDFs
 

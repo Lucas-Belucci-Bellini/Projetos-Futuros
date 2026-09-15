@@ -16,7 +16,6 @@ from fpdf import FPDF
 from fpdf.enums import XPos, YPos
 
 FONT_DIR = Path("/usr/share/fonts/truetype/dejavu")
-LIB = Path("/usr/share/fonts/truetype/liberation")
 PAGE_W, MARGIN = 210, 16
 CONTENT_W = PAGE_W - 2 * MARGIN
 
@@ -68,8 +67,11 @@ class Doc(FPDF):
         self.add_font("dv", "", str(FONT_DIR / "DejaVuSans.ttf"))
         self.add_font("dv", "B", str(FONT_DIR / "DejaVuSans-Bold.ttf"))
         # A DejaVu deste sistema nao traz o oblique; a Liberation cobre.
-        self.add_font("dv", "I", str(LIB / "LiberationSans-Italic.ttf"))
-        self.add_font("dv", "BI", str(LIB / "LiberationSans-BoldItalic.ttf"))
+        # Italico tambem em DejaVu: e a unica familia deste sistema com os
+        # simbolos que o texto usa (U+2713 / U+2717). Citacao se distingue
+        # por cor e barra lateral, nao por inclinacao.
+        self.add_font("dv", "I", str(FONT_DIR / "DejaVuSans.ttf"))
+        self.add_font("dv", "BI", str(FONT_DIR / "DejaVuSans-Bold.ttf"))
         self.add_font("dvm", "", str(FONT_DIR / "DejaVuSansMono.ttf"))
         self.set_text_color(*INK)
 
@@ -122,7 +124,9 @@ class Doc(FPDF):
     # ---------- blocos ----------
 
     def heading(self, level, text):
-        text = inline(text)
+        # O titulo inteiro ja e desenhado em negrito: os ** do fonte seriam
+        # impressos literalmente, porque heading nao passa por markdown=True.
+        text = inline(text).replace("**", "")
         sizes = {1: 17, 2: 13, 3: 11, 4: 9.8}
         space_before = {1: 7, 2: 6, 3: 4.5, 4: 3.5}
         if level == 1 and self.get_y() > 60:
