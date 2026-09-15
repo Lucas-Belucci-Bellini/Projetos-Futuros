@@ -1,33 +1,142 @@
-# Projetos-Futuros
+# Site de Promoções e Orçamentos de PCs
 
-Central de planejamento para projetos futuros.
+Branch: `site-promocoes-pc-faculdade`
 
-## Estrutura de branches
+Projeto futuro de um site brasileiro para promoções, comparação de peças, notebooks e montagem de orçamentos de PCs, com foco especial em estudantes de faculdade, programação, game development, jogos e IA.
 
-- `main` — base estável / índice geral.
-- `projeto/base-movel` — arquitetura geral da Base Móvel.
-- `base-movel/servidores` — os 4 servidores e virtualização/orquestração.
-- `pc-01-gaming` — projeto completo do PC de Gaming/workstation.
-- `pc-02-ia-hermes` — projeto completo do PC de IA/Hermes.
-- `pc-03-minecraft` — projeto completo do PC de Minecraft.
-- `pc-04-servicos` — projeto completo do PC de serviços.
-- `pc-05-storage-nas` — projeto do storage/NAS e nuvem privada.
-- `base-movel/casa` — área habitacional, móveis e organização interna.
-- `base-movel/energia` — UPS, baterias, inversor, gerador e distribuição elétrica.
-- `base-movel/rede` — switches, firewall, VLANs, Wi-Fi, VPN e internet satelital.
-- `base-movel/storage` — NAS, nuvem privada, backups e expansão de armazenamento.
-- `base-movel/notebooks` — notebooks de trabalho, desenvolvimento, jogos e IA.
-- `base-movel/veiculo` — caminhão/baú, estrutura, peso, isolamento e integração.
-- `base-movel/climatizacao` — refrigeração, fluxo de ar e sala técnica.
-- `base-movel/documentacao` — requisitos, ADRs, diagramas, inventário e decisões.
+## Objetivo
 
-## Compra e afiliados
+O site deve responder: **qual computador comprar para uma finalidade e orçamento específicos?**
 
-- Comparadores de preço e histórico devem ser usados para encontrar o menor preço real antes da compra.
-- Programas de afiliados devem ser usados apenas de acordo com os termos de cada plataforma.
-- O projeto deve registrar preço, loja, data/hora da verificação e link normal/oficial.
-- Um link de afiliado nunca deve ser apresentado como se fosse um preço melhor por si só.
+A recomendação deve considerar objetivo, orçamento, compatibilidade, desempenho, possibilidade de upgrade, consumo, garantia, manutenção, preço atual e histórico.
 
-## Regra
+## Perfis de usuário
 
-Cada branch deve conter somente o planejamento e os arquivos diretamente relacionados ao seu subsistema. Integrações que afetem mais de uma área devem ser documentadas em `projeto/base-movel` antes de serem incorporadas.
+- faculdade / estudo;
+- programação;
+- engenharia e arquitetura;
+- design e 3D;
+- edição e criação;
+- gaming moderado;
+- gaming de alto desempenho;
+- IA local/Hermes;
+- servidor doméstico.
+
+## Funcionalidades
+
+1. Orçamento por objetivo e orçamento.
+2. Comparador de peças.
+3. Comparador de notebooks e PCs prontos.
+4. Verificador de compatibilidade.
+5. Histórico de preços.
+6. Detector de estoque.
+7. Alertas de queda de preço e retorno ao estoque.
+8. Planejador de upgrade.
+9. Estimativa de TCO.
+10. Links de afiliados identificados.
+11. Páginas de promoções.
+12. Página explicando por que uma configuração foi recomendada.
+
+## Regra de recomendação
+
+```text
+objetivo
++ orçamento
++ compatibilidade
++ desempenho
++ consumo
++ upgrade
++ preço atual
++ histórico
++ estoque
++ garantia
++ manutenção
+= recomendação
+```
+
+Menor preço não vence automaticamente: confiabilidade, garantia e histórico também entram no cálculo.
+
+## Dados de cada produto
+
+- fabricante;
+- modelo;
+- part number/SKU;
+- categoria;
+- especificações completas;
+- preço à vista;
+- preço parcelado;
+- frete;
+- estoque;
+- loja;
+- garantia;
+- data/hora da coleta;
+- histórico;
+- URL oficial;
+- URL de afiliado, quando permitida;
+- classificação de preço.
+
+## Classificação de preço
+
+- `EXCELENTE`
+- `BOM`
+- `NORMAL`
+- `ALTO`
+- `ESGOTADO`
+
+## Futuro bot de preços
+
+O site deve poder consumir dados de um bot separado que monitora preços e estoque. O bot deve registrar mudanças e gerar eventos como:
+
+```text
+PRICE_DROP
+BACK_IN_STOCK
+HISTORICAL_LOW
+OUT_OF_STOCK
+PRICE_HIGH
+```
+
+Toda coleta deve respeitar termos de uso, APIs oficiais, robots.txt e limites das lojas. Não contornar CAPTCHA, bloqueios ou mecanismos anti-bot.
+
+## Monetização
+
+Possíveis fontes:
+
+- programas de afiliados;
+- conteúdo/reviews;
+- publicidade identificada;
+- recursos premium no futuro.
+
+Quando houver comissão, ela deve ser informada ao usuário e nunca deve alterar escondido o ranking técnico.
+
+## Stack sugerida
+
+```text
+Next.js + TypeScript
+        ↓
+API / Server Actions
+        ↓
+PostgreSQL / Supabase
+        ↓
+Workers de coleta e normalização
+        ↓
+Histórico + estoque + alertas
+```
+
+Python pode ser usado nos coletores/normalizadores quando apropriado. GitHub Actions pode executar tarefas agendadas simples; com crescimento, usar worker/fila persistente.
+
+## Estrutura documental
+
+- `docs/PRODUTO.md` — requisitos funcionais completos.
+- `docs/ARQUITETURA.md` — arquitetura técnica.
+- `docs/MODELO-DADOS.md` — produtos, lojas, preços, estoque e histórico.
+- `docs/MOTOR-ORCAMENTO.md` — geração de configurações.
+- `docs/MOTOR-COMPATIBILIDADE.md` — regras de compatibilidade.
+- `docs/BOT-PRECOS.md` — bot e coleta.
+- `docs/AFILIADOS.md` — afiliados e transparência.
+- `docs/UX.md` — páginas e experiência.
+- `docs/SEO.md` — estratégia de páginas e busca.
+- `docs/ROADMAP.md` — fases do projeto.
+
+## Comando inicial para Claude Code
+
+> Leia `README.md` e todos os arquivos de `docs/` desta branch antes de alterar ou criar código. Trate os documentos como especificação do produto. Antes de implementar, identifique requisitos, integrações e riscos. Não invente APIs ou dados de lojas. Quando existir diferença entre preço real, preço histórico e preço de afiliado, manter os três conceitos separados.
