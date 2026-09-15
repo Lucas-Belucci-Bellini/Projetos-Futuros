@@ -55,6 +55,11 @@ A classificação prioriza 32 GB+ de RAM, RTX com 8 GB+ de VRAM, boa refrigeraç
 - [N09 — ROG Zephyrus G14 RTX 4060](docs/N09-zephyrus-g14-4060.md)
 - [N10 — Lenovo Legion Pro 5 RTX 4060](docs/N10-legion-pro-5-4060.md)
 
+## Documentos gerais
+
+- [Orçamento, reparo e TCO](docs/ORCAMENTO-E-MANUTENCAO.md)
+- [Critérios de avaliação e testes](docs/CRITERIOS-DE-AVALIACAO.md)
+
 ## Estrutura obrigatória de cada ficha
 
 Cada documento deve conter:
