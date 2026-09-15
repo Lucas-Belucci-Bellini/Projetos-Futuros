@@ -1,52 +1,64 @@
-# Sistema Operacional Linux — Projeto
+# Sistema Operacional — Projeto V2
 
 Branch: `sistema-operacional-linux`
 
-Projeto conceitual para criar um sistema operacional desktop baseado em Linux, com foco em:
+Projeto para criar um sistema operacional desktop baseado em Linux, com experiência moderna, segurança forte, gaming, desenvolvimento, IA local, operação offline e identidade visual militar/industrial futurista.
 
-- experiência de uso inspirada nos melhores aspectos do Windows 11;
-- compatibilidade com jogos, desenvolvimento e IA;
-- segurança por camadas com raiz de confiança em hardware;
-- atualização confiável e rollback;
-- isolamento de aplicações;
-- estética militar/industrial futurista;
-- funcionamento offline e administração local;
-- documentação suficiente para que o Claude Code possa iniciar a implementação futuramente.
+## Objetivo V2
 
-## Princípio central
+Não é um clone do Windows. A proposta é construir um produto próprio combinando usabilidade de desktop moderna, ferramentas avançadas sem exigir conhecimento de Linux, segurança por defesa em profundidade, atualizações atômicas e rollback, sandbox, gaming, desenvolvimento, IA local, privacidade e recuperação simples.
 
-Não será um clone do Windows. O objetivo é combinar **usabilidade de desktop moderna + fundamentos Linux + segurança forte + identidade própria**.
+## Documentação principal
 
-## Segurança alvo
+- `docs/OBJETIVOS-V2.md` — visão, escopo, diferenciais e limites.
+- `docs/ARQUITETURA-DE-IMPLEMENTACAO.md` — camadas, tecnologias, modularidade e observabilidade.
+- `docs/SEGURANCA-DEFESA-EM-PROFUNDIDADE.md` — cadeia de confiança, isolamento, identidade, updates e resposta.
+- `docs/EXPERIENCIA-DESKTOP.md` — shell, arquivos, configurações, perfis e acessibilidade.
+- `docs/GAMING-E-COMPATIBILIDADE.md` — Steam, Proton, drivers, Vulkan e política de anti-cheat.
+- `docs/GERENCIADOR-DE-APLICATIVOS.md` — instalação, sandbox, repositórios e permissões.
+- `docs/ATUALIZACAO-E-RECUPERACAO.md` — update transacional, rollback e recovery offline.
+- `docs/IA-LOCAL-E-AUTOMACAO.md` — IA local, Hermes e integração com servidores.
+- `docs/DESEMPENHO-E-ENERGIA.md` — perfis de energia, hardware awareness e benchmarks.
+- `docs/PRIVACIDADE-E-DADOS.md` — telemetria, contas, criptografia e coleta mínima.
+- `docs/ESTETICA-E-TEMA.md` — sistema visual militar/industrial e identidade própria.
 
-A meta "nível Steam/VAC" é tratada como **referência de rigor**, não como uma alegação de equivalência técnica. O sistema deverá ter uma arquitetura de defesa em profundidade, incluindo Secure Boot, TPM 2.0, measured boot, criptografia, sandboxing, controle de aplicações, atualização assinada, redução de privilégios, telemetria opcional e recuperação segura.
+## Segurança
 
-O VAC da Valve é um mecanismo de anti-cheat específico para jogos e não uma certificação geral de segurança de sistema operacional. A documentação oficial descreve detecção de cheats e penalidades em servidores protegidos; este projeto busca aplicar o mesmo espírito de proteção e integridade a um SO inteiro, sem copiar tecnologia proprietária da Valve.
+A meta de "nível Steam/VAC" significa alto rigor de integridade, não equivalência técnica ao VAC. O projeto não copia mecanismos proprietários e não promete segurança invulnerável.
 
-## Documentação
+A defesa deve usar, quando disponível, Secure Boot, TPM 2.0, measured boot, privilégios mínimos, sandboxing, assinatura de software, atualizações assinadas, proteção de downgrade, auditoria local e recovery confiável.
 
-- `docs/VISAO-E-REQUISITOS.md` — requisitos funcionais e não funcionais.
-- `docs/ARQUITETURA.md` — arquitetura de alto nível.
-- `docs/SEGURANCA.md` — modelo de ameaça e controles de segurança.
-- `docs/UX-WINDOWS11.md` — recursos de UX a preservar/reinterpretar.
-- `docs/ESTETICA.md` — identidade visual militar/industrial.
-- `docs/COMPATIBILIDADE-E-JOGOS.md` — Steam, Proton, anti-cheat e drivers.
-- `docs/PACOTE-HARDWARE.md` — requisitos mínimos, recomendados e high-end.
-- `docs/UPDATE-RECOVERY.md` — atualizações atômicas, rollback e recuperação.
-- `docs/PRIVACIDADE.md` — telemetria e proteção de dados.
-- `docs/ROADMAP.md` — fases do projeto.
-- `docs/CLAUDE-CODE.md` — instruções para futura construção com Claude Code.
-
-## Base técnica inicial
+## Arquitetura inicial
 
 - Kernel Linux.
-- Boot UEFI + Secure Boot.
-- systemd como referência inicial, sujeito a ADR futura.
-- Wayland como compositor/protocolo gráfico de referência.
-- Portais e sandbox de aplicações baseados em tecnologias Linux modernas.
-- Pacotes imutáveis/atômicos como direção arquitetural, a validar durante prototipagem.
-- Suporte a NVIDIA e AMD como prioridade.
+- UEFI + Secure Boot.
+- systemd como referência inicial.
+- Wayland como protocolo gráfico principal.
+- Portais/sandbox modernos para aplicações.
+- Componentes críticos novos preferencialmente em Rust quando adequado.
+- C/C++ apenas quando exigido por componentes existentes ou interfaces do sistema.
+- Suporte prioritário a AMD, NVIDIA e Intel.
 
-## Regra de projeto
+## Perfis de uso
 
-Toda decisão arquitetural deve virar ADR antes de ser considerada definitiva. O sistema deve evitar copiar código, marcas ou componentes proprietários sem licença compatível.
+`Eco` · `Balanced` · `Performance` · `Gaming` · `AI`
+
+## Requisitos para o futuro Claude Code
+
+Antes de implementar, ler todo este README e todos os arquivos em `docs/`. Não começar pelo visual isolado. Primeiro transformar requisitos em ADRs, arquitetura, protótipo mínimo bootável e testes automatizados.
+
+A implementação deve manter módulos independentes, documentação atualizada, testes e critérios de aceitação por fase.
+
+## Roadmap resumido
+
+1. Especificação e threat model.
+2. Boot mínimo e imagem ISO.
+3. Base Linux + hardware detection.
+4. Desktop Shell.
+5. Apps e sandbox.
+6. Updates/recovery.
+7. Gaming.
+8. Desenvolvimento.
+9. IA local.
+10. Hardening e auditoria.
+11. Beta público.
