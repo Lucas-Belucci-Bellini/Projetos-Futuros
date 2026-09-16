@@ -148,7 +148,7 @@ custa **US$ 1.699,99**:
 | # | Você pediu | Alcançável no Brasil? |
 |---|---|---|
 | 1 | 32 GB DDR5, expansível | ✅ Sim, comum |
-| 2 | 1–2 TB, expansível a 8 TB | ⚠️ Sim, mas SSD é caro aqui (§7) |
+| 2 | 1–2 TB, expansível a 8 TB | ⚠️ Sim — **mas 7 dos 20 vêm com 512 GB** (§6.1) |
 | 3 | AMD Ryzen 7 ou 9 | ⚠️ Sim, **com teto de RTX 5070/5070 Ti** |
 | 4 | RTX | ✅ Sim |
 | 5 | Roda o Hermes 4.3 36B | ❌ **Não no varejo** — exige 24 GB de VRAM |
@@ -185,6 +185,7 @@ semana.
 | CPU | Intel Core Ultra 9 275HX — ❌ não é AMD |
 | GPU | **RTX 5080 · 16 GB** GDDR7 |
 | RAM | Configurável, **até 64 GB DDR5** |
+| Armazenamento | **Configurável** — base 1 TB NVMe · 2 slots M.2 |
 | Garantia | **12 meses Avell, suporte nacional** |
 
 | | |
@@ -245,6 +246,7 @@ semana.
 | CPU | Intel Core Ultra 9 275HX — ❌ não é AMD |
 | GPU | **RTX 5070 Ti · 12 GB** GDDR7 |
 | RAM | Configurável, até 64 GB · SO-DIMM |
+| Armazenamento | **Configurável** — base 1 TB NVMe · 2 slots M.2 |
 | Tela | **16" QHD+ 300 Hz** |
 | Garantia | 12 meses Avell · **assistência no Brasil** |
 
@@ -377,7 +379,8 @@ tem GPU superior. Só se houver desconto agressivo.
 
 | | |
 |---|---|
-| CPU | Intel Core i9 · RTX 5070 · configurável · 16" QHD+ 180 Hz |
+| CPU | Intel Core i9 · RTX 5070 · 16" QHD+ 180 Hz |
+| RAM / SSD | **Configuráveis** — base 1 TB NVMe |
 | Preço | **≈ R$ 13.500** · PIX ≈ R$ 12.150 |
 
 [Linha Storm — Avell](https://avell.com.br/notebooks/notebooks-linhas/gamers-linha-storm)
@@ -394,6 +397,7 @@ tem GPU superior. Só se houver desconto agressivo.
 | | |
 |---|---|
 | GPU | RTX 5060 · 8 GB GDDR7 · 32 GB RAM |
+| Armazenamento | ⚠️ **512 GB** típico do tier — confirmar no anúncio |
 | Preço | **R$ 9.699** 🔗 · PIX ≈ R$ 8.730 |
 
 **Veredito:** o piso de entrada que ainda atende 5 dos 6 requisitos.
@@ -405,12 +409,14 @@ tem GPU superior. Só se houver desconto agressivo.
 
 | | |
 |---|---|
+| Armazenamento | ⚠️ **512 GB** típico — confirmar no anúncio |
 | Preço | **R$ 11.899** 🔗 (13/09/2026) · PIX ≈ R$ 10.709 |
 
 ### 18 — Acer Predator Helios Neo 16 · RTX 5060 🔗
 
 | | |
 |---|---|
+| Armazenamento | ⚠️ **512 GB** típico — confirmar no anúncio |
 | Preço | **R$ 13.090** 🔗 · PIX ≈ R$ 11.781 |
 
 **Veredito:** ⚠️ caro para um RTX 5060 — o orçamento 14 dá RTX 5070 **e** AMD
@@ -420,14 +426,14 @@ por menos.
 
 | | |
 |---|---|
-| CPU | **AMD Ryzen 7** ✅ · RTX 5060 8 GB · 16–32 GB |
+| CPU | **AMD Ryzen 7** ✅ · RTX 5060 8 GB · 16–32 GB · ⚠️ 512 GB típico |
 | Preço | **≈ R$ 10.500** · PIX ≈ R$ 9.450 |
 
 ### 20 — Lenovo LOQ · **Ryzen** + RTX 5060 ≈
 
 | | |
 |---|---|
-| CPU | **AMD Ryzen 5/7** ✅ · RTX 5060 · **16 GB de fábrica** |
+| CPU | **AMD Ryzen 5/7** ✅ · RTX 5060 · **16 GB** · ⚠️ **512 GB** típico |
 | Preço | **≈ R$ 9.900** · PIX ≈ R$ 8.910 |
 | ⚠️ Upgrade para 32 GB | **+ R$ 700** |
 | **Custo real** | **≈ R$ 9.610** |
@@ -439,30 +445,79 @@ por menos.
 
 # 6. Tabela mestre — os 20, por preço à vista
 
-| # | Modelo | CPU | AMD? | GPU / VRAM | RAM | PIX | Tabela |
-|:-:|---|---|:-:|---|---|---:|---:|
-| 16 | RTX 5060 entrada 🔗 | — | ? | 5060 / 8 GB | 32 GB | **R$ 8.730** | R$ 9.699 |
-| 20 | Lenovo LOQ | Ryzen 5/7 | ✅ | 5060 / 8 GB | 16 GB* | **R$ 8.910** | R$ 9.900 |
-| 19 | Acer Nitro V16 | Ryzen 7 | ✅ | 5060 / 8 GB | 16–32 GB | **R$ 9.450** | R$ 10.500 |
-| 17 | ROG Strix G16 🔗 | Intel | ❌ | 5060 / 8 GB | 16 GB | **R$ 10.709** | R$ 11.899 |
-| 14 | Acer Nitro V16 | **Ryzen 7** | ✅ | **5070** / 8 GB | 16–32 GB | **R$ 11.250** | R$ 12.500 |
-| 18 | Helios Neo 16 🔗 | Intel | ❌ | 5060 / 8 GB | 16 GB | **R$ 11.781** | R$ 13.090 |
-| 12 | Helios Neo 16 AI 🔗 | Ultra 7 | ❌ | 5070 / 8 GB | 16 GB* | **R$ 12.150** | R$ 13.500 |
-| 15 | Avell Storm 570 | i9 | ❌ | 5070 / 8 GB | config. | **R$ 12.150** | R$ 13.500 |
-| **11** ⭐ | **ASUS TUF A16** | **Ryzen 9** | **✅** | 5070 / 8 GB | 32 GB | **R$ 12.400** | R$ 14.000 |
-| 13 | Helios Neo 16 AI | Ultra 7 | ❌ | 5070 / 8 GB | 16 GB | **R$ 13.050** | R$ 14.500 |
-| **06** 🥇 | **Avell Storm 570 Ti** 🔗 | Ultra 9 | ❌ | **5070 Ti / 12 GB** | config. | **R$ 13.949** | R$ 15.499 |
-| 07 | Helios Neo 16 🔗 | Ultra 7/9 | ❌ | 5070 Ti / 12 GB | 16–32 GB | **R$ 15.160** | R$ 16.845 |
-| 08 | Lenovo Legion 5 | Ultra 7 | ❌ | 5070 Ti / 12 GB | 32 GB | **R$ 15.750** | R$ 17.500 |
-| 10 | ROG Strix G16 🔗 | Ultra 9 | ❌ | 5070 / 8 GB | 32 GB | **R$ 16.200** | R$ 17.999 |
-| **09** ⭐ | **Legion 5 AMD** | **Ryzen 9** | **✅** | **5070 Ti / 12 GB** | 32 GB | **R$ 16.200** | R$ 18.000 |
-| **01** 🥈 | **Avell Storm 580** 🔗 | Ultra 9 | ❌ | **5080 / 16 GB** | até 64 GB | **R$ 21.599** | R$ 23.999 |
-| 05 | Predator Helios 16 | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **R$ 22.050** | R$ 24.500 |
-| 03 | Legion Pro 7i | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **R$ 22.950** | R$ 25.500 |
-| 02 | ROG Strix SCAR 16 | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **R$ 24.300** | R$ 27.000 |
-| 04 | MSI Raider/Vector | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **R$ 25.200** | R$ 28.000 |
+| # | Modelo | CPU | AMD? | GPU / VRAM | RAM | **SSD** | **M.2** | PIX | Tabela |
+|:-:|---|---|:-:|---|---|:-:|:-:|---:|---:|
+| 16 | RTX 5060 entrada 🔗 | — | ? | 5060 / 8 GB | 32 GB | ⚠️ **512 GB** ᶜ | 2 | **R$ 8.730** | R$ 9.699 |
+| 20 | Lenovo LOQ | Ryzen 5/7 | ✅ | 5060 / 8 GB | 16 GB* | ⚠️ **512 GB** ᶜ | 2 | **R$ 8.910** | R$ 9.900 |
+| 19 | Acer Nitro V16 | Ryzen 7 | ✅ | 5060 / 8 GB | 16–32 GB | ⚠️ **512 GB** ᶜ | 2 | **R$ 9.450** | R$ 10.500 |
+| 17 | ROG Strix G16 🔗 | Intel | ❌ | 5060 / 8 GB | 16 GB | ⚠️ **512 GB** ᶜ | 2 | **R$ 10.709** | R$ 11.899 |
+| 14 | Acer Nitro V16 | **Ryzen 7** | ✅ | **5070** / 8 GB | 16–32 GB | ⚠️ 512 GB–1 TB ᶜ | 2 | **R$ 11.250** | R$ 12.500 |
+| 18 | Helios Neo 16 🔗 | Intel | ❌ | 5060 / 8 GB | 16 GB | ⚠️ **512 GB** ᶜ | 2 | **R$ 11.781** | R$ 13.090 |
+| 12 | Helios Neo 16 AI 🔗 | Ultra 7 | ❌ | 5070 / 8 GB | 16 GB* | ⚠️ **512 GB** 🔗 | 2 | **R$ 12.150** | R$ 13.500 |
+| 15 | Avell Storm 570 | i9 | ❌ | 5070 / 8 GB | config. | **config.** (base 1 TB) | 2 | **R$ 12.150** | R$ 13.500 |
+| **11** ⭐ | **ASUS TUF A16** | **Ryzen 9** | **✅** | 5070 / 8 GB | 32 GB | **1 TB** ✅ | **2** | **R$ 12.400** | R$ 14.000 |
+| 13 | Helios Neo 16 AI | Ultra 7 | ❌ | 5070 / 8 GB | 16 GB | **1 TB** ✅ | 2 | **R$ 13.050** | R$ 14.500 |
+| **06** 🥇 | **Avell Storm 570 Ti** 🔗 | Ultra 9 | ❌ | **5070 Ti / 12 GB** | config. | **config.** (base 1 TB) | **2** | **R$ 13.949** | R$ 15.499 |
+| 07 | Helios Neo 16 🔗 | Ultra 7/9 | ❌ | 5070 Ti / 12 GB | 16–32 GB | **1 TB** ✅ | 2 | **R$ 15.160** | R$ 16.845 |
+| 08 | Lenovo Legion 5 | Ultra 7 | ❌ | 5070 Ti / 12 GB | 32 GB | **1 TB** ✅ | 2 | **R$ 15.750** | R$ 17.500 |
+| 10 | ROG Strix G16 🔗 | Ultra 9 | ❌ | 5070 / 8 GB | 32 GB | **1 TB** ✅ | 2 | **R$ 16.200** | R$ 17.999 |
+| **09** ⭐ | **Legion 5 AMD** | **Ryzen 9** | **✅** | **5070 Ti / 12 GB** | 32 GB | **1 TB** ✅ | **2** | **R$ 16.200** | R$ 18.000 |
+| **01** 🥈 | **Avell Storm 580** 🔗 | Ultra 9 | ❌ | **5080 / 16 GB** | até 64 GB | **config.** (base 1 TB) | 2 | **R$ 21.599** | R$ 23.999 |
+| 05 | Predator Helios 16 | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **1 TB** ✅ | 2 | **R$ 22.050** | R$ 24.500 |
+| 03 | Legion Pro 7i | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **1 TB** ✅ | 2 | **R$ 22.950** | R$ 25.500 |
+| 02 | ROG Strix SCAR 16 | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **1 TB** ✅ | 2 | **R$ 24.300** | R$ 27.000 |
+| 04 | MSI Raider/Vector | Ultra 9 | ❌ | 5080 / 16 GB | 32 GB | **2 TB** ✅✅ | 2 | **R$ 25.200** | R$ 28.000 |
 
 \* Vem com 16 GB — somar **R$ 700** do upgrade obrigatório para 32 GB.
+
+ᶜ **Confirmar na ficha do anúncio.** O tier de entrada brasileiro costuma sair
+com 512 GB, mas varia por lote e por loja. Estes valores são o padrão do
+segmento, não listagem verificada.
+
+---
+
+## 6.1 ⚠️ Atenção ao armazenamento — seu requisito nº 2
+
+Você pediu **1 ou 2 TB**. A lista se divide assim:
+
+| Armazenamento | Quantos | Quais | Situação |
+|---|:-:|---|---|
+| **2 TB** | 1 | 04 | ✅ Acima do pedido |
+| **1 TB** | 8 | 07, 08, 09, 10, 11, 13, 02, 03, 05 | ✅ Atende |
+| **Configurável** | 3 | 01, 06, 15 (Avell) | ✅ **Você escolhe na compra** |
+| ⚠️ **512 GB** | 7 | 12, 14, 16, 17, 18, 19, 20 | ❌ **Abaixo do pedido** |
+
+### O que isso significa na prática
+
+**Os sete de 512 GB não atendem o seu requisito de fábrica.** Para chegar a
+1 TB, cada um precisa de **+R$ 600** (SSD M.2 de 1 TB). Isso muda o ranking de
+preço:
+
+| # | Modelo | PIX anunciado | +SSD 1 TB | **Custo real** |
+|:-:|---|---:|---:|---:|
+| 16 | RTX 5060 entrada | R$ 8.730 | +R$ 600 | **R$ 9.330** |
+| 20 | Lenovo LOQ | R$ 8.910 | +R$ 600 +R$ 700 (RAM) | **R$ 10.210** |
+| 19 | Acer Nitro V16 | R$ 9.450 | +R$ 600 | **R$ 10.050** |
+| 17 | ROG Strix G16 | R$ 10.709 | +R$ 600 | **R$ 11.309** |
+| 12 | Helios Neo 16 AI | R$ 12.150 | +R$ 600 +R$ 700 (RAM) | **R$ 13.450** |
+
+> **O orçamento 11 (ASUS TUF A16, R$ 12.400) já vem com 32 GB e 1 TB
+> prontos.** Depois de somar os upgrades, o 12 custa R$ 1.050 a mais e ainda é
+> Intel. O 17 fica R$ 1.100 mais barato, mas com 16 GB e GPU inferior.
+
+### Os três configuráveis são a jogada mais inteligente
+
+Os **Avell (01, 06, 15)** deixam você escolher RAM e SSD no pedido. Isso importa
+por três motivos:
+
+1. **Sai mais barato** que comprar a peça depois no varejo brasileiro.
+2. **Mantém a garantia de fábrica** sobre o conjunto — você não abre a máquina.
+3. **Evita o risco** de descobrir na chegada que o slot livre não existe.
+
+**No Storm 570 Ti (orçamento 06), subir de 1 TB para 2 TB na configuração custa
+bem menos que os R$ 600 do SSD avulso.** Peça o orçamento configurado no site
+antes de decidir.
+
 
 ---
 
