@@ -175,13 +175,15 @@ Trazer **peças isoladas** dentro ou perto da cota:
 | **Micro Center** | Melhores preços em CPU e combos CPU+placa; só presencial | [microcenter.com](https://www.microcenter.com/) |
 | **Newegg** | Maior variedade em componentes | [newegg.com](https://www.newegg.com/) |
 | **Amazon** | Entrega rápida, devolução fácil | [amazon.com](https://www.amazon.com/) |
-| **B&H Photo** | Sem sales tax em vários estados | [bhphotovideo.com](https://www.bhphotovideo.com/) |
+| **B&H Photo** | Melhor catálogo de gabinete e fonte. **Cobra sales tax**, mas o cartão **Payboo** devolve o valor exato do imposto como crédito instantâneo | [bhphotovideo.com](https://www.bhphotovideo.com/) |
 | **Best Buy** | Retirada na loja no mesmo dia | [bestbuy.com](https://www.bestbuy.com/) |
 | **ASUS eShop** | Gabinete e periféricos ROG direto de fábrica | [eshop.asus.com](https://eshop.asus.com/us/) |
 
 > 💡 **O combo do Micro Center é a maior economia dos EUA:** comprando CPU +
 > placa-mãe juntos, o desconto típico é de **$50 a $150**. É por isso que a
 > Config A tem uma linha de desconto de combo.
+
+> 📍 **Qual loja para qual peça:** ver o [Guia de Lojas](GUIA-DE-LOJAS.md).
 
 **Rastreadores de preço:** [PCPartPicker](https://pcpartpicker.com/) (monta a
 lista e acompanha o preço de todas as lojas) · [camelcamelcamel](https://camelcamelcamel.com/)
