@@ -1,6 +1,8 @@
 # Projeto Base Móvel — Arquitetura e Orçamento
 
 > Planejamento conceitual de uma base móvel de computação para viagens, desenvolvimento, jogos, IA, servidores e armazenamento local.
+>
+> 💰 **Preços, fontes e planta baixa estão em [`ORCAMENTO-2026.md`](ORCAMENTO-2026.md)** — este documento é a arquitetura; aquele é quanto custa.
 
 ## 1. Visão geral
 
