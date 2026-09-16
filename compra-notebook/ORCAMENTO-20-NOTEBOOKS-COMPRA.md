@@ -4,6 +4,10 @@
 > Este documento traz **20 orçamentos completos** para escolher entre eles —
 > não é uma frota de 20 máquinas.
 >
+> 🇧🇷 **Comprando no Brasil?** Use o [Dossiê de Compra Brasil](ORCAMENTO-20-NOTEBOOKS-BRASIL.md) — preços em reais,
+> varejo nacional e as três rotas de compra. **Não converta os números daqui**: a
+> estrutura de preço brasileira é outra.
+>
 > **Cotação: 16 de setembro de 2026.** Preços em USD, mercado dos EUA.
 > Cada orçamento traz **custo final** (preço + imposto do Texas de 8,25% +
 > frete), garantia, onde comprar e veredito técnico.
