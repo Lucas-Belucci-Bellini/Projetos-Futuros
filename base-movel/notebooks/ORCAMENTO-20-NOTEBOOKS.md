@@ -1,5 +1,8 @@
 # 20 Orçamentos de Notebook — Hermes, IA local e ATM10
 
+> 🛒 **Vai comprar de verdade?** Use o [Dossiê de Compra](../../compra-notebook/ORCAMENTO-20-NOTEBOOKS-COMPRA.md) — os mesmos 20 modelos com custo final (imposto + frete), garantia, timing de
+> Black Friday e matriz de decisão. Este documento aqui é a **seleção técnica**.
+>
 > **Cotação de 15 de setembro de 2026.** Preços em USD, mercado dos EUA.
 > Preço de notebook muda todo dia e varia por loja — **o link é mais importante
 > que o número**. Onde o preço veio de uma listagem específica, está marcado
