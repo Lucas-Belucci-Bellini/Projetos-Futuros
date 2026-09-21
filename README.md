@@ -56,6 +56,8 @@ Material de revisão para prova, com gabarito conferido questão a questão.
 | [`estudos/REVISAO-LPOO.md`](estudos/REVISAO-LPOO.md) | **LPOO / Java** — os 4 pilares ancorados no código real do [FanVerse](https://github.com/Lucas-Belucci-Bellini/FanVerse) e do [Java-activities](https://github.com/Lucas-Belucci-Bellini/Java-activities), com inventário medido dos 103 arquivos `.java` e as lacunas que sobraram | [`pdf/revisao-lpoo.pdf`](pdf/revisao-lpoo.pdf) |
 | [`estudos/REVISAO-SISTEMAS-DIGITAIS.md`](estudos/REVISAO-SISTEMAS-DIGITAIS.md) | **Sistemas Digitais** — Álgebra Booleana, DeMorgan e Mapas de Karnaugh, com as 15 questões resolvidas e gabarito comentado | [`pdf/revisao-sistemas-digitais.pdf`](pdf/revisao-sistemas-digitais.pdf) |
 | [`estudos/LISTA-SISTEMAS-DIGITAIS-2.md`](estudos/LISTA-SISTEMAS-DIGITAIS-2.md) | **Sistemas Digitais — caderno 2** — revisão, as 19 questões da lista para resolver em branco, gabarito comentado com os mapas desenhados e 7 exercícios extras | [`pdf/lista-sistemas-digitais-2.pdf`](pdf/lista-sistemas-digitais-2.pdf) |
+| [`estudos/REVISAO-SD-BOOLEANA-KARNAUGH.md`](estudos/REVISAO-SD-BOOLEANA-KARNAUGH.md) | **Sistemas Digitais — os slides da disciplina** (Álgebra Booleana, 79 lâminas + Mapa de Karnaugh, 78 lâminas) reorganizados em ordem de estudo, com os 9 exercícios propostos resolvidos, o caso do incinerador fechado ponta a ponta, as 10 pegadinhas e um simulado de 15 questões | [`pdf/revisao-sd-booleana-karnaugh.pdf`](pdf/revisao-sd-booleana-karnaugh.pdf) |
+| [`estudos/REVISAO-ALGEBRA-LINEAR.md`](estudos/REVISAO-ALGEBRA-LINEAR.md) | **Álgebra Linear** — os 4 conjuntos de slides (Matrizes I e II, Determinantes, Sistemas Lineares) com **todos os exercícios resolvidos e reconferidos por cálculo independente**, errata dos 3 resultados que não fecham nos slides, e simulado de 20 questões | [`pdf/revisao-algebra-linear.pdf`](pdf/revisao-algebra-linear.pdf) |
 
 ### PDFs
 
@@ -66,11 +68,16 @@ Material de revisão para prova, com gabarito conferido questão a questão.
 - [`pdf/pc-guia-de-lojas.pdf`](pdf/pc-guia-de-lojas.pdf) — onde comprar cada peça nos três países
 - [`pdf/compra-20-notebooks-brasil.pdf`](pdf/compra-20-notebooks-brasil.pdf) — 17 páginas, o dossiê de compra no **Brasil**
 - [`pdf/compra-20-notebooks.pdf`](pdf/compra-20-notebooks.pdf) — 19 páginas, o dossiê de compra do notebook nos **EUA**
+- [`pdf/revisao-algebra-linear.pdf`](pdf/revisao-algebra-linear.pdf) — 30 páginas, Álgebra Linear com errata e simulado
+- [`pdf/revisao-sd-booleana-karnaugh.pdf`](pdf/revisao-sd-booleana-karnaugh.pdf) — 16 páginas, Álgebra Booleana + Mapa de Karnaugh
 
 Gerados por [`scripts/md2pdf.py`](scripts/md2pdf.py) (fpdf2, sem pandoc/LaTeX):
 
 ```bash
 python3 scripts/md2pdf.py pdf/saida.pdf "Título" "Subtítulo" arquivo.md [...]
+
+# a nota de rodapé da capa é configurável (o padrão é a de orçamento, em USD/EUA):
+python3 scripts/md2pdf.py --nota "Material de estudo." pdf/saida.pdf "Título" "Sub" arquivo.md
 ```
 
 ### ⚠️ Contexto de mercado: 2026 é um ano ruim para comprar

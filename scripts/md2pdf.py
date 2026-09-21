@@ -57,10 +57,20 @@ def inline(text):
     return clean(text).strip()
 
 
+# Nota de rodape da capa. Documentos de orcamento usam a padrao; os de
+# estudo passam a sua com --nota (ou "" para nenhuma).
+NOTA_ORCAMENTO = (
+    "Cotação de 15 de setembro de 2026 — preços em USD, mercado dos EUA.\n"
+    "Preços de hardware mudam diariamente: confira o link da fonte "
+    "antes de comprar.\n\nProjetos-Futuros / base-movel"
+)
+
+
 class Doc(FPDF):
-    def __init__(self, title, subtitle):
+    def __init__(self, title, subtitle, cover_note=NOTA_ORCAMENTO):
         super().__init__(format="A4")
         self.doc_title, self.doc_subtitle = title, subtitle
+        self.cover_note = cover_note
         self.cover_page = 1
         self.set_margins(MARGIN, 18, MARGIN)
         self.set_auto_page_break(True, margin=18)
@@ -111,13 +121,9 @@ class Doc(FPDF):
         self.set_text_color(*MUTED)
         self.multi_cell(CONTENT_W, 6.5, clean(self.doc_subtitle), align="L")
         self.ln(14)
-        self.set_font("dv", "", 9)
-        self.multi_cell(
-            CONTENT_W, 5,
-            "Cotação de 15 de setembro de 2026 — preços em USD, mercado dos EUA.\n"
-            "Preços de hardware mudam diariamente: confira o link da fonte "
-            "antes de comprar.\n\nProjetos-Futuros / base-movel",
-            align="L")
+        if self.cover_note:
+            self.set_font("dv", "", 9)
+            self.multi_cell(CONTENT_W, 5, clean(self.cover_note), align="L")
         self.set_text_color(*INK)
         self.cover_page = self.page_no()
 
@@ -387,8 +393,14 @@ def render(pdf, md):
 
 
 def main():
-    out, title, subtitle, *sources = sys.argv[1:]
-    pdf = Doc(title, subtitle)
+    args = sys.argv[1:]
+    nota = NOTA_ORCAMENTO
+    if "--nota" in args:
+        i = args.index("--nota")
+        nota = args[i + 1]
+        del args[i:i + 2]
+    out, title, subtitle, *sources = args
+    pdf = Doc(title, subtitle, nota)
     pdf.make_cover()
     for n, src in enumerate(sources):
         text = Path(src).read_text(encoding="utf-8")
