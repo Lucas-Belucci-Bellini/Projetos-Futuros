@@ -702,3 +702,509 @@ public class CalculadoraAluguel {
 ```
 
 *Para gerar a documentação em HTML no IntelliJ IDEA, acesse:* `Tools > Generate Javadoc`.
+
+```python
+content = """# Material de Revisão: Análise e Projeto de Algoritmos
+## Depuração, Testes de Mesa, Tipos de Erros e Documentação de Código
+
+---
+
+## 1. Fundamentos e Representação de Algoritmos
+
+Um **algoritmo** é uma sequência lógica, finita e bem definida de instruções para resolver um problema ou realizar uma tarefa. O fluxo de trabalho de um desenvolvedor engloba compreender o problema, planejar a solução, escrever o código, testar, depurar, documentar e revisar.
+
+### Estruturas Básicas de um Algoritmo
+Todo algoritmo é construído combinando três estruturas fundamentais:
+1. **Sequência:** Execução linear de instruções passo a passo, de cima para baixo.
+2. **Seleção (Condicionais):** Tomada de decisões com base em condições booleanas (`se / senão` ou `if / else`).
+3. **Repetição (Laços/Loops):** Execução repetida de um bloco de código enquanto ou para determinada condição (`para`, `enquanto` ou `for`, `while`).
+
+### Formas de Representação
+* **Pseudocódigo:** Descrição estruturada do algoritmo em linguagem simples próxima da linguagem humana.
+* **Fluxograma:** Representação gráfica e visual do fluxo de execução por meio de formas geométricas padronizadas.
+
+---
+
+## 2. Teste de Mesa (Dry Run)
+
+O **teste de mesa** é uma técnica manual para simular a execução de um algoritmo usando papel e caneta (ou tabela). O objetivo é rastrear linha a linha o valor das variáveis e as saídas a cada instrução, permitindo validar a lógica e identificar erros antes da execução no computador.
+
+---
+
+### Exercício 1: Condicional e Reatribuição de Variáveis
+Dado o pseudocódigo abaixo:
+
+```text
+inicio
+    a, b, c, d : inteiro;
+    a ← 1;
+    b ← 3;
+    se (a + b >= 5) então:
+        c ← 10;
+    senão:
+        c ← 30;
+    fimse;
+    d ← a + b;
+    a ← c;
+    b ← d;
+    escreva(a, b, c, d);
+fim
+
+```
+
+#### Resolução Passo a Passo (Tabela do Teste de Mesa):
+
+| Passo | Linha / Instrução | `a` | `b` | `c` | `d` | Condição (`a + b >= 5`) | Observação |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **1** | `a ← 1; b ← 3;` | 1 | 3 | - | - | - | Inicialização de variáveis |
+| **2** | `se (a + b >= 5)` | 1 | 3 | - | - | `1 + 3 = 4 >= 5` (**Falso**) | Desvia para o bloco `senão` |
+| **3** | `c ← 30;` | 1 | 3 | 30 | - | - | Atribuição dentro do `senão` |
+| **4** | `d ← a + b;` | 1 | 3 | 30 | 4 | - | `d = 1 + 3 = 4` |
+| **5** | `a ← c;` | 30 | 3 | 30 | 4 | - | `a` recebe o valor de `c` (30) |
+| **6** | `b ← d;` | 30 | 4 | 30 | 4 | - | `b` recebe o valor de `d` (4) |
+| **7** | `escreva(...)` | **30** | **4** | **30** | **4** | - | Impressão final |
+
+**Resultado impresso:** `30, 4, 30, 4`
+
+---
+
+### Exercício 2: Laço Acumulador (`para`)
+
+Dado o pseudocódigo abaixo:
+
+```text
+total ← 0
+para (i ← 0; i < 3; i++):
+    total ← total + i + 1
+imprimir(total)
+
+```
+
+#### Resolução Passo a Passo:
+
+| Iteração | `i` | Condição (`i < 3`) | Operação (`total + i + 1`) | Valor Atualizado de `total` |
+| --- | --- | --- | --- | --- |
+| **Início** | - | - | - | 0 |
+| **1ª** | 0 | $0 < 3$ (**V**) | $0 + 0 + 1 = 1$ | **1** |
+| **2ª** | 1 | $1 < 3$ (**V**) | $1 + 1 + 1 = 3$ | **3** |
+| **3ª** | 2 | $2 < 3$ (**V**) | $3 + 2 + 1 = 6$ | **6** |
+| **Fim** | 3 | $3 < 3$ (**F**) | Laço encerrado | **Saída:** `6` |
+
+---
+
+### Exercício 3: Laço com Filtro Condicional (`mod`)
+
+Dado o pseudocódigo abaixo:
+
+```text
+total ← 0
+para (i ← 1; i <= 5; i++):
+    se (i mod 2 == 0) então
+        total ← total + i
+imprimir(total)
+
+```
+
+#### Resolução Passo a Passo:
+
+| Passo | `i` | Condição (`i <= 5`) | `i mod 2 == 0` (Par?) | Ação em `total` | Valor de `total` |
+| --- | --- | --- | --- | --- | --- |
+| **1** | - | - | - | Inicialização | 0 |
+| **2** | 1 | Verdadeiro | $1 \bmod 2 = 1$ (**Falso**) | Não altera | 0 |
+| **3** | 2 | Verdadeiro | $2 \bmod 2 = 0$ (**Verdadeiro**) | `total` $\leftarrow 0 + 2$ | **2** |
+| **4** | 3 | Verdadeiro | $3 \bmod 2 = 1$ (**Falso**) | Não altera | 2 |
+| **5** | 4 | Verdadeiro | $4 \bmod 2 = 0$ (**Verdadeiro**) | `total` $\leftarrow 2 + 4$ | **6** |
+| **6** | 5 | Verdadeiro | $5 \bmod 2 = 1$ (**Falso**) | Não altera | 6 |
+| **7** | 6 | Falso | - | Encerra laço | **Saída:** `6` |
+
+---
+
+### Exercício 4: Laços Aninhados (Nested Loops)
+
+Dado o pseudocódigo abaixo:
+
+```text
+total ← 0
+para (i ← 1; i <= 3; i++):
+    para (j ← 1; j <= i; j++):
+        total ← total + j
+imprimir(total)
+
+```
+
+#### Resolução Passo a Passo:
+
+| Laço Externo (`i`) | Laço Interno (`j`) | Condição (`j <= i`) | Cálculo (`total + j`) | Novo `total` |
+| --- | --- | --- | --- | --- |
+| - | - | - | Estado Inicial | 0 |
+| **i = 1** | j = 1 | $1 \le 1$ (**V**) | $0 + 1$ | **1** |
+|  | j = 2 | $2 \le 1$ (**F**) | Sai do laço interno | 1 |
+| **i = 2** | j = 1 | $1 \le 2$ (**V**) | $1 + 1$ | **2** |
+|  | j = 2 | $2 \le 2$ (**V**) | $2 + 2$ | **4** |
+|  | j = 3 | $3 \le 2$ (**F**) | Sai do laço interno | 4 |
+| **i = 3** | j = 1 | $1 \le 3$ (**V**) | $4 + 1$ | **5** |
+|  | j = 2 | $2 \le 3$ (**V**) | $5 + 2$ | **7** |
+|  | j = 3 | $3 \le 3$ (**V**) | $7 + 3$ | **10** |
+|  | j = 4 | $4 \le 3$ (**F**) | Sai do laço interno | 10 |
+| **i = 4** | - | $4 \le 3$ (**F**) | Encerra programa | **Saída:** `10` |
+
+---
+
+## 3. Tipos de Erros em Programação
+
+| Tipo de Erro | Quando Ocorre? | Características | Exemplo |
+| --- | --- | --- | --- |
+| **Erro de Sintaxe** | Antes / Compilação | Violação das regras gramaticais da linguagem. A IDE/Compilador bloqueia a execução. | Esquecer ponto e vírgula `;`, parênteses desalinhados ou palavras reservadas incorretas. |
+| **Erro de Execução (Runtime)** | Durante a Execução | O código compila, mas aborta abruptamente lançando uma exceção durante o uso. | Divisão por zero (`ArithmeticException`), ponteiro nulo (`NullPointerException`) ou estouro de vetor (`ArrayIndexOutOfBoundsException`). |
+| **Erro de Lógica** | Durante a Execução | O programa executa normalmente do início ao fim sem quebrar, porém gera um resultado **incorreto**. | Aplicar desconto apenas para `dias < 10` em vez de `dias >= 10`. |
+
+---
+
+## 4. Depuração de Código (Debugging)
+
+Depurar é o processo sistemático de localizar, analisar e corrigir falhas ou comportamentos indesejados no software.
+
+### Principais Comandos do Depurador (Ex: IntelliJ IDEA)
+
+```
+   [ Linha Atual do Breakpoint ]
+                │
+                ├───── Step Over (F8) ───────► Executa a linha atual sem entrar em métodos.
+                │
+                ├───── Step Into (F7) ───────► Entra no método chamado na linha atual.
+                │
+                └───── Step Out (Shift+F8) ──► Finaliza o método atual e retorna ao chamador.
+
+```
+
+### Recursos Importantes:
+
+* **Breakpoint:** Ponto de parada configurado pelo desenvolvedor para suspender a execução do programa em determinada linha.
+* **Conditional Breakpoint:** Breakpoint acionado apenas quando uma expressão booleana for satisfeita (ex: `i == 50`).
+* **Evaluate Expression (`Alt + F8`):** Janela interativa para testar expressões, operações matematicas ou inspecionar objetos durante a pausa sem alterar o código original.
+* **Rubber Duck Debugging (Técnica do Pato de Borracha):** Método de depuração conceitual que consiste em explicar a lógica do código linha por linha para um objeto inanimado ou colega.
+
+---
+
+## 5. Documentação de Código e Javadoc
+
+Documentar o código reduz o tempo de manutenção, evita regressões de bugs, facilita a integração de novos membros da equipe e otimiza o uso de assistentes de inteligência artificial.
+
+### Boas Práticas: Documentação Útil vs. Inútil
+
+* **Evite o óbvio:** Não reescreva o código em português (ex: `x++; // incrementa x`). Use nomes limpos e expressivos para métodos e variáveis.
+* **Documente intenções:** Explique o **porquê** de regras de negócio, precondições, pós-condições e limitações.
+
+### Padrão Javadoc (Java)
+
+Formato de documentação oficial da linguagem Java. Os blocos iniciam por `/**` e terminam por `*/`.
+
+```java
+/**
+ * Realiza o cálculo do valor final de uma locação de veículo.
+ *
+ * @author Equipe de Desenvolvimento
+ * @version 1.0
+ */
+public class ProcessadorDeLocacao {
+
+    /**
+     * Calcula o custo total com base na diária e no número de dias.
+     * Aplica 10% de desconto para locações de 10 dias ou mais.
+     *
+     * @param valorDiaria O valor individual por dia contratado (deve ser maior que zero).
+     * @param dias A quantidade total de dias de locação.
+     * @return O valor total final com desconto aplicado se elegível.
+     * @throws IllegalArgumentException se valorDiaria ou dias forem menores ou iguais a zero.
+     */
+    public double calcularTotal(double valorDiaria, int dias) {
+        if (valorDiaria <= 0 || dias <= 0) {
+            throw new IllegalArgumentException("Valor da diária e dias devem ser positivos.");
+        }
+        
+        double total = valorDiaria * dias;
+        if (dias >= 10) {
+            total *= 0.90; // 10% de desconto
+        }
+        return total;
+    }
+}
+
+```
+
+*Gerando Javadoc no IntelliJ:* Menu `Tools` > `Generate JavaDoc...`.
+
+---
+
+## 6. Checklist de Preparação para Avaliações
+
+* [x] Sei montar a tabela completa de um Teste de Mesa?
+* [x] Consigo diferenciar Erros de Sintaxe, Execução e Lógica?
+* [x] Conheço as teclas de atalho de depuração no IntelliJ (`F7`, `F8`, `Shift+F8`)?
+* [x] Sei para que serve um Breakpoint Condicional e a ferramenta Evaluate Expression?
+* [x] Sei aplicar as tags Javadoc (`@param`, `@return`, `@throws`, `@author`, `@version`)?
+"""
+
+with open("revisao_algoritmos_depuracao.md", "w", encoding="utf-8") as f:
+f.write(content)
+
+print("Arquivo revisao_algoritmos_depuracao.md criado com sucesso!")
+
+```
+
+```text?code_stdout&code_event_index=1
+Arquivo revisao_algoritmos_depuracao.md criado com sucesso!
+
+
+```
+
+Sim, o arquivo em Markdown foi gerado e estruturado com todo o conteúdo de revisão, incluindo tabelas completas para os testes de mesa, explicações sobre os tipos de erro, atalhos do depurador no IntelliJ e o padrão Javadoc.
+
+O arquivo **`revisao_algoritmos_depuracao.md`** foi criado. Segue o conteúdo completo do arquivo:
+
+```markdown
+# Material de Revisão: Análise e Projeto de Algoritmos
+## Depuração, Testes de Mesa, Tipos de Erros e Documentação de Código
+
+---
+
+## 1. Fundamentos e Representação de Algoritmos
+
+Um **algoritmo** é uma sequência lógica, finita e bem definida de instruções para resolver um problema ou realizar uma tarefa. O fluxo de trabalho de um desenvolvedor engloba compreender o problema, planejar a solução, escrever o código, testar, depurar, documentar e revisar.
+
+### Estruturas Básicas de um Algoritmo
+Todo algoritmo é construído combinando três estruturas fundamentais:
+1. **Sequência:** Execução linear de instruções passo a passo, de cima para baixo.
+2. **Seleção (Condicionais):** Tomada de decisões com base em condições booleanas (`se / senão` ou `if / else`).
+3. **Repetição (Laços/Loops):** Execução repetida de um bloco de código enquanto ou para determinada condição (`para`, `enquanto` ou `for`, `while`).
+
+### Formas de Representação
+* **Pseudocódigo:** Descrição estruturada do algoritmo em linguagem simples próxima da linguagem humana.
+* **Fluxograma:** Representação gráfica e visual do fluxo de execução por meio de formas geométricas padronizadas.
+
+---
+
+## 2. Teste de Mesa (Dry Run)
+
+O **teste de mesa** é uma técnica manual para simular a execução de um algoritmo usando papel e caneta (ou tabela). O objetivo é rastrear linha a linha o valor das variáveis e as saídas a cada instrução, permitindo validar a lógica e identificar erros antes da execução no computador.
+
+---
+
+### Exercício 1: Condicional e Reatribuição de Variáveis
+Dado o pseudocódigo abaixo:
+
+```text
+inicio
+    a, b, c, d : inteiro;
+    a ← 1;
+    b ← 3;
+    se (a + b >= 5) então:
+        c ← 10;
+    senão:
+        c ← 30;
+    fimse;
+    d ← a + b;
+    a ← c;
+    b ← d;
+    escreva(a, b, c, d);
+fim
+
+```
+
+#### Resolução Passo a Passo (Tabela do Teste de Mesa):
+
+| Passo | Linha / Instrução | `a` | `b` | `c` | `d` | Condição (`a + b >= 5`) | Observação |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **1** | `a ← 1; b ← 3;` | 1 | 3 | - | - | - | Inicialização de variáveis |
+| **2** | `se (a + b >= 5)` | 1 | 3 | - | - | `1 + 3 = 4 >= 5` (**Falso**) | Desvia para o bloco `senão` |
+| **3** | `c ← 30;` | 1 | 3 | 30 | - | - | Atribuição dentro do `senão` |
+| **4** | `d ← a + b;` | 1 | 3 | 30 | 4 | - | `d = 1 + 3 = 4` |
+| **5** | `a ← c;` | 30 | 3 | 30 | 4 | - | `a` recebe o valor de `c` (30) |
+| **6** | `b ← d;` | 30 | 4 | 30 | 4 | - | `b` recebe o valor de `d` (4) |
+| **7** | `escreva(...)` | **30** | **4** | **30** | **4** | - | Impressão final |
+
+**Resultado impresso:** `30, 4, 30, 4`
+
+---
+
+### Exercício 2: Laço Acumulador (`para`)
+
+Dado o pseudocódigo abaixo:
+
+```text
+total ← 0
+para (i ← 0; i < 3; i++):
+    total ← total + i + 1
+imprimir(total)
+
+```
+
+#### Resolução Passo a Passo:
+
+| Iteração | `i` | Condição (`i < 3`) | Operação (`total + i + 1`) | Valor Atualizado de `total` |
+| --- | --- | --- | --- | --- |
+| **Início** | - | - | - | 0 |
+| **1ª** | 0 | $0 < 3$ (**V**) | $0 + 0 + 1 = 1$ | **1** |
+| **2ª** | 1 | $1 < 3$ (**V**) | $1 + 1 + 1 = 3$ | **3** |
+| **3ª** | 2 | $2 < 3$ (**V**) | $3 + 2 + 1 = 6$ | **6** |
+| **Fim** | 3 | $3 < 3$ (**F**) | Laço encerrado | **Saída:** `6` |
+
+---
+
+### Exercício 3: Laço com Filtro Condicional (`mod`)
+
+Dado o pseudocódigo abaixo:
+
+```text
+total ← 0
+para (i ← 1; i <= 5; i++):
+    se (i mod 2 == 0) então
+        total ← total + i
+imprimir(total)
+
+```
+
+#### Resolução Passo a Passo:
+
+| Passo | `i` | Condição (`i <= 5`) | `i mod 2 == 0` (Par?) | Ação em `total` | Valor de `total` |
+| --- | --- | --- | --- | --- | --- |
+| **1** | - | - | - | Inicialização | 0 |
+| **2** | 1 | Verdadeiro | $1 \bmod 2 = 1$ (**Falso**) | Não altera | 0 |
+| **3** | 2 | Verdadeiro | $2 \bmod 2 = 0$ (**Verdadeiro**) | `total` $\leftarrow 0 + 2$ | **2** |
+| **4** | 3 | Verdadeiro | $3 \bmod 2 = 1$ (**Falso**) | Não altera | 2 |
+| **5** | 4 | Verdadeiro | $4 \bmod 2 = 0$ (**Verdadeiro**) | `total` $\leftarrow 2 + 4$ | **6** |
+| **6** | 5 | Verdadeiro | $5 \bmod 2 = 1$ (**Falso**) | Não altera | 6 |
+| **7** | 6 | Falso | - | Encerra laço | **Saída:** `6` |
+
+---
+
+### Exercício 4: Laços Aninhados (Nested Loops)
+
+Dado o pseudocódigo abaixo:
+
+```text
+total ← 0
+para (i ← 1; i <= 3; i++):
+    para (j ← 1; j <= i; j++):
+        total ← total + j
+imprimir(total)
+
+```
+
+#### Resolução Passo a Passo:
+
+| Laço Externo (`i`) | Laço Interno (`j`) | Condição (`j <= i`) | Cálculo (`total + j`) | Novo `total` |
+| --- | --- | --- | --- | --- |
+| - | - | - | Estado Inicial | 0 |
+| **i = 1** | j = 1 | $1 \le 1$ (**V**) | $0 + 1$ | **1** |
+|  | j = 2 | $2 \le 1$ (**F**) | Sai do laço interno | 1 |
+| **i = 2** | j = 1 | $1 \le 2$ (**V**) | $1 + 1$ | **2** |
+|  | j = 2 | $2 \le 2$ (**V**) | $2 + 2$ | **4** |
+|  | j = 3 | $3 \le 2$ (**F**) | Sai do laço interno | 4 |
+| **i = 3** | j = 1 | $1 \le 3$ (**V**) | $4 + 1$ | **5** |
+|  | j = 2 | $2 \le 3$ (**V**) | $5 + 2$ | **7** |
+|  | j = 3 | $3 \le 3$ (**V**) | $7 + 3$ | **10** |
+|  | j = 4 | $4 \le 3$ (**F**) | Sai do laço interno | 10 |
+| **i = 4** | - | $4 \le 3$ (**F**) | Encerra programa | **Saída:** `10` |
+
+---
+
+## 3. Tipos de Erros em Programação
+
+| Tipo de Erro | Quando Ocorre? | Características | Exemplo |
+| --- | --- | --- | --- |
+| **Erro de Sintaxe** | Antes / Compilação | Violação das regras gramaticais da linguagem. A IDE/Compilador bloqueia a execução. | Esquecer ponto e vírgula `;`, parênteses desalinhados ou palavras reservadas incorretas. |
+| **Erro de Execução (Runtime)** | Durante a Execução | O código compila, mas aborta abruptamente lançando uma exceção durante o uso. | Divisão por zero (`ArithmeticException`), ponteiro nulo (`NullPointerException`) ou estouro de vetor (`ArrayIndexOutOfBoundsException`). |
+| **Erro de Lógica** | Durante a Execução | O programa executa normalmente do início ao fim sem quebrar, porém gera um resultado **incorreto**. | Aplicar desconto apenas para `dias < 10` em vez de `dias >= 10`. |
+
+---
+
+## 4. Depuração de Código (Debugging)
+
+Depurar é o processo sistemático de localizar, analisar e corrigir falhas ou comportamentos indesejados no software.
+
+### Principais Comandos do Depurador (Ex: IntelliJ IDEA)
+
+```
+   [ Linha Atual do Breakpoint ]
+                │
+                ├───── Step Over (F8) ───────► Executa a linha atual sem entrar em métodos.
+                │
+                ├───── Step Into (F7) ───────► Entra no método chamado na linha atual.
+                │
+                └───── Step Out (Shift+F8) ──► Finaliza o método atual e retorna ao chamador.
+
+```
+
+### Recursos Importantes:
+
+* **Breakpoint:** Ponto de parada configurado pelo desenvolvedor para suspender a execução do programa em determinada linha.
+* **Conditional Breakpoint:** Breakpoint acionado apenas quando uma expressão booleana for satisfeita (ex: `i == 50`).
+* **Evaluate Expression (`Alt + F8`):** Janela interativa para testar expressões, operações matemáticas ou inspecionar objetos durante a pausa sem alterar o código original.
+* **Rubber Duck Debugging (Técnica do Pato de Borracha):** Método de depuração conceitual que consiste em explicar a lógica do código linha por linha para um objeto inanimado ou colega.
+
+---
+
+## 5. Documentação de Código e Javadoc
+
+Documentar o código reduz o tempo de manutenção, evita regressões de bugs, facilita a integração de novos membros da equipe e otimiza o uso de assistentes de inteligência artificial.
+
+### Boas Práticas: Documentação Útil vs. Inútil
+
+* **Evite o óbvio:** Não reescreva o código em português (ex: `x++; // incrementa x`). Use nomes limpos e expressivos para métodos e variáveis.
+* **Documente intenções:** Explique o **porquê** de regras de negócio, precondições, pós-condições e limitations.
+
+### Padrão Javadoc (Java)
+
+Formato de documentação oficial da linguagem Java. Os blocos iniciam por `/**` e terminam por `*/`.
+
+```java
+/**
+ * Realiza o cálculo do valor final de uma locação de veículo.
+ *
+ * @author Equipe de Desenvolvimento
+ * @version 1.0
+ */
+public class ProcessadorDeLocacao {
+
+    /**
+     * Calcula o custo total com base na diária e no número de dias.
+     * Aplica 10% de desconto para locações de 10 dias ou mais.
+     *
+     * @param valorDiaria O valor individual por dia contratado (deve ser maior que zero).
+     * @param dias A quantidade total de dias de locação.
+     * @return O valor total final com desconto aplicado se elegível.
+     * @throws IllegalArgumentException se valorDiaria ou dias forem menores ou iguais a zero.
+     */
+    public double calcularTotal(double valorDiaria, int dias) {
+        if (valorDiaria <= 0 || dias <= 0) {
+            throw new IllegalArgumentException("Valor da diária e dias devem ser positivos.");
+        }
+        
+        double total = valorDiaria * dias;
+        if (dias >= 10) {
+            total *= 0.90; // 10% de desconto
+        }
+        return total;
+    }
+}
+
+```
+
+*Gerando Javadoc no IntelliJ:* Menu `Tools` > `Generate JavaDoc...`.
+
+---
+
+## 6. Checklist de Preparação para Avaliações
+
+* [x] Sei montar a tabela completa de um Teste de Mesa?
+* [x] Consigo diferenciar Erros de Sintaxe, Execução e Lógica?
+* [x] Conheço as teclas de atalho de depuração no IntelliJ (`F7`, `F8`, `Shift+F8`)?
+* [x] Sei para que serve um Breakpoint Condicional e a ferramenta Evaluate Expression?
+* [x] Sei aplicar as tags Javadoc (`@param`, `@return`, `@throws`, `@author`, `@version`)?
+
+```
+
+Deseja que eu envie/faça o upload deste arquivo **.md** para o seu Google Drive?
+
+```
