@@ -58,6 +58,8 @@ Material de revisão para prova, com gabarito conferido questão a questão.
 | [`estudos/LISTA-SISTEMAS-DIGITAIS-2.md`](estudos/LISTA-SISTEMAS-DIGITAIS-2.md) | **Sistemas Digitais — caderno 2** — revisão, as 19 questões da lista para resolver em branco, gabarito comentado com os mapas desenhados e 7 exercícios extras | [`pdf/lista-sistemas-digitais-2.pdf`](pdf/lista-sistemas-digitais-2.pdf) |
 | [`estudos/REVISAO-SD-BOOLEANA-KARNAUGH.md`](estudos/REVISAO-SD-BOOLEANA-KARNAUGH.md) | **Sistemas Digitais — os slides da disciplina** (Álgebra Booleana, 79 lâminas + Mapa de Karnaugh, 78 lâminas) reorganizados em ordem de estudo, com os 9 exercícios propostos resolvidos, o caso do incinerador fechado ponta a ponta, as 10 pegadinhas e um simulado de 15 questões | [`pdf/revisao-sd-booleana-karnaugh.pdf`](pdf/revisao-sd-booleana-karnaugh.pdf) |
 | [`estudos/REVISAO-ALGEBRA-LINEAR.md`](estudos/REVISAO-ALGEBRA-LINEAR.md) | **Álgebra Linear** — os 4 conjuntos de slides (Matrizes I e II, Determinantes, Sistemas Lineares) com **todos os exercícios resolvidos e reconferidos por cálculo independente**, errata dos 3 resultados que não fecham nos slides, e simulado de 20 questões | [`pdf/revisao-algebra-linear.pdf`](pdf/revisao-algebra-linear.pdf) |
+| [`estudos/LISTA-ALGEBRA-LINEAR.md`](estudos/LISTA-ALGEBRA-LINEAR.md) | **Álgebra Linear — 40 exercícios novos** (não são os dos slides) com a conta inteira passo a passo: operações elementares linha a linha, triangulação, Laplace, cofatores e discussão de sistema com parâmetro | [`pdf/lista-algebra-linear.pdf`](pdf/lista-algebra-linear.pdf) |
+| [`estudos/LISTA-SD-BOOLEANA-KARNAUGH.md`](estudos/LISTA-SD-BOOLEANA-KARNAUGH.md) | **Booleana e Karnaugh — 45 exercícios novos** com resolução passo a passo, mapas K desenhados célula a célula, e os casos em que há **mais de uma solução de custo mínimo** | [`pdf/lista-sd-booleana-karnaugh.pdf`](pdf/lista-sd-booleana-karnaugh.pdf) |
 
 ### PDFs
 
@@ -70,6 +72,8 @@ Material de revisão para prova, com gabarito conferido questão a questão.
 - [`pdf/compra-20-notebooks.pdf`](pdf/compra-20-notebooks.pdf) — 19 páginas, o dossiê de compra do notebook nos **EUA**
 - [`pdf/revisao-algebra-linear.pdf`](pdf/revisao-algebra-linear.pdf) — 30 páginas, Álgebra Linear com errata e simulado
 - [`pdf/revisao-sd-booleana-karnaugh.pdf`](pdf/revisao-sd-booleana-karnaugh.pdf) — 16 páginas, Álgebra Booleana + Mapa de Karnaugh
+- [`pdf/lista-algebra-linear.pdf`](pdf/lista-algebra-linear.pdf) — 25 páginas, 40 exercícios de Álgebra Linear resolvidos
+- [`pdf/lista-sd-booleana-karnaugh.pdf`](pdf/lista-sd-booleana-karnaugh.pdf) — 20 páginas, 45 exercícios de Booleana/Karnaugh resolvidos
 
 Gerados por [`scripts/md2pdf.py`](scripts/md2pdf.py) (fpdf2, sem pandoc/LaTeX):
 
