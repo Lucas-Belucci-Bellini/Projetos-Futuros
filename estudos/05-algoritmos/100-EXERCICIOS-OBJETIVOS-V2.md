@@ -443,3 +443,12 @@ D) herança
 
 **Gabarito:** A — Confundir i++ com aumento de 2 ou com pré-incremento.
 
+## 50. Qual sequência mental ajuda quando você esquece uma regra de algoritmo?
+
+A) PEGADINHA → REGRA → TESTE → RESULTADO  
+B) Resultado → chute → sintaxe  
+C) Javadoc → herança → matriz  
+D) Apenas decorar o número da questão
+
+**Gabarito:** A — Recuperar a pegadinha e a regra antes de reconstruir o resultado ajuda a sair do branco.
+
