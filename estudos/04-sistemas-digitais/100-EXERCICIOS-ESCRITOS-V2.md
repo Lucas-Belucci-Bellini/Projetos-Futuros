@@ -200,7 +200,3 @@
 
 **Solução:** XNOR.
 
-## 51. Como validar simplificação?
-
-**Solução:** Comparar saídas com a tabela-verdade..
-
