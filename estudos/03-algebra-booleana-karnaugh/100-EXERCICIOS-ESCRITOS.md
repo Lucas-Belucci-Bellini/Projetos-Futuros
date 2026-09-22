@@ -201,12 +201,3 @@
 ## 50. Faça a tabela XNOR para 00,01,10,11.
 
 **Solução:** 1,0,0,1.
-
-## 51. Explique por que duas células diagonais não formam grupo.
-
-**Solução:** Elas diferem em duas variáveis, não em uma.
-
-## 52. Simplifique A+AB+AB'.
-
-**Solução:** A, pois A absorve os dois termos.
-
