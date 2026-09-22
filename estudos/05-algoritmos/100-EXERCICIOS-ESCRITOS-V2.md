@@ -196,3 +196,7 @@
 
 **Solução:** Confundir i++ com aumento de 2 ou com pré-incremento.
 
+## 50. Como usar recuperação ativa para uma questão de algoritmo?
+
+**Solução:** Identifique a pegadinha, recupere a regra, simule as variáveis passo a passo e só depois confira o resultado.
+
