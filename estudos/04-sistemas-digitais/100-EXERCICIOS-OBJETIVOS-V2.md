@@ -452,12 +452,3 @@ D) determinante
 
 **Gabarito:** B — XNOR
 
-## 51. Como validar simplificação?
-
-A) determinante  
-B) teste de mesa  
-C) Comparar saídas com a tabela-verdade.  
-D) herança
-
-**Gabarito:** C — Comparar saídas com a tabela-verdade.
-
