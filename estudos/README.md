@@ -28,3 +28,12 @@ O material anterior `RESULTADOS-50-EXEMPLOS-I-INCREMENTO.md` continua preservado
 | Sistemas Digitais 2 | `06-sistemas-digitais-2/V2-MEMORIA-SISTEMAS-DIGITAIS-2.md` |
 
 As V2 usam **ERRO → CONSEQUÊNCIA → REGRA → RESULTADO** para favorecer recuperação ativa e reconhecimento de pegadinhas.
+
+
+## Álgebra Linear — V3 para exame
+
+A pasta `01-algebra-linear` possui uma versão V3 da revisão, com foco em pegadinhas, recuperação ativa e algoritmos mentais, além de 100 exercícios:
+
+- `V3-REVISAO-ALGEBRA-LINEAR.md`
+- `100-EXERCICIOS-OBJETIVOS.md` — 50 questões objetivas
+- `100-EXERCICIOS-ESCRITOS.md` — 50 questões discursivas com solução
