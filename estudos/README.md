@@ -37,3 +37,21 @@ A pasta `01-algebra-linear` possui uma versão V3 da revisão, com foco em pegad
 - `V3-REVISAO-ALGEBRA-LINEAR.md`
 - `100-EXERCICIOS-OBJETIVOS.md` — 50 questões objetivas
 - `100-EXERCICIOS-ESCRITOS.md` — 50 questões discursivas com solução
+
+
+## Pacote de preparação para o exame
+
+| Conteúdo | Revisão reforçada | Exercícios |
+|---|---|---|
+| Álgebra Linear | `01-algebra-linear/V3-REVISAO-ALGEBRA-LINEAR.md` | 50 objetivos + 50 escritos |
+| LPOO | `02-lpoo/V3-REVISAO-LPOO.md` | 50 objetivos + 50 escritos |
+| Álgebra Booleana/Karnaugh | `03-algebra-booleana-karnaugh/V3-REVISAO-BOOLEANA-KARNAUGH.md` | 50 objetivos + 50 escritos |
+| Sistemas Digitais | `04-sistemas-digitais/V3-REVISAO-SISTEMAS-DIGITAIS.md` | 50 objetivos + 50 escritos |
+| Algoritmos | `05-algoritmos/V3-REVISAO-ALGORITMOS.md` | 50 objetivos + 50 escritos |
+| Sistemas Digitais 2 | `06-sistemas-digitais-2/V3-REVISAO-SISTEMAS-DIGITAIS-2.md` | 50 objetivos + 50 escritos |
+
+### Método comum das V3
+
+**PEGADINHA → CONSEQUÊNCIA → REGRA → EXEMPLO → RESULTADO**
+
+A proposta é transformar o erro em gatilho de recuperação da regra, em vez de depender de decorar o texto inteiro.
