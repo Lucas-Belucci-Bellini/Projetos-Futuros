@@ -72,7 +72,7 @@ INDEX="$ROOT/PDF-INDEX.md"
       echo "## ${dir#estudos/}"
       seen["$dir"]=1
     fi
-    echo "- [$base]($dir/$pdf)"
+    echo "- [$base](${dir#estudos/}/$pdf)"
   done
 } > "$INDEX"
 
