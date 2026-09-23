@@ -28,25 +28,16 @@ O material anterior \`RESULTADOS-50-EXEMPLOS-I-INCREMENTO.md\` continua preserva
 
 As V2 usam **ERRO → CONSEQUÊNCIA → REGRA → RESULTADO** para favorecer recuperação ativa e reconhecimento de pegadinhas.
 
-## Álgebra Linear — V3 e V4 para exame
-
-A pasta \`01-algebra-linear\` possui a revisão V3, com foco em pegadinhas e recuperação ativa, e a V4, que ensina os cálculos desde o começo:
-
-- \`V3-REVISAO-ALGEBRA-LINEAR.md\`
-- \`V4-APRENDENDO-A-CALCULAR-EXAME.md\`
-- \`100-EXERCICIOS-OBJETIVOS.md\` — 50 questões objetivas
-- \`100-EXERCICIOS-ESCRITOS.md\` — 50 questões discursivas com solução
-
 ## Pacote de preparação para o exame
 
-| Conteúdo | Revisão reforçada | V4 — aprendendo a calcular | Exercícios |
+| Conteúdo | Revisão | V4 — aprendendo a calcular | Guia direcionado |
 |---|---|---|---|
-| Álgebra Linear | \`01-algebra-linear/V3-REVISAO-ALGEBRA-LINEAR.md\` | \`01-algebra-linear/V4-APRENDENDO-A-CALCULAR-EXAME.md\` | 50 objetivos + 50 escritos |
-| LPOO | \`02-lpoo/V3-REVISAO-LPOO.md\` | \`02-lpoo/V4-APRENDENDO-A-CALCULAR-LPOO.md\` | 50 objetivos + 50 escritos |
-| Álgebra Booleana/Karnaugh | \`03-algebra-booleana-karnaugh/V3-REVISAO-BOOLEANA-KARNAUGH.md\` | \`03-algebra-booleana-karnaugh/V4-APRENDENDO-A-CALCULAR-BOOLEANA-KARNAUGH.md\` | 50 objetivos + 50 escritos |
-| Sistemas Digitais | \`04-sistemas-digitais/V3-REVISAO-SISTEMAS-DIGITAIS.md\` | \`04-sistemas-digitais/V4-APRENDENDO-A-CALCULAR-SISTEMAS-DIGITAIS.md\` | 50 objetivos + 50 escritos |
-| Algoritmos | \`05-algoritmos/V3-REVISAO-ALGORITMOS.md\` | \`05-algoritmos/V4-APRENDENDO-A-CALCULAR-ALGORITMOS.md\` | 50 objetivos + 50 escritos |
-| Sistemas Digitais 2 | \`06-sistemas-digitais-2/V3-REVISAO-SISTEMAS-DIGITAIS-2.md\` | \`06-sistemas-digitais-2/V4-APRENDENDO-A-CALCULAR-SISTEMAS-DIGITAIS-2.md\` | 50 objetivos + 50 escritos |
+| Álgebra Linear | \`01-algebra-linear/V3-REVISAO-ALGEBRA-LINEAR.md\` | \`01-algebra-linear/V4-APRENDENDO-A-CALCULAR-EXAME.md\` | \`01-algebra-linear/V5-GUIA-DIRECIONADO-AO-SEU-EXAME.md\` |
+| LPOO | \`02-lpoo/V3-REVISAO-LPOO.md\` | \`02-lpoo/V4-APRENDENDO-A-CALCULAR-LPOO.md\` | — |
+| Álgebra Booleana/Karnaugh | \`03-algebra-booleana-karnaugh/V3-REVISAO-BOOLEANA-KARNAUGH.md\` | \`03-algebra-booleana-karnaugh/V4-APRENDENDO-A-CALCULAR-BOOLEANA-KARNAUGH.md\` | — |
+| Sistemas Digitais | \`04-sistemas-digitais/V3-REVISAO-SISTEMAS-DIGITAIS.md\` | \`04-sistemas-digitais/V4-APRENDENDO-A-CALCULAR-SISTEMAS-DIGITAIS.md\` | — |
+| Algoritmos | \`05-algoritmos/V3-REVISAO-ALGORITMOS.md\` | \`05-algoritmos/V4-APRENDENDO-A-CALCULAR-ALGORITMOS.md\` | — |
+| Sistemas Digitais 2 | \`06-sistemas-digitais-2/V3-REVISAO-SISTEMAS-DIGITAIS-2.md\` | \`06-sistemas-digitais-2/V4-APRENDENDO-A-CALCULAR-SISTEMAS-DIGITAIS-2.md\` | — |
 
 ### Método das V3
 
@@ -56,4 +47,8 @@ A pasta \`01-algebra-linear\` possui a revisão V3, com foco em pegadinhas e rec
 
 **IDENTIFIQUE → FAÇA PASSO A PASSO → REGISTRE O ESTADO → CONFIRA**
 
-As V4 foram feitas para quem olha a questão e pensa “eu ainda não sei fazer a conta”. Em vez de começar pela resposta, elas ensinam a montar a execução e acompanhar cada transformação.
+### Método da V5 direcionada ao exame
+
+**IDENTIFIQUE O TIPO → ESCREVA A PRIMEIRA ETAPA → EXECUTE UMA OPERAÇÃO POR VEZ → JUSTIFIQUE → CONFIRA**
+
+A V5 de Álgebra Linear foi criada para estudar como atacar os três formatos presentes na atividade: escalonamento, inversa por operações elementares e determinante por propriedades.
