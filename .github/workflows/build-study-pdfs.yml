@@ -21,7 +21,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: \${{ github.ref_name }}
+          ref: ${{ github.ref_name }}
 
       - name: Install Pandoc and XeLaTeX
         run: |
@@ -54,4 +54,4 @@ jobs:
             exit 0
           fi
           git commit -m "docs(estudos): gera PDFs das revisoes"
-          git push origin "HEAD:\${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
