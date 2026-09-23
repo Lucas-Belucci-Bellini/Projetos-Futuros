@@ -22,15 +22,15 @@ mapfile -t REVISION_FILES < <(
     sort
 )
 
-if [[ \${#REVISION_FILES[@]} -eq 0 ]]; then
+if [[ ${#REVISION_FILES[@]} -eq 0 ]]; then
   echo "Nenhuma revisão encontrada."
   exit 1
 fi
 
-echo "Encontradas \${#REVISION_FILES[@]} revisões."
+echo "Encontradas ${#REVISION_FILES[@]} revisões."
 
-for md in "\${REVISION_FILES[@]}"; do
-  pdf="\${md%.md}.pdf"
+for md in "${REVISION_FILES[@]}"; do
+  pdf="${md%.md}.pdf"
   echo "Gerando: $pdf"
   pandoc "$md" \
     --from markdown+tex_math_dollars+tex_math_single_backslash \
@@ -45,7 +45,7 @@ done
 
 MASTER="$ROOT/ESTUDOS-REVISOES-COMPLETAS.pdf"
 echo "Gerando pacote completo: $MASTER"
-pandoc "\${REVISION_FILES[@]}" \
+pandoc "${REVISION_FILES[@]}" \
   --from markdown+tex_math_dollars+tex_math_single_backslash \
   --standalone \
   --pdf-engine=xelatex \
@@ -64,12 +64,12 @@ INDEX="$ROOT/PDF-INDEX.md"
   echo "[Baixar/abrir o pacote completo](ESTUDOS-REVISOES-COMPLETAS.pdf)"
   echo
   declare -A seen
-  for md in "\${REVISION_FILES[@]}"; do
+  for md in "${REVISION_FILES[@]}"; do
     dir="$(dirname "$md")"
     base="$(basename "$md" .md)"
     pdf="$base.pdf"
-    if [[ -z "\${seen[$dir]+x}" ]]; then
-      echo "## \${dir#estudos/}"
+    if [[ -z "${seen[$dir]+x}" ]]; then
+      echo "## ${dir#estudos/}"
       seen["$dir"]=1
     fi
     echo "- [$base]($dir/$pdf)"
