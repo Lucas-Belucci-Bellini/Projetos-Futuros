@@ -36,17 +36,17 @@ Seu objetivo não é “adivinhar” x, y e z.
 
 Seu objetivo é transformar o sistema até conseguir:
 
-$
+$$
 x=\text{algum número},\qquad
 y=\text{algum número},\qquad
 z=\text{algum número}
-$
+$$
 
 ## 1.1. Primeiro passo: transformar em matriz aumentada
 
 Pegue os coeficientes de x, y e z e coloque a igualdade separada:
 
-$
+$$
 \left[
 \begin{array}{ccc|c}
 a&b&c&r\\
@@ -54,7 +54,7 @@ d&e&f&s\\
 g&h&i&t
 \end{array}
 \right]
-$
+$$
 
 No seu exame, use os coeficientes exatamente como aparecem no enunciado.
 
@@ -66,23 +66,23 @@ Você quer zerar os números **abaixo dele**.
 
 Pense:
 
-$
+$$
 \begin{bmatrix}
 \boxed{\text{pivô}}&*&*\\
 ?&*&*\\
 ?&*&*
 \end{bmatrix}
-$
+$$
 
 Seu objetivo é:
 
-$
+$$
 \begin{bmatrix}
 \boxed{\text{pivô}}&*&*\\
 0&*&*\\
 0&*&*
 \end{bmatrix}
-$
+$$
 
 ## 1.3. Como escrever a operação
 
@@ -90,17 +90,17 @@ Você não deve escrever somente a matriz seguinte.
 
 Escreva, por exemplo:
 
-$
+$$
 L_2\leftarrow L_2-kL_1
-$
+$$
 
 e faça a conta célula por célula.
 
 Depois:
 
-$
+$$
 L_3\leftarrow L_3-mL_1
-$
+$$
 
 O valor de k ou m é escolhido para fazer o primeiro elemento virar zero.
 
@@ -108,29 +108,29 @@ O valor de k ou m é escolhido para fazer o primeiro elemento virar zero.
 
 Depois que os dois elementos abaixo do primeiro pivô virarem zero, procure o próximo pivô:
 
-$
+$$
 \begin{bmatrix}
 *&*&*\\
 0&\boxed{\text{pivô}}&*\\
 0&?&*
 \end{bmatrix}
-$
+$$
 
 Agora use a segunda linha para zerar o número abaixo do segundo pivô:
 
-$
+$$
 L_3\leftarrow L_3-kL_2
-$
+$$
 
 Seu sistema ficará com o formato:
 
-$
+$$
 \begin{bmatrix}
 *&*&*|*\\
 0&*&*|*\\
 0&0&*|*
 \end{bmatrix}
-$
+$$
 
 Isso é o **escalonamento**.
 
@@ -144,31 +144,31 @@ Comece pela última linha.
 
 Se ela ficar parecida com:
 
-$
+$$
 cz=r
-$
+$$
 
 então:
 
-$
+$$
 z=\frac{r}{c}
-$
+$$
 
 Depois suba uma linha.
 
 Se aparecer:
 
-$
+$$
 by+cz=r
-$
+$$
 
 você já conhece z.
 
 Substitua o valor de z:
 
-$
+$$
 by+c(\text{valor de z})=r
-$
+$$
 
 e descubra y.
 
@@ -190,9 +190,9 @@ Pegue os valores e substitua nas **três equações originais**.
 
 Exemplo genérico:
 
-$
+$$
 2x+y=7
-$
+$$
 
 Se você encontrou algum valor para x e y, substitua.
 
@@ -214,21 +214,21 @@ Na Questão 1, você pode:
 
 ### Trocar linhas
 
-$
+$$
 L_1\leftrightarrow L_2
-$
+$$
 
 ### Multiplicar uma linha por número diferente de zero
 
-$
+$$
 L_1\leftarrow kL_1
-$
+$$
 
 ### Somar múltiplo de uma linha a outra
 
-$
+$$
 L_2\leftarrow L_2-kL_1
-$
+$$
 
 Essas são as três operações elementares.
 
@@ -240,7 +240,7 @@ Use este modelo:
 
 ## Passo 1 — matriz aumentada
 
-$
+$$
 \left[
 \begin{array}{ccc|c}
 &&&\\
@@ -248,17 +248,17 @@ $
 &&&
 \end{array}
 \right]
-$
+$$
 
 ## Passo 2 — operação
 
-$
+$$
 L_2\leftarrow L_2-kL_1
-$
+$$
 
 Matriz nova:
 
-$
+$$
 \left[
 \begin{array}{ccc|c}
 &&&\\
@@ -266,13 +266,13 @@ $
 &&&
 \end{array}
 \right]
-$
+$$
 
 ## Passo 3 — operação
 
-$
+$$
 L_3\leftarrow L_3-mL_1
-$
+$$
 
 Matriz nova.
 
@@ -300,13 +300,13 @@ O método é mecânico.
 
 Pegue a matriz A da questão e coloque a identidade do mesmo tamanho ao lado:
 
-$
+$$
 [A\mid I]
-$
+$$
 
 Para uma matriz 3 × 3:
 
-$
+$$
 \left[
 \begin{array}{ccc|ccc}
 *&*&*&1&0&0\\
@@ -314,13 +314,13 @@ $
 *&*&*&0&0&1
 \end{array}
 \right]
-$
+$$
 
 A matriz da esquerda é seu alvo.
 
 Você quer transformá-la em:
 
-$
+$$
 \left[
 \begin{array}{ccc|ccc}
 1&0&0&*&*&*\\
@@ -328,13 +328,13 @@ $
 0&0&1&*&*&*
 \end{array}
 \right]
-$
+$$
 
 Quando chegar aí:
 
-$
+$$
 \text{lado direito}=A^{-1}
-$
+$$
 
 ---
 
@@ -344,9 +344,9 @@ As operações feitas na esquerda também são feitas na direita.
 
 Se você fizer:
 
-$
+$$
 L_2\leftarrow L_2-2L_1
-$
+$$
 
 tem que aplicar a mesma operação à linha inteira da matriz aumentada.
 
@@ -364,21 +364,21 @@ Você quer produzir:
 
 ### Primeiro pivô
 
-$
+$$
 1\ 0\ 0
-$
+$$
 
 ### Segundo pivô
 
-$
+$$
 0\ 1\ 0
-$
+$$
 
 ### Terceiro pivô
 
-$
+$$
 0\ 0\ 1
-$
+$$
 
 E também precisa zerar os números **acima** dos pivôs.
 
@@ -392,14 +392,14 @@ Por isso a inversa normalmente passa por duas fases:
 
 Você terminou somente quando a esquerda for exatamente:
 
-$
+$$
 I=
 \begin{bmatrix}
 1&0&0\\
 0&1&0\\
 0&0&1
 \end{bmatrix}
-$
+$$
 
 Não basta ter zeros abaixo dos pivôs.
 
@@ -415,15 +415,15 @@ Confira também os zeros acima.
 
 Depois que obter uma candidata a $A^{-1}$, o conceito é:
 
-$
+$$
 A\cdot A^{-1}=I
-$
+$$
 
 Na prova, o método solicitado é por operações elementares, então a própria transformação
 
-$
+$$
 [A|I]\rightarrow[I|A^{-1}]
-$
+$$
 
 já é o desenvolvimento principal.
 
@@ -437,15 +437,15 @@ Aqui você **não quer multiplicar as matrizes**.
 
 A questão já fornece:
 
-$
+$$
 \det(A)=4
-$
+$$
 
 e
 
-$
+$$
 \det(B)=-2
-$
+$$
 
 O truque é transformar o determinante da expressão em uma conta numérica.
 
@@ -455,15 +455,15 @@ O truque é transformar o determinante da expressão em uma conta numérica.
 
 Quando aparecer:
 
-$
+$$
 A^T
-$
+$$
 
 use:
 
-$
+$$
 \det(A^T)=\det(A)
-$
+$$
 
 Então a transposta desaparece do problema do determinante.
 
@@ -473,21 +473,21 @@ Então a transposta desaparece do problema do determinante.
 
 Quando aparecer:
 
-$
+$$
 \det(XY)
-$
+$$
 
 separe:
 
-$
+$$
 \det(XY)=\det(X)\det(Y)
-$
+$$
 
 Para vários fatores:
 
-$
+$$
 \det(XYZ)=\det(X)\det(Y)\det(Z)
-$
+$$
 
 ---
 
@@ -495,21 +495,21 @@ $
 
 Quando aparecer:
 
-$
+$$
 B^2
-$
+$$
 
 pense:
 
-$
+$$
 B^2=B\cdot B
-$
+$$
 
 Portanto:
 
-$
+$$
 \det(B^2)=\det(B)^2
-$
+$$
 
 No seu caso, depois substitua o valor conhecido de $\det(B)$.
 
@@ -519,43 +519,43 @@ No seu caso, depois substitua o valor conhecido de $\det(B)$.
 
 Quando aparecer:
 
-$
+$$
 A^{-1}
-$
+$$
 
 use:
 
-$
+$$
 \det(A^{-1})=\frac{1}{\det(A)}
-$
+$$
 
 E quando aparecer:
 
-$
+$$
 (B^2)^{-1}
-$
+$$
 
 faça em duas etapas:
 
-$
+$$
 \det((B^2)^{-1})
 =
 \frac{1}{\det(B^2)}
-$
+$$
 
 Depois:
 
-$
+$$
 \det(B^2)=\det(B)^2
-$
+$$
 
 Então:
 
-$
+$$
 \det((B^2)^{-1})
 =
 \frac{1}{\det(B)^2}
-$
+$$
 
 ---
 
@@ -563,17 +563,17 @@ $
 
 Na sua expressão existe:
 
-$
+$$
 3\cdot A^T\cdot(B^2)^{-1}\cdot A^{-1}
-$
+$$
 
 A matriz é 3 × 3.
 
 Quando um número multiplica uma matriz 3 × 3:
 
-$
+$$
 \det(kA)=k^3\det(A)
-$
+$$
 
 Portanto, neste tipo de questão, o 3 **não entra simplesmente como 3**.
 
@@ -589,45 +589,45 @@ O tamanho da matriz vira o expoente.
 
 Escreva primeiro:
 
-$
+$$
 \det(M)=
 \det\left(3\cdot A^T\cdot(B^2)^{-1}\cdot A^{-1}\right)
-$
+$$
 
 Depois quebre a expressão:
 
-$
+$$
 \det(M)
 =
 \det(3\cdot \text{parte})
-$
+$$
 
 Como a matriz é 3 × 3:
 
-$
+$$
 =3^3\cdot
 \det(A^T)\cdot
 \det((B^2)^{-1})\cdot
 \det(A^{-1})
-$
+$$
 
 Agora substitua cada pedaço por uma propriedade:
 
-$
+$$
 \det(A^T)\rightarrow\det(A)
-$
+$$
 
-$
+$$
 \det((B^2)^{-1})
 \rightarrow
 \frac{1}{\det(B)^2}
-$
+$$
 
-$
+$$
 \det(A^{-1})
 \rightarrow
 \frac{1}{\det(A)}
-$
+$$
 
 Agora você terá somente números e poderá fazer a conta.
 
@@ -664,9 +664,9 @@ Não tente calcular a inversa por fórmula de cabeça.
 
 Use:
 
-$
+$$
 [A|I]\rightarrow[I|A^{-1}]
-$
+$$
 
 ## Questão 3
 
@@ -706,9 +706,9 @@ A questão fornece justamente os determinantes para você trabalhar pelas propri
 
 **REGRA:**
 
-$
+$$
 \det(3A)=3^3\det(A)
-$
+$$
 
 ---
 
@@ -748,9 +748,9 @@ $
 
 ## Q2 — Inversa
 
-$
+$$
 [A|I]
-$
+$$
 
 ↓
 
@@ -758,9 +758,9 @@ $
 
 ↓
 
-$
+$$
 [I|A^{-1}]
-$
+$$
 
 ---
 
