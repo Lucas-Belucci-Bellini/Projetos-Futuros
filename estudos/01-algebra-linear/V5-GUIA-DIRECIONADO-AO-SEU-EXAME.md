@@ -4,12 +4,7 @@
 
 Fonte da atividade: Exame de Tópicos em Álgebra Linear — conteúdo de Matrizes, Determinantes e Sistemas Lineares. A atividade pede resolução justificada e desenvolvimento passo a passo.
 
-> **Formatação:** as contas abaixo usam `$ ... $` para fórmulas em bloco e `$ ... # Álgebra Linear — V5: Guia Direcionado ao Seu Exame
-
-> Este guia foi montado para estudar a **forma de resolver** exatamente os três tipos de questão que aparecem na atividade de exame. Ele não traz as respostas finais da avaliação; ele mostra o procedimento que você deve executar no papel.
-
- para fórmulas no meio do texto, para renderizar corretamente no GitHub.
-
+> **Formatação:** as contas usam `$$ ... $$` para fórmulas em bloco e `$ ... $` para fórmulas no meio do texto, para renderizar corretamente no GitHub.
 ---
 
 # 0. O que a sua prova está cobrando
