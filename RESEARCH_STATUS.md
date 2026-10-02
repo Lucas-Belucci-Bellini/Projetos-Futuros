@@ -35,6 +35,11 @@ O índice oficial consultado contém 58 sub-seções/localizações no recorte 0
 
 Registro completo: docs/SUBLEVEL_REGISTRY.md
 
+## Catálogo transversal
+
+- `docs/ENTITY_BASE_CATALOG_0_99.md` agora reúne as seções de Entidades e Bases/Instalações dos 100 níveis principais e das 26 sub-seções que já possuem arquivo dedicado.
+- O catálogo é derivado dos próprios Markdown e não substitui a ficha individual.
+
 ## Mídia
 Catálogos existentes:
 - 11–15.

@@ -1616,3 +1616,22 @@ A página associa o estúdio a Ralph, descrito como a entidade responsável pela
 #### Bases / comunidades / instalações
 O próprio estúdio funciona como instalação de comunicação.
 
+
+## Sub-seções documentadas — lote final
+
+### Office Space EL3A
+**Arquivo:** levels/office-space-el3a.md
+
+#### Entidades
+Nenhuma população de entidade nativa específica é definida como característica própria de EL3A na ficha histórica. Visitantes e entidades do Level 2 podem atravessar o local.
+
+#### Bases / comunidades / instalações
+### B.N.T.G. EL3A
+O posto abriga aproximadamente 30 membros segundo a página histórica consultada.
+
+Funções:
+- armazenamento de suprimentos;
+- triagem e organização de objetos;
+- distribuição para comunidades;
+- waypoint para viajantes do Level 2.
+

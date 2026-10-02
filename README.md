@@ -58,7 +58,8 @@ A licença da página não deve ser assumida como licença de todas as imagens i
 │   ├── LEVEL_CONNECTIVITY_GRAPH.md
 │   ├── SUBLEVEL_REGISTRY.md
 │   ├── SECOND_PASS_GAPS.md
-│   └── IMAGE_CATALOG_*.md
+│   ├── IMAGE_CATALOG_*.md
+    │   └── ENTITY_BASE_CATALOG_0_99.md
 ├── levels/
 │   ├── level-00.md
 │   ├── ...
