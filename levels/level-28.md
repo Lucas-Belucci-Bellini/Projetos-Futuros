@@ -1,26 +1,20 @@
 # Level 28 — Final Virtue
 
-## Metadados
-- **Número:** 28
-- **Título:** Final Virtue
-- **Estado editorial em 2026-10-01:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-28
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 28
+- Título: Final Virtue
+- Estado: current
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Visão geral
+## Aparência
+Campos gramados sob céu permanentemente nublado, sem chuva observada. Não há Sol ou Lua visíveis; a iluminação vem de um brilho azulado.
 
-O Level 28 é estruturado em torno de um território com clima hostil, uma fortificação central e fenômenos periódicos associados a tempestades e estruturas megalíticas.
+A região central mais segura possui aproximadamente 13,5 km de extensão. Montanhas cercam essa área.
 
-## Stormstone Circle
-
-Aproximadamente 1,6 km da fortificação existe um círculo composto por seis pedras verticais.
-
-Cada pedra possui:
-- uma runa;
-- uma descrição associada a uma virtude ou conceito.
-
-Os registros atuais relacionam as seis pedras a:
+## Estrutura
+### Stormstone Circle
+Círculo de seis pedras associado a:
 - Prudence;
 - Hope;
 - Faith;
@@ -28,42 +22,30 @@ Os registros atuais relacionam as seis pedras a:
 - Justice;
 - Charity.
 
-## Reconstrução
+### Stormstone Keep
+Fortificação central e principal estrutura habitável documentada.
 
-Quando danificadas de maneira significativa, as pedras recuperam parcialmente sua integridade sem observação direta do processo.
+### Living Abyss
+Região escura e anômala que avança pelas áreas montanhosas em direção ao centro.
 
-Elas não voltam necessariamente ao estado original.
+## Entidades
+A página registra **Blue Knight/Temperance** como entidade residente confirmada. Outras entidades que entram por no-clip podem ter comportamento diferente do habitual dentro do nível.
 
-## Raios
+## Recursos
+A fortificação fornece infraestrutura de abrigo. Outros recursos dependem das áreas exploradas.
 
-Descargas elétricas atingem sete zonas localizadas ao redor da área segura.
+## Bases
+### Stormstone Keep
+Principal instalação permanente documentada. Funciona como ponto de abrigo e referência.
 
-Os impactos acontecem em intervalos regulares de aproximadamente uma hora.
+## Entradas
+A conectividade exata deve ser extraída da página completa e mantida separada de arquivos narrativos.
 
-Essa regularidade permite usar os raios como sistema de contagem temporal.
+## Saídas
+A página contém registros narrativos e documentação sobre uma saída, mas os métodos precisam ser mantidos como informação da obra, não como instruções práticas.
 
-## Ciclo diário
+## Mídia
+A página contém imagens do Keep, Stormstone Circle, montanhas e Living Abyss. Licença individual deve ser catalogada.
 
-Vinte e quatro descargas correspondem aproximadamente a um “dia” percebido pelos habitantes.
-
-## Ameaças
-
-O artigo documenta perigos ambientais e fenômenos capazes de afetar fisicamente pessoas expostas por longos períodos.
-
-## Importância narrativa
-
-Level 28 possui uma das documentações mais extensas entre os Levels iniciais, com:
-- história;
-- estruturas;
-- eventos;
-- fenômenos;
-- comunidades;
-- arquivos de exploração.
-
-## Estado da pesquisa
-
-Primeira expansão estrutural concluída. Este Level exigirá uma segunda passagem própria devido ao grande volume da página.
-
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+## Auditoria
+Level 28 possui grande quantidade de arquivos narrativos e fenômenos. A segunda passagem deve separar fatos ambientais, história, entidades e narrativa sem reproduzir conteúdo gráfico.
