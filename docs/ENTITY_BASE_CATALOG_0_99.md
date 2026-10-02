@@ -163,3 +163,97 @@ Instalação de pesquisa secreta. A fonte descreve experimentação controversa 
 - Base permanente M.E.G.: não confirmada.
 - O Boiler Room de Level 5 funciona como referência operacional para acesso, não como base comprovada dentro do Level 6.
 
+
+## Levels 7–13
+
+### Level 7 — Thalassophobia
+**Arquivo:** levels/level-07.md
+
+#### Entidades
+- Há fauna e entidades marinhas descritas em regiões específicas.
+- Distribuição varia conforme profundidade/região.
+- Inventário completo precisa separar fauna, entidades catalogadas e relatos históricos.
+- Descrição deve permanecer não gráfica.
+
+#### Bases / comunidades / instalações
+- Base permanente atual: não consolidada.
+- Há referências históricas a expedições e postos.
+- Grupos relacionados ao oceano aparecem em material histórico, mas seu status precisa ser revalidado.
+- Instalações permanentes: não confirmadas.
+
+### Level 8 — Cave Systems
+**Arquivo:** levels/level-08.md
+
+#### Entidades
+- Grande diversidade de fauna e entidades.
+- Algumas regiões formam ecossistemas coerentes, com cadeias alimentares.
+- Aranhas e outros organismos aparecem em habitats específicos.
+- Handyland possui vários tipos de entidades e fauna associados ao seu ecossistema.
+- Inventário completo deve ser separado por região; não generalizar uma espécie como presente em toda a rede.
+- Descrições mantidas em nível não gráfico.
+
+#### Bases / comunidades / instalações
+- M.E.G. Outpost "Hollow Nest": posto estabelecido em 2016, com pessoal permanente e rotativo segundo a página.
+- Assentamentos ao longo da 9th Road.
+- B.N.T.G. e Harmouth Society mantêm presença/cooperação em áreas documentadas.
+- Historicamente, Church of the Veiled, Lost e Eyes of Argos tiveram atividade no nível.
+- Instalações devem ser catalogadas separadamente por localização.
+
+### Level 9 — The Suburbs
+**Arquivo:** levels/level-09.md
+
+#### Entidades
+- Há entidades associadas ao ambiente suburbano em material do nível e de seus subníveis.
+- Inventário completo: pendente.
+- Aparência e comportamento devem ser separados por região e fonte.
+- Não assumir que entidades de subníveis habitam o Level 9 principal.
+
+#### Bases / comunidades / instalações
+- A infraestrutura residencial permite abrigos e ocupações temporárias.
+- Bases e comunidades nomeadas: não consolidadas nesta passagem.
+- Subníveis devem ter inventários de instalações próprios.
+
+### Level 10 — Bumper Crop
+**Arquivo:** levels/level-10.md
+
+#### Entidades
+- A página atual afirma não haver entidades hostis únicas relevantes no nível principal.
+- Worms do solo são organismos/entidades descritos abaixo da camada superficial.
+- Não é necessário reproduzir instruções de escavação; nesta documentação basta registrar que a atividade subterrânea apresenta risco.
+- Inventário adicional: não confirmado.
+
+#### Bases / comunidades / instalações
+- A página informa que o nível tem sido principalmente transitório para a M.E.G. e não possui outpost dedicado confirmado.
+- Celeiros e outras construções podem servir como abrigo narrativo/temporário, mas isso não equivale a uma base oficial.
+- Comunidades permanentes: não confirmadas.
+
+### Level 11 — The City That Never Sleeps
+**Arquivo:** levels/level-11.md
+
+#### Entidades
+Não há população nativa confirmada. Facelings, Hounds, Lucky Cranes e entidades vindas de outros níveis são documentadas. O Level 11 Effect pode reduzir agressividade de algumas entidades, sem ser universal.
+
+#### Bases / comunidades / instalações
+The Capital, M.E.G. Base Beta, Camp Amber, U.E.C. Thebes, U.B.D.S. Headquarters e o Eternal Repository possuem presença documentada. A localização exata do Eternal Repository permanece não confirmada.
+
+### Level 12 — Matrix
+**Arquivo:** levels/level-12.md
+
+#### Entidades
+- Nenhuma entidade específica observada na expedição principal.
+- Não existe população nativa consolidada.
+- Fenômenos usados para entrada não devem ser confundidos com entidades nativas.
+
+#### Bases / comunidades / instalações
+- Nenhuma base permanente conhecida.
+- Nenhum posto estável confirmado.
+
+### Level 13 — The Boiling Frogs
+**Arquivo:** levels/level-13.md
+
+#### Entidades
+Nenhuma população de entidades residente é estabelecida pela versão atual. Não preencher lacunas com entidades não confirmadas.
+
+#### Bases / comunidades / instalações
+O B.N.T.G. Free Home Project é associado ao andar 283.
+
