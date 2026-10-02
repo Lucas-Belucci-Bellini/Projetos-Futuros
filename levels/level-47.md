@@ -1,41 +1,49 @@
 # Level 47 — The Adderwood
 
-## Metadados
-- **Número:** 47
-- **Título no índice oficial em 2026-10-01:** The Adderwood
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-47
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 47
+- Título: The Adderwood
+- Estado: outdated / open-to-rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Floresta temperada antiga, composta por árvores decíduas e coníferas muito grandes, musgos e líquens. Uma névoa úmida cobre a floresta durante o dia e não há observação de luz solar direta.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 47. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+A floresta apresenta instabilidade ontológica: objetos em estados de superposição podem reverter alterações quando deixam de ser observados diretamente.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Estrutura
+- floresta de crescimento antigo;
+- córregos e fontes naturais;
+- áreas de neblina;
+- clareiras e caminhos naturais;
+- ocos de árvores com maior propensão a conexões anômalas.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Entidades
+### Great Adder
+Grande serpente anômala associada à proteção das serpentes do nível.
 
+### Black Shucks / Adderwood Wolves
+Canídeos escuros que aparecem principalmente à noite.
 
-## Atribuição
+A documentação não reproduz instruções de confronto ou fuga; registra apenas identificação e comportamento geral.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Recursos
+- córregos e outras fontes naturais de água, descritas como geralmente adequadas para consumo na fonte;
+- cogumelos e outros elementos naturais, com espécies nem sempre identificadas.
+
+## Bases
+Nenhuma base permanente confirmada. A Ophion Occult Order possui associação histórica com o nível.
+
+## Entradas
+No-clipping é o único método confirmado na página atual. Ocados de árvores mortas são apontados como locais especialmente propensos a conexões.
+
+## Saídas
+No-clipping também é o único método confirmado para deixar o nível. A possibilidade de direcionamento por membros da Ophion Occult Order permanece não confirmada.
+
+## Mídia
+- Στενη Διρφης χειμωνας — Stathis Floros — CC BY-SA 4.0.
+- A mídia deve ser redistribuída somente com a atribuição exigida.
+
+## Auditoria
+A página está outdated/open-to-rewrite. O texto atual preserva a ecologia, a instabilidade e a conectividade da versão acessível sem transformar alegações narrativas em fatos garantidos.
