@@ -1,78 +1,52 @@
 # Level 16 — Altered Topography
 
-## Metadados
-- **Número:** 16
-- **Título de referência:** Altered Topography
-- **Estado editorial em 2026-10-01:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-16
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base desta revisão:** 2026-10-01
+## Identidade
+- Número: 16
+- Título: Altered Topography
+- Estado: current, com arquivos históricos ativos
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Visão geral
+## Aparência
+A característica fundamental é a alteração completa da topografia. A página preserva estados documentais diferentes.
 
-O Level 16 possui uma característica central: sua topografia muda completamente em intervalos desconhecidos.
-
-## Arquivos históricos
-
-A própria página é estruturada como múltiplos registros de estados diferentes do nível.
-
-Isso significa que uma descrição antiga pode deixar de ser válida depois de uma transformação.
-
-## Estado de floresta
-
-Um dos registros descreve:
+### Estado florestal
 - floresta tropical;
 - neblina persistente;
-- gravidade reduzida;
-- temperatura estável próxima de 21 °C;
-- ausência de ciclo dia/noite;
-- iluminação constante de amanhecer.
+- amanhecer permanente;
+- aproximadamente 21 °C;
+- gravidade reduzida para elementos externos ao nível.
 
-A gravidade reduzida afeta principalmente objetos e organismos externos ao nível.
-
-## Estado ártico
-
-Outro registro documenta uma transformação completa para ambiente polar:
-- gelo altamente reflexivo;
-- clima frio;
-- ciclo dia/noite de aproximadamente 13 horas;
-- temperaturas entre cerca de 6 °C e 10 °C;
+### Estado ártico
+- terreno coberto por gelo altamente reflexivo;
+- ciclo de aproximadamente 13 horas;
+- temperaturas documentadas entre cerca de 6 °C e 10 °C;
 - presença incomum de Light Guides.
 
-## Transformação do terreno
+## Estrutura
+A topografia muda em intervalos desconhecidos. Geleiras, rios, rochas e outras formações podem surgir ou desaparecer durante uma transformação.
 
-As mudanças não são apenas visuais.
+O Level Key também é descrito como mudando conforme o estado do ambiente.
 
-Durante transições, elementos como:
-- geleiras;
-- rios;
-- rochas;
-- vegetação;
-- clima
+## Entidades
+Light Guides são observados em quantidade incomum no estado ártico. Outros organismos podem existir, mas não há catálogo completo.
 
-podem surgir de forma abrupta.
-
-Uma pessoa pode ser presa ou ferida durante a reconfiguração.
-
-## Level Key
-
-A documentação sugere que o próprio identificador do Level Key muda conforme a topografia, ajudando a explicar por que estados anteriores foram confundidos com lugares diferentes.
+## Recursos
+O estado florestal possui condições básicas para vida, mas a gravidade reduzida dificulta permanência prolongada. Inventário de recursos específicos não confirmado.
 
 ## Bases
+Nenhuma base permanente confirmada. A instabilidade torna assentamentos de longo prazo pouco viáveis.
 
-Assentamentos permanentes são pouco viáveis devido às mudanças ambientais.
+## Entradas
+- Level 75: patches de metal líquido, descritos em versões diferentes como semelhantes a cobre/gálio.
+- Outros métodos são relatados historicamente, mas não estão todos confirmados.
 
-## Entradas e saídas
+## Saídas
+- Level 46: no estado documentado atualmente, uma formação de gelo coberta de areia funciona como saída.
+- A localização física muda junto com a topografia, enquanto o destino permanece Level 46.
 
-A versão atual associa uma entrada confirmada ao Level 75 e uma saída ao Level 46, embora a aparência física da saída possa mudar junto com o terreno.
+## Mídia
+A página possui imagens associadas aos estados históricos. Autoria e licença devem ser verificadas individualmente antes de redistribuição.
 
-## Política especial
-
-Registros antigos devem ser arquivados, não apagados, pois descrevem estados reais porém já superados.
-
-## Estado da pesquisa
-
-Primeira expansão detalhada concluída. Futuras revisões devem registrar cada estado histórico do Level 16 como subseção separada.
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O objetivo é reorganizar e explicar os fatos da página sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md` para a política completa de licença e uso de fontes.
+## Auditoria
+Arquivos antigos devem ser preservados e marcados como históricos, não tratados como aparência atual universal.
