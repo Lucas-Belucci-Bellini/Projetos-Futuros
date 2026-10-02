@@ -1,41 +1,58 @@
 # Level 68 — Theater The Eater
 
-## Metadados
-- **Número:** 68
-- **Título no índice oficial em 2026-10-01:** Theater The Eater
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-68
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 68
+- Título: The Eater
+- Título no índice: Theater The Eater
+- Estado editorial: under rewrite
+- Autor: Hexick
+- Fonte: Backrooms Wiki — Level 68
+- Data-base: 2026-10-01.
 
-## Escopo de documentação
+## Aparência
+Grande complexo de cinema com arquitetura semelhante a cinemas do nordeste dos Estados Unidos. Corredores longos possuem portas para salas individuais. As salas contêm fileiras de cadeiras geralmente vermelhas. Objetos e superfícies têm aspecto orgânico e crescimento fúngico aparece pelo complexo. A página descreve um comportamento fortemente anômalo associado às salas.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 68. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Corredores.
+- Salas de cinema.
+- Fileiras de cadeiras.
+- Telas.
+- Áreas de circulação.
+- Portas vermelhas específicas associadas a uma rota.
+- Número total de salas não estabelecido.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- A principal ameaça é o próprio ambiente e suas propriedades anômalas.
+- Não existe uma população de entidades residentes claramente catalogada.
+- Os filmes são fenômenos exclusivos de salas específicas.
+- Como a página está under rewrite, entidades futuras devem ser catalogadas separadamente.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Não há recursos de sobrevivência confiáveis.
+- Objetos do cinema não são considerados suprimentos seguros.
+- Não há base para tratar o nível como habitável.
 
+## Bases
+- Nenhuma base humana confirmada.
+- Desenhos e escritos sugerem a possibilidade de grupos em uma parte ainda não descoberta, mas isso permanece hipótese.
 
-## Atribuição
+## Entradas
+- 11 → 68: encontrar um teatro/cinema no Level 11 pode levar ao nível.
+- O método depende da manifestação do cinema.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- 68 → 94: no-clipping através da tela de cinema.
+- 68 → 74: determinadas portas vermelhas dos corredores.
+- Não assumir que todas as portas vermelhas funcionam como saída.
+
+## Mídia
+- Interior of recreation hall and the movie theater — Russell Lee, National Archives — CC0 1.0.
+- Outras imagens devem ser auditadas individualmente.
+- Texto: CC BY-SA 3.0.
+- Licença de imagem não deve ser inferida a partir da licença textual.
+
+## Auditoria
+- Estado under rewrite.
+- Conexões 11→68, 68→94 e 68→74.
+- Separar futuramente fenômenos das salas, das cadeiras e qualquer entidade confirmada.
+- Conteúdo gráfico do original foi deliberadamente resumido.
