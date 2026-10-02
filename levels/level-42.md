@@ -1,41 +1,50 @@
 # Level 42 — a place of interest
 
-## Metadados
-- **Número:** 42
-- **Título no índice oficial em 2026-10-01:** a place of interest
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-42
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 42
+- Título: a place of interest
+- Estado: current, porém página incompleta com placeholders
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+A versão atualmente acessível descreve uma planície ampla coberta de grama seca, com grandes pilares de pedra cinzentos e amorfos suspensos acima do solo.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 42. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+Também existem estruturas que não obedecem à arquitetura humana convencional. Suas fundações parecem se sobrepor umas às outras como ramificações. Interiores podem conter objetos semelhantes a móveis, mas suas formas e usos são indefinidos.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+A página também apresenta uma região descrita como um píer negro coberto por neblina, com borda externa indefinida.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Estrutura
+- planície;
+- pilares suspensos;
+- estruturas anômalas;
+- interiores parcialmente indefinidos;
+- superfície de avanço contínuo;
+- píer negro e neblina.
 
+O texto atual contém trechos deliberadamente incompletos e contraditórios, portanto não é possível construir uma cartografia confiável.
 
-## Atribuição
+## Entidades
+Não existe catálogo de entidades consolidado na página atual.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+A página possui temas de identidade e perda de identidade, mas esses elementos não devem ser transformados em entidades sem confirmação.
+
+## Recursos
+Nenhum recurso convencional confiável documentado.
+
+## Bases
+Nenhuma base, posto ou comunidade confirmada.
+
+## Entradas
+Não documentadas de forma confiável.
+
+## Saídas
+Não documentadas de forma confiável.
+
+## Mídia
+- A página apresenta uma imagem de um píer em preto e branco.
+- O crédito de edição inicial da imagem do píer é atribuído a exotichive.
+- Licença da mídia deve ser verificada individualmente.
+
+## Auditoria
+Este é um caso em que “não documentado” é informação válida. A página informa explicitamente que contém placeholders e está incompleta. O projeto não preencherá os vazios por inferência.
