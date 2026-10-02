@@ -1,40 +1,38 @@
-# Atribuição, licença e política de pesquisa
+# Política de atribuição e mídia — Backrooms Levels 0–99
 
-## Fonte principal
+## Objetivo
+Esta branch reúne documentação em português baseada principalmente na Backrooms Wiki. O conteúdo textual é uma síntese editorial: não reproduzir artigos inteiros nem importar automaticamente material protegido.
 
-Backrooms Wiki (Wikidot)
-
-- Página inicial: https://backrooms-wiki.wikidot.com/start
-- Lista dos Levels 0–99: https://backrooms-wiki.wikidot.com/normal-levels-i
-- Formato das páginas individuais: https://backrooms-wiki.wikidot.com/level-N
-
-A Backrooms Wiki informa que o conteúdo do projeto é disponibilizado sob **Creative Commons Attribution-ShareAlike 3.0**, salvo situações específicas indicadas nas próprias páginas ou mídias.
-
-## Política adotada neste projeto
-
-Este repositório não pretende funcionar como espelho bruto da wiki.
-
-A documentação deve:
-
-- sintetizar;
-- reorganizar;
-- explicar;
-- contextualizar;
-- apontar a fonte original;
-- registrar a data-base da pesquisa.
-
-## Texto
-
-Não copiar artigos integralmente. Citações literais devem ser curtas, necessárias e claramente identificadas.
+## Fontes
+Cada nível ou sub-seção deve apontar para sua página de origem sempre que possível.
 
 ## Imagens
+Uma imagem só deve ser incluída como arquivo do projeto quando:
+- a licença permitir o uso pretendido;
+- o autor puder ser atribuído;
+- a fonte puder ser registrada;
+- eventuais requisitos de ShareAlike ou atribuição forem respeitados.
 
-Imagens exigem verificação individual. A licença geral do texto não deve ser automaticamente presumida para cada arquivo visual.
+Quando a licença não estiver clara:
+- manter somente referência textual;
+- marcar a licença como pendente;
+- preferir criar imagem própria/licenciada em vez de copiar a mídia.
 
-## Conteúdo em reescrita
+## Licenças
+A licença da página da wiki não implica automaticamente que todas as imagens incorporadas tenham os mesmos direitos. A auditoria deve ocorrer por imagem.
 
-Quando um Level estiver marcado como `open-to-rewrite` ou `under-rewrite`, isso precisa permanecer visível nos metadados porque os detalhes podem mudar rapidamente.
+## Versões históricas
+Quando uma página estiver trimmed, outdated ou under rewrite, registrar o estado da fonte e manter versões divergentes separadas.
 
-## Derivações futuras
+## Conteúdo sensível
+O projeto pode registrar entidades, ameaças e fenômenos, porém descrições gráficas e instruções perigosas desnecessárias não fazem parte da documentação.
 
-Se este projeto gerar páginas públicas derivadas do conteúdo da wiki, a atribuição e as obrigações de compartilhamento compatível com a licença devem ser preservadas.
+## Regra de não-invenção
+Ausência de informação deve ser registrada como:
+- Não documentado;
+- Não confirmado;
+- Licença pendente;
+- Versão histórica;
+- Rota não consolidada.
+
+Nunca preencher lacunas com suposição.

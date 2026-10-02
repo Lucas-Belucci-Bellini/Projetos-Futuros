@@ -13,9 +13,9 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 
 | Pai | Sub-seção/localização | Estado na fonte | Arquivo na branch | Cobertura |
 |---|---|---|---|---|
-| 0 | Level 0.1 — Zenith Station | sem marcador | — | pendente |
-| 0 | Level 0.2 — Remodeled Mess | sem marcador | — | pendente |
-| 0 | Level 0.3 — The Icy Rooms | Open for Rewrite | — | pendente |
+| 0 | Level 0.1 — Zenith Station | sem marcador | levels/level-00-1.md | documentado |
+| 0 | Level 0.2 — Remodeled Mess | sem marcador | levels/level-00-2.md | documentado |
+| 0 | Level 0.3 — The Icy Rooms | Open for Rewrite | levels/level-00-3.md | documentado |
 | 0 | Level 0.5 — Aquaclaustrophobic Infirmary | sem marcador | — | pendente |
 | 0 | Level 0.7 — The Reminiscence District | sem marcador | — | pendente |
 | 0 | Manila Room | sem marcador | — | pendente |
@@ -28,7 +28,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 | 1 | Base Alpha | sem marcador | — | pendente |
 | 1 | Traders Vault | Under Rewrite | — | pendente |
 | 2 | Level 2.1 — Locked | sem marcador | — | pendente |
-| 2 | Office Space EL3A | Open for Rewrite | — | pendente |
+| 2 | Office Space EL3A | Open for Rewrite | levels/office-space-el3a.md | documentado |
 | 3 | Level 3.5 — Electropolis | sem marcador | — | pendente |
 | 4 | The Office Market | sem marcador | — | pendente |
 | 5 | Level 5.1 — GRAND OPENING OF THE TERROR HOTEL CASINO | sem marcador | — | pendente |
@@ -75,8 +75,12 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 ## Totais
 
 - 58 sub-seções/localizações identificadas no snapshot oficial de 0–99.
-- 15 possuem arquivo dedicado na branch.
-- 43 ainda precisam de arquivo dedicado ou expansão própria.
+- 19 possuem arquivo dedicado na branch.
+- 39 ainda precisam de arquivo dedicado ou expansão própria.
+
+## Progresso desta frente
+
+Os primeiros subníveis do Level 0 e o Office Space EL3A já receberam arquivos dedicados, com schema completo. O inventário continua sendo a fonte de verdade para as demais lacunas.
 
 ## Prioridade de expansão
 
