@@ -28,18 +28,15 @@ fn walk(dir: &Path, out: &mut Vec<PathBuf>) {
 
 fn is_subsection(path: &Path) -> bool {
     let name = path.file_stem().and_then(|x| x.to_str()).unwrap_or_default();
-    name.contains('-') &&
-        !name.ends_with("-00") &&
-        !name.ends_with("-01") &&
-        !name.ends_with("-02") &&
-        !name.ends_with("-03") &&
-        !name.ends_with("-04") &&
-        !name.ends_with("-05") &&
-        !name.ends_with("-06") &&
-        !name.ends_with("-07") &&
-        !name.ends_with("-08") &&
-        !name.ends_with("-09") &&
-        !name.ends_with("-10")
+
+    let is_main_level = name
+        .strip_prefix("level-")
+        .map(|suffix| {
+            suffix.len() == 2 && suffix.chars().all(|c| c.is_ascii_digit())
+        })
+        .unwrap_or(false);
+
+    !is_main_level
 }
 
 fn main() {
