@@ -110,3 +110,20 @@ Regra: conexões de páginas outdated/under rewrite permanecem com estado editor
 - 38: entrada por instabilidade/sobreposição em Levels 0–37; saída depende de Interior/Exterior e pode levar a diferentes níveis.
 - 39: entradas 135/499/797; saídas 63/129/170/192/280/300/420/448/466/63.3.
 - 40: entrada histórica por Level 31; saída por porta de funcionários → 0 e exit hall → 9/10/11.
+
+
+## Segunda-passagem — Levels 41–50
+- 41: plataforma/entrada e saídas adicionais permanecem dependentes da versão atual; não inferir rotas.
+- 42: entradas/saídas não documentadas de forma confiável; estado incompleto preservado.
+- 43: parque aquático em rewrite; conectividade pendente de revalidação.
+- 44: Level 0 → 44 via porta metálica; 44 → 11/9 via porta semelhante; retorno ao ponto inicial.
+- 45: The Hub → 45; Level 90 → 45 ocasionalmente; 45 → The Hub pelo prédio central.
+- 46: 80 → 46; 0/1/21 → 46 por porta de arenito; 85 → 46; 46 → 293, 4 e 149.
+- 46.1: subnível associado a 46; retorno ao 46; conexões logísticas com bastiões dos Eyes of Argos.
+- Profane Burial Site: acesso pelo Monastery; nenhum destino de saída universal consolidado.
+- 47: no-clipping → 47 e no-clipping → saída; ocos de árvores têm maior propensão.
+- 48: Level 48 → Ground 48.1; rotas do nível principal permanecem para revalidação.
+- Ground 48.1 → Level 48: retorno pela periferia; The Enclave ↔ Ground 48.1.
+- 49.1: relação com Level 49; narrativa termina em Level 0.
+- 49.2: Level 49 → 49.2 por passagem escondida; Level 105 → 49.2; 49.2 → 105/11/Cathedrale Celeste/196.
+- 50: Level 35 → 50 via RV; Level 25 → 50 via arcade; Level 176 → 50 via caminhão; saída para 69 apenas como rumor não confirmado.
