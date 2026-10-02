@@ -2,40 +2,74 @@
 
 ## Metadados
 - **Número:** 37
-- **Título no índice oficial em 2026-10-01:** Sublimity
-- **Estado editorial:** current
+- **Título:** Sublimity
+- **Estado editorial em 2026-10-01:** current
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-37
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Visão geral
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 37. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 37 é um enorme complexo de salas e corredores parcialmente submersos em água morna.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+É conhecido popularmente pelo conceito visual dos **Poolrooms**.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Superfícies
 
+A maior parte da arquitetura usa azulejos cerâmicos brancos extremamente limpos.
+
+A água adiciona tonalidade azul-esverdeada ao ambiente.
+
+## Arquitetura
+
+O projeto é simultaneamente organizado e sem função clara.
+
+Existem:
+- piscinas;
+- corredores;
+- áreas abertas;
+- pilares;
+- escadas;
+- poços profundos;
+- espaços sem bordas convenientes para sair da água.
+
+## Geometria
+
+Salas conectam-se de maneira pouco lógica.
+
+Luz surge de ângulos anômalos e algumas regiões permanecem completamente escuras.
+
+## Água
+
+Foram detectados traços de sulfato de magnésio, associado a sal de Epsom.
+
+A exposição prolongada à água produz sensação relaxante e alívio muscular.
+
+## Entidades
+
+Nenhuma entidade foi registrada.
+
+Também não existem encontros documentados com outros viajantes.
+
+Não se sabe se isso ocorre por:
+- isolamento anômalo;
+- escala absurda do nível;
+- combinação dos dois.
+
+## Bases
+
+Não existem assentamentos permanentes conhecidos.
+
+A arquitetura e possível isolamento tornam comunidades difíceis de estabelecer.
+
+## Sublevel
+
+A lista oficial vincula o Level 37.1, **The Sanguine Reservoir**.
+
+## Estado da pesquisa
+
+Primeira expansão concluída. Próxima passagem deve detalhar propriedades acústicas, entradas, saídas, journal excerpt e Level 37.1.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

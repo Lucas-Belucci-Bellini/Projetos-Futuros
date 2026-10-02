@@ -12,47 +12,47 @@ Data-base: **2026-10-01**
 
 ## Cobertura aprofundada
 
-### Levels 0–10
-- [x] 0–10
+- [x] Levels 0–10
+- [x] Levels 11–20
+- [x] Levels 21–30
 
-### Levels 11–20
-- [x] 11–20
-
-### Levels 21–30
-- [x] Level 21 — quatro corredores, portas e Exit Door.
-- [x] Level 22 — estacionamento, Emstable e ruínas; em reescrita.
-- [x] Level 23 — superorganismo, floresta, cavernas e ecossistema.
-- [x] Level 24 — sistema solar plástico e projeto Bluehole.
-- [x] Level 25 — fliperama-hub; em reescrita.
-- [x] Level 26 — SS Fun / Adventure, no-clip móvel e Partygoers.
-- [x] Level 27 — fonte termal; aberto para reescrita.
-- [x] Level 28 — Stormstone Circle, raios e fenômenos.
-- [x] Level 29 — Hyperian, ilha, oceanos e civilização; em reescrita.
-- [x] Level 30 — realidade falsa, Memory Lurkers e Level senciente; aberto para reescrita.
+### Levels 31–40
+- [x] 31 — Roller Rink, áreas, entradas e saídas.
+- [x] 32 — Skeleton Queen, Belle, floresta e regra de saída; open-to-rewrite.
+- [x] 33 — shopping infinito, corrosão e exploração profunda; under-rewrite.
+- [x] 34 — esgoto, entidades, água e conexões; under-rewrite.
+- [x] 35 — estacionamento finito, abismo, veículos; under-rewrite.
+- [x] 36 — aeroporto, esteiras, voos, BTA e Level 36.1.
+- [x] 37 — Poolrooms, água, geometria, ausência de entidades e Level 37.1.
+- [x] 38 — Fold Point, sobreposição 0–37; open-to-rewrite.
+- [x] 39 — Enchanted Forest, caminhos e ausência histórica de entidades; open-to-rewrite.
+- [x] 40 — arcade 1980s, boliche, Pat, BackROM e rotas; open-to-rewrite.
 
 ## Métricas atuais
 
-- Arquivos Level existentes: **100/100**
-- Levels com primeira expansão aprofundada: **31/100**
-- JavaScript: **0**
+- Levels existentes: **100/100**
+- Levels com primeira expansão aprofundada: **41/100**
+- Progresso da primeira passagem detalhada: **41%**
+- JavaScript escrito: **0**
 - Código: **Rust**
-- Frontend estático: **HTML + CSS**
+- Interface: **HTML + CSS**
 
 ## Próximo marco
 
-**Levels 31–40**
+**Levels 41–50**
 
 ## Segunda passagem futura
 
-Cada Level já coberto receberá posteriormente:
-- entradas completas;
-- saídas completas;
-- entidades completas;
-- bases/comunidades;
-- fenômenos;
-- objetos;
-- páginas relacionadas;
-- autoria individual;
-- histórico editorial;
-- notas de divergência entre índice e página;
-- nível de completude calculado por Rust.
+Para cada arquivo já coberto:
+1. autoria individual;
+2. revisão/data da página;
+3. classificação de sobrevivência completa;
+4. entidades completas;
+5. grupos e comunidades completos;
+6. entradas e saídas completas;
+7. subseções;
+8. objetos;
+9. fenômenos;
+10. histórico editorial;
+11. relações cruzadas com outros Levels;
+12. validação automática de completude pelo CLI Rust.

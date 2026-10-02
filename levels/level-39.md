@@ -2,40 +2,48 @@
 
 ## Metadados
 - **Número:** 39
-- **Título no índice oficial em 2026-10-01:** Enchanted Forest
-- **Estado editorial:** open-to-rewrite
+- **Título:** Enchanted Forest
+- **Estado editorial em 2026-10-01:** open-to-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-39
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 39. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O índice atual marca o Level 39 como conteúdo reduzido e aberto para reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+A documentação histórica apresenta uma floresta extensa formada por caminhos de terra sinuosos.
 
+## Vegetação
+
+Grandes carvalhos e vegetação densa cobrem ambos os lados das trilhas.
+
+O ambiente é muito mais natural que a maioria dos Levels iniciais.
+
+## Entidades
+
+Discussões e notas do autor indicam que a versão histórica foi concebida como desprovida de entidades.
+
+## Navegação
+
+A estrutura principal gira em torno de caminhos que atravessam a floresta e se dividem repetidamente.
+
+A aparente simplicidade visual contrasta com a dificuldade de estabelecer limites claros para o nível.
+
+## Estado histórico
+
+Registros de discussão mostram que rotas de saída foram ajustadas ao longo do tempo quando outros Levels mudaram de conceito.
+
+Isso é importante: a conectividade de um Level pode ser alterada quando páginas relacionadas são reescritas.
+
+## Regra de manutenção
+
+Como a página foi reduzida e aberta para reescrita, não expandir detalhes especulativos.
+
+Preservar apenas o conceito central até uma nova versão oficial ser publicada.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

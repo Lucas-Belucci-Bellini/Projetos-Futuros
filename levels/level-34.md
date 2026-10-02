@@ -2,40 +2,67 @@
 
 ## Metadados
 - **Número:** 34
-- **Título no índice oficial em 2026-10-01:** Sewer System
-- **Estado editorial:** under-rewrite
+- **Título:** Sewer System
+- **Estado editorial em 2026-10-01:** under-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-34
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 34. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 34 está em processo de reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+A versão atual descreve um sistema de esgoto extremamente estreito.
 
+## Estrutura
+
+Os túneis têm aproximadamente quatro pés entre piso e teto.
+
+A parte superior é de tijolos e a parte inferior é de pedra.
+
+## Iluminação
+
+Não existe iluminação interna.
+
+É necessário depender de fonte própria de luz.
+
+## Água
+
+A água local é descrita como contaminada.
+
+Também existe risco de cair em regiões alagadas conectadas a outros Levels.
+
+## Entidades
+
+A versão atual cita:
+- Smilers;
+- Hounds em menor quantidade;
+- grande número de Death Rats;
+- um relato não confirmado de Skin-Stealer.
+
+## Bases
+
+Não há bases, postos ou comunidades conhecidos.
+
+## Entradas
+
+Rotas históricas incluem:
+- grade de esgoto no Level 11;
+- hatch no Level 43;
+- relato vindo de uma porta de saída no Level 18.
+
+## Saídas
+
+Junction Rooms podem oferecer conexões submersas.
+
+Grades de esgoto, janelas e escadas também podem levar a outros Levels.
+
+## Regra de manutenção
+
+Por estar em reescrita, detalhes de entidades e rotas devem ser tratados como provisórios.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
