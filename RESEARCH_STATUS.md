@@ -11,8 +11,9 @@ Data-base: 2026-10-01
 - [x] 51–60
 - [x] 61–70
 - [x] 71–80
+- [x] 81–90
 
-**Progresso: 81/100 Levels.**
+**Progresso: 91/100 Levels.**
 
 ## Auditoria reforçada
 Cada Level deve registrar explicitamente aparência, estrutura, entidades, recursos, bases/instalações, entradas, saídas, sublevels, mídia/licenças e status editorial.
