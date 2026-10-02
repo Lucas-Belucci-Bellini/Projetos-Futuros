@@ -71,3 +71,15 @@ Cada aresta deve registrar origem, destino, método, condição, direção, font
 - 25: máquinas funcionais atuam como hub de transporte; destinos individuais permanecem pendentes de revalidação durante a reescrita.
 
 Regra: conexões de páginas outdated/under rewrite permanecem com estado editorial explícito e não são promovidas a rotas universais.
+
+
+## Segunda-passagem — Levels 26–30
+- 26: entrada por itens de festa ou embarque quando a embarcação se materializa; saída por pôster invertido/desfocado e outras transições documentadas.
+- 27: Level 11 é entrada recorrente; conexões adicionais existem na página histórica e devem ser revalidadas.
+- 28: conectividade permanece pendente de extração integral.
+- 29 → 7: entrada pelo oceano em condição específica.
+- 29 → 25: máquina de arcade.
+- 29 → 114/284: destinos históricos associados à saída oceânica, atualmente não confiáveis.
+- 30 → 843: entrada por no-clip.
+- 30 → 696: item glitchado em condição específica.
+- 30: nenhuma saída confirmada.
