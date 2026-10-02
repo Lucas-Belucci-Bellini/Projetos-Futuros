@@ -1,41 +1,46 @@
 # Level 44 — Corroding Retail Outlet
 
-## Metadados
-- **Número:** 44
-- **Título no índice oficial em 2026-10-01:** Corroding Retail Outlet
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-44
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 44
+- Título: Corroding Retail Outlet
+- Estado: outdated / open-to-rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Espaço comercial desolado e vazio, com iluminação parcialmente funcional. As luzes produzem um zumbido elétrico sutil.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 44. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+Janelas aparecem principalmente perto das regiões mais escuras. As janelas ativas exibem imagens em movimento das Frontrooms, embora não seja possível confirmar se estão sincronizadas com a realidade externa.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+O nível apresenta corrosão progressiva associada a um líquido anômalo.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Estrutura
+- lojas e espaços comerciais vazios;
+- áreas de iluminação;
+- janelas anômalas;
+- regiões corroídas;
+- espaço não linear.
 
+## Entidades
+A página classifica o nível como baixo em entidades, mas não fornece um catálogo amplo. Informações sobre manifestações devem permanecer separadas de fenômenos ambientais.
 
-## Atribuição
+## Recursos
+A infraestrutura comercial pode conter objetos abandonados. O líquido associado à corrosão não deve ser tratado como recurso.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Bases
+### M.E.G. Outpost “De-aciders”
+Posto criado para estudar e reduzir a corrosão e tornar a exploração mais segura. A fonte histórica registra aproximadamente 20 membros.
+
+## Entradas
+- porta metálica arbitrariamente encontrada no Level 0 → Level 44.
+
+## Saídas
+- retorno pelo ponto inicial;
+- porta semelhante → Level 11 ou Level 9.
+
+## Mídia
+- A página apresenta imagem de uma sala vazia.
+- Autoria/licença individual deve ser confirmada no catálogo de mídia.
+
+## Auditoria
+A página acessível está marcada como outdated/open-to-rewrite. A discussão da página também registra conectividade com Level 11, mas isso não substitui a fonte principal. O projeto preserva a versão histórica até uma nova versão publicada.
