@@ -1,63 +1,39 @@
 # Level 27 — The Bunker Springs
 
-## Metadados
-- **Número:** 27
-- **Título:** The Bunker Springs
-- **Estado editorial em 2026-10-01:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-27
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 27
+- Título: The Bunker Springs
+- Estado: outdated / open for rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Aviso editorial
+## Aparência
+Pequena caverna de calcário com uma fonte termal. A área acessível descrita pela página tem aproximadamente 18,6 m².
 
-A página está desatualizada e aberta para reescrita.
+Duas pequenas cachoeiras alimentam a piscina. Um pequeno túnel realiza a drenagem.
 
-## Visão geral
-
-O Level 27 é uma pequena caverna com fonte termal.
-
-## Escala acessível
-
-A versão atual descreve uma área utilizável de aproximadamente 200 pés quadrados, cerca de 18,6 m².
-
-## Água
-
-A água:
-- é potável;
-- possui minerais;
-- mantém temperatura próxima de 32,2 °C;
-- é continuamente renovada.
-
-## Efeitos relatados
-
-Pessoas que bebem a água relatam:
-- maior clareza mental;
-- aumento de energia.
-
-## Fluxo
-
-Duas pequenas cachoeiras alimentam a fonte.
-
-Um túnel muito estreito realiza a drenagem.
-
-A origem e o destino da água são desconhecidos.
+## Estrutura
+O nível parece maior do que a área inicialmente acessível. A origem e o destino da água não são conhecidos.
 
 ## Entidades
+A página descreve ausência de entidades e organismos vivos na área principal.
 
-A versão atual descreve ausência total de entidades.
+## Recursos
+A água é descrita como potável, mineralizada e próxima de 32,2 °C. A página também associa a ela efeitos subjetivos de relaxamento e bem-estar.
 
-## Uso social
+## Bases
+Nenhuma base, comunidade ou posto permanente.
 
-Por possuir acesso relativamente fácil e ambiente seguro, o nível é usado como local de descanso por habitantes de outras regiões, especialmente Level 11.
+## Entradas
+- Level 11 é descrito como a entrada mais utilizada.
+- Banheiros/chuveiros de outros níveis podem ser associados à entrada em determinadas condições históricas.
 
-## Lotação
+## Saídas
+- Uma escadaria construída pelo M.E.G. conecta a área da fonte a um túnel e ao local de origem do visitante.
+- A documentação histórica registra uma segunda passagem relacionada a uma das cachoeiras, mas não deve ser tratada como rota segura.
 
-O artigo recomenda evitar entrar na água quando há grande quantidade de viajantes simultaneamente.
+## Mídia
+- level27.png — Cave Lake (Cooler) — Jacob Norlund — CC BY 2.0.
 
-## Estado da pesquisa
-
-Conteúdo histórico sintetizado. Revisar integralmente quando a nova página for publicada.
-
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+## Auditoria
+A página está outdated/open for rewrite. O conteúdo sobre a região externa e eventos históricos deve permanecer separado da pequena área termal conhecida. Não transformar métodos de acesso em instruções práticas para uso de instalações reais.
