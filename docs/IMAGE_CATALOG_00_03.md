@@ -36,3 +36,10 @@ Data-base: 2026-10-02.
 
 ## Regra
 A licença da página não substitui a verificação de cada imagem. Não importar binários de terceiros automaticamente.
+
+
+## Level 1.2 — Concrete Garden
+- Página com múltiplas imagens do corredor/jardim e da vegetação.
+- As três renderizações do nível são creditadas a LaundryFan_04 como comissões.
+- Licença individual dos arquivos: pendente de verificação.
+- Não importar automaticamente.

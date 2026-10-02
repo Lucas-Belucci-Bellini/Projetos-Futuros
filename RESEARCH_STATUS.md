@@ -30,8 +30,8 @@ Data-base: 2026-10-02.
 
 ## Sub-seções
 O índice oficial consultado contém 58 sub-seções/localizações no recorte 0–99.
-- 26 possuem arquivo dedicado nesta branch.
-- 32 continuam pendentes.
+- 27 possuem arquivo dedicado nesta branch.
+- 31 continuam pendentes.
 
 Registro completo: docs/SUBLEVEL_REGISTRY.md
 

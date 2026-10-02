@@ -9,13 +9,13 @@ Data-base: 2026-10-02.
 - Levels 02 e 03 tinham lacunas explícitas de pesquisa nos próprios arquivos; ambos foram reestruturados.
 
 ## Gap estrutural de sub-seções
-O snapshot oficial de 0–99 lista 58 sub-seções/localizações. A branch possui 26 arquivos dedicados e 32 ainda ausentes.
+O snapshot oficial de 0–99 lista 58 sub-seções/localizações. A branch possui 27 arquivos dedicados e 31 ainda ausentes.
 
 O inventário está em docs/SUBLEVEL_REGISTRY.md.
 
 ## Pendências prioritárias
 - Manila Room, Red Rooms, The Torment.
-- 1.2, 1.3.
+- 1.3.
 - Base Alpha, Traders Vault.
 - 2.1.
 - 3.5.

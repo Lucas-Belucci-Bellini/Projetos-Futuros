@@ -22,7 +22,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 | 0 | Red Rooms | sem marcador | — | pendente |
 | 0 | The Torment | sem marcador | — | pendente |
 | 1 | Level 1.1 — Corrupted Corridor | Open for Rewrite | levels/level-01-1.md | documentado |
-| 1 | Level 1.2 — Concrete Garden | sem marcador | — | pendente |
+| 1 | Level 1.2 — Concrete Garden | sem marcador | levels/level-01-2.md | documentado |
 | 1 | Level 1.3 — Malignance | sem marcador | — | pendente |
 | 1 | Level 1.5 — Inverted | sem marcador | levels/level-01-5.md | documentado |
 | 1 | Base Alpha | sem marcador | — | pendente |
@@ -76,8 +76,8 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 ## Totais
 
 - 58 sub-seções/localizações identificadas no snapshot oficial de 0–99.
-- 26 possuem arquivo dedicado na branch.
-- 32 ainda precisam de arquivo dedicado ou expansão própria.
+- 27 possuem arquivo dedicado na branch.
+- 31 ainda precisam de arquivo dedicado ou expansão própria.
 
 ## Progresso desta frente
 
