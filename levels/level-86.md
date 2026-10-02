@@ -1,41 +1,70 @@
 # Level 86 — Rivergate Tower
 
-## Metadados
-- **Número:** 86
-- **Título no índice oficial em 2026-10-01:** Rivergate Tower
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-86
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 86
+- Título atual: Rivergate Tower
+- Estado editorial: trimmed/open for rewrite; outdated.
+- Autor original: imadgalaxyx.
+- Rewrite histórico: VivamusLudio.
+- Tema: torre de escritórios de 31 andares.
 
-## Escopo de documentação
+## Aparência
+- Edifício de escritórios moderno, diferente do estilo de Level 4.
+- Lobby aberto, limpo e moderno, com pisos brilhantes.
+- 31 andares.
+- Andares superiores começam em cubículos pequenos e ficam mais espaçosos.
+- Corredores podem terminar abruptamente ou formar conexões anômalas.
+- Temperatura, clima e escala externa não documentados.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 86. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Lobby: elevadores, restaurante Mailo's e área administrativa.
+- Elevadores direitos: andares 2–16.
+- Elevadores esquerdos: andares 17–31.
+- 5º andar: galeria de arte.
+- 14º andar: Britagne Royaume.
+- 31º andar: escritório do chefe e computador com arquivos sobre níveis.
+- Facelings aparecem nos corredores e escritórios sob o “11 Effect”.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Facelings são os principais habitantes anômalos documentados.
+- Sob o efeito associado ao Level 11, apresentam comportamento cotidiano.
+- Esse comportamento não deve ser generalizado para outros níveis.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Mobiliário de escritório.
+- Computadores; alguns são descritos como funcionais.
+- Restaurante Mailo's.
+- Galeria de arte.
+- Arquivos digitais do último andar.
 
+## Bases
+### Britagne Royaume
+- Grupo residente no 14º andar.
+- Origem histórica atribuída a pessoas presas no Backrooms durante o século XII.
+- Liderança atribuída a Arthur I, Duke of Brittany.
+- Relação com visitantes descrita como hostil e sem comércio regular.
+- Não é uma base da M.E.G.
 
-## Atribuição
+## Entradas
+- Única entrada conhecida: edifício cilíndrico em Level 11.
+- Rota: Level 11 → 86.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- A mesma rota pode retornar ao Level 11.
+- Algumas portas podem raramente levar ao Level 4.
+- Elevadores internos são transporte entre andares, não saídas inter-nível confirmadas.
+
+## Mídia
+- Imagem principal do lobby.
+- A página sinaliza que a imagem atual não é CC e precisa ser substituída.
+- Tratar como referência editorial, não como mídia liberada.
+
+## Auditoria
+- Canon: histórico/trimmed.
+- Aparência: interior detalhado; exterior desconhecido.
+- Entidade: Facelings sob efeito do nível.
+- Comunidade: Britagne Royaume.
+- Conectividade: 11 ↔ 86 e saída rara para 4.
+- Mídia: imagem principal sem licença CC.
+- Pendência: localizar rewrite e substituir referência visual.
+- Fonte: https://backrooms-wiki.wikidot.com/level-86.
