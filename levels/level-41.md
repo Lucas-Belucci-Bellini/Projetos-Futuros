@@ -1,41 +1,42 @@
 # Level 41 — The Black Lake
 
-## Metadados
-- **Número:** 41
-- **Título no índice oficial em 2026-10-01:** The Black Lake
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-41
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 41
+- Título: The Black Lake
+- Estado: current
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+O Level 41 é dominado por uma região de piche/asfalto extremamente quente, borbulhante e fumegante, cercada por uma paisagem desértica negra sob neblina acinzentada permanente. O piche mantém propriedades anômalas de calor e reatividade mesmo após períodos aparentemente muito longos.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 41. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+A área de chegada inclui uma plataforma sem saída que conduz diretamente à região dos poços.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Estrutura
+- plataforma de entrada;
+- poços de piche;
+- desertos de carvão;
+- áreas de neblina;
+- estruturas e regiões periféricas documentadas na página atual.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Entidades
+A página associa entidades e fenômenos do nível ao ambiente hostil, mas o catálogo deve permanecer separado de manifestações que não tenham classificação própria.
 
+## Recursos
+Nenhum recurso convencional seguro é estabelecido. O ambiente não deve ser tratado como fonte de água ou alimento.
 
-## Atribuição
+## Bases
+Nenhuma base permanente consolidada na documentação atual.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Entradas
+A página atual documenta uma chegada por plataforma/área associada ao nível. Conexões adicionais devem ser mantidas apenas quando confirmadas pela fonte.
+
+## Saídas
+As saídas devem ser tratadas conforme a página atual e suas regiões específicas; nenhuma rota não confirmada é convertida em saída garantida.
+
+## Mídia
+- A página utiliza imagem de uma plataforma/área do Level 41.
+- Autoria e licença da mídia individual devem ser verificadas antes de redistribuição.
+
+## Auditoria
+O título oficial é The Black Lake, mas a descrição atual acessível enfatiza poços de piche/asfalto. Essa aparente discrepância foi preservada para futura reconciliação editorial, sem inventar uma explicação.
