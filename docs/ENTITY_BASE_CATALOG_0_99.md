@@ -1063,3 +1063,97 @@ Narrative structures include a ruined Base Alpha-like auditorium and a cabin bui
 - Descrita como amistosa, aberta a trocas e receptiva a novos membros.
 - Pode indicar a saída.
 
+
+## Levels 84–90
+
+### Level 84 — The Shifting Hedge Maze
+**Arquivo:** levels/level-84.md
+
+#### Entidades
+- Skin-Stealers são documentados como capazes de entrar nas zonas seguras.
+- Não há outra entidade documentada com o mesmo comportamento.
+- Detalhes de confronto não são reproduzidos.
+
+#### Bases / comunidades / instalações
+### M.E.G. Green Market Hub / Outer Market Hub / Wanderer Resting Areas
+- Postos distribuídos em zonas seguras.
+- Usados para descanso, comércio e apoio.
+- Alguns habitantes adaptaram móveis para moradia.
+
+### Level 85 — Brilliant Evermore
+**Arquivo:** levels/level-85.md
+
+#### Entidades
+- RoboPets são a única forma de entidade identificada pela página atual.
+- São máquinas móveis presentes em parte das mansões.
+- O texto atribui comportamento hostil e alta capacidade de perseguição.
+- Detalhes de confronto e vulnerabilidades foram omitidos.
+
+#### Bases / comunidades / instalações
+- Nenhuma comunidade permanente claramente confirmada.
+- Há estruturas habitáveis espalhadas.
+- Uma possível instalação militar é mencionada de forma redigida; não tratá-la como base confirmada.
+
+### Level 86 — Rivergate Tower
+**Arquivo:** levels/level-86.md
+
+#### Entidades
+- Facelings são os principais habitantes anômalos documentados.
+- Sob o efeito associado ao Level 11, apresentam comportamento cotidiano.
+- Esse comportamento não deve ser generalizado para outros níveis.
+
+#### Bases / comunidades / instalações
+### Britagne Royaume
+- Grupo residente no 14º andar.
+- Origem histórica atribuída a pessoas presas no Backrooms durante o século XII.
+- Liderança atribuída a Arthur I, Duke of Brittany.
+- Relação com visitantes descrita como hostil e sem comércio regular.
+- Não é uma base da M.E.G.
+
+### Level 87 — Hallways of Time
+**Arquivo:** levels/level-87.md
+
+#### Entidades
+- Nenhuma entidade nativa confirmada.
+- Fenômeno central é temporal.
+
+#### Bases / comunidades / instalações
+- Nenhuma base ou comunidade confirmada.
+
+### Level 88 — Muted Lake
+**Arquivo:** levels/level-88.md
+
+#### Entidades
+- Um registro M.E.G. apresenta uma massa escura/amórfica sob a água.
+- Natureza e classificação permanecem não confirmadas.
+- Não associar automaticamente a uma entidade numerada.
+
+#### Bases / comunidades / instalações
+- Nenhuma.
+- Após o registro recuperado, a M.E.G. declarou o nível inabitável.
+
+### Level 89 — Dreaded Park
+**Arquivo:** levels/level-89.md
+
+#### Entidades
+- Presença associada à aparência de uma criança/personagem chamado Byron.
+- Relatos de uma presença observadora.
+- Fenômeno parasitário associado a alterações de memória/comportamento aparece na narrativa.
+- Personagem, entidade e fenômeno não devem ser automaticamente tratados como a mesma coisa.
+
+#### Bases / comunidades / instalações
+- Base Alpha e instalações da M.E.G. aparecem como pontos externos de investigação.
+- Nenhuma base permanente e segura dentro do Level 89 é confirmada.
+
+### Level 90 — Newly Renovated Home
+**Arquivo:** levels/level-90.md
+
+#### Entidades
+- Nenhuma entidade nativa confirmada na versão atual.
+- Death Rats são citados como infestação histórica removida durante a reforma.
+- Portanto: presença histórica, não população atual confirmada.
+
+#### Bases / comunidades / instalações
+- Nenhuma base formal.
+- A casa tem potencial de habitação, mas não há comunidade estabelecida confirmada.
+
