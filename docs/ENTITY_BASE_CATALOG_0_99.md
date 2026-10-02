@@ -257,3 +257,74 @@ Nenhuma população de entidades residente é estabelecida pela versão atual. N
 #### Bases / comunidades / instalações
 O B.N.T.G. Free Home Project é associado ao andar 283.
 
+
+## Levels 14–20
+
+### Level 14 — Paradise
+**Arquivo:** levels/level-14.md
+
+#### Entidades
+Nenhuma entidade catalogada como espécie residente. Ocupantes aparecem na narrativa, mas não devem ser convertidos em fichas de entidade sem confirmação.
+
+#### Bases / comunidades / instalações
+Não há base técnica confirmada. A seção de comunidades da página funciona principalmente como elemento narrativo.
+
+### Level 15 — Futuristic Halls
+**Arquivo:** levels/level-15.md
+
+#### Entidades
+Nenhuma entidade viva confirmada na versão atual. Há registros indiretos de Hounds, mas isso não comprova população ativa.
+
+#### Bases / comunidades / instalações
+Enric utilizou uma grande sala de controle como acampamento principal durante a exploração.
+
+### Level 16 — Altered Topography
+**Arquivo:** levels/level-16.md
+
+#### Entidades
+Light Guides são observados em quantidade incomum no estado ártico. Outros organismos podem existir, mas não há catálogo completo.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente confirmada. A instabilidade torna assentamentos de longo prazo pouco viáveis.
+
+### Level 17 — The Carrier
+**Arquivo:** levels/level-17.md
+
+#### Entidades
+### Imprints
+Duplicatas de viajantes que já exploraram o Level 17. A documentação descreve forte efeito psicológico ao observá-las.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto conhecido.
+
+### Level 18 — Memories
+**Arquivo:** levels/level-18.md
+
+#### Entidades
+### The Plush Dino
+Entidade rara semelhante a um dinossauro de pelúcia senciente. É descrita como capaz de orientar viajantes e fornecer suprimentos.
+
+#### Bases / comunidades / instalações
+### The Children
+Grupo de aproximadamente 20–25 pessoas que escolheu permanecer no nível. É uma comunidade residente, não uma base de exploração tradicional.
+
+### Level 19 — Attic Floorboards
+**Arquivo:** levels/level-19.md
+
+#### Entidades
+Nenhuma população residente foi confirmada nas versões arquivadas atualmente acessíveis. O brilho deve ser tratado como anomalia ambiental até que exista evidência para classificá-lo como entidade.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto permanente confirmado.
+
+### Level 20 — Boreas Structure
+**Arquivo:** levels/level-20.md
+
+#### Entidades
+A página registra ameaças e fenômenos associados às explorações. A documentação deste projeto não reproduz descrições violentas detalhadas.
+
+Explorações profundas levaram investigadores a associar o nível ao corpo celeste chamado Boreas.
+
+#### Bases / comunidades / instalações
+Nenhum posto permanente é mantido atualmente. O M.E.G. abandonou planos de estabelecer um posto devido aos riscos documentados.
+
