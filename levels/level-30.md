@@ -2,40 +2,82 @@
 
 ## Metadados
 - **Número:** 30
-- **Título no índice oficial em 2026-10-01:** Shifted Beyond Reality
-- **Estado editorial:** open-to-rewrite
+- **Título:** Shifted Beyond Reality
+- **Estado editorial em 2026-10-01:** open-to-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-30
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 30. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 30 está aberto para reescrita e sua própria página contém múltiplas versões contraditórias do que seria sua realidade.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Forma falsa
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+Uma descrição inicial mostra um céu diurno com ilhas enormes, planas e muito distantes umas das outras.
 
+## Memory Lurkers
+
+Entidades pequenas e voadoras chamadas **Memory Lurkers** interferem diretamente na percepção.
+
+Elas podem:
+- controlar a experiência sensorial;
+- alterar memórias;
+- criar uma realidade falsa;
+- convencer a vítima de que ainda está vivendo normalmente.
+
+## Entidades adicionais
+
+A versão inicial cita:
+- Smilers ocasionais;
+- Wormlings;
+- possíveis Birds.
+
+## O próprio Level
+
+Registros posteriores sugerem que o próprio Level 30 é uma entidade consciente.
+
+Ele se comunica por:
+- ambiente;
+- pensamentos;
+- memórias;
+- sensação de presença.
+
+## Forma verdadeira
+
+A documentação considera a “forma real” desconhecida ou incompreensível.
+
+O ambiente visível pode ser apenas uma camada criada pelos Memory Lurkers e pelo próprio Level.
+
+## Percepção
+
+Relatos descrevem:
+- sensação de realidade artificial;
+- ambiente semelhante a cenário;
+- distorções;
+- lembranças forçadas;
+- nostalgia transformada em medo.
+
+## Bases
+
+Não existem bases estáveis atuais.
+
+Um antigo posto teria sido destruído pelos efeitos das entidades.
+
+## Entradas
+
+A versão atual cita acesso via:
+- Level 843;
+- objeto glitchado no andar 30 do Level 696.
+
+## Saídas
+
+Nenhuma saída confirmada.
+
+## Estado da pesquisa
+
+Síntese das múltiplas revisões concluída. Não tratar aparência visual como fato definitivo enquanto o artigo estiver aberto para reescrita.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

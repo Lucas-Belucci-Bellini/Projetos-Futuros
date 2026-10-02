@@ -1,62 +1,58 @@
 # Status de pesquisa
 
-Data-base inicial: **2026-10-01**
+Data-base: **2026-10-01**
 
-## Marco 1 — Fundação
+## Fundação
+- [x] Branch isolada.
+- [x] 100 arquivos Level.
+- [x] Rust.
+- [x] HTML/CSS.
+- [x] Arquitetura.
+- [x] Licença e atribuição.
 
-- [x] Branch isolada criada.
-- [x] 100 arquivos Markdown.
-- [x] URLs oficiais.
-- [x] Estados editoriais.
-- [x] Arquitetura e licença.
-- [x] Rust inicial.
-- [x] HTML/CSS inicial.
+## Cobertura aprofundada
 
-## Marco 2 — Levels 0–10
+### Levels 0–10
+- [x] 0–10
 
-- [x] Level 0
-- [x] Level 1
-- [x] Level 2
-- [x] Level 3
-- [x] Level 4
-- [x] Level 5
-- [x] Level 6
-- [x] Level 7
-- [x] Level 8
-- [x] Level 9
-- [x] Level 10
+### Levels 11–20
+- [x] 11–20
 
-## Marco 3 — Levels 11–20
+### Levels 21–30
+- [x] Level 21 — quatro corredores, portas e Exit Door.
+- [x] Level 22 — estacionamento, Emstable e ruínas; em reescrita.
+- [x] Level 23 — superorganismo, floresta, cavernas e ecossistema.
+- [x] Level 24 — sistema solar plástico e projeto Bluehole.
+- [x] Level 25 — fliperama-hub; em reescrita.
+- [x] Level 26 — SS Fun / Adventure, no-clip móvel e Partygoers.
+- [x] Level 27 — fonte termal; aberto para reescrita.
+- [x] Level 28 — Stormstone Circle, raios e fenômenos.
+- [x] Level 29 — Hyperian, ilha, oceanos e civilização; em reescrita.
+- [x] Level 30 — realidade falsa, Memory Lurkers e Level senciente; aberto para reescrita.
 
-- [x] Level 11 — cidade, autossuficiência, fluidez, hub, Level 11 Effect, população e grupos.
-- [x] Level 12 — autocensura, documentação, efeitos cognitivos, entradas e saídas.
-- [x] Level 13 — apartamentos, 290 andares, regeneração e habitabilidade.
-- [x] Level 14 — ambiente, efeito psicológico e atualização recente.
-- [x] Level 15 — corredores futuristas, máquinas, computadores e Level 15.1; artigo em reescrita.
-- [x] Level 16 — múltiplas topografias e política de arquivamento.
-- [x] Level 17 — porta-aviões, Imprints e camadas; artigo em reescrita.
-- [x] Level 18 — memórias personalizadas, Plush Dino e comunidade; aberto para reescrita.
-- [x] Level 19 — sótãos, decadência, brilho e histórico de revisões; em reescrita.
-- [x] Level 20 — Waiting Halls, Electric, substância laranja, Boreas e alerta do M.E.G.
+## Métricas atuais
 
-## Estado geral
-
-- Estrutura: 100/100.
-- Primeira expansão aprofundada: 21/100 Levels.
-- Levels com conteúdo provisório por reescrita: documentados explicitamente.
-- JavaScript: 0 arquivos.
-- Código principal: Rust.
-- Interface: HTML + CSS.
+- Arquivos Level existentes: **100/100**
+- Levels com primeira expansão aprofundada: **31/100**
+- JavaScript: **0**
+- Código: **Rust**
+- Frontend estático: **HTML + CSS**
 
 ## Próximo marco
 
-Levels 21–30.
+**Levels 31–40**
 
-Também está planejada uma segunda passagem nos Levels já cobertos para:
-1. entradas e saídas completas;
-2. entidades completas;
-3. comunidades completas;
-4. subseções e páginas relacionadas;
-5. histórico de revisões;
-6. autoria/licença específica por página;
-7. índice automático gerado em Rust.
+## Segunda passagem futura
+
+Cada Level já coberto receberá posteriormente:
+- entradas completas;
+- saídas completas;
+- entidades completas;
+- bases/comunidades;
+- fenômenos;
+- objetos;
+- páginas relacionadas;
+- autoria individual;
+- histórico editorial;
+- notas de divergência entre índice e página;
+- nível de completude calculado por Rust.

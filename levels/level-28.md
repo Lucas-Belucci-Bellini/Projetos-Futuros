@@ -2,40 +2,68 @@
 
 ## Metadados
 - **Número:** 28
-- **Título no índice oficial em 2026-10-01:** Final Virtue
-- **Estado editorial:** current
+- **Título:** Final Virtue
+- **Estado editorial em 2026-10-01:** current
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-28
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Visão geral
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 28. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 28 é estruturado em torno de um território com clima hostil, uma fortificação central e fenômenos periódicos associados a tempestades e estruturas megalíticas.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Stormstone Circle
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+Aproximadamente 1,6 km da fortificação existe um círculo composto por seis pedras verticais.
 
+Cada pedra possui:
+- uma runa;
+- uma descrição associada a uma virtude ou conceito.
+
+Os registros atuais relacionam as seis pedras a:
+- Prudence;
+- Hope;
+- Faith;
+- Fortitude;
+- Justice;
+- Charity.
+
+## Reconstrução
+
+Quando danificadas de maneira significativa, as pedras recuperam parcialmente sua integridade sem observação direta do processo.
+
+Elas não voltam necessariamente ao estado original.
+
+## Raios
+
+Descargas elétricas atingem sete zonas localizadas ao redor da área segura.
+
+Os impactos acontecem em intervalos regulares de aproximadamente uma hora.
+
+Essa regularidade permite usar os raios como sistema de contagem temporal.
+
+## Ciclo diário
+
+Vinte e quatro descargas correspondem aproximadamente a um “dia” percebido pelos habitantes.
+
+## Ameaças
+
+O artigo documenta perigos ambientais e fenômenos capazes de afetar fisicamente pessoas expostas por longos períodos.
+
+## Importância narrativa
+
+Level 28 possui uma das documentações mais extensas entre os Levels iniciais, com:
+- história;
+- estruturas;
+- eventos;
+- fenômenos;
+- comunidades;
+- arquivos de exploração.
+
+## Estado da pesquisa
+
+Primeira expansão estrutural concluída. Este Level exigirá uma segunda passagem própria devido ao grande volume da página.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

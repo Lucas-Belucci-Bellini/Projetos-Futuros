@@ -2,40 +2,70 @@
 
 ## Metadados
 - **Número:** 29
-- **Título no índice oficial em 2026-10-01:** Hyperian
-- **Estado editorial:** under-rewrite
+- **Título:** Hyperian
+- **Estado editorial em 2026-10-01:** under-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-29
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 29. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O artigo está sendo reescrito.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+A versão atual apresenta Level 29 como um vasto oceano contendo uma ilha habitada e fortemente defendida.
 
+## Ilha
+
+O território habitável é protegido por:
+- penhascos;
+- encostas íngremes;
+- formações de rocha e metal;
+- cadeias montanhosas.
+
+## Água
+
+As montanhas produzem fluxos de Almond Water que descem em rios.
+
+## Divisão territorial
+
+A população distingue três grandes regiões:
+- outer areas — oceanos externos;
+- outer circle — áreas da ilha fora da proteção montanhosa;
+- inner circle — regiões internas protegidas pelas montanhas.
+
+## Assentamentos
+
+Entre as montanhas existem:
+- pequenas cidades;
+- campos agrícolas;
+- fazendas;
+- cabanas;
+- infraestrutura de produção de alimentos.
+
+## Defesa
+
+No outer circle aparecem:
+- postos;
+- cabanas;
+- torres de vigia;
+- posições elevadas.
+
+## Exterior
+
+As áreas marítimas externas são tratadas como extremamente perigosas.
+
+Há relatos de entidades enormes nas regiões afastadas.
+
+## Sociedade
+
+O texto é escrito parcialmente a partir da perspectiva da civilização local, que considera a ilha seu lar e projeto de futuro.
+
+## Estado da pesquisa
+
+Síntese da versão atual concluída. Como a página está em reescrita, estrutura política, população, história, entidades e rotas devem ser reconferidas.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

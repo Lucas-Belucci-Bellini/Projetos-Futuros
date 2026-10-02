@@ -2,40 +2,68 @@
 
 ## Metadados
 - **Número:** 25
-- **Título no índice oficial em 2026-10-01:** The Quarter Hub
-- **Estado editorial:** under-rewrite
+- **Título:** The Quarter Hub
+- **Estado editorial em 2026-10-01:** under-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-25
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 25. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O índice oficial marca o Level 25 como em reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+A versão histórica acessível apresenta um grande fliperama abandonado e parcialmente saqueado.
 
+## Salas principais
+
+O ambiente contém grandes salas com:
+- máquinas de arcade;
+- paredes altas;
+- poeira;
+- prateleiras;
+- grande reverberação sonora.
+
+## Áreas de serviço
+
+Corredores menores podem conter:
+- caixas;
+- boilers antigos;
+- alimentos;
+- Almond Water;
+- outros suprimentos.
+
+## Dimensões estimadas
+
+Explorações antigas estimaram aproximadamente:
+- 8,5 milhas de norte a sul;
+- 9,2 milhas de leste a oeste.
+
+## Máquinas de arcade
+
+A maioria está:
+- quebrada;
+- desmontada;
+- saqueada;
+- inutilizada.
+
+Uma proporção muito pequena ainda funciona.
+
+## Quartos e transporte
+
+Máquinas operacionais podem aceitar moedas e transportar o usuário para destinos predeterminados em outros Levels.
+
+Essa função transforma o Level 25 em um tipo incomum de hub.
+
+## Moedas
+
+Quarters podem ser encontrados em caixas e cantos, servindo como recurso essencial para ativar as máquinas funcionais.
+
+## Estado da pesquisa
+
+A versão histórica foi sintetizada, mas qualquer sistema de destinos, comunidades ou regras deve ser reconferido após a reescrita.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
