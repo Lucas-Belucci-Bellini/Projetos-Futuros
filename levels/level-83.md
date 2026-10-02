@@ -1,41 +1,70 @@
-# Level 83 — 𝓣𝓱𝓮 𝓢𝓾𝓷𝓴𝓮𝓷 𝓢𝓾𝓫𝓶𝓪𝓻𝓲𝓷𝓮
+# Level 83 — The Sunken Submarine
 
-## Metadados
-- **Número:** 83
-- **Título no índice oficial em 2026-10-01:** 𝓣𝓱𝓮 𝓢𝓾𝓷𝓴𝓮𝓷 𝓢𝓾𝓫𝓶𝓪𝓻𝓲𝓷𝓮
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-83
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 83
+- Título atual: The Sunken Submarine
+- Estado editorial: trimmed/open for rewrite; página marcada outdated.
+- Classe histórica: 0.
+- Elemento central: submarino USS Ace of Spades (SSN 744).
 
-## Escopo de documentação
+## Aparência
+- Submarino afundado em oceano aparentemente infinito.
+- Repousa no fundo oceânico, dentro de vale rochoso subaquático.
+- Profundidade estimada: aproximadamente 600 m.
+- Interior preservado; iluminação e aparelhos funcionam.
+- Berth com colchões e cantina com sofá, mesas metálicas e cadeiras.
+- Janelas laterais anômalas permitem observar o exterior.
+- Visibilidade externa limitada pela profundidade.
+- Peixes do Pacífico são observados através das janelas.
+- O reator é descrito como operacional; nenhum procedimento técnico é reproduzido.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 83. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Semelhante a um submarino Los Angeles-class, mas com diferenças anômalas.
+- Áreas confirmadas: berth, cantina, cozinhas e espaços internos de operação.
+- Oceano e vale não foram completamente explorados.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+### The Great Observer
+- Entidade aquática gigantesca associada às águas externas.
+- Comparada pela fonte a um cefalópode colossal.
+- Geralmente observadora/passiva.
+- Pode produzir correntes e movimentar o submarino.
+- Observa os habitantes através das janelas.
+- Alimentação e território completo não confirmados.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Água engarrafada e alimentos armazenados no submarino são descritos como reabastecíveis.
+- Colchões e instalações permitem permanência prolongada.
+- Quantidade e limites exatos não são independentes.
 
+## Bases
+### Crew of the USS Ace of Spades
+- Comunidade permanente dentro do submarino.
+- Tamanho relatado: 20–100 membros.
+- Mantém alimentos e água.
+- Descrita como amistosa, aberta a trocas e receptiva a novos membros.
+- Pode indicar a saída.
 
-## Atribuição
+## Entradas
+- Conexão com Level 7.
+- O relato histórico descreve transição durante exploração subaquática em Level 7, com despertar dentro do submarino.
+- O relato não deve ser convertido em instrução prática de mergulho.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- Escotilha de escape é a saída principal descrita.
+- Permanência no oceano exterior por tempo suficiente resulta em transição para Level 7, segundo a fonte.
+- A comunidade também pode mostrar a saída.
+
+## Mídia
+- Imagem externa do USS Ace of Spades.
+- Imagens do berth e do interior.
+- Licença individual deve ser verificada antes de reutilização.
+
+## Auditoria
+- Canon: histórico/trimmed.
+- Aparência: muito detalhada para o submarino; oceano externo incompleto.
+- Entidade: Great Observer.
+- Base: Crew of the USS Ace of Spades.
+- Conectividade: Level 7 confirmada; demais rotas não consolidadas.
+- Pendência: acompanhar eventual rewrite.
+- Fonte: https://backrooms-wiki.wikidot.com/level-83.
