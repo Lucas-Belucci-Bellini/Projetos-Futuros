@@ -1,6 +1,6 @@
 # Status de pesquisa — Backrooms Levels 0–99
 
-Data-base: 2026-10-01.
+Data-base: 2026-10-02.
 
 ## Primeira passagem
 - [x] 0–10
@@ -19,22 +19,22 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 ## Segunda passagem
 
 ### Concluída
-- [x] 0–3 — schema completo e revisão inicial.
-- [x] 4–10 — schema completo.
-- [x] 91–99 — schema completo e revisão inicial.
-- [x] Subníveis 78, 93/Polden Point, 94.1 e 97.5.
+- [x] 0–3
+- [x] 4–10
+- [x] 11–15
+- [x] 16–25
+- [x] 26–30
+- [x] 31–40
+- [x] 41–50
+- [x] 51–60
+- [x] 61–70
+- [x] 71–80
+- [x] 81–90
+- [x] 91–99
+- [x] Subníveis já levantados: 11.1, 11.2, 15.1, 36.1, 37.1, 46.1, 48.1/Ground 48.1, 49.1, 49.2, 51.2, 63.3, 78/Ad Astra, 93/Polden Point, 94.1, 97.5, The Enclave e Profane Burial Site.
 
-### Em andamento
-- [ ] 11–20
-- [ ] 21–30
-- [ ] 31–40
-- [ ] 41–50
-- [ ] 51–60
-- [ ] 61–70
-- [ ] 71–80
-- [ ] 81–90
-- [ ] Revisar todos os subníveis existentes.
-- [ ] Expandir subníveis ainda somente referenciados em páginas principais.
+### O que ainda não significa “100%”
+A segunda passagem estrutural está concluída para os níveis principais, mas a auditoria global de mídia, subníveis e conectividade ainda possui pendências.
 
 ## O que cada segunda passagem verifica
 1. Identidade, título, estado editorial e fonte.
@@ -48,154 +48,40 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 9. Mídia com autor, origem, licença e status.
 10. Canon/histórico e divergências entre versões.
 
-## Divergências preservadas
-- 4: under rewrite.
-- 6: trimmed/open for rewrite.
-- 7: trimmed/open for rewrite.
+## Estado editorial relevante
+- 4, 6, 7: páginas trimmed/open for rewrite ou históricas conforme índice.
 - 51: under rewrite.
-- 52: trimmed/open for rewrite.
-- 54: trimmed/open for rewrite.
+- 52, 54, 56: trimmed/open for rewrite.
 - 55: Pit Stop atual; Land of Ice histórica.
-- 56: trimmed/open for rewrite.
 - 59: Drownsong atual; The Backway histórica.
-- 63: trimmed/open for rewrite.
-- 64: trimmed/open for rewrite.
-- 65: trimmed/open for rewrite.
-- 67: trimmed/open for rewrite.
+- 63, 64, 65, 67: trimmed/open for rewrite.
 - 68: under rewrite.
-- 78: trimmed/open for rewrite; Ad Astra separado.
-- 83–87: várias páginas trimmed/open for rewrite.
+- 71, 74, 78, 83, 84, 86, 87: trimmed/open for rewrite.
 - 93: under rewrite; Polden Point separado.
-- 97: trimmed/open for rewrite; 97.5 separado.
-- 98–99: trimmed/open for rewrite.
+- 97, 98, 99: trimmed/open for rewrite.
 
 ## Mídia
-- [x] Catálogos 51–60, 71–80 e 81–90.
+- [x] Catálogos 51–60.
+- [x] Catálogos 61–70.
+- [x] Catálogos 71–80.
+- [x] Catálogo 81–90.
 - [x] Catálogo 91–99.
-- [ ] Catálogo 04–10.
-- [ ] Completar 0–3.
-- [ ] Completar 11–50.
-- [ ] Completar 61–70.
-- [ ] Completar mídia dos subníveis.
+- [ ] Auditoria individual completa de 0–50.
+- [ ] Auditoria individual completa de 61–70.
+- [ ] Auditoria individual completa de 71–90.
+- [ ] Auditoria individual completa dos subníveis.
 
 ## Conectividade
-- [x] Segunda passagem 91–99.
-- [x] Segunda passagem inicial 4–10.
-- [ ] Extrair todas as arestas 0–90.
-- [ ] Separar entradas e saídas de subníveis.
-- [ ] Adicionar confiança/proveniência a cada aresta.
+- [x] Grafo inicial e segunda passagem para vários blocos 4–80.
+- [x] Arestas 81–90 levantadas no nível de detalhe disponível.
+- [ ] Consolidar confiança/proveniência em todas as arestas.
+- [ ] Extrair todas as arestas externas a 0–99 citadas pelos níveis.
+- [ ] Separar definitivamente entrada, saída, rota bidirecional e rota histórica.
 
 ## Próximas frentes
-1. Revisar 11–20.
-2. Criar/expandir catálogos de entidades e bases.
-3. Expandir subníveis 0–99.
-4. Completar conectividade 0–99.
-5. Rodar o validador Rust e corrigir gaps estruturais.
-
-
-## Segunda-passagem — 11–15
-- [x] Level 11 normalizado no schema completo
-- [x] Level 12 normalizado no schema completo
-- [x] Level 13 normalizado no schema completo
-- [x] Level 14 normalizado no schema completo
-- [x] Level 15 normalizado no schema completo
-- [x] Level 11.1 documentado
-- [x] Level 11.2 documentado
-- [x] Level 15.1 documentado
-- [x] Catálogo de mídia 11–15 iniciado
-- [ ] Auditoria individual de todas as imagens de 11, 13 e 15
-- [ ] Subníveis restantes de 11: 11.3, AFTER HOURS, The Headquarters e Radio Backrooms' Studio
-
-
-## Segunda-passagem — Levels 16–25
-- [x] Level 16 — schema completo e estados históricos separados
-- [x] Level 17 — schema completo; estado under rewrite preservado
-- [x] Level 18 — schema completo; estado trimmed/open for rewrite preservado
-- [x] Level 19 — schema completo; histórico separado da futura reescrita
-- [x] Level 20 — schema completo; Fun Zone/Boreas Structure preservados
-- [x] Level 21 — schema completo; portas e conectividade detalhadas
-- [x] Level 22 — schema completo; cronologia de Emstable separada do presente
-- [x] Level 23 — schema completo; Glow Rooms, Ancient Ruins, Heart of Water e Base Seedling
-- [x] Level 24 — schema completo; corpos celestes, entidades, entradas e saída
-- [x] Level 25 — schema completo; arcade/hub e estado under rewrite
-- [x] Catálogo de mídia 16–25 criado
-- [ ] Auditoria individual de toda a mídia de 16, 18, 19, 20, 23, 24 e 25
-- [ ] Subníveis relacionados a 16–25 ainda precisam ser levantados no índice e documentados
-
-
-## Segunda-passagem — Levels 26–30
-- [x] Level 26 — schema completo
-- [x] Level 27 — schema completo e mídia identificada
-- [x] Level 28 — schema completo
-- [x] Level 29 — schema completo; estado under rewrite preservado
-- [x] Level 30 — schema completo; versões históricas separadas
-- [x] Catálogo de mídia 26–30 criado
-- [ ] Auditoria individual das imagens de 26, 28, 29 e 30
-- [ ] Subníveis e páginas relacionadas a 26–30 ainda precisam ser levantados
-
-
-## Segunda-passagem — Levels 31–35
-- [x] Level 31 — schema completo, atual/histórico separados
-- [x] Level 32 — schema completo, rewrite preservado
-- [x] Level 33 — schema completo, regiões profundas mantidas como históricas
-- [x] Level 34 — schema completo, conectividade histórica separada
-- [x] Level 35 — schema completo, rewrite preservado
-- [x] Catálogo de mídia 31–35 criado
-- [ ] Auditoria individual de mídia de 32 e da imagem de entrada de 35
-- [ ] Levantamento de subníveis relacionados a 31–35
-
-
-## Segunda-passagem — Levels 36–40
-- [x] Level 36 — schema completo e conexões atuais
-- [x] Level 36.1 — subnível documentado
-- [x] Level 37 — schema completo
-- [x] Level 37.1 — subnível documentado
-- [x] Level 38 — Interior/Exterior, base histórica e conectividade
-- [x] Level 39 — Borders, fenômeno, entradas/saídas e mídia
-- [x] Level 40 — arcade, entidades, Pat, instalações e conectividade
-- [x] Catálogo de mídia 36–40 criado
-- [ ] Auditoria individual das mídias ainda sem licença confirmada
-
-
-## Segunda-passagem — Levels 41–50
-- [x] Levels 41–50 reestruturados no schema padrão.
-- [x] Level 46.1 documentado.
-- [x] The Profane Burial Site documentado.
-- [x] Ground 48.1 documentado.
-- [x] The Enclave documentado.
-- [x] Level 49.1 documentado.
-- [x] Level 49.2 documentado.
-- [x] Catálogo de mídia 41–50 criado.
-- [x] Grafo de conectividade 41–50 atualizado.
-- [ ] Licenças individuais de mídias ainda não confirmadas em vários níveis.
-- [ ] Revisão final dos subníveis 41–50 e reconciliação com versões históricas.
-
-
-## Segunda-passagem — Levels 51–60
-- [x] Levels 51–60 padronizados no schema de 10 seções.
-- [x] Level 51.2 — Her Cradle documentado.
-- [x] Entidades, recursos, bases/instalações e conectividade existentes foram revisados.
-- [x] Catálogo de mídia 51–60 atualizado.
-- [x] Grafo de conectividade 51–60 atualizado.
-- [ ] Licenças individuais de mídia ainda pendentes em vários níveis.
-- [ ] Level 55 requer extração detalhada da conectividade da versão atual.
-- [ ] Level 59 requer tratamento editorial cuidadoso porque entradas/saídas são narrativas.
-- [ ] Verificação final de mapas e subníveis ainda pendente.
-
-
-## Segunda-passagem — Levels 61–70
-- [x] Level 61 — schema completo, comunidades e fenômeno Members-Only Course registrados
-- [x] Level 62 — schema completo e conectividade registrada
-- [x] Level 63 — schema completo; estado trimmed preservado
-- [x] Level 63.3 — subnível documentado separadamente
-- [x] Level 64 — schema completo; estado trimmed preservado
-- [x] Level 65 — schema completo; conteúdo gráfico resumido
-- [x] Level 66 — schema completo e mídia com licenças individuais
-- [x] Level 67 — schema completo; estado trimmed preservado
-- [x] Level 68 — schema completo; under rewrite preservado
-- [x] Level 69 — schema completo e rotas confirmadas/separadas de rumores
-- [x] Level 70 — schema completo; urbanismo, astronomia, comunidades e conectividade
-- [x] Catálogo de mídia 61–70 criado
-- [ ] Auditoria individual pendente de mídia 62–65, 67–70
-- [ ] Subníveis restantes deste intervalo ainda precisam ser levantados no índice
-- [x] Grafo de conectividade 61–70 atualizado
+1. Fechar o bloco 71–90 no grafo.
+2. Levantar subníveis que ainda só aparecem como referências.
+3. Completar auditoria individual de mídia.
+4. Criar catálogos globais de entidades, bases e instalações.
+5. Rodar o validador Rust em todos os Markdown.
+6. Fazer uma passagem de consistência entre arquivos e grafo.
