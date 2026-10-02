@@ -1,41 +1,37 @@
 # Level 34 — Sewer System
 
-## Metadados
-- **Número:** 34
-- **Título no índice oficial em 2026-10-01:** Sewer System
-- **Estado editorial:** under-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-34
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 34
+- Título: Sewer System
+- Estado: under rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Sistema de esgoto subterrâneo com túneis estreitos, paredes parcialmente revestidas de tijolos, porções inferiores de pedra, água corrente e ausência de iluminação interna. A versão histórica descreve apenas alguns pés entre piso e teto na região principal.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 34. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+A rede documentada possui túneis, galerias, grades, possíveis salas de junção, passagens superiores e conexões verticais. Algumas versões associam regiões aquáticas a outros níveis.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+Smilers são mencionados na versão histórica. Outras entidades aparecem em relatos antigos, mas não existe catálogo atual consolidado devido à reescrita.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+Nenhum inventário confiável de recursos de sobrevivência. Água e infraestrutura de esgoto são elementos ambientais, não recursos automaticamente seguros para consumo.
 
+## Bases
+Nenhuma base, comunidade ou posto confirmado.
 
-## Atribuição
+## Entradas
+- Level 33 por conexão histórica;
+- outras conexões de versões anteriores precisam de revalidação.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+A documentação histórica registra conexões envolvendo Levels 289, 4, 0, 99, 138 e uma região associada ao Level 3-1. Todas ficam classificadas como históricas/provisórias enquanto a página estiver em rewrite.
+
+## Mídia
+- level34.jpg — Brighton Sewer Tour — Dominic Alves — CC BY 2.0.
+- Discussão da equipe registra que a imagem anterior foi substituída por uma imagem compatível com a política de licenciamento.
+
+## Auditoria
+A prioridade é registrar arquitetura, conectividade e estado editorial sem reproduzir instruções operacionais relacionadas a entidades.
