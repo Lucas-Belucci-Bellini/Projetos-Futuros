@@ -1,82 +1,48 @@
 # Level 20 — Boreas Structure
 
-## Metadados
-- **Número:** 20
-- **Título de referência:** Boreas Structure
-- **Estado editorial em 2026-10-01:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-20
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base desta revisão:** 2026-10-01
-- **Título no índice:** Fun Zone Boreas Structure
-- **Título da página atual:** Boreas Structure
+## Identidade
+- Número: 20
+- Título atual: Boreas Structure
+- Nome histórico: Fun Zone
+- Estado: current
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Divergência de nomenclatura
+## Aparência
+Estrutura de atividades de extensão desconhecida dividida principalmente em Waiting Halls e The Electric. Os Waiting Halls possuem arquitetura de lazer/atividade; The Electric utiliza concreto escuro, carpetes e iluminação neon.
 
-O índice oficial exibe **“Fun Zone Boreas Structure”**.
+## Estrutura
+### Waiting Halls
+Rede de corredores e áreas de espera. Uma substância gelatinosa alaranjada é descrita como caindo do teto em intervalos irregulares, sem origem estabelecida.
 
-A página atual usa **“Boreas Structure”** como título e explica que o local era conhecido como **Fun Zone**.
+### The Electric
+Conjunto de corredores que descem gradualmente. A temperatura diminui com a profundidade. Existem portas para salas de atividades.
 
-Este projeto preserva ambos os registros.
+## Entidades
+A página registra ameaças e fenômenos associados às explorações. A documentação deste projeto não reproduz descrições violentas detalhadas.
 
-## Visão geral
+Explorações profundas levaram investigadores a associar o nível ao corpo celeste chamado Boreas.
 
-O Level 20 é uma enorme instalação ou palácio de atividades de escala desconhecida.
+## Recursos
+Determinadas atividades podem recompensar o participante com alimentos ou Almond Water, conforme a documentação atual. Não é um recurso garantido para todas as áreas.
 
-## Regiões
+## Bases
+Nenhum posto permanente é mantido atualmente. O M.E.G. abandonou planos de estabelecer um posto devido aos riscos documentados.
 
-A documentação atual divide o nível em duas seções principais:
-- **The Waiting Halls**;
-- **The Electric**.
+## Entradas
+- portas azuis FUN ZONE nos Levels 2, 21 e 122;
+- edifícios do Level 11 chamados Fun Zone;
+- condição específica do Level 16 durante seu estado frio;
+- portas danificadas do Level 19, com baixa frequência.
 
-## Fenômenos sensoriais
+## Saídas
+- portas de funcionários nos Waiting Halls → Level 2;
+- no-clip por janelas dos Waiting Halls → Level 24 ou Level 78;
+- determinadas portas de atividades em The Electric → Levels 4, 21 ou 36;
+- algumas condições das atividades podem transportar o viajante para outros níveis, mas não são tratadas aqui como rota recomendada.
 
-Viajantes relatam:
-- alucinações auditivas de respiração;
-- som de ventos intensos;
-- visões de neve.
+## Mídia
+A página possui imagens dos Waiting Halls, The Electric e sinais associados às conexões. Autoria/licença individual deve ser verificada.
 
-## Substância alaranjada
-
-Uma substância gelatinosa laranja cai do teto em intervalos irregulares.
-
-A origem não é conhecida.
-
-Uma hipótese da página sugere no-clip a partir de outro Level ainda não identificado.
-
-## Boreas
-
-Registros de exploração levaram investigadores a adotar o nome **Boreas** para o corpo celeste ou mundo associado aos fenômenos descobertos.
-
-A partir disso, o nível passou a ser tratado como **Boreas Structure**.
-
-## Perigo
-
-A classificação atual é Class 4.
-
-Uma entidade ou ameaça observada durante explorações foi considerada suficientemente perigosa para encerrar futuras expedições oficiais.
-
-## Política do M.E.G.
-
-Segundo o artigo, planos de estabelecer um posto avançado foram abandonados.
-
-Como existem muitas entradas, bloquear completamente o acesso é considerado impraticável.
-
-A orientação pública é evitar o nível.
-
-## Importância
-
-O Level 20 é um exemplo em que a compreensão do ambiente mudou significativamente após exploração profunda, inclusive alterando a forma como a própria instalação é nomeada.
-
-## Próximas expansões
-
-Ainda devem ser resumidos:
-- Waiting Halls;
-- The Electric;
-- exploração completa;
-- entidade descoberta;
-- estrutura de Boreas;
-- entradas e saídas;
-- temperaturas e condições ambientais.
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O objetivo é reorganizar e explicar os fatos da página sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md` para a política completa de licença e uso de fontes.
+## Auditoria
+O índice usa “Fun Zone Boreas Structure”, enquanto a página usa “Boreas Structure”. O arquivo preserva os dois nomes para evitar perda de histórico editorial.
