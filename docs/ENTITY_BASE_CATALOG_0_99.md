@@ -1576,3 +1576,43 @@ Presença central na história do subnível, embora a narrativa destaque justame
 - Não há base humana formal.
 - Existem aldeias e estruturas habitadas pelos habitantes locais.
 
+
+## Sub-seções documentadas — lote 4
+
+### Level 97.5 — My Tears Are Becoming a Sea
+**Arquivo:** levels/level-97-5.md
+
+#### Entidades
+- Não há entidade catalogada separadamente.
+- O antigo faroleiro aparece como elemento narrativo associado ao livro e à história do farol.
+
+#### Bases / comunidades / instalações
+- Nenhuma base ou comunidade.
+
+### The Enclave
+**Arquivo:** levels/the-enclave.md
+
+#### Entidades
+Nenhuma entidade nativa é confirmada. A população é formada por habitantes humanos associados aos Eyes of Argos.
+
+#### Bases / comunidades / instalações
+The Enclave é uma instalação comunitária dos Eyes of Argos e funciona como ponto de apoio e produção para a organização.
+
+### The Profane Burial Site
+**Arquivo:** levels/the-profane-burial-site.md
+
+#### Entidades
+Wraiths são as manifestações sobrenaturais associadas ao local. A documentação registra sua existência de forma não gráfica.
+
+#### Bases / comunidades / instalações
+A principal estrutura de apoio é The Monastery, em Ground 46.1. Os Sons of Guilt e outros membros dos Eyes of Argos guardam o local segundo a narrativa.
+
+### Radio Backrooms' Studio
+**Arquivo:** levels/radio-backrooms-studio.md
+
+#### Entidades
+A página associa o estúdio a Ralph, descrito como a entidade responsável pela sala. Detalhes adicionais permanecem não documentados nesta auditoria.
+
+#### Bases / comunidades / instalações
+O próprio estúdio funciona como instalação de comunicação.
+
