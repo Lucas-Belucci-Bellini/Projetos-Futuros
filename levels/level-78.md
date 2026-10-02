@@ -1,41 +1,41 @@
 # Level 78 — Space Station
 
-## Metadados
-- **Número:** 78
-- **Título no índice oficial em 2026-10-01:** Space Station
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-78
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 78
+- Título: Space Station
+- Estado editorial: trimmed/open for rewrite
+- Fonte principal: Backrooms Wiki
+- Data-base: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Massive abandoned space station resembling the ISS, extending an unknown distance. No detectable gravity. Corridors, airlocks, hydroponic gardens, bathrooms, bedrooms and pod-bay rooms are in severe disrepair. Level 0 wallpaper appears on some walls. Plants can grow without sunlight and interact anomalously with station materials.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 78. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Regiões e pontos de interesse descritos na fonte devem permanecer separados por versão editorial.
+- A arquitetura principal é resumida acima; detalhes adicionais só entram quando confirmados pela página.
+- Subníveis e páginas relacionadas devem possuir arquivos próprios quando existirem.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+Clumps are associated with damaged space lavatories. Other entities require a separate audit; forum history mentions Null-06 as related to the level but this is not promoted to confirmed canon here.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+Hydroponic remnants, dehydrated rations, damaged sleeping bags and occasional station equipment. Resources are unreliable.
 
+## Bases
+M.E.G. research presence is associated with the level; no stable settlement confirmed.
 
-## Atribuição
+## Entradas
+Multiple historical entrances/exits exist and require full revalidation; current page is outdated.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+Historical exits and Ad Astra sublevel are kept separate. No single universal exit is asserted here.
+
+## Mídia
+Porthole view and station images; individual licensing pending. Ad Astra has its own media catalog.
+
+## Auditoria
+Trimmed/open for rewrite. Ad Astra remains a separate sublevel file.
+- Campos não confirmados permanecem explicitamente marcados como não documentados.
+- Não inferir bidirecionalidade entre entradas e saídas.
+- Não misturar versões current, trimmed, archived ou rewrite.
+- Conteúdo gráfico ou instruções perigosas da fonte são resumidos ou omitidos.
