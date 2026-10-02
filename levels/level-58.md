@@ -1,41 +1,41 @@
 # Level 58 — Water Wonder
-
-## Metadados
-- **Número:** 58
-- **Título no índice oficial em 2026-10-01:** Water Wonder
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-58
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 58. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Current
+- Fonte: https://backrooms-wiki.wikidot.com/level-58
+## Visão geral
+Parque aquático interno infinito dividido em **Waterparks**, **Corridors**, **Cafes** e **Store Rooms**.
+## Aparência
+### Waterparks
+Escorregadores plásticos, suportes metálicos enferrujados, tinta descascada, piscinas rasas sem água, azulejos azuis, concreto bege e barreiras de vidro sujas/quebradas.
+### Corridors
+Concreto cinza, teto de placas brancas, piso metálico barulhento, pouca iluminação. O ruído pode atrair entidades.
+### Cafes
+Mesas/cadeiras danificadas, balcões, caixas registradoras e máquinas de venda. Podem fornecer Almond Water, Lucky 'O' Milk e outros alimentos/bebidas.
+### Store Rooms
+Armazenam objetos variados e são usados pela comunidade local.
+## Comunidades
+**Tribe of Tegan:** grupo de seres semelhantes a bonecos que habita o Level.
+**B.N.T.G. Base Fruit Tegan Fairtrade:** base de pesquisa/recursos. A página informa aproximadamente 50 trabalhadores e relações com a Tribe of Tegan.
+## Entidades
+Smilers, Dullers e Windows; um Wretch é documentado em circunstância específica. A maior parte das entidades ocorre nos Corridors.
+## Entradas
+- No-clip em tubo plástico vermelho do Level 37 sob condição específica.
+- Usar a Level Key do 58 em uma porta.
+- Rasgar flyer do Water Wonder no Level 9.
+- Slides coloridos do Level 0: rumor não confirmado.
+## Saídas
+- Waterslide preto → Level 58.1.
+- Caixa marcada com 1 → Level 1.
+- Tubulação exposta nos Corridors → Office Space EL3A.
+## Auditoria
+- [x] Aparência
+- [x] Regiões
+- [x] Recursos
+- [x] Comunidade/base
+- [x] Entidades
+- [x] Entradas/saídas
+- [x] Sublevel
+- [ ] Mapa completo
+- [ ] Imagens/licenças
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.

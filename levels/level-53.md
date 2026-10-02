@@ -1,41 +1,28 @@
 # Level 53 — Alone
-
-## Metadados
-- **Número:** 53
-- **Título no índice oficial em 2026-10-01:** Alone
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-53
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 53. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Current
+- Fonte: https://backrooms-wiki.wikidot.com/level-53
+## Conceito
+Level 53 está ligado à casa de Allen Grady e ao registro “Attempt 53”.
+## Aparência
+Casa residencial aparentemente comum, com decoração doméstica e elementos deslocados após um evento anômalo. Uma porta vermelha teve papel central na descoberta.
+## História/fenômeno
+Allen relatou estar preso em sua própria casa. Uma equipe do M.E.G. localizou o caso durante exploração de Level 9, entrou pela porta e resgatou Allen. O local recebeu o nome Level 53 em referência à tentativa de comunicação.
+## Entidades
+Nenhuma entidade permanente é apresentada como foco central.
+## Bases
+Nenhuma base permanente; investigação ligada ao M.E.G.
+## Entradas
+A documentação histórica associa a entrada à porta residencial encontrada em Level 9.
+## Saídas
+O caso permitiu a Allen voltar a entrar e sair de sua residência.
+## Auditoria
+- [x] Aparência
+- [x] Fenômeno
+- [x] Entidades
+- [x] Investigação
+- [x] Entrada/saída
+- [ ] Mapa da casa
+- [ ] Catálogo completo de imagens
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.

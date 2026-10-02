@@ -1,41 +1,29 @@
 # Level 59 — Drownsong
-
-## Metadados
-- **Número:** 59
-- **Título no índice oficial em 2026-10-01:** Drownsong
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-59
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 59. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Current
+- Fonte: https://backrooms-wiki.wikidot.com/level-59
+## Divergência editorial
+A página atual é **Drownsong**. Uma versão anterior chamada **The Backway** foi arquivada/trimmed. Não misturar os dois conjuntos de dados.
+## Aparência
+Região costeira/limiar sob presença dominante da Lua. Praia, mar, espuma, água salgada, aves marinhas e horizonte são elementos recorrentes.
+## Natureza anômala
+A relação entre mar, lua, identidade e percepção é o eixo conceitual do Level. A página atual usa narrativa surreal em vez de uma descrição técnica convencional.
+## Entidades
+Não há catálogo convencional de entidades como foco do artigo atual.
+## Bases
+Nenhuma base ou comunidade permanente documentada.
+## Entradas e saídas
+A página atual apresenta as rotas de forma narrativa. Não converter metáforas em conexões não confirmadas.
+## Auditoria
+- [x] Aparência
+- [x] Fenômeno/tema
+- [x] Divergência com versão antiga
+- [x] Bases
+- [x] Entradas/saídas — sem inventar
+- [ ] Mapa
+- [ ] Catálogo de mídia/licenças
+- [ ] Grafo formal de conectividade
+## Regra
+A versão antiga The Backway deve ser preservada apenas como histórico, se o projeto decidir criar arquivo de versões.
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.

@@ -1,41 +1,34 @@
 # Level 60 — The Baywalk
-
-## Metadados
-- **Número:** 60
-- **Título no índice oficial em 2026-10-01:** The Baywalk
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-60
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 60. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Current
+- Fonte: https://backrooms-wiki.wikidot.com/level-60
+## Aparência
+Caminho de concreto ao lado de uma baía, sem ciclo diurno.
+### Upper Area
+Passarela de concreto, postes, muitas luzes quebradas/desligadas e escuridão.
+### Lower Area
+Caminho de terra, equipamentos de construção espalhados, escadas para o Upper Area e menor concentração de entidades.
+### The Sea
+Mar semelhante ao Frontrooms, mas com propriedades anômalas e comportamento de portal em determinadas condições.
+## Fenômeno — Painless Death
+A brisa pode produzir sensação intensa de relaxamento e reduzir a percepção do perigo. O fenômeno é especialmente forte no Upper Area.
+## Entidades
+Smilers são especialmente comuns no Upper Area e concentram-se perto de fontes de luz.
+## Comunidade
+**The Brave:** grupo de aproximadamente 10 membros, dedicado a orientar viajantes e manter a Lower Area. A localização do grupo muda devido ao risco.
+## Entrada
+Drowning em Level que contenha mar/oceano pode levar ao Level 60 sob condições específicas.
+## Saídas
+Uma característica específica de The Sea pode levar ao Level 7. Dormir no Upper Area é associado a uma hipótese de acesso ao Level 61, ainda não comprovada.
+## Auditoria
+- [x] Aparência
+- [x] Segmentos
+- [x] Fenômeno
+- [x] Entidades
+- [x] Comunidade
+- [x] Entrada/saídas
+- [ ] Mapa
+- [ ] Imagens/licenças
+- [ ] Histórico completo
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.

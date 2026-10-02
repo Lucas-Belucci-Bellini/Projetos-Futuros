@@ -2,92 +2,40 @@
 
 ## Metadados
 - **Número:** 49
-- **Título:** The Unfilled River of Phlegethon
-- **Estado editorial em 2026-10-01:** current
+- **Título no índice oficial em 2026-10-01:** The Unfilled River of Phlegethon
+- **Estado editorial:** current
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-49
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+- **Fonte principal do projeto:** Backrooms Wiki
+- **Data-base desta documentação:** 2026-10-01
 
-## Visão geral
+## Escopo de documentação
 
-O Level 49 é um campo de batalha infinito inspirado em sistemas de trincheiras da Primeira Guerra Mundial.
+Este documento foi criado para reunir, em português, uma síntese estruturada do Level 49. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
 
-## Área acessível
+### Tópicos que devem ser mantidos neste arquivo
+- descrição geral e identidade visual;
+- arquitetura, geografia e escala aparente;
+- condições ambientais;
+- fenômenos anômalos;
+- ameaças e perigos conhecidos;
+- entidades mencionadas;
+- recursos e objetos;
+- bases, postos avançados e comunidades;
+- entradas;
+- saídas;
+- subníveis, áreas, salas ou regiões relacionadas;
+- notas históricas e mudanças editoriais;
+- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
 
-Embora o Level seja descrito como infinito, viajantes permanecem restritos ao sistema de trincheiras.
+### Regras de pesquisa
+1. Sempre conferir a página oficial antes de ampliar este arquivo.
+2. Reescrever em linguagem própria.
+3. Não adicionar fatos que não estejam sustentados pela fonte.
+4. Se uma página estiver em reescrita, deixar isso explícito.
+5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
 
-## Trincheiras
-
-A rede é:
-- complexa;
-- extensa;
-- euclidiana em grande parte;
-- cheia de curvas e ramificações.
-
-## No Man's Land
-
-Sair das trincheiras é praticamente fatal.
-
-Entidades invisíveis disparam com extrema precisão contra qualquer viajante exposto.
-
-## Escalada de força
-
-Proteção adicional não resolve o problema.
-
-A página registra escalada de armamento conforme necessário, incluindo:
-- rifles;
-- mísseis;
-- artilharia;
-- bombardeio aéreo.
-
-## Ambiente
-
-O solo é:
-- úmido;
-- espesso;
-- contaminado por matéria orgânica em decomposição.
-
-Exposição prolongada pode causar desconforto respiratório.
-
-## Ciclo dia/noite
-
-Dia e noite duram aproximadamente o dobro do ciclo equivalente no Frontrooms.
-
-Durante a noite, o volume de disparos distantes diminui, mas sair da trincheira continua inseguro.
-
-## Névoa
-
-Um fenômeno periódico cobre as trincheiras com névoa densa.
-
-Ela reduz:
-- visibilidade;
-- percepção sonora;
-- consciência situacional.
-
-## Entity 49/1 — Trenchcleaners
-
-São máquinas bípedes autônomas e altamente avançadas.
-
-Características:
-- estrutura metálica;
-- luzes azuis;
-- aparato semelhante a câmera;
-- patrulha das trincheiras.
-
-## Unseen Entities
-
-Os atiradores fora das trincheiras constituem outra ameaça, embora sua natureza permaneça desconhecida.
-
-## Sublevels
-
-A lista oficial associa:
-- Level 49.1 — Remember the Fallen;
-- Level 49.2 — Training Grounds M-1.
-
-## Estado da pesquisa
-
-Primeira expansão concluída. Este Level merece segunda passagem extensa por causa de logs, entidades, testes e história militar.
 
 ## Atribuição
 
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.

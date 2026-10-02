@@ -1,41 +1,26 @@
 # Level 54 — Stairwell Of Spirals
-
-## Metadados
-- **Número:** 54
-- **Título no índice oficial em 2026-10-01:** Stairwell Of Spirals
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-54
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 54. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Trimmed; open for rewrite
+- Fonte: https://backrooms-wiki.wikidot.com/level-54
+## Aparência
+Rede de escadarias e espaços verticais em espiral. O conteúdo moderno está reduzido e não deve ser tratado como especificação definitiva.
+## Estrutura
+Escadas, patamares e passagens formam o núcleo do Level.
+## Entidades
+Catálogo moderno não confirmado; não preencher lacunas com versões antigas.
+## Bases
+Nenhuma base permanente confiável registrada.
+## Entradas e saídas
+A versão histórica associa certas portas a Level 1 e Level 43, além de outras conexões. Tratar como rotas históricas até rewrite.
+## Auditoria
+- [x] Conceito visual
+- [x] Estrutura
+- [x] Conectividade histórica
+- [x] Status editorial
+- [ ] Entidades
+- [ ] Bases
+- [ ] Mapa
+- [ ] Imagens/licenças
+- [ ] Canon pós-rewrite
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.

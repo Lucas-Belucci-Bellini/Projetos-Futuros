@@ -1,41 +1,34 @@
 # Level 56 — Frostbite
-
-## Metadados
-- **Número:** 56
-- **Título no índice oficial em 2026-10-01:** Frostbite
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-56
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 56. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Trimmed; open for rewrite
+- Fonte: https://backrooms-wiki.wikidot.com/level-56
+## Aparência
+Sistema circular de cavernas de gelo e rocha. Gelo azul liso, iluminação de origem desconhecida, terreno rochoso molhado e profundidade aparente muito grande.
+## Clima
+A temperatura diminui conforme se avança para o centro. A versão histórica documenta extremos de aproximadamente 32 °F a -459,67 °F. Fontes de calor têm limitações anômalas.
+## Recursos
+Caixas de madeira podem conter suprimentos médicos, ferramentas de exploração, oxigênio, roupas térmicas e outros materiais.
+## Entidades
+A página possui pesquisa de entidades associadas às regiões profundas; o catálogo completo deve ser rechecado após rewrite.
+## Bases e instalações
+**M.E.G. Glacial Outpost A:** recuperação e apoio.
+**M.E.G. Glacial Outpost B:** pesquisa e despacho.
+Os postos mantêm comunicação.
+## Entradas
+- Área fria do Level 8.
+- Cavernas em Levels 93, 5, 420 e 135.
+- Cavernas dentro dos freezers do Level 55.
+## Saída
+Uma caverna ampliada com terreno nevado leva ao Level 57.
+## Auditoria
+- [x] Aparência
+- [x] Clima
+- [x] Recursos
+- [x] Bases
+- [x] Entradas/saída
+- [x] Registros de pesquisa
+- [ ] Entidades completas
+- [ ] Mapa
+- [ ] Imagens/licenças
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.

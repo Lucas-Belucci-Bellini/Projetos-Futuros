@@ -2,67 +2,40 @@
 
 ## Metadados
 - **Número:** 35
-- **Título:** An Empty Car Park
-- **Estado editorial em 2026-10-01:** under-rewrite
+- **Título no índice oficial em 2026-10-01:** An Empty Car Park
+- **Estado editorial:** under-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-35
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+- **Fonte principal do projeto:** Backrooms Wiki
+- **Data-base desta documentação:** 2026-10-01
 
-## Aviso editorial
+## Escopo de documentação
 
-O Level 35 está sendo reescrito.
+Este documento foi criado para reunir, em português, uma síntese estruturada do Level 35. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
 
-## Visão geral
+### Tópicos que devem ser mantidos neste arquivo
+- descrição geral e identidade visual;
+- arquitetura, geografia e escala aparente;
+- condições ambientais;
+- fenômenos anômalos;
+- ameaças e perigos conhecidos;
+- entidades mencionadas;
+- recursos e objetos;
+- bases, postos avançados e comunidades;
+- entradas;
+- saídas;
+- subníveis, áreas, salas ou regiões relacionadas;
+- notas históricas e mudanças editoriais;
+- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
 
-A versão atual descreve um estacionamento de concreto com iluminação fraca e poucos veículos.
+### Regras de pesquisa
+1. Sempre conferir a página oficial antes de ampliar este arquivo.
+2. Reescrever em linguagem própria.
+3. Não adicionar fatos que não estejam sustentados pela fonte.
+4. Se uma página estiver em reescrita, deixar isso explícito.
+5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
 
-## Estrutura
-
-O complexo possui seis pavimentos, incluindo o teto.
-
-Diferentemente de muitos Levels, não é infinito.
-
-Há paredes no perímetro em dimensões semelhantes às de um estacionamento convencional.
-
-## Abismo externo
-
-Todo o estacionamento é cercado por um abismo escuro que deve ser evitado.
-
-## Iluminação
-
-A iluminação mistura:
-- luzes quentes;
-- verde;
-- azul.
-
-## Veículos
-
-A maioria das vagas está vazia.
-
-Veículos específicos possuem propriedades anômalas.
-
-Exemplos registrados:
-- caminhão de sorvete com efeito desconhecido;
-- Jeep Cherokee branco de 2018 com ar-condicionado que muda aleatoriamente de temperatura.
-
-## Bases
-
-Não há bases, comunidades ou postos conhecidos.
-
-## Entrada
-
-Uma rota documentada envolve quebrar uma parede de tijolos enfraquecida no Level 34.
-
-## Saídas
-
-Certos veículos podem transportar viajantes para outros Levels.
-
-Também existem saídas arquitetônicas comuns, porém seus destinos são pouco documentados.
-
-## Regra de manutenção
-
-Revisar após conclusão da reescrita oficial.
 
 ## Atribuição
 
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.

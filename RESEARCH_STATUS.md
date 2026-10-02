@@ -1,53 +1,29 @@
-# Status de pesquisa
-
-Data-base: **2026-10-01**
-
-## Fundação
-- [x] Branch isolada.
-- [x] 100 arquivos Level.
-- [x] Rust.
-- [x] HTML/CSS.
-- [x] Arquitetura.
-- [x] Licença e atribuição.
-
-## Cobertura aprofundada
-- [x] Levels 0–10
-- [x] Levels 11–20
-- [x] Levels 21–30
-- [x] Levels 31–40
-
-### Levels 41–50
-- [x] 41 — Black Lake, piche, calor e vapores.
-- [x] 42 — “a place of interest”, placeholder atual e estado incompleto.
-- [x] 43 — Water World, parque aquático, áreas e sistema de som; open-to-rewrite.
-- [x] 44 — outlet, janelas, ácido e De-aciders; open-to-rewrite.
-- [x] 45 — arranha-céus no vazio e sede do B.R.C.; open-to-rewrite.
-- [x] 46 — deserto extremo, Ancient Ones e Desert Rose; under-rewrite.
-- [x] 47 — floresta ontologicamente instável e Great Adder; open-to-rewrite.
-- [x] 48 — praia, floresta, sunset permanente e Veroka Farmers; open-to-rewrite.
-- [x] 49 — trincheiras, Unseen Entities, fog e Trenchcleaners.
-- [x] 50 — rodovia desértica infinita; under-rewrite.
-
-## Métricas atuais
-- Levels existentes: **100/100**
-- Primeira expansão aprofundada: **51/100**
-- Progresso da primeira passagem: **51%**
-- JavaScript: **0**
-- Código: **Rust**
-- Interface: **HTML + CSS**
-
-## Próximo marco
-**Levels 51–60**
-
-## Segunda passagem futura
-- autoria e revisão;
-- classificação completa;
-- entidades;
-- comunidades;
-- entradas e saídas;
-- objetos;
-- fenômenos;
-- sublevels;
-- histórico editorial;
-- relações cruzadas;
-- validação automática em Rust.
+# Status de pesquisa — Backrooms Levels 0–99
+Data-base: 2026-10-01
+## Primeira passagem
+- [x] 0–10
+- [x] 11–20
+- [x] 21–30
+- [x] 31–40
+- [x] 41–50
+- [x] 51–60
+**Progresso: 61/100 Levels.**
+## Auditoria reforçada
+A partir do bloco 51–60, cada Level também recebe auditoria explícita de aparência, estrutura, entidades, recursos, bases/instalações, entradas, saídas, sublevels, mídia e lacunas.
+## Divergências relevantes
+- 51: under rewrite.
+- 52: trimmed/open for rewrite.
+- 54: trimmed/open for rewrite.
+- 56: trimmed/open for rewrite.
+- 59: atual é Drownsong; The Backway é versão antiga.
+- 55: atual é Pit Stop; Land of Ice é versão antiga.
+- 57: possui referências visuais atuais/arquivadas que precisam de auditoria de crédito.
+## Código
+- JavaScript: 0
+- Rust: preferência
+- TypeScript: fallback
+- HTML/CSS: interface
+## Próximo bloco
+**61–70**
+## Segunda passagem
+Depois de 0–99: revisar cada Level novamente, completar entradas/saídas, entidades, bases, imagens/licenças, sublevels, grafo de conectividade e validação Rust.

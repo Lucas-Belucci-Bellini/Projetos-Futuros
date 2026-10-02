@@ -2,85 +2,40 @@
 
 ## Metadados
 - **Número:** 36
-- **Título:** Timeless Airport
-- **Estado editorial em 2026-10-01:** current
+- **Título no índice oficial em 2026-10-01:** Timeless Airport
+- **Estado editorial:** current
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-36
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+- **Fonte principal do projeto:** Backrooms Wiki
+- **Data-base desta documentação:** 2026-10-01
 
-## Visão geral
+## Escopo de documentação
 
-O Level 36 é um enorme aeroporto seguro e funciona como um dos maiores hubs de transporte conhecidos das Backrooms.
+Este documento foi criado para reunir, em português, uma síntese estruturada do Level 36. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
 
-## Escala
+### Tópicos que devem ser mantidos neste arquivo
+- descrição geral e identidade visual;
+- arquitetura, geografia e escala aparente;
+- condições ambientais;
+- fenômenos anômalos;
+- ameaças e perigos conhecidos;
+- entidades mencionadas;
+- recursos e objetos;
+- bases, postos avançados e comunidades;
+- entradas;
+- saídas;
+- subníveis, áreas, salas ou regiões relacionadas;
+- notas históricas e mudanças editoriais;
+- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
 
-O complexo possui:
-- instalações típicas de aeroporto;
-- 26 terminais identificados de A a Z;
-- quantidade infinita de portões numerados.
+### Regras de pesquisa
+1. Sempre conferir a página oficial antes de ampliar este arquivo.
+2. Reescrever em linguagem própria.
+3. Não adicionar fatos que não estejam sustentados pela fonte.
+4. Se uma página estiver em reescrita, deixar isso explícito.
+5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
 
-## Baggage Claim
-
-Viajantes que entram no nível chegam pela área de retirada de bagagem.
-
-A entrada ocorre de maneira anômala por esteiras transportadoras.
-
-## Esteiras e entradas
-
-Cada esteira ativa corresponde a um ponto de entrada específico vindo de outro Level.
-
-Pessoas que usam o mesmo ponto de entrada chegam pela mesma esteira.
-
-A numeração da esteira não corresponde ao número do Level de origem.
-
-## Limite conhecido
-
-A parede associada às esteiras é descrita como a única borda conhecida do nível.
-
-## Voos
-
-O aeroporto mantém dezenas de voos ativos simultaneamente.
-
-Portões levam a instâncias do Sublevel 36.1.
-
-Após um período de espera, passageiros podem ser transportados a destinos específicos.
-
-## Destinos
-
-Há conexões potenciais com enorme quantidade de Levels.
-
-Grande parte ainda não foi mapeada.
-
-Escolher um voo sem documentação pode levar a regiões perigosas.
-
-## Backrooms Travel Agency
-
-Existe uma organização residente dedicada a coletar:
-- dados de viagens;
-- destinos;
-- conexões;
-- recomendações de rotas.
-
-## Tempo
-
-O nome “Timeless Airport” relaciona-se também a fenômenos de espera e dilatação temporal documentados na página.
-
-## Entradas comuns
-
-A página cita:
-- placas com símbolo de avião em Levels como 11, 9 e 159;
-- portas específicas;
-- Levels relacionados a transporte;
-- aeronaves e pistas em outros ambientes.
-
-## Saída
-
-Portões de embarque levam ao Sublevel 36.1.
-
-## Estado da pesquisa
-
-Primeira expansão detalhada concluída. Próxima passagem deve documentar terminais, catálogo de voos, time dilation, BTA e Level 36.1.
 
 ## Atribuição
 
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.

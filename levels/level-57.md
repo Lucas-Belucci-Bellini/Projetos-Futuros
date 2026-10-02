@@ -1,41 +1,38 @@
 # Level 57 — Diurnal Art Gallery
-
-## Metadados
-- **Número:** 57
-- **Título no índice oficial em 2026-10-01:** Diurnal Art Gallery
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-57
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 57. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
+- Status: Current
+- Fonte: https://backrooms-wiki.wikidot.com/level-57
+## Aparência
+Galeria extensa com **Registry** e **Cozy Gallery**.
+### Registry
+Balcão, mesa de desenho, estantes, cadeiras, janela, plantas, esculturas e uma pintura singular ao fundo. Há bebidas, incluindo Almond Water.
+### Cozy Gallery
+Exposição com pinturas surreais que podem representar outros Levels. Sons e outras sensações associadas ao Level representado podem ser percebidos perto da obra. O layout pode mudar e novas paredes/pinturas podem aparecer.
+### Painter's Studio
+Estúdio aquecido e iluminado com materiais de arte, itens cotidianos, pequena barraca azul e falsa janela marítima.
+## Entidades
+**The Painter:** entidade passiva e amigável, anfitriã da galeria.
+**The Muralist:** entidade alta e velada associada às obras e ao Registry; parte de suas características permanece deliberadamente indisponível.
+## Entradas
+- No-clipping através de pinturas.
+- Porta no Hub pintada no estilo do Level 57, com Level Key em forma de pincel.
+- Mover uma pintura específica no Level 283.
+## Saídas
+- Focar nas sensações de uma pintura pode levar ao Level representado.
+- Pedir orientação à Painter pode produzir uma porta para Level 21.
+- A pintura no fundo do Registry é tratada como área a evitar.
+## Bases
+A galeria é a instalação central; não há base humana permanente documentada.
+## Imagens
+A página atual e versões arquivadas possuem planta e imagens de galerias. Créditos/licenças devem ser verificados individualmente antes de redistribuição.
+## Auditoria
+- [x] Aparência
+- [x] Regiões
+- [x] Entidades
+- [x] Entradas/saídas
+- [x] Instalação
+- [x] Referências visuais
+- [ ] Catálogo completo de mídia/licenças
+- [ ] Mapa de mudanças
 
 ## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.
