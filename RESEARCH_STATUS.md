@@ -69,10 +69,16 @@ tools/backrooms_audit.rs exige dez seções estruturais em cada Markdown, além 
 O código está pronto, mas a execução global dos arquivos ainda não foi concluída nesta rodada. Não declarar 100% validado sem executar o binário.
 
 ## Próximas frentes
+
 1. Criar os 32 arquivos de sub-seções faltantes.
-2. Fazer auditoria individual de mídia.
-3. Criar catálogos globais de entidades.
-4. Criar catálogos globais de bases e instalações.
-5. Fechar confiança/proveniência do grafo.
-6. Executar a validação Rust global.
-7. Fazer reconciliação final entre níveis, subníveis e conexões externas.
+2. Fechar a auditoria individual de mídia/licenças.
+3. Fechar confiança/proveniência do grafo.
+4. Reconciliar rotas externas a 0–99 e métodos de subníveis.
+5. Executar a validação Rust no CI.
+6. Fazer reconciliação final entre níveis, subníveis e conexões externas.
+
+### Verificação de ferramenta
+
+- `rustc` não está instalado no ambiente desta sessão; a compilação local dos validadores não pôde ser executada.
+- GitHub Actions foi configurado para executar `cargo build --all-targets`, `backrooms-levels-catalog`, `backrooms-audit` e `backrooms-inventory`.
+- Não há status de CI exposto para esta branch pela integração atual; portanto, a validação global permanece como pendência real até um job concluir com sucesso.

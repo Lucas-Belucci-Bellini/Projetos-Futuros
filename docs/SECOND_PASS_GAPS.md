@@ -51,5 +51,12 @@ Ainda faltam:
 - reconciliação de rotas de subníveis;
 - atualização após rewrites.
 
+## Verificação de ferramenta
+
+- O código Rust foi revisado e o bug de classificação dos arquivos principais no inventário foi corrigido.
+- `rustc` não está disponível no ambiente desta sessão; a compilação local não pôde ser realizada.
+- `.github/workflows/backrooms-validation.yml` foi configurado como mecanismo de validação global.
+- Não declarar “CI verde” sem um run disponível.
+
 ## Critério de conclusão real
 A documentação só deve ser considerada completa quando níveis e sub-seções documentadas possuírem schema, desconhecidos explícitos, entidades, bases/instalações, entradas, saídas, mídia, estado editorial e validação Rust, além de reconciliação com o índice oficial.
