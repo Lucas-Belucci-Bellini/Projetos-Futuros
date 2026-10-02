@@ -1,53 +1,64 @@
 # Level 6 — Lights Out
 
-## Metadados
-- **Número:** 6
-- **Título no índice oficial em 2026-10-01:** Lights Out
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-6
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal:** Backrooms Wiki
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 6.
+- Título: Lights Out.
+- Estado editorial: **trimmed; open for rewrite**.
+- Fonte principal: Backrooms Wiki.
+- Data-base: 2026-10-01.
+- A página está explicitamente marcada como desatualizada; os dados abaixo são registro histórico da versão publicada.
 
-## Aviso editorial
-
-A página está marcada como desatualizada e aberta para reescrita.
-
-## Visão geral
-
-O Level 6 é descrito como uma rede de corredores em escuridão total.
-
-## Luz
-
-Nenhuma iluminação natural alcança o nível e fontes artificiais levadas por viajantes são descritas como pouco ou nada eficazes.
+## Aparência
+- Escuridão total.
+- Fontes de luz levadas ao nível são descritas como ineficazes.
+- Corredores estreitos, aparentemente intermináveis.
+- Superfícies lisas e frias, provavelmente concreto segundo a descrição.
+- Silêncio extremo, semelhante ao isolamento acústico.
+- Relatos de sons e vozes são apresentados como possíveis alucinações auditivas.
+- Temperatura e odores: não documentados.
 
 ## Estrutura
-
-Relatos disponíveis descrevem corredores estreitos, superfícies frias e materiais semelhantes a concreto.
-
-## Som
-
-O ambiente é extremamente silencioso, com sensação semelhante a forte isolamento acústico.
-
-## Efeitos relatados
-
-A versão atual menciona paranoia, ansiedade, sensação de observação e possíveis alucinações auditivas.
+- Rede de corredores escuros.
+- Pontos históricos: World's Quietest Room e comunidade Mimicry.
+- Subníveis: 6.1 — The Snackrooms; 6.2 — The Neon Maze; 6.3 — Vantablack; 6.31 — Pierce the Veil.
+- Mapa completo: não disponível de forma confiável.
 
 ## Entidades
+- A versão publicada afirma que nenhuma entidade havia sido encontrada durante as investigações descritas.
+- Mimicry é descrita como comunidade humana de aproximadamente quatro pessoas, não como entidade.
+- Outros relatos: não confirmados.
+- Descrições futuras: não gráficas.
 
-O artigo desatualizado ressalta que a presença de entidades permanentes não era claramente confirmada.
+## Recursos
+- Recursos convencionais: não documentados.
+- Iluminação artificial: não confiável.
+- Inventário de itens: não consolidado.
 
-## Bases e comunidades
+## Bases
+- World's Quietest Room: existência rumorosa na versão publicada.
+- Mimicry: pequeno grupo humano descrito na versão histórica.
+- Base permanente M.E.G.: não confirmada.
+- O Boiler Room de Level 5 funciona como referência operacional para acesso, não como base comprovada dentro do Level 6.
 
-Existem menções históricas a pequenos grupos e pontos habitados, mas todos esses dados precisam de nova verificação após reescrita.
+## Entradas
+- Level 5: entrada pela Boiler Room.
+- Level 4: entrada descrita próxima à Base Omega.
+- Outras entradas: não documentadas.
+- Métodos e condições devem permanecer vinculados à versão histórica.
 
-## Entradas e saídas
+## Saídas
+- Level 7: escadaria associada ao som de ondas.
+- Level 129: grande porta metálica muito fria.
+- Level 6.1: conexão acidental associada a um fio.
+- Level 5: algumas rotas podem retornar, dependendo da localização/versão.
+- Todas as conexões acima precisam ser revalidadas quando houver reescrita.
 
-A versão antiga mantém conexões principalmente com Levels vizinhos e algumas rotas adicionais.
+## Mídia
+- A página contém uma representação desenhada/mapa.
+- Autor e licença precisam de verificação individual antes de reutilização.
+- Não copiar ou redistribuir mídia.
 
-## Regra de manutenção
-
-Substituir esta síntese quando a reescrita oficial for publicada.
-## Atribuição
-
-Este documento é uma síntese editorial original. Ele reorganiza e resume informações da página oficial sem reproduzir o artigo integralmente. A fonte é disponibilizada pela Backrooms Wiki sob CC BY-SA 3.0, conforme indicação da própria wiki.
+## Auditoria
+- Página oficial: https://backrooms-wiki.wikidot.com/level-6
+- Estado: outdated/open for rewrite.
+- Gaps: mapa verificável, mídia/licenças, entidades, condições das conexões e atualização do canon.
