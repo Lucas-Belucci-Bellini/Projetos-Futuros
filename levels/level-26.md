@@ -1,77 +1,48 @@
 # Level 26 — The SS Fun =)
 
-## Metadados
-- **Número:** 26
-- **Título:** The SS Fun =)
-- **Estado editorial em 2026-10-01:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-26
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 26
+- Título: The SS Fun =)
+- Estado: current
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Visão geral
+## Aparência
+O nível é uma embarcação de cruzeiro chamada Adventure/SS Fun =). Possui áreas externas e internas de um antigo navio de luxo, atualmente degradadas.
 
-O Level 26 é uma embarcação de cruzeiro chamada originalmente **Adventure**, posteriormente associada ao nome **SS Fun =)**.
+São documentados:
+- cabines;
+- áreas de festa;
+- restaurantes;
+- lounges;
+- piscina;
+- áreas de serviço;
+- corredores e espaços técnicos.
 
-## Origem
+## Estrutura
+O navio possui aproximadamente 150 m de comprimento e 18 m de largura. Sua posição não é estável porque a embarcação realiza no-clip entre regiões das Backrooms.
 
-A página afirma que o navio veio do mundo normal e acabou no ecossistema das Backrooms por no-clip.
-
-## Dimensões
-
-A embarcação tem aproximadamente:
-- 150 metros de comprimento;
-- 18 metros de largura.
-
-## Transporte
-
-O navio não se desloca principalmente navegando.
-
-Periodicamente, uma névoa verde cobre a embarcação e ela realiza no-clip para outra região das Backrooms.
-
-## Energia
-
-Os sistemas elétricos permanecem alimentados de maneira anômala, sem necessidade aparente de geração convencional.
-
-## Divisão
-
-A documentação separa o navio entre:
-- exterior;
-- interior.
-
-## Exterior
-
-As áreas externas mostram sinais extremos de destruição e ocupação hostil.
-
-A aparência original de navio de luxo foi substituída por:
-- lixo;
-- danos;
-- cabines degradadas;
-- áreas de festa destruídas;
-- piscina alterada;
-- restaurantes e lounges arruinados.
+Uma névoa verde aparece antes de determinadas transições.
 
 ## Entidades
+Partygoers são a principal presença associada ao nível. A documentação também descreve outras ameaças relacionadas à tripulação e aos ocupantes.
 
-A página associa o navio fortemente aos Partygoers.
+## Recursos
+Sistemas elétricos continuam funcionando de maneira anômala. Recursos de navio podem existir, mas não constituem inventário confiável.
 
-## Classificação
+## Bases
+Não existe base humana permanente. O navio funciona como ambiente móvel e instável.
 
-Class 5, com forte infestação de entidades.
+## Entradas
+- itens de festa, como balões, chapéus, decorações ou pôsteres, podem funcionar como gatilhos de no-clip;
+- embarcar no navio quando ele se materializa também é documentado.
 
-## Natureza móvel
+## Saídas
+- pôsteres de festa invertidos/desfocados podem transportar o viajante para outro nível;
+- deixar a embarcação também é descrito como conexão de saída.
 
-Como o navio pode no-clipping entre Levels, ele não funciona como um espaço estacionário comum.
+## Mídia
+A página contém imagens do navio e de seus ambientes. Autoria e licença devem ser catalogadas individualmente.
 
-Isso complica:
-- rastreamento;
-- entrada;
-- fuga;
-- operações de contenção.
-
-## Estado da pesquisa
-
-Primeira expansão concluída. Ainda faltam interior completo, ocupantes, cronologia do Adventure, rotas e registros da movimentação.
-
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+## Auditoria
+O Level 26 é móvel, portanto localização e conectividade devem ser registradas como eventos, não como coordenadas fixas. Conteúdo narrativo sobre conflitos deve permanecer separado da descrição estrutural.
