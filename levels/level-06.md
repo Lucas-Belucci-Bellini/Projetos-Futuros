@@ -6,36 +6,48 @@
 - **Estado editorial:** open-to-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-6
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Fonte principal:** Backrooms Wiki
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 6. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+A página está marcada como desatualizada e aberta para reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+O Level 6 é descrito como uma rede de corredores em escuridão total.
 
+## Luz
 
+Nenhuma iluminação natural alcança o nível e fontes artificiais levadas por viajantes são descritas como pouco ou nada eficazes.
+
+## Estrutura
+
+Relatos disponíveis descrevem corredores estreitos, superfícies frias e materiais semelhantes a concreto.
+
+## Som
+
+O ambiente é extremamente silencioso, com sensação semelhante a forte isolamento acústico.
+
+## Efeitos relatados
+
+A versão atual menciona paranoia, ansiedade, sensação de observação e possíveis alucinações auditivas.
+
+## Entidades
+
+O artigo desatualizado ressalta que a presença de entidades permanentes não era claramente confirmada.
+
+## Bases e comunidades
+
+Existem menções históricas a pequenos grupos e pontos habitados, mas todos esses dados precisam de nova verificação após reescrita.
+
+## Entradas e saídas
+
+A versão antiga mantém conexões principalmente com Levels vizinhos e algumas rotas adicionais.
+
+## Regra de manutenção
+
+Substituir esta síntese quando a reescrita oficial for publicada.
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Este documento é uma síntese editorial original. Ele reorganiza e resume informações da página oficial sem reproduzir o artigo integralmente. A fonte é disponibilizada pela Backrooms Wiki sob CC BY-SA 3.0, conforme indicação da própria wiki.

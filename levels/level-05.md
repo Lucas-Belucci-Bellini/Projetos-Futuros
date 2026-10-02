@@ -6,36 +6,40 @@
 - **Estado editorial:** current
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-5
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Fonte principal:** Backrooms Wiki
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Visão geral
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 5. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 5 é um enorme complexo de hotel com estética inspirada principalmente nas primeiras décadas do século XX.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Aparência
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+O ambiente mistura luxo antigo, corredores extensos, quartos, salões e áreas de serviço.
 
+## Regiões internas
 
+A versão atual organiza o nível em grandes regiões com estilos distintos. Entre elas está a conhecida Boiler Room, cuja aparência industrial contrasta fortemente com as áreas elegantes do hotel.
+
+## Atmosfera
+
+A arquitetura parece familiar, mas sua escala, repetição e comportamento espacial são impossíveis para um hotel convencional.
+
+## Perigos
+
+A classificação atual indica perigo intermediário. O nível contém entidades, fenômenos anômalos e áreas mais perigosas.
+
+## Conectividade
+
+O Level 5 possui diversas entradas e saídas e está fortemente relacionado à progressão entre Levels 4, 5 e 6.
+
+## Importância
+
+É um dos ambientes clássicos da sequência inicial das Backrooms e possui grande quantidade de lore derivada.
+
+## Próximas expansões
+
+Detalhar regiões internas, entidades, bases, eventos, entradas e saídas.
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Este documento é uma síntese editorial original. Ele reorganiza e resume informações da página oficial sem reproduzir o artigo integralmente. A fonte é disponibilizada pela Backrooms Wiki sob CC BY-SA 3.0, conforme indicação da própria wiki.
