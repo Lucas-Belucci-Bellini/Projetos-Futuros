@@ -657,3 +657,69 @@ A página principal deve ser tratada como fonte para o catálogo atual de fauna/
 #### Bases / comunidades / instalações
 The Enclave é uma comunidade/subnível associado e deve ser documentado separadamente.
 
+
+## Levels 49–55
+
+### Level 49 — The Unfilled River of Phlegethon
+**Arquivo:** levels/level-49.md
+
+#### Entidades
+A página classifica o nível como possuindo infestação hostil. O catálogo completo deve ser consultado na fonte atual e mantido em linguagem não gráfica.
+
+#### Bases / comunidades / instalações
+Não há comunidade civil permanente consolidada na descrição principal. Instalações e zonas de treinamento devem ser documentadas separadamente nos subníveis.
+
+### Level 50 — The Moribund Highway
+**Arquivo:** levels/level-50.md
+
+#### Entidades
+A página menciona humanos errantes, mas não os classifica como entidade nativa. O comportamento é descrito apenas como desconhecido.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, comunidade ou posto permanente conhecido.
+
+### Level 51 — The Forgotten City
+**Arquivo:** levels/level-51.md
+
+#### Entidades
+Ameaças subterrâneas existem na fonte; catálogo exaustivo ainda pendente.
+
+#### Bases / comunidades / instalações
+Sem base moderna permanente confirmada; expedições/pesquisas.
+
+### Level 52 — Eyes On You
+**Arquivo:** levels/level-52.md
+
+#### Entidades
+Smilers, Facelings, Wretches e Hounds; adaptações ao ambiente são históricas e não devem ser ampliadas sem fonte.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente conhecida.
+
+### Level 53 — Alone
+**Arquivo:** levels/level-53.md
+
+#### Entidades
+Nenhuma entidade permanente central confirmada.
+
+#### Bases / comunidades / instalações
+Nenhuma base; caso investigado pelo M.E.G.
+
+### Level 54 — Stairwell Of Spirals
+**Arquivo:** levels/level-54.md
+
+#### Entidades
+Catálogo moderno não confirmado.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente confiável.
+
+### Level 55 — Pit Stop
+**Arquivo:** levels/level-55.md
+
+#### Entidades
+Catálogo deve seguir exclusivamente a versão atual; versões antigas não devem ser misturadas.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente consolidada.
+
