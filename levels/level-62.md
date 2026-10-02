@@ -1,41 +1,59 @@
 # Level 62 — Jungle Backyard
 
-## Metadados
-- **Número:** 62
-- **Título no índice oficial em 2026-10-01:** Jungle Backyard
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-62
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 62
+- Título: Jungle Backyard
+- Estado editorial: current/rewrite
+- Origem: BenshCarrot; reescrita por makaraig
+- Fonte: Backrooms Wiki — Level 62
+- Data-base: 2026-10-01
+- Classificação publicada: Survival Difficulty 2.
+- A página é apresentada como arquivo do Kalag Institute.
 
-## Escopo de documentação
+## Aparência
+O ponto inicial é o quintal de uma casa bastante deteriorada, cercado por muros de tijolos e vegetação excessiva. Há uma casinha de cachorro bem conservada. Os muros parecem crescer quando alguém tenta escalá-los. Um buraco em um canto permite passagem para uma selva extensa. A comunicação sofre interferências, tornando rastreamento e contato pouco confiáveis.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 62. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Casa deteriorada.
+- Quintal.
+- Muros anômalos.
+- Buraco no muro.
+- Selva profunda.
+- Regiões mais internas onde o sinal é mais difícil de manter.
+- Não há subníveis numerados consolidados.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Hounds são confirmados nos registros da investigação.
+- O catálogo de outras entidades nativas não está completo.
+- Os relatos de exploração contêm incidentes; esta síntese não reproduz violência gráfica.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Objetos domésticos podem existir na casa.
+- Vegetação é abundante, mas não é automaticamente segura para consumo.
+- Não há fonte sustentável de alimento ou água confirmada.
+- A casinha de cachorro é elemento estrutural, não recurso garantido.
 
+## Bases
+- Kalag Institute aparece como organização de exploração e documentação.
+- Não há base permanente confirmada.
 
-## Atribuição
+## Entradas
+- Level 37 → 62: entrar em um shed/galpão específico, olhar para a parede e voltar a olhar pode provocar a transição.
+- Método condicional; não é uma porta permanente.
+- Outras entradas não estão consolidadas.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- 62 → 445: permanecer na floresta por aproximadamente uma semana pode produzir a transição.
+- 62 → 4 ou 10: o método envolvendo o shed pode levar a um desses destinos.
+- Ambas as rotas devem permanecer condicionais no grafo.
+
+## Mídia
+- Fotografia principal do quintal.
+- Autor/licença individual não ficaram consolidados na extração atual: status pendente.
+- Não copiar automaticamente.
+
+## Auditoria
+- Estrutura quintal→muro→abertura→selva confirmada.
+- Hound confirmado.
+- Conexões 37→62, 62→445 e 62→4/10.
+- Preservar a diferença entre a versão Fandom e a reescrita atual.
