@@ -1,41 +1,77 @@
 # Level 98 — Downtown Diner
 
-## Metadados
-- **Número:** 98
-- **Título no índice oficial em 2026-10-01:** Downtown Diner
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-98
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- **Número:** 98.
+- **Título:** Downtown Diner.
+- **Estado editorial:** trimmed / open for rewrite.
+- **Fonte principal:** Backrooms Wiki.
+- **Data-base:** 2026-10-01.
 
-## Escopo de documentação
+## Aparência
+A primeira área é uma seção repetitiva de uma rua reta ladeada por edifícios, com pavimentação de tijolos. O espaço possui um efeito de looping: a rua e a percepção do viajante se repetem.
+A iluminação principal vem do diner, identificado por uma placa amarela com o nome “Downtown Diner”, além de uma iluminação semelhante à lua.
+No interior do diner há música familiar, sons de cozinha e cheiro de comida, embora a cozinha descrita na versão histórica não apresente funcionários visíveis.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 98. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Rua repetitiva.
+- Edifícios laterais geralmente inacessíveis.
+- Downtown Diner como principal ponto acessível.
+- Cozinha e área de refeições.
+- Banheiros com conexão anômala.
+- O efeito de repetição também afeta a percepção do próprio viajante.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Entidades podem aparecer quando alguém se senta no diner.
+- Elas assumem aparência de pessoas familiares ao viajante, porém com faces indistintas/desfocadas.
+- A fala é percebida de forma pouco inteligível.
+- **Diner Patrons:** comunidade de viajantes que decidiu permanecer no diner; descritos como amigáveis na versão histórica.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- O diner fornece um ambiente de abrigo social.
+- A versão histórica sugere comida/atividade de cozinha, mas não estabelece um sistema completo de abastecimento.
+- Não assumir disponibilidade infinita de alimentos.
 
+## Bases e comunidades
+### Diner Patrons
+- Grupo informal de viajantes.
+- Ocupa o diner.
+- Número variável conforme pessoas chegam ou partem.
+- Relações internas descritas como amigáveis.
 
-## Atribuição
+## Entradas
+A versão histórica registra:
+- portas metálicas correspondentes em **Level 5** e **Level 11**;
+- uma rota a partir do **Level 6**;
+- entrada pelo **The Hub**.
+A página está trimmed/open for rewrite, então as rotas devem ser tratadas como históricas.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- Porta/rota de retorno pela entrada, quando disponível.
+- **Level 6** por um beco.
+- Banheiros do diner → **Level 103**.
+- Algumas portas podem fechar/alterar a possibilidade de retorno conforme a versão histórica.
+
+## Subníveis
+Nenhum subnível numerado consolidado no índice.
+
+## Mídia
+A página contém imagem associada às entidades/diner.
+Crédito e licença precisam ser confirmados diretamente antes de reutilização.
+Não copiar imagens automaticamente.
+
+## Canon e auditoria
+- Estado: trimmed/open for rewrite.
+- A geometria de looping e a comunidade do diner são dados da versão histórica.
+- Questões levantadas no fórum sobre tamanho, capacidade e suprimentos não são canon e não devem ser transformadas em dados.
+
+## Auditoria
+- [x] Identidade
+- [x] Aparência
+- [x] Estrutura
+- [x] Entidades
+- [x] Recursos
+- [x] Bases
+- [x] Entradas
+- [x] Saídas
+- [x] Mídia
+- [x] Canon
