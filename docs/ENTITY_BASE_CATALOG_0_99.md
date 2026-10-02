@@ -328,3 +328,76 @@ Explorações profundas levaram investigadores a associar o nível ao corpo cele
 #### Bases / comunidades / instalações
 Nenhum posto permanente é mantido atualmente. O M.E.G. abandonou planos de estabelecer um posto devido aos riscos documentados.
 
+
+## Levels 21–27
+
+### Level 21 — Numbered Doors
+**Arquivo:** levels/level-21.md
+
+#### Entidades
+A quantidade e os tipos variam. Clickers são relativamente comuns. Entidades não identificadas também foram registradas.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto conhecido.
+
+### Level 22 — Ruins Left Behind
+**Arquivo:** levels/level-22.md
+
+#### Entidades
+A versão atual não fornece catálogo confiável de entidades residentes.
+
+#### Bases / comunidades / instalações
+### Emstable
+Foi a principal comunidade e micronação do nível. Atualmente é uma comunidade histórica colapsada, não uma base ativa.
+
+### Level 23 — The Petrified Garden
+**Arquivo:** levels/level-23.md
+
+#### Entidades
+A página registra Volpes, Hounds, Clumps, Smilers, Death Rats, Deathmoths, Curabitur Birds, Wranglers raros, Gardener's Sorries e entidades nativas ainda sem classificação.
+
+#### Bases / comunidades / instalações
+### M.E.G. Base Seedling
+Base de exploração, antropologia e pesquisa localizada em uma Glow Room. A população documentada é de aproximadamente 30 membros ativos e cinco Wanderers voluntários resgatados.
+
+### Level 24 — The Moon
+**Arquivo:** levels/level-24.md
+
+#### Entidades
+### Moon Mites
+Ácaros gigantes em relação aos espécimes das Frontrooms. A página os descreve como evitando áreas com presença humana.
+
+### Beauford
+Entidade humanoide de escala incompreensivelmente grande, percebida à distância. Seus sons não foram registrados de maneira compreensível.
+
+#### Bases / comunidades / instalações
+### B.N.T.G. PlasticWorks / Bluehole
+Operação industrial histórica de mineração de material plástico. Não deve ser tratada como base ativa sem confirmação atual.
+
+### Level 25 — The Quarter Hub
+**Arquivo:** levels/level-25.md
+
+#### Entidades
+A documentação histórica não estabelece população residente confiável.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente é consolidada na versão acessível.
+
+### Level 26 — The SS Fun =)
+**Arquivo:** levels/level-26.md
+
+#### Entidades
+Partygoers são a principal presença associada ao nível. A documentação também descreve outras ameaças relacionadas à tripulação e aos ocupantes.
+
+#### Bases / comunidades / instalações
+Não existe base humana permanente. O navio funciona como ambiente móvel e instável.
+
+### Level 27 — The Bunker Springs
+**Arquivo:** levels/level-27.md
+
+#### Entidades
+A página descreve ausência de entidades e organismos vivos na área principal.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto permanente.
+
