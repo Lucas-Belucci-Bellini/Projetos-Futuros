@@ -1,41 +1,56 @@
 # Level 87 — Hallways of Time
 
-## Metadados
-- **Número:** 87
-- **Título no índice oficial em 2026-10-01:** Hallways of Time
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-87
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 87
+- Título atual: Hallways of Time
+- Estado editorial: trimmed/open for rewrite; outdated.
+- Descoberta: relato datado de maio de 2004.
+- Tema: corredores extensos com portas codificadas e fenômeno temporal.
 
-## Escopo de documentação
+## Aparência
+- Corredores extremamente longos, comparados aos de Level 21.
+- Portas trancadas alinham-se pelas paredes.
+- A cada vários quilômetros pode existir uma mesa.
+- Iluminação, temperatura e condições externas não detalhadas.
+- Sensação espacial: extensão quase interminável.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 87. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Corredores repetitivos.
+- Portas com fechaduras específicas.
+- Mesas funcionam como pontos de encontro de chaves e suprimentos.
+- Quantidade de chaves/fechaduras é descrita como finita.
+- Fenômeno temporal altera a ordem aparente de acontecimentos e memórias.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Nenhuma entidade nativa confirmada.
+- Fenômeno central é temporal.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Chaves sobre algumas mesas.
+- Mais raramente Almond Water e pacotes de salgadinhos.
+- Chaves correspondem a tipos de fechaduras, com códigos por cor, número ou letra.
 
+## Bases
+- Nenhuma base ou comunidade confirmada.
 
-## Atribuição
+## Entradas
+- Rede de entradas numéricas não apresentada de forma suficiente na página histórica.
+- Status: não documentado.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- O relato enfatiza dificuldade de encontrar saída.
+- Nenhuma rota numérica deve ser registrada como confirmada sem nova fonte.
+
+## Mídia
+- Long hallway — Aaron Gustafson — CC BY-SA 2.0.
+- Imagem é tratada como referência histórica.
+- Não copiar automaticamente.
+
+## Auditoria
+- Canon: histórico/trimmed.
+- Aparência: corredores e portas bem definidos; escala e iluminação incompletas.
+- Entidades: nenhuma.
+- Fenômeno: temporal.
+- Conectividade: incompleta.
+- Mídia: 1 crédito/licença.
+- Fonte: https://backrooms-wiki.wikidot.com/level-87.
