@@ -1478,3 +1478,101 @@ A página associa o local principalmente aos Sons of Guilt e aos Eyes of Argos. 
 ### The Monastery
 Principal instalação do subnível e um dos bastiões dos Eyes of Argos. Funciona como santuário, centro de reunião, estudo e proteção do Profane Burial Site.
 
+
+## Sub-seções documentadas — lote 3
+
+### Level 49.1 — Remember the Fallen
+**Arquivo:** levels/level-49-1.md
+
+#### Entidades
+Não há catálogo de entidades nativas consolidado. Personagens e figuras do relato são tratados como elementos narrativos.
+
+#### Bases / comunidades / instalações
+Nenhuma base ou comunidade.
+
+### Level 49.2 — Training Grounds M-1
+**Arquivo:** levels/level-49-2.md
+
+#### Entidades
+A página declara ausência de entidades.
+
+#### Bases / comunidades / instalações
+### Mercury / Iron Fist
+O subnível funciona como instalação principal de uma facção chamada Mercury, associada à Iron Fist. Possui alojamentos, administração, armazenamento e áreas de treinamento.
+
+### Level 51.2 — Her Cradle
+**Arquivo:** levels/level-51-2.md
+
+#### Entidades
+- Philia é a principal entidade/personificação associada ao templo.
+- Outros personagens da narrativa pertencem à história específica de Her Cradle e não devem ser convertidos automaticamente em entidades residentes.
+- A documentação mantém a descrição não gráfica.
+
+#### Bases / comunidades / instalações
+Nenhuma base humana permanente é consolidada. O templo funciona como instalação religiosa/histórica associada à cultura dos Lost.
+
+### Level 63.3 — Sleeping Paradise
+**Arquivo:** levels/level-63-3.md
+
+#### Entidades
+- Nenhuma entidade confirmada.
+- A página histórica afirma que outros humanos também não são encontrados de forma normal.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, comunidade ou posto conhecido.
+
+### Level 78 — Ad Astra
+**Arquivo:** levels/level-78-ad-astra.md
+
+#### Entidades
+- Possibilidade de formas celestes é mencionada na classificação, mas nenhuma entidade biológica específica é estabelecida como população residente.
+
+#### Bases / comunidades / instalações
+- Pesquisadores da M.E.G. estudaram o fenômeno.
+- Não há base independente permanente dentro da anomalia.
+
+### Polden Point — Subregião/Colônia do Level 93
+**Arquivo:** levels/level-93-polden-point.md
+
+#### Entidades
+e fauna
+- **Scream Eaters** são parte importante da ecologia e da economia local.
+- A página também registra mudanças posteriores na fauna do Level 93, portanto a situação ecológica deve ser tratada como dependente da versão temporal do material.
+
+#### Bases / comunidades / instalações
+e instalações
+### Habitation Sector
+Dormitórios, alimentação, biblioteca, cozinha e áreas de convivência.
+
+### Robotics Sector
+Oficinas, laboratório computacional e infraestrutura de manutenção da frota robótica.
+
+### Refinery Sector
+Processamento do recurso chamado Liquid Silence.
+
+### Administrative Sector
+Coordenação operacional, controle da infraestrutura e monitoramento meteorológico.
+
+### Expeditionary Settlements
+Pequenos assentamentos que ampliam a área operacional da colônia.
+
+### Unmanned Watchtowers
+Torres automatizadas usadas para monitorar fenômenos meteorológicos e condições do ambiente.
+
+### Level 94.1 — Place where the King never comes
+**Arquivo:** levels/level-94-1.md
+
+#### Entidades
+### Animations
+Habitantes locais associados ao universo do Level 94. Nesta região, a narrativa enfatiza a relação deles com o King e com o Wizard.
+
+### Wizard
+Entidade/figura com poderes anômalos e conhecimento incomum. A própria página apresenta sua história como narrativa de descoberta.
+
+### Animated King
+Presença central na história do subnível, embora a narrativa destaque justamente sua ausência temporária da região.
+
+#### Bases / comunidades / instalações
+- Não há base humana formal.
+- Existem aldeias e estruturas habitadas pelos habitantes locais.
+
