@@ -802,3 +802,97 @@ Grupo religioso associado às árvores e à ideia de que o nível escolhe seus s
 - Kalag Institute aparece como organização de exploração e documentação.
 - Não há base permanente confirmada.
 
+
+## Levels 63–69
+
+### Level 63 — Tranquility
+**Arquivo:** levels/level-63.md
+
+#### Entidades
+- Nenhuma entidade nativa é confirmada na página histórica.
+- O nível é principalmente ambiental e contemplativo.
+- A ausência de entidades não deve ser generalizada para futuras reescritas.
+
+#### Bases / comunidades / instalações
+- A página histórica afirma que não existem bases, comunidades ou assentamentos permanentes, para preservar o caráter do nível.
+
+### Level 64 — The Lurking Darkness
+**Arquivo:** levels/level-64.md
+
+#### Entidades
+- Lurkers: humanoides descritos com corpo semelhante a verme e múltiplas pernas. São hostis na versão histórica.
+- Outras entidades não são estabelecidas como população principal.
+
+#### Bases / comunidades / instalações
+- M.E.G. Darkness Rangers: posto histórico associado à entrada do Level 0.
+- Abandoned Insurrection Base: instalação histórica abandonada.
+- Housekeepers: grupo associado a áreas domésticas e ao estudo dessas estruturas.
+
+### Level 65 — Bloodstained Garden
+**Arquivo:** levels/level-65.md
+
+#### Entidades
+- Centopeias anômalas: podem atingir mais de 2 m segundo a fonte e são extremamente agressivas.
+- Outros insetos gigantes são mencionados, mas não formam catálogo completo.
+- O artigo associa uma transformação anômala às Blood-Apples; os detalhes corporais gráficos são omitidos.
+- Blood-Apples são tratadas como flora/objeto anômalo, não como entidade confirmada.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, comunidade ou posto permanente confirmado.
+- O artigo é centrado em exploração e relatos individuais.
+
+### Level 66 — Exhibit
+**Arquivo:** levels/level-66.md
+
+#### Entidades
+- Nenhuma entidade nativa identificada com segurança.
+- Relatos descrevem figuras, passos e movimentos dentro dos aquários, mas a própria página os classifica como possíveis alucinações audiovisuais por falta de evidência.
+- A sensação persistente de estar sendo observado é um fenômeno recorrente.
+
+#### Bases / comunidades / instalações
+- Nenhuma base ou comunidade conhecida.
+- Tentativas de criar postos falharam devido à mudança constante do espaço e à dificuldade de orientação.
+
+### Level 67 — Αρτοποιείο Desire
+**Arquivo:** levels/level-67.md
+
+#### Entidades
+- Facelings.
+- Atendente sem rosto.
+- Jelly e Coco.
+- Childhood Friends, duas frequentadoras recorrentes.
+- As máscaras nas paredes não são confirmadas como entidades.
+
+#### Bases / comunidades / instalações
+- Não há bases ou postos oficiais.
+- Regulars: frequentadores de diferentes décadas.
+- Jelly e Coco: dupla recorrente.
+- Childhood Friends: dupla recorrente que pode ajudar visitantes.
+- Nenhum desses grupos é uma comunidade formal.
+
+### Level 68 — Theater The Eater
+**Arquivo:** levels/level-68.md
+
+#### Entidades
+- A principal ameaça é o próprio ambiente e suas propriedades anômalas.
+- Não existe uma população de entidades residentes claramente catalogada.
+- Os filmes são fenômenos exclusivos de salas específicas.
+- Como a página está under rewrite, entidades futuras devem ser catalogadas separadamente.
+
+#### Bases / comunidades / instalações
+- Nenhuma base humana confirmada.
+- Desenhos e escritos sugerem a possibilidade de grupos em uma parte ainda não descoberta, mas isso permanece hipótese.
+
+### Level 69 — The Road Trip of Affliction
+**Arquivo:** levels/level-69.md
+
+#### Entidades
+- Smilers: raros e hostis.
+- Wretches: raros e associados às condições de escuridão/neblina.
+- Beings From Above: manifestações pouco compreendidas, descritas por testemunhas como apêndices descendendo da escuridão superior.
+- Whispers são citados em material histórico como fenômeno que pode incentivar exploradores a sair dos veículos.
+- O veículo funciona como zona de proteção em grande parte dos relatos.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, comunidade ou posto permanente conhecido.
+
