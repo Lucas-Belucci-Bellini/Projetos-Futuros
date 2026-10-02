@@ -1,81 +1,48 @@
 # Level 21 — Numbered Doors
 
-## Metadados
-- **Número:** 21
-- **Título:** Numbered Doors
-- **Estado editorial em 2026-10-01:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-21
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 21
+- Título: Numbered Doors
+- Estado: outdated / open for rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Aviso editorial
-
-A página está marcada como desatualizada e aberta para reescrita.
+## Aparência
+Quatro corredores muito longos, cada um estimado em aproximadamente 26 milhas, convergem para uma pequena praça central com cadeiras e uma mesa.
 
 ## Estrutura
+Os corredores mudam de configuração, podem ficar bloqueados e tornar-se difíceis de navegar. Portas laterais são o elemento estrutural constante.
 
-O Level 21 é composto por quatro corredores muito longos que convergem para uma pequena praça central.
+### Portas documentadas
+- porta 105 → Level 0;
+- porta 356 → Level 356;
+- porta de arenito → Level 46;
+- porta 34 → Level 669;
+- portas 8–20 → níveis correspondentes;
+- porta sem rótulo → Level 1.5.
 
-Cada corredor é estimado em aproximadamente 26 milhas de comprimento.
-
-## Centro
-
-A região central contém cadeiras e uma mesa.
-
-Entidades não costumam aparecer diretamente nesse ponto; o risco maior se concentra nos corredores.
-
-## Corredores móveis
-
-Os corredores podem mudar de configuração ao longo do tempo.
-
-As alterações podem:
-- bloquear rotas;
-- mudar a navegabilidade;
-- reposicionar estruturas;
-- aumentar a instabilidade do espaço.
-
-## Portas numeradas
-
-A característica principal é a presença constante de portas nas laterais.
-
-Essas portas podem:
-- levar a outros Levels;
-- levar a subseções;
-- transportar o viajante para outra parte do próprio Level 21;
-- produzir destinos imprevisíveis.
-
-Algumas numerações possuem destinos documentados, mas a página atual reforça que portas desconhecidas não devem ser consideradas confiáveis.
-
-## Recursos
-
-Objetos encontrados nos corredores incluem:
-- Almond Water;
-- Level Keys;
-- Firesalt;
-- outros recursos menos frequentes.
+Outras portas podem produzir destinos aleatórios ou inesperados.
 
 ## Entidades
+A quantidade e os tipos variam. Clickers são relativamente comuns. Entidades não identificadas também foram registradas.
 
-A quantidade e os tipos variam muito. Clickers aparecem com relativa frequência.
-
-## “Exit Door”
-
-Uma porta especial com letreiro vermelho “Exit” leva a três corredores escuros que não sofrem as mesmas mudanças das áreas principais.
-
-Esses corredores podem conter recursos valiosos, porém entidades aparecem em grande quantidade e com comportamento incomumente organizado.
+## Recursos
+Objetos encontrados incluem Almond Water, Level Keys, Firesalt e outros itens menos frequentes.
 
 ## Bases
-
-Nenhuma base ou comunidade permanente conhecida.
+Nenhuma base, comunidade ou posto conhecido.
 
 ## Entradas
+- Warp Tears no Level 13 são descritas como a conexão mais estável.
+- Warp Tears também aparecem ocasionalmente nos Levels 11, 9 e 6.
+- No-clip aleatório a partir do Level 1.5 também é documentado.
 
-Warp Tears no Level 13 são a conexão mais estável citada pela versão atual.
+## Saídas
+As portas formam a principal rede de saída. Uma porta especial com letreiro “Exit” leva a três corredores escuros estáveis, com recursos e entidades.
 
-## Estado da pesquisa
+## Mídia
+- level-21-cc.jpg — Hallway at Meridian Condo — Joi Ito — CC BY 2.0.
+- A licença do arquivo é independente da licença do texto.
 
-Síntese ampla concluída; revisar integralmente após futura reescrita.
-
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+## Auditoria
+A página está oficialmente outdated/open for rewrite. Toda conectividade deve ser revalidada após a futura reescrita.
