@@ -1,41 +1,64 @@
 # Level 66 — Exhibit
 
-## Metadados
-- **Número:** 66
-- **Título no índice oficial em 2026-10-01:** Exhibit
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-66
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 66
+- Título: Exhibit
+- Estado editorial: current
+- Autor: A_Large_Toaster
+- Fonte: Backrooms Wiki — Level 66
+- Data-base: 2026-10-01
+- Classificação publicada: unknown.
+- Tema: aquário visitável, geometria mutável e pressão psicológica.
 
-## Escopo de documentação
+## Aparência
+Grande aquário aparentemente infinito, com túneis sinuosos e salas de exposição. O ambiente é escuro, úmido e possui pisos têxteis emborrachados, rochas artificiais e plantas com estética tropical. Os túneis são principalmente de vidro temperado e constituem as partes mais iluminadas. A iluminação também vem de placas de saída e de uma luminosidade anômala na água. Os aquários não apresentam vida marinha. A água tem forte odor salino, não é consumível e pode irritar a pele. O nível é quase silencioso, exceto pelo fluxo e gotejamento da água.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 66. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Túneis de vidro.
+- Salas de exposição.
+- Aquários.
+- Corredores e becos sem saída.
+- Conexões espaciais que podem mudar entre observações.
+- Não há subnível confirmado.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Nenhuma entidade nativa identificada com segurança.
+- Relatos descrevem figuras, passos e movimentos dentro dos aquários, mas a própria página os classifica como possíveis alucinações audiovisuais por falta de evidência.
+- A sensação persistente de estar sendo observado é um fenômeno recorrente.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Não há água potável.
+- Os aquários não fornecem fauna ou alimento.
+- Iluminação limitada pode funcionar como referência visual.
+- Não existe estoque sustentável de suprimentos confirmado.
 
+## Bases
+- Nenhuma base ou comunidade conhecida.
+- Tentativas de criar postos falharam devido à mudança constante do espaço e à dificuldade de orientação.
 
-## Atribuição
+## Entradas
+- Portas marcadas como saídas de emergência.
+- No-clipping através de áreas úmidas.
+- Queda através de determinadas poças em níveis arbitrários.
+- Nenhuma dessas entradas possui garantia de manifestação.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- A página descreve apenas portas de emergência funcionais.
+- Algumas podem estar emparedadas ou trancadas.
+- O destino específico não está documentado na página consultada.
+- Não inferir um nível de destino.
+
+## Mídia
+- Level_66_Dark_Tunnel.jpg — A_Large_Toaster — CC BY-SA 3.0.
+- Level_66_Large_Room.jpg — A_Large_Toaster — CC BY-SA 3.0.
+- Level_66_eyes.jpg — A_Large_Toaster — CC BY-SA 3.0.
+- Level_66_ambiance_01.mp3 — A_Large_Toaster — CC BY-SA 4.0.
+- Texto: CC BY-SA 3.0.
+- Cada arquivo deve permanecer com sua licença individual.
+
+## Auditoria
+- Schema completo.
+- Ambiente, arquitetura e fenômeno psicológico registrados.
+- Entidades não confirmadas separadas dos relatos.
+- Entradas documentadas; saída sem destino conhecido.
+- Mídia identificada com autor e licença.
