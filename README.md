@@ -105,7 +105,8 @@ A prioridade é sempre fechar lacunas verificáveis antes de aumentar artificial
 cargo run --bin backrooms-levels-catalog
 cargo run --bin backrooms-audit -- levels
 cargo run --bin backrooms-inventory -- levels
+cargo run --bin backrooms-quality -- levels
 ```
 
-A validação automática da branch executa esses três binários.
+A validação automática da branch executa esses quatro binários; o quarto é relatório editorial e não falha apenas por dados explicitamente desconhecidos.
 

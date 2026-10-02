@@ -17,3 +17,7 @@ path = "tools/backrooms_audit.rs"
 [[bin]]
 name = "backrooms-inventory"
 path = "tools/backrooms_inventory.rs"
+
+[[bin]]
+name = "backrooms-quality"
+path = "tools/backrooms_quality.rs"

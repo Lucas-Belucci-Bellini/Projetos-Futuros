@@ -29,3 +29,6 @@ jobs:
 
       - name: Build coverage inventory
         run: cargo run --quiet --bin backrooms-inventory -- levels
+
+      - name: Report editorial quality
+        run: cargo run --quiet --bin backrooms-quality -- levels
