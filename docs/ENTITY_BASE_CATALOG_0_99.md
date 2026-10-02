@@ -581,3 +581,79 @@ A página associa entidades e fenômenos do nível ao ambiente hostil, mas o cat
 #### Bases / comunidades / instalações
 Nenhuma base permanente consolidada na documentação atual.
 
+
+## Levels 42–48
+
+### Level 42 — a place of interest
+**Arquivo:** levels/level-42.md
+
+#### Entidades
+Não existe catálogo de entidades consolidado na página atual.
+
+A página possui temas de identidade e perda de identidade, mas esses elementos não devem ser transformados em entidades sem confirmação.
+
+#### Bases / comunidades / instalações
+Nenhuma base, posto ou comunidade confirmada.
+
+### Level 43 — Water World
+**Arquivo:** levels/level-43.md
+
+#### Entidades
+A área externa é descrita como sem entidades. A população e os encontros das áreas internas precisam ser tratados conforme a versão atual da página.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente consolidada.
+
+### Level 44 — Corroding Retail Outlet
+**Arquivo:** levels/level-44.md
+
+#### Entidades
+A página classifica o nível como baixo em entidades, mas não fornece um catálogo amplo. Informações sobre manifestações devem permanecer separadas de fenômenos ambientais.
+
+#### Bases / comunidades / instalações
+### M.E.G. Outpost “De-aciders”
+Posto criado para estudar e reduzir a corrosão e tornar a exploração mais segura. A fonte histórica registra aproximadamente 20 membros.
+
+### Level 45 — Abyss Inc.
+**Arquivo:** levels/level-45.md
+
+#### Entidades
+Nenhum catálogo confiável de entidades nativas é estabelecido na versão acessível.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente consolidada.
+
+### Level 46 — Arabian Desert
+**Arquivo:** levels/level-46.md
+
+#### Entidades
+A documentação atual não consolida uma população de entidades nativas. Ancient Ones são tratados como grupo histórico/cultural associado às ruínas, não como entidade individual.
+
+#### Bases / comunidades / instalações
+### M.E.G. Base “Desert Rose”
+Base criada para explorar o nível e estudar os Ancient Ones. A página registra cerca de 20 pessoas e função de fornecer água e abrigo.
+
+### Level 47 — The Adderwood
+**Arquivo:** levels/level-47.md
+
+#### Entidades
+### Great Adder
+Grande serpente anômala associada à proteção das serpentes do nível.
+
+### Black Shucks / Adderwood Wolves
+Canídeos escuros que aparecem principalmente à noite.
+
+A documentação não reproduz instruções de confronto ou fuga; registra apenas identificação e comportamento geral.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente confirmada. A Ophion Occult Order possui associação histórica com o nível.
+
+### Level 48 — The Sunset Beach
+**Arquivo:** levels/level-48.md
+
+#### Entidades
+A página principal deve ser tratada como fonte para o catálogo atual de fauna/entidades. Registros antigos e entidades associadas aos subníveis permanecem separados.
+
+#### Bases / comunidades / instalações
+The Enclave é uma comunidade/subnível associado e deve ser documentado separadamente.
+
