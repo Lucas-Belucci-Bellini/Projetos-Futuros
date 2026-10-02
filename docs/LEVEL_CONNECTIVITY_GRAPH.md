@@ -100,3 +100,13 @@ Regra: conexões de páginas outdated/under rewrite permanecem com estado editor
 - 34 → 289/4/0/99/138/3-1: conexões históricas da versão acessível; revalidar após rewrite.
 - 35 → 34: parede enfraquecida.
 - 35 → outros níveis: veículos/saídas físicas documentados sem destinos consolidados.
+
+
+## Segunda-passagem — Levels 36–40
+- 36 → 36.1: qualquer portão de embarque.
+- 36.1 → destino do voo: transporte para o nível associado ao voo.
+- 36: entradas documentadas a partir de 11, 9, 159, 11.2, níveis de transporte, 864, 902, 103 e 20.
+- 37 ↔ 37.1: subnível relacionado; método exato de transição permanece parcial.
+- 38: entrada por instabilidade/sobreposição em Levels 0–37; saída depende de Interior/Exterior e pode levar a diferentes níveis.
+- 39: entradas 135/499/797; saídas 63/129/170/192/280/300/420/448/466/63.3.
+- 40: entrada histórica por Level 31; saída por porta de funcionários → 0 e exit hall → 9/10/11.
