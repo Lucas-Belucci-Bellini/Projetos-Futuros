@@ -1,41 +1,41 @@
 # Level 32 — Forest of the Skeleton Queen
 
-## Metadados
-- **Número:** 32
-- **Título no índice oficial em 2026-10-01:** Forest of the Skeleton Queen
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-32
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 32
+- Título: Forest of the Skeleton Queen
+- Estado: trimmed / open for rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Floresta extremamente escura e aparentemente infinita sob Lua crescente e céu sem estrelas. Árvores cobrem o ambiente e há esqueletos pendurados nos galhos. O vento produz sons entre as estruturas, criando a ambientação característica.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 32. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+A floresta não possui cartografia confiável. O elemento espacial dominante é a expansão aparentemente infinita da mata.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+### The Belle
+Forma humanoide associada à entidade dominante, descrita com aparência pálida, cabelos escuros e vestido vitoriano laranja.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+### The Skeleton Queen
+Segunda forma da entidade dominante, descrita como extremamente poderosa e ligada ao ambiente.
 
+Os comportamentos perigosos são mantidos aqui apenas em termos não gráficos.
 
-## Atribuição
+## Recursos
+Nenhum inventário confiável de água, alimento ou suprimentos é estabelecido.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Bases
+Nenhuma base, comunidade ou posto avançado confirmado.
+
+## Entradas
+Não existe método universal confirmado. Perder-se em uma floresta escura é associado à chegada ao nível; relatos históricos também mencionam chegadas das Frontrooms.
+
+## Saídas
+A página descreve que pessoas liberadas pela Skeleton Queen podem despertar em outra floresta das Backrooms. Não existe rota universal confirmada.
+
+## Mídia
+A página possui imagens da floresta e da entidade dominante. Autoria e licença devem ser catalogadas individualmente.
+
+## Auditoria
+O índice oficial marca o nível como trimmed/open for rewrite. A narrativa original contém material gráfico e foi resumida de forma não gráfica nesta documentação. Eventos narrativos não devem ser tratados como sistema de transporte determinístico.
