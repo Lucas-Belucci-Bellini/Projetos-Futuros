@@ -1,64 +1,50 @@
 # Level 22 — Ruins Left Behind
 
-## Metadados
-- **Número:** 22
-- **Título:** Ruins Left Behind
-- **Estado editorial em 2026-10-01:** under-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-22
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 22
+- Título: Ruins Left Behind
+- Estado: under rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Aviso editorial
+## Aparência
+Originalmente era um estacionamento de múltiplos andares com carros, carrinhos de compras e suprimentos. Após o colapso de Emstable, tornou-se uma estrutura destruída, com entulho, veículos abandonados, barracas, buracos estruturais, poeira e ferrugem.
 
-O artigo está sendo reescrito.
+## Estrutura
+O nível possui numerosos andares e grandes áreas de estacionamento. A estrutura atual é instável.
 
-## Visão histórica
+### Emstable
+Em 1987 os habitantes transformaram o nível em uma micronação. A população cresceu e muitas entradas foram fechadas durante o isolamento.
 
-O Level 22 começou como um estacionamento de múltiplos andares relativamente comum dentro dos padrões das Backrooms.
+## Entidades
+A versão atual não fornece catálogo confiável de entidades residentes.
 
-A região tinha carros, carrinhos de compras, alimentos e materiais de construção e era relativamente pouco hostil.
+## Recursos
+Durante a fase de Emstable havia materiais de construção, alimentos, madeira, roupas e recursos recuperados. Após o colapso, a disponibilidade tornou-se limitada.
 
-## Ocupação humana
+## Bases
+### Emstable
+Foi a principal comunidade e micronação do nível. Atualmente é uma comunidade histórica colapsada, não uma base ativa.
 
-Por ser utilizável e possuir recursos, o nível se tornou um hub para comunidades.
+## Entradas
+- Level 21;
+- Level 23;
+- portas de vidro do Level 1;
+- rampas do Level 69;
+- áreas centrais do Level 172.
 
-Em 1987, seus habitantes declararam uma micronação independente.
+Muitas entradas antigas deixaram de existir.
 
-## Emstable
+## Saídas
+- conexões de retorno aos Levels 21 e 23;
+- no-clip através de determinados carros ou entulhos → Level 817.
 
-A sociedade passou a se chamar **Emstable**.
+## Mídia
+- original22.jpg — Parking Garage — Clemens v. Vogelsang — CC BY 2.0.
+- tent22.jpg — Tent — Anthony Easton — CC BY 2.0.
+- new22.jpg — Underground Direction — Michael Galpert — CC BY 2.0.
+- new22.jpg — Not a garbage dumping site!! — Thejaswi I — CC BY-SA 2.0.
+- flag.jpg — BoringTalking — CC BY-SA 3.0.
 
-No início da década de 1990, grande parte das entradas foi fechada deliberadamente pelos habitantes, isolando progressivamente o nível do restante das Backrooms.
-
-## Abandono
-
-A página atual é construída em torno das ruínas deixadas por essa sociedade.
-
-O contraste entre:
-- estacionamento original;
-- período de ocupação;
-- expansão social;
-- isolamento;
-- abandono
-
-é parte fundamental da identidade do Level 22.
-
-## Classificação
-
-A versão atual utiliza uma classificação de perigo ambiental muito alta.
-
-## Importância histórica
-
-Mais do que um espaço físico, Level 22 funciona como registro de uma civilização das Backrooms que cresceu, se isolou e posteriormente desapareceu.
-
-## Estado da pesquisa
-
-A futura segunda passagem deve reconstruir a cronologia de Emstable, seus grupos, infraestrutura, colapso, entidades, entradas e saídas.
-
-## Regra de manutenção
-
-Como o artigo está em reescrita, não tratar esta síntese como definitiva.
-
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+## Auditoria
+A cronologia de Emstable é central. Dados de população, economia e ocupação pertencem ao período histórico e não representam necessariamente o estado atual.
