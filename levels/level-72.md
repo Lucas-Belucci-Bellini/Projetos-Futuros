@@ -1,41 +1,41 @@
 # Level 72 — The Pit
 
-## Metadados
-- **Número:** 72
-- **Título no índice oficial em 2026-10-01:** The Pit
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-72
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 72
+- Título: The Pit
+- Estado editorial: current
+- Fonte principal: Backrooms Wiki
+- Data-base: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+A cave/pitfall sublevel below the main Backrooms. Entry involves a very long fall ending in cold salt water, followed by narrow cavern passageways, a bog and a constricted final section. Neon-like mushrooms provide limited light. The level is part of the Pitfalls cluster.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 72. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Regiões e pontos de interesse descritos na fonte devem permanecer separados por versão editorial.
+- A arquitetura principal é resumida acima; detalhes adicionais só entram quando confirmados pela página.
+- Subníveis e páginas relacionadas devem possuir arquivos próprios quando existirem.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+Shelf Crawlers, The Repeater and The Long One are described in the bog. Other fauna is possible but not fully cataloged.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+Glowing mushrooms are temporary light sources; no dependable food/water supply is established.
 
+## Bases
+No permanent base or community documented.
 
-## Atribuição
+## Entradas
+Level 0 → 72 via a pitfall.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+72 → Enshrined Monastery through the end of the final passage; another route leads toward the Aquatic Abyss. Treat both as Pitfalls-cluster routes.
+
+## Mídia
+Media/licensing needs individual audit; text is CC BY-SA 3.0.
+
+## Auditoria
+Current page; avoid reproducing hazardous traversal instructions.
+- Campos não confirmados permanecem explicitamente marcados como não documentados.
+- Não inferir bidirecionalidade entre entradas e saídas.
+- Não misturar versões current, trimmed, archived ou rewrite.
+- Conteúdo gráfico ou instruções perigosas da fonte são resumidos ou omitidos.
