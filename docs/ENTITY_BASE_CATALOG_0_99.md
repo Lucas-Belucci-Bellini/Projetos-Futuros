@@ -401,3 +401,84 @@ A página descreve ausência de entidades e organismos vivos na área principal.
 #### Bases / comunidades / instalações
 Nenhuma base, comunidade ou posto permanente.
 
+
+## Levels 28–34
+
+### Level 28 — Final Virtue
+**Arquivo:** levels/level-28.md
+
+#### Entidades
+A página registra **Blue Knight/Temperance** como entidade residente confirmada. Outras entidades que entram por no-clip podem ter comportamento diferente do habitual dentro do nível.
+
+#### Bases / comunidades / instalações
+### Stormstone Keep
+Principal instalação permanente documentada. Funciona como ponto de abrigo e referência.
+
+### Level 29 — Hyperian
+**Arquivo:** levels/level-29.md
+
+#### Entidades
+A ilha é descrita como relativamente segura e com habitantes humanoides amigáveis. O oceano contém numerosas entidades, incluindo uma entidade gigantesca conhecida como Kraken.
+
+A documentação estima aproximadamente 200 entidades exclusivas no ecossistema oceânico, mas esse número é uma estimativa histórica.
+
+#### Bases / comunidades / instalações
+Não existe uma única base central. Centenas de sociedades/nacionalidades ocupam a ilha e mantêm seus próprios assentamentos.
+
+### Level 30 — Shifted Beyond Reality
+**Arquivo:** levels/level-30.md
+
+#### Entidades
+### Memory Lurkers
+Entidades associadas à alteração da percepção e das memórias.
+
+### Level 30
+Versões posteriores da página propõem que o próprio nível seja uma entidade consciente ou fenômeno senciente. Isso permanece uma propriedade da narrativa da versão correspondente.
+
+#### Bases / comunidades / instalações
+Não existem bases atuais confirmadas. Um posto histórico é descrito como perdido durante eventos relacionados ao nível.
+
+### Level 31 — The Roller Rink
+**Arquivo:** levels/level-31.md
+
+#### Entidades
+- Facelings podem aparecer.
+- Um Faceling dócil é descrito ocasionalmente no posto de DJ.
+- A versão arquivada também registra Hounds e uma entidade nativa chamada The Coach; essa informação permanece histórica até reconciliação.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente, posto avançado ou comunidade humana está confirmada na versão atual.
+
+### Level 32 — Forest of the Skeleton Queen
+**Arquivo:** levels/level-32.md
+
+#### Entidades
+### The Belle
+Forma humanoide associada à entidade dominante, descrita com aparência pálida, cabelos escuros e vestido vitoriano laranja.
+
+### The Skeleton Queen
+Segunda forma da entidade dominante, descrita como extremamente poderosa e ligada ao ambiente.
+
+Os comportamentos perigosos são mantidos aqui apenas em termos não gráficos.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto avançado confirmado.
+
+### Level 33 — The Infinite Mall
+**Arquivo:** levels/level-33.md
+
+#### Entidades
+Um relato histórico menciona aproximadamente 200 entidades agressivas em uma região muito distante da entrada. Como o nível está em rewrite, esse número não é tratado como estado atual confirmado.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto permanente confirmado.
+
+### Level 34 — Sewer System
+**Arquivo:** levels/level-34.md
+
+#### Entidades
+Smilers são mencionados na versão histórica. Outras entidades aparecem em relatos antigos, mas não existe catálogo atual consolidado devido à reescrita.
+
+#### Bases / comunidades / instalações
+Nenhuma base, comunidade ou posto confirmado.
+
