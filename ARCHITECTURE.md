@@ -103,6 +103,7 @@ Evitar código JavaScript escrito diretamente.
 - `src/main.rs`: verificador de presença dos 100 níveis principais e consistência de fonte/schema.
 - `tools/backrooms_audit.rs`: auditor detalhado de seções, seções vazias e marcadores unresolved.
 - `tools/backrooms_inventory.rs`: inventário e relatório de cobertura por arquivo.
+- `tools/backrooms_quality.rs`: relatório de lacunas explícitas e qualidade editorial sem transformar desconhecidos em falhas.
 
 ## 9. Expansão de sub-seções
 

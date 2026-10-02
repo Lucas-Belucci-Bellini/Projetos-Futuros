@@ -37,7 +37,7 @@ Registro completo: docs/SUBLEVEL_REGISTRY.md
 
 ## Catálogo transversal
 
-- `docs/ENTITY_BASE_CATALOG_0_99.md` agora reúne as seções de Entidades e Bases/Instalações dos 100 níveis principais e das 26 sub-seções que já possuem arquivo dedicado.
+- `docs/ENTITY_BASE_CATALOG_0_99.md` agora reúne as seções de Entidades e Bases/Instalações dos 100 níveis principais e das 27 sub-seções que já possuem arquivo dedicado.
 - O catálogo é derivado dos próprios Markdown e não substitui a ficha individual.
 
 ## Mídia
@@ -74,8 +74,9 @@ O código está pronto, mas a execução global dos arquivos ainda não foi conc
 2. Fechar a auditoria individual de mídia/licenças.
 3. Fechar confiança/proveniência do grafo.
 4. Reconciliar rotas externas a 0–99 e métodos de subníveis.
-5. Executar a validação Rust no CI.
-6. Fazer reconciliação final entre níveis, subníveis e conexões externas.
+5. Usar `tools/backrooms_quality.rs` para priorizar arquivos com maior concentração de lacunas explícitas.
+6. Executar a validação Rust no CI.
+7. Fazer reconciliação final entre níveis, subníveis e conexões externas.
 
 ### Verificação de ferramenta
 
