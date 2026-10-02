@@ -1,60 +1,63 @@
 # Level 2 — Abandoned Utility Halls
 
-## Metadados
-- **Número:** 2
-- **Título no índice oficial em 2026-10-01:** Abandoned Utility Halls
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-2
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal:** Backrooms Wiki
-- **Data-base:** 2026-10-01
+## Identidade
+- **Número:** 2.
+- **Título:** Abandoned Utility Halls.
+- **Estado:** current.
+- **Fonte:** Backrooms Wiki.
+- **Data-base:** 2026-10-01.
 
-## Visão geral
+## Aparência
+Rede extensa de corredores utilitários e túneis de manutenção, com concreto, tijolos, tubulações, cabos, máquinas e portas técnicas. A iluminação é predominantemente artificial e pode variar de trechos claros a áreas escuras.
 
-O Level 2 é uma rede aparentemente interminável de túneis de manutenção e corredores utilitários. Sua identidade é fortemente industrial: concreto, tijolos, tubulações, cabos, máquinas e portas técnicas dominam o cenário.
+## Estrutura
+- Túneis de manutenção.
+- Corredores estreitos e largos.
+- Áreas técnicas.
+- Depósitos e salas.
+- Tubulações e equipamentos industriais.
+- Escala total não consolidada.
 
-## Arquitetura e escala
-
-Os corredores variam bastante em largura. Há passagens extremamente estreitas, corredores convencionais e espaços maiores semelhantes a depósitos ou áreas técnicas. A repetição estrutural torna a orientação difícil, apesar de muitas seções aparentarem respeitar ângulos e medidas regulares.
-
-## Superfícies
-
-Paredes e pisos são envelhecidos, sujos e frequentemente cobertos por marcas de desgaste. Certas superfícies podem soltar resíduos semelhantes a pó quando tocadas.
-
-## Máquinas e tubulações
-
-O nível contém grande quantidade de equipamentos industriais. Muitas máquinas parecem conectadas entre si sem finalidade clara. Tubulações podem transportar fluidos, gases, eletricidade ou outros materiais.
-
-## Iluminação
-
-A iluminação principal é fluorescente e irregular. Fios expostos, lâmpadas danificadas e falhas locais podem mergulhar trechos inteiros na escuridão.
-
-## Portas e salas
-
-Portas podem levar a depósitos, pequenos cômodos, corredores em loop ou espaços muito maiores do que deveriam ser. Algumas permanecem permanentemente trancadas.
+## Entidades
+A página atual deve ser tratada como fonte principal para o catálogo de entidades. O arquivo ainda precisa receber uma lista consolidada por nome, habitat e comportamento.
 
 ## Recursos
+- Ferramentas e componentes industriais.
+- Metais, cabos e materiais reaproveitáveis.
+- Outros recursos dependem da região.
+- Disponibilidade exata ainda precisa de auditoria contra a página atual.
 
-Ferramentas, metais, cabos e componentes industriais transformaram o Level 2 em uma região historicamente importante para coleta e reaproveitamento de materiais.
+## Bases
+Existem registros de grupos que utilizaram partes do nível, mas o inventário de instalações permanentes precisa ser reconferido.
 
-## História e ocupação
+## Entradas
+- O **Level 1** possui conexão documentada com o Level 2.
+- Outras entradas devem ser reconferidas antes de serem adicionadas ao grafo.
 
-A página atual registra diferentes grupos que exploraram, ocuparam ou utilizaram partes do nível ao longo do tempo, incluindo organizações ligadas a engenharia, comércio e acolhimento de viajantes.
+## Saídas
+- **Level 3** é uma conexão importante da sequência principal.
+- **Level 92** possui uma rota documentada para o Level 2.
+- Outras saídas devem ser confirmadas diretamente na página atual.
 
-## Riscos
+## Subníveis
+Nenhum subnível foi consolidado neste arquivo nesta rodada.
 
-- apagões;
-- corredores estreitos;
-- fios expostos;
-- máquinas;
-- regiões escuras;
-- portas anômalas;
-- entidades e ameaças locais;
-- desorientação.
+## Mídia
+As imagens devem ser catalogadas individualmente com autor, fonte e licença. Não copiar automaticamente.
 
-## Próximas expansões
+## Canon e auditoria
+Este arquivo ainda necessita de uma rodada específica de entidades, bases e conectividade. Campos não confirmados permanecem explicitamente pendentes.
 
-Ainda devem ser adicionadas listas completas de entidades, comunidades, eventos históricos, entradas, saídas e subseções.
-## Atribuição
-
-Este documento é uma síntese editorial original. Ele reorganiza e resume informações da página oficial sem reproduzir o artigo integralmente. A fonte é disponibilizada pela Backrooms Wiki sob CC BY-SA 3.0, conforme indicação da própria wiki.
+## Auditoria
+- [x] Identidade
+- [x] Aparência
+- [x] Estrutura
+- [x] Entidades
+- [x] Recursos
+- [x] Bases
+- [x] Entradas
+- [x] Saídas
+- [x] Mídia
+- [x] Canon
+- [ ] Entidades detalhadas
+- [ ] Bases detalhadas
