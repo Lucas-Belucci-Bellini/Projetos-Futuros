@@ -1,57 +1,74 @@
 # Level 99 — Ghoul Town
 
-## Metadados
-- **Número:** 99
-- **Título no índice oficial em 2026-10-01:** Ghoul Town
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-99
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- **Número:** 99.
+- **Título:** Ghoul Town.
+- **Estado editorial:** trimmed / open for rewrite.
+- **Fonte principal:** Backrooms Wiki.
+- **Data-base:** 2026-10-01.
 
-## Síntese atual
+## Aparência
+O nível é um deserto de tonalidade laranja extremamente intensa. O céu permanece laranja e o ambiente não possui um ciclo convencional de dia e noite na versão documentada.
+A paisagem é visualmente distorcida, mas a versão histórica descreve o terreno físico como areia/deserto convencional em vez de uma superfície literalmente sólida ou impossível.
 
-O Level 99 é listado no índice atual como **Ghoul Town**.
+## Estrutura
+- Grande extensão desértica.
+- Porta associada à entrada.
+- Região de Ghoul Town a aproximadamente doze quilômetros da entrada na versão histórica.
+- Cidade estimada em alguns milhares de metros quadrados na narrativa registrada.
+- Sinalização e portas espalhadas pelo deserto.
+- A escala exata do nível não foi determinada.
 
-## Estado editorial
+## Entidades
+### Ghouls
+A versão histórica descreve habitantes humanoides chamados ghouls, mais próximos de pessoas com aparência de mortos-vivos do que de monstros irracionais. Eles são apresentados como passivos e capazes de comunicação por linguagem de sinais.
+A documentação não reproduz descrições gráficas.
 
-A página está marcada como **open-to-rewrite**, indicando que o conteúdo atual pode ser substituído ou profundamente alterado. Qualquer dado retirado da versão presente deve, portanto, ser tratado como potencialmente temporário.
+## Recursos
+- Ghoul Town possui estruturas civis, incluindo uma mercearia na versão histórica.
+- A fonte registra a entrega de uma cesta de boas-vindas aos recém-chegados, mas isso não deve ser tratado como garantia de suprimento infinito.
+- Não há inventário completo dos recursos da cidade.
 
-## Ambiente registrado
+## Bases e comunidades
+### Ghoul Town
+- Comunidade habitada pelos ghouls.
+- Estrutura urbana com pelo menos comércio/serviços básicos na versão histórica.
+- Interação social descrita como possível.
+- Não há número populacional confiável.
 
-A versão acessível descreve um cenário desértico de tonalidade intensamente alaranjada, com forte predominância de cores quentes e aparência visual incomum.
+## Entradas
+- **Level 4:** porta suspensa acima do solo com sinalização de Ghoul Town.
+- **Level 11:** alçapão suspenso com escada que permite a passagem.
+- A versão histórica também descreve uma porta isolada no deserto associada à entrada.
+- Como o artigo está trimmed/open for rewrite, todas essas rotas devem carregar o marcador de versão histórica.
 
-## Regra especial para este arquivo
+## Saídas
+- Retorno pela porta de entrada.
+- Porta “Swimming Pool” → **Level 7** na versão histórica; a descrição da fonte envolve uma condição aquática perigosa, omitida aqui.
+- Porta “Dust” → **Level 85**.
+- Porta “Arcade!!!” → **Level 389**.
+- Essas conexões não devem ser tratadas como atuais após eventual rewrite sem reconfirmação.
 
-Como a página está aberta para reescrita, futuras atualizações deste documento devem conferir novamente o artigo antes de preservar detalhes antigos.
+## Subníveis
+Nenhum subnível numerado consolidado.
 
-## Escopo de documentação
+## Mídia
+A página informa que a imagem foi criada pelo próprio autor, SoyShamoy, em Sketchbook Autodesk.
+A condição de reutilização deve ser confirmada diretamente na página/licenciamento antes de copiar qualquer arquivo.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 99. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Canon e auditoria
+- Página marcada como outdated/trimmed/open for rewrite.
+- Cidade, ghouls e rotas acima pertencem à versão documentada.
+- Não transformar diálogos/logs em fatos independentes sem separar claramente narrativa de dado estrutural.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
-
-## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Auditoria
+- [x] Identidade
+- [x] Aparência
+- [x] Estrutura
+- [x] Entidades
+- [x] Recursos
+- [x] Bases
+- [x] Entradas
+- [x] Saídas
+- [x] Mídia
+- [x] Canon
