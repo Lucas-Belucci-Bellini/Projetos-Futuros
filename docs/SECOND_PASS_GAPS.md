@@ -2,53 +2,50 @@
 
 Data-base: 2026-10-02.
 
-## Categorias
-- P0: estrutura.
-- P1: conectividade.
-- P1: canon.
-- P1: entidades.
-- P1: bases.
-- P2: aparência.
-- P2: mídia.
-- P3: histórico editorial.
+## Problemas confirmados nesta rodada
+- Levels 37–40 estavam em formato antigo sem o schema obrigatório.
+- Level 12 não possuía Entidades, Recursos e Mídia.
+- Level 91 possuía checkbox [ ] que o validador interpretava como pendência.
+- Levels 02 e 03 tinham lacunas explícitas de pesquisa nos próprios arquivos; ambos foram reestruturados.
 
-## 81–90 — concluído nesta rodada
-- [x] Schema completo nos níveis 81–90.
-- [x] Aparência, estrutura e condições ambientais registradas.
-- [x] Entidades separadas de personagens/fenômenos quando necessário.
-- [x] Bases, comunidades e instalações separadas de pontos de interesse.
-- [x] Entradas e saídas separadas por direção.
-- [x] Estados current/trimmed/open for rewrite preservados.
-- [x] Mídia e licenças registradas quando confirmadas.
-- [x] Conteúdo sensível resumido de forma não gráfica.
-- [x] Level 82 teve sua rede extensa de entradas/saídas registrada.
-- [x] Level 83 tratado como registro histórico por estar trimmed.
-- [x] Level 86 teve a imagem não-CC marcada como bloqueada para reutilização.
-- [x] Level 88 teve a presença aquática mantida como não classificada.
-- [x] Level 89 teve personagem, fenômeno e entidade potencial separados editorialmente.
+## Gap estrutural de sub-seções
+O snapshot oficial de 0–99 lista 58 sub-seções/localizações. A branch possui 15 arquivos dedicados e 43 ainda ausentes.
 
-## Pendências 81–90
-- [ ] Confirmar licenças individuais de Level 83.
-- [ ] Confirmar imagem principal de Level 84.
-- [ ] Auditar toda a mídia de Level 85.
-- [ ] Substituir/referenciar imagem não-CC de Level 86.
-- [ ] Extrair conectividade adicional de Level 87 se aparecer em histórico/rewrite.
-- [ ] Identificar entradas/saídas numéricas de Level 88 caso a página futura as publique.
-- [ ] Auditar anexos de Level 89.
-- [ ] Confirmar licença da imagem atual de Level 90.
+O inventário está em docs/SUBLEVEL_REGISTRY.md.
 
-## Blocos anteriores
-### 0–50
-Revisar conexões, subníveis, bases e mídia no mesmo padrão.
+## Pendências prioritárias
+- 0.1, 0.2, 0.3, 0.5, 0.7.
+- Manila Room, Red Rooms, The Torment.
+- 1.1, 1.2, 1.3, 1.5.
+- Base Alpha, Traders Vault.
+- 2.1, Office Space EL3A.
+- 3.5.
+- The Office Market.
+- 5.1, 5.2, 5.3.
+- 6.1, 6.2, 6.3, 6.31.
+- 7.6, 7.7, 7.8, The Hadal Zone.
+- 8.1, The Sanctum Subterraneous.
+- 9.2, 9.3, 9.5, 9.9.
+- 10.1, 10.2.
+- AFTER HOURS, The Headquarters.
+- Vultures In The Paper Oasis.
+- Ground 48.1 — Noctilucent Ground.
 
-### 51–70
-Revalidar trimmed/open for rewrite e under rewrite sem substituir histórico por inferência.
+## Mídia
+Os catálogos existentes não equivalem a licença individual fechada. Ainda é necessário:
+- identificar autor e origem;
+- registrar licença;
+- marcar material não reutilizável;
+- substituir referências bloqueadas quando possível.
 
-### 71–80
-Manter a segunda passagem estrutural e completar mídia/subníveis/conectividade restantes.
+## Conectividade
+Ainda faltam:
+- proveniência por aresta;
+- confiança;
+- arestas externas a 0–99;
+- confirmação de bidirecionalidade;
+- reconciliação de rotas de subníveis;
+- atualização após rewrites.
 
-### 91–99
-Manter a separação de versões e continuar auditoria de mídia/conectividade.
-
-## Critério de conclusão
-Cada nível precisa ter schema completo, desconhecidos explicitados, conexões com origem/status, entidades não gráficas, bases quando publicadas, mídia com crédito/licença ou pendência e validação Rust.
+## Critério de conclusão real
+A documentação só deve ser considerada completa quando níveis e sub-seções documentadas possuírem schema, desconhecidos explícitos, entidades, bases/instalações, entradas, saídas, mídia, estado editorial e validação Rust, além de reconciliação com o índice oficial.
