@@ -5,17 +5,26 @@ Não copiar imagens automaticamente. Registrar autor, fonte e licença antes de 
 | Level | Mídia identificada | Autor/origem | Licença | Estado |
 |---|---|---|---|---|
 | 81 | rest.png | centurys lute | CC BY 3.0 | confirmado |
-| 82 | imagens do mercado e entradas | arquivos da página | verificar individualmente | pendente |
-| 83 | submarino, interior e Great Observer | Bristol Ridin; Toddbublitz; Maxpax; Dawn Endico | CC BY 2.0; Pixabay; CC BY-SA 2.0 | confirmado |
-| 84 | Hampton Court Maze | William Marnoch | CC BY 2.0 | confirmado |
-| 85 | toy car track, biomas, edifícios e interiores | verificar individualmente | verificar individualmente | pendente |
-| 86 | lobby do Rivergate Tower | verificar individualmente | verificar individualmente | pendente |
+| 82 | Leeds Markets (3), Leeds City Centre, Indoor Market Seller, trapdoor, DSC_0874, revolving door | jiulong; The Met Hotel; PiktourUK; Tim Evanson; stephen_clarky; Robert Couse-Baker | CC BY-SA 2.0 / CC BY 2.0 | confirmado |
+| 83 | USS Ace of Spades, berth/interior, Great Observer | créditos da página histórica | verificar individualmente | parcial |
+| 84 | fotografia do hedge maze | página histórica | verificar individualmente | pendente |
+| 85 | toy car track, ocean, interiores e biomas | créditos da página | verificar individualmente | pendente |
+| 86 | lobby do Rivergate Tower | arquivo da página | não-CC; substituir | bloqueado |
 | 87 | Long hallway | Aaron Gustafson | CC BY-SA 2.0 | confirmado |
 | 88 | Sneaking Down to The Lake at Night | Jason Pratt | CC BY 2.0 | confirmado |
-| 89 | elementos visuais do artigo | verificar individualmente | conteúdo CC-BY-SA-3.0; arquivos individuais a verificar | pendente |
-| 90 | imagem da casa | crédito registrado na discussão; verificar fonte | CC BY-SA 2.0 segundo a discussão | verificar individualmente |
+| 89 | imagens e anexos narrativos | página/sandbox | verificar individualmente | pendente |
+| 90 | imagem da casa | crédito histórico em discussão | verificar arquivo atual | pendente |
 
-## Observações
-- Levels 83, 84, 86 e 87 têm status editorial que exige atenção na segunda passagem.
-- Licença da página não deve ser confundida com licença do arquivo.
-- O projeto mantém somente metadados de mídia até a verificação.
+## Regras
+- Licença da página não substitui licença do arquivo.
+- Mídia de sandbox não deve ser tratada como livre sem crédito/licença.
+- Imagens sem licença compatível ficam apenas como referência editorial.
+- Priorizar Openverse/Commons ou arquivos explicitamente licenciados quando for necessário substituir uma imagem não reutilizável.
+
+## Pendências prioritárias
+1. Level 83: separar cada imagem e confirmar licença.
+2. Level 84: confirmar crédito da imagem principal.
+3. Level 85: auditar cada fotografia.
+4. Level 86: substituir a imagem não-CC.
+5. Level 89: auditar anexos individualmente.
+6. Level 90: confirmar crédito e licença no arquivo atual.
