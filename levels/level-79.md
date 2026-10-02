@@ -1,41 +1,41 @@
 # Level 79 — Ghosts in the Machine
 
-## Metadados
-- **Número:** 79
-- **Título no índice oficial em 2026-10-01:** Ghosts in the Machine
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-79
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 79
+- Título: Ghosts in the Machine
+- Estado editorial: current
+- Fonte principal: Backrooms Wiki
+- Data-base: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Small medical-research complex of about 370 m² with seven rooms branching from a main corridor. Equipment resembles a mid-20th-century medical clinic. The level shows signs of prior human planning and occupation.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 79. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Regiões e pontos de interesse descritos na fonte devem permanecer separados por versão editorial.
+- A arquitetura principal é resumida acima; detalhes adicionais só entram quando confirmados pela página.
+- Subníveis e páginas relacionadas devem possuir arquivos próprios quando existirem.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+No stable native entity population confirmed. The level is dominated by temporal/spatial instability and anomalous machinery.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+Medical/scientific equipment and anomalous machines; specific medicines are not cataloged here.
 
+## Bases
+No permanent base confirmed.
 
-## Atribuição
+## Entradas
+One entrance/exit is described at the beginning of the main corridor; its door may manifest in different levels.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+The same corridor doorway serves as the known exit, with documented temporal displacement between entry and exit dates.
+
+## Mídia
+Main corridor and medical-room images; individual media licenses need audit.
+
+## Auditoria
+Current deadzone. Temporal displacement is central and should not be described as a practical travel technique.
+- Campos não confirmados permanecem explicitamente marcados como não documentados.
+- Não inferir bidirecionalidade entre entradas e saídas.
+- Não misturar versões current, trimmed, archived ou rewrite.
+- Conteúdo gráfico ou instruções perigosas da fonte são resumidos ou omitidos.
