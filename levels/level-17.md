@@ -1,67 +1,46 @@
 # Level 17 — The Carrier
 
-## Metadados
-- **Número:** 17
-- **Título de referência:** The Carrier
-- **Estado editorial em 2026-10-01:** under-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-17
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base desta revisão:** 2026-10-01
+## Identidade
+- Número: 17
+- Título: The Carrier
+- Estado: under rewrite
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Aviso editorial
+## Aparência
+Labirinto aparentemente infinito no interior de um porta-aviões naval. Corredores e escadas lembram navios da classe Essex.
 
-O índice oficial indica que o artigo está em reescrita.
+## Estrutura
+- corredores internos;
+- escadarias;
+- camadas inferiores;
+- camadas superiores;
+- corredores inundados;
+- portas e janelas translúcidas com iluminação anômala.
 
-## Visão geral
+Corredores inundados funcionam como conexões de mão única com salas de superfície do Level 7.
 
-A versão atualmente acessível descreve o Level 17 como um labirinto infinito no interior de um porta-aviões naval.
+## Entidades
+### Imprints
+Duplicatas de viajantes que já exploraram o Level 17. A documentação descreve forte efeito psicológico ao observá-las.
 
-## Arquitetura
-
-Os corredores e escadas lembram um porta-aviões da classe Essex.
-
-Existem camadas inferiores e superiores com propriedades diferentes.
-
-## Corredores inundados
-
-Alguns corredores ficam completamente alagados.
-
-Essas áreas funcionam como saídas de mão única conectadas ao Level 7.
-
-## Imprints
-
-A versão atual documenta uma entidade exclusiva chamada **Imprints**.
-
-Eles aparecem como duplicatas de antigos viajantes que já passaram pelo Level 17.
-
-Embora não sejam descritos como fisicamente agressivos, observá-los pode provocar forte sofrimento psicológico.
-
-Contato visual direto pode causar perda de consciência prolongada e, em casos extremos relatados, efeitos neurológicos graves.
-
-## Camadas superiores
-
-Nos andares superiores existem janelas e portas translúcidas com iluminação anômala.
-
-Exposição direta à luz é descrita como causando acúmulo progressivo de água nos pulmões enquanto a pessoa permanecer iluminada.
+## Recursos
+Nenhum inventário confiável de alimentos, água ou equipamentos está estabelecido.
 
 ## Bases
+Nenhuma base, comunidade ou posto conhecido.
 
-Não há bases, comunidades ou postos conhecidos na versão atual.
-
-## Entrada
-
-Uma entrada documentada envolve uma fonte de luz submersa no Level 7.
+## Entradas
+- Level 7: fonte luminosa submersa que conduz a uma área semelhante a um compartimento de lastro.
 
 ## Saídas
+- Level 11: porta metálica vermelha após progressão pelas camadas superiores.
+- Level 7: corredores inundados.
+- Level 18: conexão rara documentada.
 
-A versão atual registra:
-- porta metálica vermelha para o Level 11;
-- corredores inundados de volta ao Level 7;
-- uma conexão rara com o Level 18.
+## Mídia
+- level-17-1-cc.jpg — Entrance To The Nuclear Bunker, Nothe Fort, Weymouth — Jim Linwood — CC BY 2.0.
+- level-17-2-cc.jpg — Missouri hallway — Eric and Mary Ellen — CC BY-SA 2.0.
 
-## Regra de manutenção
-
-Como o artigo está em reescrita, estes dados devem ser considerados provisórios.
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O objetivo é reorganizar e explicar os fatos da página sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md` para a política completa de licença e uso de fontes.
+## Auditoria
+O índice oficial marca o Level 17 como under rewrite. Portanto, entradas, saídas e entidades desta ficha devem ser revalidadas quando a nova versão for publicada.
