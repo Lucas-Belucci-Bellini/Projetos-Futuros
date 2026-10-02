@@ -1,65 +1,65 @@
 # Level 0 — Threshold
 
-## Metadados
-- **Número:** 0
-- **Título no índice oficial em 2026-10-01:** Threshold
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-0
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- **Número:** 0.
+- **Título atual:** Threshold.
+- **Estado:** current.
+- **Fonte:** Backrooms Wiki.
+- **Data-base:** 2026-10-01.
 
-## Síntese atual
+## Aparência
+Ambiente liminar formado por corredores internos repetitivos, paredes amarelas, carpete úmido e iluminação fluorescente. O espaço é visualmente uniforme o suficiente para dificultar referências de distância e direção.
+A sensação de repetição é parte essencial da identidade do nível: corredores semelhantes parecem continuar sem um limite perceptível.
 
-O Level 0 é o espaço liminar clássico associado à entrada nas Backrooms. A versão atual da wiki descreve um ambiente labiríntico, amarelado e repetitivo, dominado por iluminação fluorescente e por uma sensação persistente de isolamento.
+## Estrutura
+- Corredores e interseções.
+- Paredes amarelas.
+- Carpete.
+- Iluminação fluorescente.
+- Geometria labiríntica.
+- Escala total desconhecida.
+- Não há mapa completo confiável.
 
-## Ambiente
+## Entidades
+A página atual não confirma uma população estável de entidades. Há relatos de figuras escuras, mas eles permanecem não confirmados.
+O fenômeno de isolamento é mais importante para a caracterização do nível do que um catálogo de criaturas.
 
-A organização espacial é deliberadamente difícil de interpretar. Corredores, paredes, carpete e iluminação apresentam repetição suficiente para eliminar referências confiáveis de direção e distância. A aparência familiar de um interior comercial ou institucional contrasta com o caráter impossível do lugar.
+## Recursos
+- Não há suprimento estável documentado.
+- O ambiente não é apresentado como uma fonte confiável de água, alimento ou abrigo prolongado.
 
-## Isolamento
+## Bases
+- Nenhuma base permanente.
+- Não há comunidade estável documentada.
 
-Um dos elementos mais importantes do Level 0 é a separação entre viajantes. A página atual enfatiza que encontrar outras pessoas diretamente é extremamente improvável e que relatos visuais ou auditivos não devem ser automaticamente tratados como encontros confirmados.
+## Entradas
+- A forma mais conhecida de entrada é cair/no-clip para fora da realidade normal.
+- A página atual observa que existem outras entradas espalhadas pelas Backrooms.
 
-## Entidades e ameaças
+## Saídas
+- Uma parede ou superfície que apresenta comportamento de flickering pode permitir a passagem para o **Level 1**.
+- A rota é apresentada como uma saída clássica, mas não deve ser tratada como garantia imediata de localização.
 
-A documentação contemporânea é cautelosa com afirmações antigas sobre entidades permanentes no nível. O risco principal continua sendo ambiental: desorientação, isolamento, desgaste psicológico e incapacidade de localizar uma saída confiável.
+## Subníveis
+Nenhum subnível numerado consolidado no artigo atual.
 
-## Entrada
+## Mídia
+- A página registra um render compatível com CC.
+- Crédito registrado: Alfarex.
+- Licença registrada: CC BY-SA 3.0.
+- Não copiar automaticamente sem preservar atribuição.
 
-O Level 0 é tradicionalmente associado ao no-clip acidental para fora da realidade normal.
+## Canon e histórico
+O artigo atual substituiu versões antigas associadas ao conceito original das Backrooms. Títulos antigos não devem ser tratados como nomes atuais.
 
-## Saída
-
-A progressão clássica documentada leva ao Level 1 por meio de superfícies ou regiões visualmente instáveis.
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 0. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
-
-## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Auditoria
+- [x] Identidade
+- [x] Aparência
+- [x] Estrutura
+- [x] Entidades
+- [x] Recursos
+- [x] Bases
+- [x] Entradas
+- [x] Saídas
+- [x] Mídia
+- [x] Canon
