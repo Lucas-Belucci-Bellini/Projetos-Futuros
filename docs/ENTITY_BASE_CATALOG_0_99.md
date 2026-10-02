@@ -1248,3 +1248,42 @@ e instalações
 - A versão antiga registra um pequeno posto da **M.E.G.** associado à embarcação.
 - Estado atual dessa instalação: não deve ser considerado permanente sem reconfirmação após rewrite.
 
+
+## Levels 98–99
+
+### Level 98 — Downtown Diner
+**Arquivo:** levels/level-98.md
+
+#### Entidades
+- Entidades podem aparecer quando alguém se senta no diner.
+- Elas assumem aparência de pessoas familiares ao viajante, porém com faces indistintas/desfocadas.
+- A fala é percebida de forma pouco inteligível.
+- **Diner Patrons:** comunidade de viajantes que decidiu permanecer no diner; descritos como amigáveis na versão histórica.
+
+#### Bases / comunidades / instalações
+e comunidades
+### Diner Patrons
+- Grupo informal de viajantes.
+- Ocupa o diner.
+- Número variável conforme pessoas chegam ou partem.
+- Relações internas descritas como amigáveis.
+
+### Level 99 — Ghoul Town
+**Arquivo:** levels/level-99.md
+
+#### Entidades
+### Ghouls
+A versão histórica descreve habitantes humanoides chamados ghouls, mais próximos de pessoas com aparência de mortos-vivos do que de monstros irracionais. Eles são apresentados como passivos e capazes de comunicação por linguagem de sinais.
+A documentação não reproduz descrições gráficas.
+
+#### Bases / comunidades / instalações
+e comunidades
+### Ghoul Town
+- Comunidade habitada pelos ghouls.
+- Estrutura urbana com pelo menos comércio/serviços básicos na versão histórica.
+- Interação social descrita como possível.
+- Não há número populacional confiável.
+
+## Nota de integridade
+
+Este catálogo é uma visão transversal dos próprios Markdown do projeto. Ele não substitui os arquivos individuais e não cria dados que não estejam presentes neles. Para pesquisa histórica, leia também a seção de canon de cada nível e o grafo de conectividade.
