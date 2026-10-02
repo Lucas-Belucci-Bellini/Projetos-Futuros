@@ -1157,3 +1157,94 @@ Narrative structures include a ruined Base Alpha-like auditorium and a cabin bui
 - Nenhuma base formal.
 - A casa tem potencial de habitação, mas não há comunidade estabelecida confirmada.
 
+
+## Levels 91–97
+
+### Level 91 — But a Memory
+**Arquivo:** levels/level-91.md
+
+#### Entidades
+- Nenhuma entidade específica catalogada na página atual.
+- Aves são percebidas por sons, mas não são estabelecidas como entidade nomeada.
+- Não há população organizada documentada.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, posto ou comunidade documentados.
+- A casa é elemento estrutural/narrativo, não base confirmada.
+
+### Level 92 — Fallout Shelter
+**Arquivo:** levels/level-92.md
+
+#### Entidades
+A página registra grande quantidade de entidades, incluindo clumps, hounds e smilers. Algumas apresentam alterações associadas ao ambiente do nível.
+Para este projeto, a documentação mantém apenas características gerais e não reproduz descrições gráficas.
+
+#### Bases / comunidades / instalações
+- **M.E.G. Outpost "Nuke Warriors":** posto avançado associado à exploração/ocupação do nível.
+- O posto aparece ligado a uma área externa/adjacente do complexo.
+- Estado populacional detalhado: não consolidado nesta auditoria.
+
+### Level 93 — The Summit
+**Arquivo:** levels/level-93.md
+
+#### Entidades
+A página afirma que entidades descobertas no nível não sobrevivem às condições ambientais e que entidades sem forma física não aparecem.
+- **População humana:** não há comunidade permanente registrada.
+- **Entidades:** presença não sustentável conforme a versão documentada.
+
+#### Bases / comunidades / instalações
+- Nenhuma base ou instalação permanente é registrada.
+- A ausência é atribuída às condições extremas do nível.
+
+### Level 94 — Motion
+**Arquivo:** levels/level-94.md
+
+#### Entidades
+- **Entity 32 — Animations:** entidades de aparência variável, com movimento stop-motion. A página de entidade registra que surgem à noite e procuram aquilo que não corresponde à estética animada.
+- **Entity 33 — The King / Animated King:** entidade associada ao castelo. A documentação oficial possui revisões que mudam sua interpretação e características; por isso, o projeto registra a divergência sem escolher uma versão como verdade absoluta.
+- **Robo-Men:** guardas/figuras mecânicas associadas ao castelo em material de descoberta.
+- Outras figuras animadas aparecem em registros históricos.
+
+#### Bases / comunidades / instalações
+e instalações
+- Não há base humana permanente consolidada no nível.
+- O castelo funciona como principal estrutura de interesse e poder local.
+- Registros de exploração da M.E.G. documentam a descoberta do nível.
+
+### Level 95 — Come, Sweet Agape
+**Arquivo:** levels/level-95.md
+
+#### Entidades
+e fenômenos
+- **Machine God:** figura central do texto e do fenômeno do nível.
+- A documentação da fonte descreve uma congregação/estrutura que converge para esse centro.
+- O nível está conectado tematicamente à continuidade de **EARTHMOVER**.
+- Não inferir uma biologia ou aparência física além do que a fonte descreve.
+
+#### Bases / comunidades / instalações
+e instalações
+- Nenhuma base humana permanente é registrada.
+- A instalação central em construção é o principal ponto de interesse.
+
+### Level 96 — Solace
+**Arquivo:** levels/level-96.md
+
+#### Entidades
+- Não há catálogo de entidades anômalas convencionais consolidado.
+- Pessoas e figuras presentes no texto devem ser tratadas como personagens da narrativa quando a fonte não as classifica como entidades.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, posto ou comunidade permanente documentada.
+
+### Level 97 — Lighthouse
+**Arquivo:** levels/level-97.md
+
+#### Entidades
+- **Ghouls:** entidade humanoide associada à versão histórica do nível.
+- A descrição e o comportamento dos ghouls mudam entre versões do artigo.
+- Não misturar automaticamente os dados da versão antiga com a revisão posterior.
+
+#### Bases / comunidades / instalações
+- A versão antiga registra um pequeno posto da **M.E.G.** associado à embarcação.
+- Estado atual dessa instalação: não deve ser considerado permanente sem reconfirmação após rewrite.
+
