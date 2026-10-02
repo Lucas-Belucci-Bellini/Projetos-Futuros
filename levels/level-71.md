@@ -1,41 +1,41 @@
 # Level 71 — Void Basement
 
-## Metadados
-- **Número:** 71
-- **Título no índice oficial em 2026-10-01:** Void Basement
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-71
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 71
+- Título: Void Basement
+- Estado editorial: trimmed/open for rewrite
+- Fonte principal: Backrooms Wiki
+- Data-base: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Infinite basement; very dark, cold, spatial/reality fading motifs. Main documented entrance is a basement in Level 4 that closes after manifestation.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 71. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Regiões e pontos de interesse descritos na fonte devem permanecer separados por versão editorial.
+- A arquitetura principal é resumida acima; detalhes adicionais só entram quando confirmados pela página.
+- Subníveis e páginas relacionadas devem possuir arquivos próprios quando existirem.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+No reliable native entity catalog; the page is heavily narrative and corruption-themed.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+No stable resources documented.
 
+## Bases
+No permanent base confirmed.
 
-## Atribuição
+## Entradas
+Level 4 → 71 via a basement.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+No reliable exit consolidated in the outdated page; mark as not documented.
+
+## Mídia
+Main image EagleSD.png; individual license needs audit.
+
+## Auditoria
+Historical page; preserve its corrupted-document narrative separately.
+- Campos não confirmados permanecem explicitamente marcados como não documentados.
+- Não inferir bidirecionalidade entre entradas e saídas.
+- Não misturar versões current, trimmed, archived ou rewrite.
+- Conteúdo gráfico ou instruções perigosas da fonte são resumidos ou omitidos.
