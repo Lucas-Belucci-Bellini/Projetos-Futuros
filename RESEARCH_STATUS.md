@@ -143,3 +143,15 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 - [x] Catálogo de mídia 31–35 criado
 - [ ] Auditoria individual de mídia de 32 e da imagem de entrada de 35
 - [ ] Levantamento de subníveis relacionados a 31–35
+
+
+## Segunda-passagem — Levels 36–40
+- [x] Level 36 — schema completo e conexões atuais
+- [x] Level 36.1 — subnível documentado
+- [x] Level 37 — schema completo
+- [x] Level 37.1 — subnível documentado
+- [x] Level 38 — Interior/Exterior, base histórica e conectividade
+- [x] Level 39 — Borders, fenômeno, entradas/saídas e mídia
+- [x] Level 40 — arcade, entidades, Pat, instalações e conectividade
+- [x] Catálogo de mídia 36–40 criado
+- [ ] Auditoria individual das mídias ainda sem licença confirmada
