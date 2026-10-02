@@ -12,8 +12,9 @@ Data-base: 2026-10-01
 - [x] 61–70
 - [x] 71–80
 - [x] 81–90
+- [x] 91–99
 
-**Progresso: 91/100 Levels.**
+**Progresso: 100/100 Levels.**
 
 ## Auditoria reforçada
 Cada Level deve registrar explicitamente aparência, estrutura, entidades, recursos, bases/instalações, entradas, saídas, sublevels, mídia/licenças e status editorial.
@@ -47,3 +48,4 @@ Após 0–99:
 6. catalogar imagens/licenças;
 7. criar grafo de conectividade;
 8. implementar validação Rust.
+9. executar `rustc tools/backrooms_audit.rs -o backrooms_audit` e corrigir lacunas apontadas.
