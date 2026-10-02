@@ -181,3 +181,21 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 - [ ] Level 55 requer extração detalhada da conectividade da versão atual.
 - [ ] Level 59 requer tratamento editorial cuidadoso porque entradas/saídas são narrativas.
 - [ ] Verificação final de mapas e subníveis ainda pendente.
+
+
+## Segunda-passagem — Levels 61–70
+- [x] Level 61 — schema completo, comunidades e fenômeno Members-Only Course registrados
+- [x] Level 62 — schema completo e conectividade registrada
+- [x] Level 63 — schema completo; estado trimmed preservado
+- [x] Level 63.3 — subnível documentado separadamente
+- [x] Level 64 — schema completo; estado trimmed preservado
+- [x] Level 65 — schema completo; conteúdo gráfico resumido
+- [x] Level 66 — schema completo e mídia com licenças individuais
+- [x] Level 67 — schema completo; estado trimmed preservado
+- [x] Level 68 — schema completo; under rewrite preservado
+- [x] Level 69 — schema completo e rotas confirmadas/separadas de rumores
+- [x] Level 70 — schema completo; urbanismo, astronomia, comunidades e conectividade
+- [x] Catálogo de mídia 61–70 criado
+- [ ] Auditoria individual pendente de mídia 62–65, 67–70
+- [ ] Subníveis restantes deste intervalo ainda precisam ser levantados no índice
+- [x] Grafo de conectividade 61–70 atualizado
