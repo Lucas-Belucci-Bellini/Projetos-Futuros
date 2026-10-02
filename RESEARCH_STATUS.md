@@ -14,61 +14,80 @@ Data-base: 2026-10-01.
 - [x] 81–90
 - [x] 91–99
 
-**Progresso estrutural: 100/100 Levels.**
+Progresso estrutural da primeira passagem: 100/100 Levels.
 
 ## Segunda passagem
-### 91–99
-- [x] Reestruturados com schema completo.
-- [x] Aparência e estrutura.
-- [x] Entidades.
-- [x] Recursos.
-- [x] Bases/comunidades.
-- [x] Entradas e saídas.
-- [x] Mídia/licenças.
-- [x] Estado editorial.
-- [x] Separação entre canon atual e histórico.
 
-### Subníveis documentados
-- [x] Level 78 — Ad Astra.
-- [x] Level 93 — Polden Point.
-- [x] Level 94.1 — Place where the King never comes.
-- [x] Level 97.5 — My Tears Are Becoming a Sea.
-- [ ] Revisar demais subníveis já existentes em 0–99.
+### Concluída
+- [x] 0–3 — schema completo e revisão inicial.
+- [x] 4–10 — schema completo.
+- [x] 91–99 — schema completo e revisão inicial.
+- [x] Subníveis 78, 93/Polden Point, 94.1 e 97.5.
 
-## Framework editorial
-- [x] LEVEL_AUDIT_SCHEMA.md reforçado.
-- [x] CANON_STATUS_MATRIX.md.
-- [x] LEVEL_CONNECTIVITY_GRAPH.md.
-- [x] SECOND_PASS_GAPS.md.
-- [x] Rust audit atualizado para detectar headings ausentes, seções vazias e TODO/TBD.
+### Em andamento
+- [ ] 11–20
+- [ ] 21–30
+- [ ] 31–40
+- [ ] 41–50
+- [ ] 51–60
+- [ ] 61–70
+- [ ] 71–80
+- [ ] 81–90
+- [ ] Revisar todos os subníveis existentes.
+- [ ] Expandir subníveis ainda somente referenciados em páginas principais.
 
-## Divergências importantes
+## O que cada segunda passagem verifica
+1. Identidade, título, estado editorial e fonte.
+2. Aparência: arquitetura, materiais, iluminação, escala, geometria, clima, temperatura, sons e odores quando documentados.
+3. Estrutura: regiões, salas, setores, pontos de interesse e subníveis.
+4. Entidades: presença, região, aparência não gráfica, comportamento e status.
+5. Recursos.
+6. Bases, comunidades e instalações.
+7. Entradas com método, condição, direção e fonte.
+8. Saídas com método, condição, direção e fonte.
+9. Mídia com autor, origem, licença e status.
+10. Canon/histórico e divergências entre versões.
+
+## Divergências preservadas
+- 4: under rewrite.
+- 6: trimmed/open for rewrite.
+- 7: trimmed/open for rewrite.
 - 51: under rewrite.
 - 52: trimmed/open for rewrite.
 - 54: trimmed/open for rewrite.
-- 55: Pit Stop atual; Land of Ice é versão histórica.
+- 55: Pit Stop atual; Land of Ice histórica.
 - 56: trimmed/open for rewrite.
-- 59: Drownsong atual; The Backway é versão histórica.
+- 59: Drownsong atual; The Backway histórica.
 - 63: trimmed/open for rewrite.
 - 64: trimmed/open for rewrite.
 - 65: trimmed/open for rewrite.
 - 67: trimmed/open for rewrite.
 - 68: under rewrite.
 - 78: trimmed/open for rewrite; Ad Astra separado.
-- 83–87: várias páginas marcadas trimmed/open for rewrite.
-- 93: under rewrite; Polden Point possui página própria.
-- 97: trimmed/open for rewrite; 97.5 possui página própria.
+- 83–87: várias páginas trimmed/open for rewrite.
+- 93: under rewrite; Polden Point separado.
+- 97: trimmed/open for rewrite; 97.5 separado.
 - 98–99: trimmed/open for rewrite.
 
 ## Mídia
-Não copiar imagens automaticamente. Cada mídia deve manter autor, fonte e licença quando publicados.
+- [x] Catálogos 51–60, 71–80 e 81–90.
+- [x] Catálogo 91–99.
+- [ ] Catálogo 04–10.
+- [ ] Completar 0–3.
+- [ ] Completar 11–50.
+- [ ] Completar 61–70.
+- [ ] Completar mídia dos subníveis.
 
-## Próxima frente
-1. Auditar 0–50 contra o schema.
-2. Auditar 51–90 contra o schema.
-3. Expandir todos os subníveis ainda não separados.
-4. Completar o grafo de conectividade 0–99.
-5. Criar catálogo consolidado de entidades.
-6. Criar catálogo consolidado de bases/instalações.
-7. Criar índice de mídia/licenças.
-8. Rodar o validador Rust localmente e eliminar gaps estruturais.
+## Conectividade
+- [x] Segunda passagem 91–99.
+- [x] Segunda passagem inicial 4–10.
+- [ ] Extrair todas as arestas 0–90.
+- [ ] Separar entradas e saídas de subníveis.
+- [ ] Adicionar confiança/proveniência a cada aresta.
+
+## Próximas frentes
+1. Revisar 11–20.
+2. Criar/expandir catálogos de entidades e bases.
+3. Expandir subníveis 0–99.
+4. Completar conectividade 0–99.
+5. Rodar o validador Rust e corrigir gaps estruturais.
