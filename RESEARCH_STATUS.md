@@ -155,3 +155,17 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 - [x] Level 40 — arcade, entidades, Pat, instalações e conectividade
 - [x] Catálogo de mídia 36–40 criado
 - [ ] Auditoria individual das mídias ainda sem licença confirmada
+
+
+## Segunda-passagem — Levels 41–50
+- [x] Levels 41–50 reestruturados no schema padrão.
+- [x] Level 46.1 documentado.
+- [x] The Profane Burial Site documentado.
+- [x] Ground 48.1 documentado.
+- [x] The Enclave documentado.
+- [x] Level 49.1 documentado.
+- [x] Level 49.2 documentado.
+- [x] Catálogo de mídia 41–50 criado.
+- [x] Grafo de conectividade 41–50 atualizado.
+- [ ] Licenças individuais de mídias ainda não confirmadas em vários níveis.
+- [ ] Revisão final dos subníveis 41–50 e reconciliação com versões históricas.
