@@ -1,37 +1,39 @@
 # Level 51 — The Forgotten City
-- Status: Under rewrite
-- Fonte: https://backrooms-wiki.wikidot.com/level-51
-## Aparência
-Cidade subterrânea antiga dentro de uma enorme caverna. Arquitetura mistura referências de culturas antigas sem reproduzir uma cultura específica.
-## Estrutura
-Três zonas principais: **Labyrinth**, **City** e **Temple**.
-### Labyrinth
-Entrada típica: labirinto de mármore, padrões dourados, cerâmicas, cestos, velas, vinhas e aberturas no teto com substância escura.
-### City
-Ruínas urbanas associadas aos The Lost, com construções antigas e áreas residenciais/cerimoniais.
-### Temple
-Estrutura central ligada à história dos The Lost.
-## Fenômeno tecnológico
-Tecnologia deixa de funcionar dentro do Level até ser retirada dele, afetando fotografia, áudio e vídeo.
-## Entidades e ameaças
-A página documenta ameaças adaptadas ao ambiente subterrâneo. Não criar catálogo além do que a fonte atual confirma.
-## Bases e instalações
-Não há base moderna permanente confirmada; expedições e pesquisas arqueológicas são a principal presença humana.
-## Entradas
-Rotas anômalas de outros Levels; a página atual deve ser consultada para condições específicas.
-## Saídas
-Conexões com outros Levels e com **Level 51.2 — Her Cradle**.
-## Auditoria
-- [x] Aparência
-- [x] Estrutura
-- [x] Fenômeno
-- [x] Bases/instalações
-- [x] Entradas/saídas
-- [x] Sublevel
-- [ ] Catálogo exaustivo de entidades
-- [ ] Mapa
-- [ ] Imagens e licenças
-- [ ] Cronologia completa
 
-## Atribuição
-Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.
+## Identidade
+- Número: 51
+- Título: The Forgotten City
+- Estado editorial: under rewrite
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
+
+## Aparência
+Cidade subterrânea em enorme caverna; Labyrinth, City e Temple; arquitetura antiga heterogênea; tecnologia deixa de funcionar dentro do nível.
+
+## Estrutura
+Labyrinth; City; Temple; Her Cradle.
+
+## Entidades
+Ameaças subterrâneas existem na fonte; catálogo exaustivo ainda pendente.
+
+## Recursos
+Registros/objetos arqueológicos; recursos convencionais não consolidados.
+
+## Bases
+Sem base moderna permanente confirmada; expedições/pesquisas.
+
+## Entradas
+Rotas anômalas de outros níveis; métodos exatos pendentes.
+
+## Saídas
+Conexões com outros níveis e Level 51.2; métodos exatos pendentes.
+
+## Mídia
+Imagens, mapa e licenças ainda precisam de auditoria individual.
+- A licença do texto não deve ser presumida para imagens individuais.
+
+## Auditoria
+- O projeto separa canon atual, versões históricas e páginas em rewrite/trimmed.
+- “Não documentado” permanece como dado válido quando a fonte não fornece informação.
+- Não foram preenchidas lacunas por inferência.
+- Próxima revisão: mapa, catálogo integral de entidades, instalações, mídia e conectividade quando a fonte permitir.
