@@ -83,3 +83,20 @@ Regra: conexões de páginas outdated/under rewrite permanecem com estado editor
 - 30 → 843: entrada por no-clip.
 - 30 → 696: item glitchado em condição específica.
 - 30: nenhuma saída confirmada.
+
+
+## Segunda-passagem — Levels 31–35
+- 31 → 2/3: portas de madeira com música.
+- 31 → 67: entrada por Least Favorite/Hated Pastries.
+- 31 → 210: hyperlink específico.
+- 31 → 40: arcade funcional.
+- 31 → 70: porta branca numerada.
+- 31 → 232: porta de funcionários do food court.
+- 31 → 427/6: conexões históricas da versão arquivada.
+- 32: entrada e saída não determinísticas; estado rewrite preservado.
+- 33 → 11/22: entradas documentadas.
+- 33 → 45: entrada de escritório.
+- 34 → 33: conexão histórica.
+- 34 → 289/4/0/99/138/3-1: conexões históricas da versão acessível; revalidar após rewrite.
+- 35 → 34: parede enfraquecida.
+- 35 → outros níveis: veículos/saídas físicas documentados sem destinos consolidados.
