@@ -1,34 +1,39 @@
 # Level 56 — Frostbite
-- Status: Trimmed; open for rewrite
-- Fonte: https://backrooms-wiki.wikidot.com/level-56
-## Aparência
-Sistema circular de cavernas de gelo e rocha. Gelo azul liso, iluminação de origem desconhecida, terreno rochoso molhado e profundidade aparente muito grande.
-## Clima
-A temperatura diminui conforme se avança para o centro. A versão histórica documenta extremos de aproximadamente 32 °F a -459,67 °F. Fontes de calor têm limitações anômalas.
-## Recursos
-Caixas de madeira podem conter suprimentos médicos, ferramentas de exploração, oxigênio, roupas térmicas e outros materiais.
-## Entidades
-A página possui pesquisa de entidades associadas às regiões profundas; o catálogo completo deve ser rechecado após rewrite.
-## Bases e instalações
-**M.E.G. Glacial Outpost A:** recuperação e apoio.
-**M.E.G. Glacial Outpost B:** pesquisa e despacho.
-Os postos mantêm comunicação.
-## Entradas
-- Área fria do Level 8.
-- Cavernas em Levels 93, 5, 420 e 135.
-- Cavernas dentro dos freezers do Level 55.
-## Saída
-Uma caverna ampliada com terreno nevado leva ao Level 57.
-## Auditoria
-- [x] Aparência
-- [x] Clima
-- [x] Recursos
-- [x] Bases
-- [x] Entradas/saída
-- [x] Registros de pesquisa
-- [ ] Entidades completas
-- [ ] Mapa
-- [ ] Imagens/licenças
 
-## Atribuição
-Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.
+## Identidade
+- Número: 56
+- Título: Frostbite
+- Estado editorial: trimmed/open for rewrite
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
+
+## Aparência
+Sistema circular de cavernas de gelo e rocha; gelo azul liso, iluminação de origem desconhecida, piso rochoso úmido e profundidade aparente extrema.
+
+## Estrutura
+Anel de cavernas; regiões cada vez mais frias em direção ao centro.
+
+## Entidades
+A fonte descreve entidades adaptadas às regiões profundas; catálogo completo pendente.
+
+## Recursos
+Caixas com suprimentos históricos; disponibilidade atual deve ser tratada como versão antiga até rewrite.
+
+## Bases
+M.E.G. Glacial Outpost A e B; pesquisa e apoio.
+
+## Entradas
+Área fria do Level 8; cavernas nos Levels 93, 5, 420 e 135; freezers do Level 55.
+
+## Saídas
+Caverna ampliada/nevada → Level 57.
+
+## Mídia
+Mídia principal e licenças individuais pendentes.
+- A licença do texto não deve ser presumida para imagens individuais.
+
+## Auditoria
+- O projeto separa canon atual, versões históricas e páginas em rewrite/trimmed.
+- “Não documentado” permanece como dado válido quando a fonte não fornece informação.
+- Não foram preenchidas lacunas por inferência.
+- Próxima revisão: mapa, catálogo integral de entidades, instalações, mídia e conectividade quando a fonte permitir.
