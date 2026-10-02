@@ -17,8 +17,10 @@ const REQUIRED: &[&str] = &[
 fn main() {
     let levels_dir = Path::new("levels");
     let main_file_re = Regex::new(r"^level-(\d{2})\.md$").expect("regex válida");
-    let source_re = Regex::new(r"https://backrooms-wiki\.wikidot\.com/level-[^\s)]+")
-        .expect("regex válida");
+    let source_re = Regex::new(
+        r"https://backrooms-wiki\.wikidot\.com/level-(\d+)(?:[\s)]|$)"
+    )
+    .expect("regex válida");
 
     let mut found = [false; 100];
     let mut errors = Vec::new();
@@ -43,8 +45,16 @@ fn main() {
             }
         };
 
-        if !source_re.is_match(&text) {
-            errors.push(format!("{file_name}: página oficial ausente"));
+        let expected = number.to_string();
+        let has_matching_source = source_re
+            .captures_iter(&text)
+            .filter_map(|capture| capture.get(1))
+            .any(|value| value.as_str() == expected);
+
+        if !has_matching_source {
+            errors.push(format!(
+                "{file_name}: URL oficial correspondente ao Level {number} ausente"
+            ));
         }
 
         for heading in REQUIRED {

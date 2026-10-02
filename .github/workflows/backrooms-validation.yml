@@ -1,0 +1,31 @@
+name: Backrooms validation
+
+on:
+  push:
+    branches:
+      - backrooms-levels-0-99
+  pull_request:
+    branches:
+      - backrooms-levels-0-99
+
+jobs:
+  rust-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Rust stable
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Build all Rust targets
+        run: cargo build --all-targets
+
+      - name: Validate Levels 0–99
+        run: cargo run --quiet --bin backrooms-levels-catalog
+
+      - name: Audit Markdown schema
+        run: cargo run --quiet --bin backrooms-audit -- levels
+
+      - name: Build coverage inventory
+        run: cargo run --quiet --bin backrooms-inventory -- levels

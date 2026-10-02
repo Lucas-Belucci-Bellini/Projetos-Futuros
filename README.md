@@ -76,7 +76,7 @@ A licença da página não deve ser assumida como licença de todas as imagens i
 - **32** ainda aguardam expansão dedicada.
 - O grafo de conectividade está documentado, mas ainda precisa de reconciliação final de confiança/proveniência e arestas externas.
 - Catálogos de mídia existem, mas a auditoria individual de todas as licenças ainda não foi encerrada.
-- Os validadores Rust existem; a execução global em todos os Markdown ainda não foi concluída.
+- Os validadores Rust existem e estão preparados para execução local/CI; a branch não deve ser considerada 100% validada até o job global terminar com sucesso.
 
 ## Regra editorial central
 
@@ -97,3 +97,14 @@ Qualquer outra pessoa ou IA deve conseguir retomar o trabalho pela combinação 
 `RESEARCH_STATUS.md` → `docs/SUBLEVEL_REGISTRY.md` → `docs/SECOND_PASS_GAPS.md` → `docs/LEVEL_CONNECTIVITY_GRAPH.md` → arquivos em `levels/`.
 
 A prioridade é sempre fechar lacunas verificáveis antes de aumentar artificialmente a contagem de “concluído”.
+
+## Comandos de validação
+
+```text
+cargo run --bin backrooms-levels-catalog
+cargo run --bin backrooms-audit -- levels
+cargo run --bin backrooms-inventory -- levels
+```
+
+A validação automática da branch executa esses três binários.
+

@@ -5,3 +5,15 @@ edition = "2021"
 
 [dependencies]
 regex = "1"
+
+[[bin]]
+name = "backrooms-levels-catalog"
+path = "src/main.rs"
+
+[[bin]]
+name = "backrooms-audit"
+path = "tools/backrooms_audit.rs"
+
+[[bin]]
+name = "backrooms-inventory"
+path = "tools/backrooms_inventory.rs"
