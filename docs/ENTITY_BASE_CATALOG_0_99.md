@@ -723,3 +723,82 @@ Catálogo deve seguir exclusivamente a versão atual; versões antigas não deve
 #### Bases / comunidades / instalações
 Nenhuma base permanente consolidada.
 
+
+## Levels 56–62
+
+### Level 56 — Frostbite
+**Arquivo:** levels/level-56.md
+
+#### Entidades
+A fonte descreve entidades adaptadas às regiões profundas; catálogo completo pendente.
+
+#### Bases / comunidades / instalações
+M.E.G. Glacial Outpost A e B; pesquisa e apoio.
+
+### Level 57 — Diurnal Art Gallery
+**Arquivo:** levels/level-57.md
+
+#### Entidades
+The Painter é passiva e amigável; The Muralist é outra entidade exclusiva do nível.
+
+#### Bases / comunidades / instalações
+A galeria funciona como instalação central; não há base humana permanente.
+
+### Level 58 — Water Wonder
+**Arquivo:** levels/level-58.md
+
+#### Entidades
+Smilers, Dullers e Windows nos Corridors; um Wretch é registrado em circunstância específica no Waterpark.
+
+#### Bases / comunidades / instalações
+B.N.T.G. Base Fruit Tegan Fairtrade; aproximadamente 50 trabalhadores; Tribe of Tegan é comunidade vizinha.
+
+### Level 59 — Drownsong
+**Arquivo:** levels/level-59.md
+
+#### Entidades
+Nenhum catálogo convencional de entidades.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente.
+
+### Level 60 — The Baywalk
+**Arquivo:** levels/level-60.md
+
+#### Entidades
+Smilers são comuns no Upper Area, especialmente próximos à iluminação.
+
+#### Bases / comunidades / instalações
+The Brave, grupo de cerca de 10 membros que orienta viajantes e mantém a Lower Area.
+
+### Level 61 — The Backrooms Country Club
+**Arquivo:** levels/level-61.md
+
+#### Entidades
+- Caddies: entidades de manutenção relacionadas ao golfe; podem interagir com equipamentos e são descritas como furtivas.
+- Greenskeepers: entidades de manutenção ligadas ao cuidado do gramado.
+- Hounds aparecem no contexto da entrada narrativa, mas não são confirmados como população nativa.
+- A principal anomalia do nível é o sistema de adesão e o Members-Only Course, não uma fauna hostil numerosa.
+
+#### Bases / comunidades / instalações
+### The Settled
+Comunidade de sobreviventes que decidiu permanecer no nível. Pete é apresentado como líder. A comunidade acolhe recém-chegados e tenta impedir que aceitem a adesão ao clube.
+
+### The Nomads
+Grupo que procura uma saída e investiga as regiões distantes do nível. O texto relata perda de contato com o grupo.
+
+### The Course's Eye
+Grupo religioso associado às árvores e à ideia de que o nível escolhe seus seguidores. A documentação preserva apenas a informação estrutural e evita detalhes gráficos do material narrativo.
+
+### Level 62 — Jungle Backyard
+**Arquivo:** levels/level-62.md
+
+#### Entidades
+- Hounds são confirmados nos registros da investigação.
+- O catálogo de outras entidades nativas não está completo.
+- Os relatos de exploração contêm incidentes; esta síntese não reproduz violência gráfica.
+
+#### Bases / comunidades / instalações
+- Kalag Institute aparece como organização de exploração e documentação.
+- Não há base permanente confirmada.
+
