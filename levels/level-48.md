@@ -1,41 +1,49 @@
 # Level 48 — The Sunset Beach
 
-## Metadados
-- **Número:** 48
-- **Título no índice oficial em 2026-10-01:** The Sunset Beach
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-48
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 48
+- Título: The Sunset Beach
+- Estado: trimmed / open-to-rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
+- Subníveis: Ground 48.1 — Noctilucent Ground; The Enclave.
 
-## Escopo de documentação
+## Aparência
+Praia arenosa aparentemente infinita junto a um oceano morno também descrito como aparentemente infinito. Ao norte da praia existe uma grande floresta tropical, aproximadamente 200 m distante da faixa de areia.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 48. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O nível permanece em pôr do sol permanente, sem ciclo normal de dia e noite. O sol apresenta gradiente vermelho-amarelo e a luminosidade é inferior à observada ao meio-dia nas Frontrooms.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+A temperatura varia aproximadamente entre 22 °C e 36 °C conforme a região. A praia contém casas e hotéis de padrão luxuoso.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Estrutura
+- praia;
+- oceano;
+- floresta tropical;
+- casas;
+- hotéis;
+- Ground 48.1;
+- The Enclave.
 
+## Entidades
+A página principal deve ser tratada como fonte para o catálogo atual de fauna/entidades. Registros antigos e entidades associadas aos subníveis permanecem separados.
 
-## Atribuição
+## Recursos
+- estruturas residenciais e hoteleiras;
+- vegetação tropical;
+- água oceânica, sem presumir potabilidade;
+- possíveis suprimentos deixados em construções.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Bases
+The Enclave é uma comunidade/subnível associado e deve ser documentado separadamente.
+
+## Entradas
+As conexões de entrada precisam ser mantidas de acordo com a versão atualmente publicada; métodos históricos devem ser identificados como tais.
+
+## Saídas
+As conexões variam conforme a versão e os subníveis. O projeto mantém as rotas confirmadas separadas das históricas.
+
+## Mídia
+A página possui fotografia da praia e da floresta tropical. Autoria e licença individual devem ser auditadas antes de redistribuição.
+
+## Auditoria
+O índice atual marca Level 48 como Trimmed; Open for Rewrite e confirma Ground 48.1 e The Enclave na hierarquia. A documentação não mistura esses três objetos editoriais.
