@@ -127,3 +127,16 @@ Regra: conexões de páginas outdated/under rewrite permanecem com estado editor
 - 49.1: relação com Level 49; narrativa termina em Level 0.
 - 49.2: Level 49 → 49.2 por passagem escondida; Level 105 → 49.2; 49.2 → 105/11/Cathedrale Celeste/196.
 - 50: Level 35 → 50 via RV; Level 25 → 50 via arcade; Level 176 → 50 via caminhão; saída para 69 apenas como rumor não confirmado.
+
+
+## Segunda-passagem — Levels 51–60
+- 51 ↔ 51.2: Her Cradle é subnível de 51; métodos físicos adicionais de entrada/saída ainda não consolidados.
+- 52: 445 → 52 via no-clip em grande rocha; 2.1 → 52 via no-clip; túneis → destinos indicados, mas algumas marcações são incorretas.
+- 53: 9 → 53 por porta residencial associada ao caso de Allen Grady; demais rotas não consolidadas.
+- 54: conexões históricas com 1 e 43; manter como histórico até rewrite.
+- 55: conectividade atual precisa de extração individual da página; não usar a antiga Land of Ice.
+- 56: 8/93/5/420/135 e freezers de 55 → 56; 56 → 57 por caverna ampliada/nevada.
+- 57: pinturas/porta do Hub/Level 283 → 57; pinturas podem levar ao nível representado; orientação da Painter pode levar a 21.
+- 58: 37 → 58 sob condição específica; Level Key → 58; flyer de 9 → 58; 0 por slides coloridos é rumor; 58 → 58.1/1/Office Space EL3A.
+- 59: conectividade atual é deliberadamente narrativa; não inferir rotas literais sem confirmação.
+- 60: níveis com mar/oceano → 60 sob condição específica; The Sea → 7; 60 → 61 por dormir no Upper Area permanece hipótese não comprovada.
