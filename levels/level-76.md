@@ -1,41 +1,41 @@
 # Level 76 — Back from the Charwood Brink
 
-## Metadados
-- **Número:** 76
-- **Título no índice oficial em 2026-10-01:** Back from the Charwood Brink
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-76
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 76
+- Título: Back from the Charwood Brink
+- Estado editorial: current
+- Fonte principal: Backrooms Wiki
+- Data-base: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Vast subtropical highland of tea fields, steep hills and mountains, humid rainy climate, average temperature about 21°C, estimated area about 10,000 km² and non-Euclidean looping at outer reaches. Daylight lasts about 21 hours, darkness about 3. Dirt roads, old wagons, maps, tools, tea, huts and occasional wells are documented.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 76. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Regiões e pontos de interesse descritos na fonte devem permanecer separados por versão editorial.
+- A arquitetura principal é resumida acima; detalhes adicionais só entram quando confirmados pela página.
+- Subníveis e páginas relacionadas devem possuir arquivos próprios quando existirem.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+A supernatural guardian/observer is central to the narrative; Saola-related imagery and local fauna are documented. Full entity catalog pending.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+Tea, maps, tools, old hut supplies, occasional water wells and shelter.
 
+## Bases
+Local Charwood Hills inhabitants; permanent community details need full extraction.
 
-## Atribuição
+## Entradas
+Level 10 → 76 via a dirt path; accidental fire extinguishing elsewhere can also cause transition.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+76 → 10 via gravel track; 76 → 607 via rusting archway; Saola statue interaction → random safe level. Keep the latter as fictional phenomenon, not practical instruction.
+
+## Mídia
+Tea-field image is present; individual image licensing needs audit.
+
+## Auditoria
+Current, habitable. Dangerous real-world fire language in the source is not reproduced as an instruction.
+- Campos não confirmados permanecem explicitamente marcados como não documentados.
+- Não inferir bidirecionalidade entre entradas e saídas.
+- Não misturar versões current, trimmed, archived ou rewrite.
+- Conteúdo gráfico ou instruções perigosas da fonte são resumidos ou omitidos.
