@@ -25,7 +25,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 | 1 | Level 1.2 — Concrete Garden | sem marcador | levels/level-01-2.md | documentado |
 | 1 | Level 1.3 — Malignance | sem marcador | — | pendente |
 | 1 | Level 1.5 — Inverted | sem marcador | levels/level-01-5.md | documentado |
-| 1 | Base Alpha | sem marcador | — | pendente |
+| 1 | Base Alpha | sem marcador | levels/base-alpha.md | documentado |
 | 1 | Traders Vault | Under Rewrite | — | pendente |
 | 2 | Level 2.1 — Locked | sem marcador | — | pendente |
 | 2 | Office Space EL3A | Open for Rewrite | levels/office-space-el3a.md | documentado |
@@ -76,8 +76,8 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 ## Totais
 
 - 58 sub-seções/localizações identificadas no snapshot oficial de 0–99.
-- 27 possuem arquivo dedicado na branch.
-- 31 ainda precisam de arquivo dedicado ou expansão própria.
+- 28 possuem arquivo dedicado na branch.
+- 30 ainda precisam de arquivo dedicado ou expansão própria.
 
 ## Progresso desta frente
 

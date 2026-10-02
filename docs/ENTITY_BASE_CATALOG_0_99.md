@@ -1653,3 +1653,23 @@ Funções:
 - Algumas pessoas que tentaram estabelecer assentamentos deixaram de ser ouvidas posteriormente.
 - O material da M.E.G. inclui o setor em atividades de exploração e pesquisa, mas isso não equivale a um posto permanente.
 
+
+## Sub-seções documentadas — Base Alpha
+
+### Base Alpha
+**Arquivo:** levels/base-alpha.md
+
+#### Entidades
+- Nenhuma espécie de entidade nativa é definida como população da Base Alpha.
+- Humanos da M.E.G., wanderers e funcionários são residentes/visitantes, não entidades.
+- Entidades que circulam no Level 1 não devem ser automaticamente consideradas habitantes da base.
+- O ambiente da base reduz o contato direto com entidades por organização e infraestrutura, mas não elimina fenômenos do nível-pai.
+
+#### Bases / comunidades / instalações
+### Base Alpha como instalação
+Esta ficha documenta a própria Base Alpha, que é a instalação principal vinculada ao Level 1.
+
+### Outposts dependentes
+A M.E.G. mantém outposts dependentes e equipes associadas à Base Alpha em outros níveis. A existência de um outpost dependente não significa que ele seja fisicamente parte da Base Alpha.
+
+A fonte complementar menciona, por exemplo, o M.E.G. Outpost 1 to 4 (Team Corridor) em Level 1.1, com cerca de 20 pessoas no registro consultado, dedicado à exploração e pesquisa de 1.1.
