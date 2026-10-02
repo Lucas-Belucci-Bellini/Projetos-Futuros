@@ -169,3 +169,15 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 - [x] Grafo de conectividade 41–50 atualizado.
 - [ ] Licenças individuais de mídias ainda não confirmadas em vários níveis.
 - [ ] Revisão final dos subníveis 41–50 e reconciliação com versões históricas.
+
+
+## Segunda-passagem — Levels 51–60
+- [x] Levels 51–60 padronizados no schema de 10 seções.
+- [x] Level 51.2 — Her Cradle documentado.
+- [x] Entidades, recursos, bases/instalações e conectividade existentes foram revisados.
+- [x] Catálogo de mídia 51–60 atualizado.
+- [x] Grafo de conectividade 51–60 atualizado.
+- [ ] Licenças individuais de mídia ainda pendentes em vários níveis.
+- [ ] Level 55 requer extração detalhada da conectividade da versão atual.
+- [ ] Level 59 requer tratamento editorial cuidadoso porque entradas/saídas são narrativas.
+- [ ] Verificação final de mapas e subníveis ainda pendente.
