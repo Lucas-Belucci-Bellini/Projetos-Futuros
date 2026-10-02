@@ -75,7 +75,7 @@ Características registradas:
 - liderança associada a Minerva Muñoz desde 20 de março de 2015.
 
 ### B.N.T.G. Storage Unit
-Grande instalação de armazenamento associada à Base Gamma. A página registra população permanente na ordem de centenas baixas; este dado deve ser entendido no contexto da versão da página.
+Grande instalação de armazenamento associada à Base Gamma. A página registra população permanente de aproximadamente 150 pessoas segundo a versão da página consultada; esse número é histórico e pode mudar em uma futura rewrite.
 
 ### Followers of Jerry — Blue Salvation
 Pequeno espaço comunitário ligado aos seguidores de Jerry.

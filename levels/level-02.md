@@ -139,9 +139,8 @@ O grafo deve manter cada direção separada e indicar quando a rota é históric
 Nem todas as rotas são permanentes ou recíprocas.
 
 ## Subníveis
-- Level 2.1 — Locked.
-- Office Space EL3A.
-- Os dois devem possuir arquivos dedicados em etapa posterior da expansão de subníveis.
+- Level 2.1 — Locked (arquivo ainda pendente).
+- [Office Space EL3A](office-space-el3a.md) — sub-seção com arquivo dedicado nesta branch.
 
 ## Mídia
 A página atual contém múltiplas imagens do complexo industrial.
