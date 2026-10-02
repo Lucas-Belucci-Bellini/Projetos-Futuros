@@ -16,15 +16,15 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 | 0 | Level 0.1 — Zenith Station | sem marcador | levels/level-00-1.md | documentado |
 | 0 | Level 0.2 — Remodeled Mess | sem marcador | levels/level-00-2.md | documentado |
 | 0 | Level 0.3 — The Icy Rooms | Open for Rewrite | levels/level-00-3.md | documentado |
-| 0 | Level 0.5 — Aquaclaustrophobic Infirmary | sem marcador | — | pendente |
-| 0 | Level 0.7 — The Reminiscence District | sem marcador | — | pendente |
+| 0 | Level 0.5 — Aquaclaustrophobic Infirmary | sem marcador | levels/level-00-5.md | documentado |
+| 0 | Level 0.7 — The Reminiscence District | sem marcador | levels/level-00-7.md | documentado |
 | 0 | Manila Room | sem marcador | — | pendente |
 | 0 | Red Rooms | sem marcador | — | pendente |
 | 0 | The Torment | sem marcador | — | pendente |
-| 1 | Level 1.1 — Corrupted Corridor | Open for Rewrite | — | pendente |
+| 1 | Level 1.1 — Corrupted Corridor | Open for Rewrite | levels/level-01-1.md | documentado |
 | 1 | Level 1.2 — Concrete Garden | sem marcador | — | pendente |
 | 1 | Level 1.3 — Malignance | sem marcador | — | pendente |
-| 1 | Level 1.5 — Inverted | sem marcador | — | pendente |
+| 1 | Level 1.5 — Inverted | sem marcador | levels/level-01-5.md | documentado |
 | 1 | Base Alpha | sem marcador | — | pendente |
 | 1 | Traders Vault | Under Rewrite | — | pendente |
 | 2 | Level 2.1 — Locked | sem marcador | — | pendente |
@@ -76,8 +76,8 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 ## Totais
 
 - 58 sub-seções/localizações identificadas no snapshot oficial de 0–99.
-- 22 possuem arquivo dedicado na branch.
-- 36 ainda precisam de arquivo dedicado ou expansão própria.
+- 26 possuem arquivo dedicado na branch.
+- 32 ainda precisam de arquivo dedicado ou expansão própria.
 
 ## Progresso desta frente
 
