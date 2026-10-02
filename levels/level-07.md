@@ -1,59 +1,64 @@
 # Level 7 — Thalassophobia
 
-## Metadados
-- **Número:** 7
-- **Título no índice oficial em 2026-10-01:** Thalassophobia
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-7
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal:** Backrooms Wiki
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 7.
+- Título: Thalassophobia.
+- Estado editorial: **trimmed; open for rewrite**.
+- Fonte principal: Backrooms Wiki e materiais editoriais relacionados.
+- Data-base: 2026-10-01.
+- O artigo possui histórico de múltiplas reescritas; dados históricos não devem ser apresentados como canon definitivo.
 
-## Aviso editorial
+## Aparência
+- Oceano aparentemente ilimitado.
+- Pequena sala/região de entrada separada do oceano nas descrições publicadas.
+- Água e profundidade anômalas.
+- Material relacionado descreve luminosidade natural difusa apesar da ausência de fontes fixas convencionais.
+- Zonas verticais: Daylight Zone, Twilight Zone, Midnight Zone e Abyss.
+- Geometria entre sala e oceano: anômala.
+- Temperatura, odores e acústica: não consolidados.
+- Escala: incompatível com um oceano convencional.
 
-O artigo está desatualizado e aberto para reescrita.
+## Estrutura
+- Sala de entrada.
+- Oceano principal.
+- Zonas verticais: Daylight, Twilight, Midnight e Abyss.
+- Subníveis/localizações associadas: 7.6 — Evacuation; 7.7 — The Forsaken Debris; 7.8 — Impaled Ocean; The Hadal Zone.
+- Mapa total confiável: não documentado.
 
-## Visão geral
+## Entidades
+- Há fauna e entidades marinhas descritas em regiões específicas.
+- Distribuição varia conforme profundidade/região.
+- Inventário completo precisa separar fauna, entidades catalogadas e relatos históricos.
+- Descrição deve permanecer não gráfica.
 
-O Level 7 é um oceano aparentemente ilimitado e extremamente profundo.
+## Recursos
+- Água existe em abundância como ambiente, mas não deve ser presumida potável.
+- Recursos convencionais e infraestrutura: escassos/não consolidados.
+- Recursos devem ser associados a regiões específicas, quando confirmados.
 
-## Estrutura principal
+## Bases
+- Base permanente atual: não consolidada.
+- Há referências históricas a expedições e postos.
+- Grupos relacionados ao oceano aparecem em material histórico, mas seu status precisa ser revalidado.
+- Instalações permanentes: não confirmadas.
 
-A versão disponível divide o nível em uma pequena sala de entrada e o oceano propriamente dito.
+## Entradas
+- Existem conexões históricas com níveis anteriores.
+- Método, direção e condições: não consolidados nesta segunda passagem.
+- Entradas futuras só devem ser adicionadas ao grafo após fonte verificável.
 
-## Sala de entrada
+## Saídas
+- O material histórico registra conexões com níveis posteriores.
+- Rotas por profundidade não devem ser tratadas como saídas garantidas sem fonte.
+- Estado: parcialmente documentado e sujeito a reescrita.
 
-É a região mais segura conhecida. Contém mobiliário básico e uma passagem direta para o oceano.
+## Mídia
+- O nível possui mídia histórica.
+- Autor, fonte e licença precisam ser auditados arquivo por arquivo.
+- Não copiar imagens automaticamente.
 
-## Geometria
-
-A orientação gravitacional entre a sala e o oceano é anômala, tornando a travessia perigosa.
-
-## Oceano
-
-A água se estende até onde foi possível observar. A exploração é limitada por profundidade, escuridão e ameaças.
-
-## Zonas
-
-A versão atual divide o oceano em:
-- Daylight Zone;
-- Twilight Zone;
-- Midnight Zone;
-- Abyss.
-
-Cada região se torna progressivamente mais escura e perigosa.
-
-## Profundidade
-
-As medições sugerem profundidade impossível para um ambiente convencional.
-
-## Vida e entidades
-
-Grande parte da água é descrita como biologicamente vazia, mas entidades perigosas aparecem em regiões específicas.
-
-## Regra de manutenção
-
-Todo o conteúdo deve ser revisto após a futura reescrita oficial.
-## Atribuição
-
-Este documento é uma síntese editorial original. Ele reorganiza e resume informações da página oficial sem reproduzir o artigo integralmente. A fonte é disponibilizada pela Backrooms Wiki sob CC BY-SA 3.0, conforme indicação da própria wiki.
+## Auditoria
+- Página oficial: https://backrooms-wiki.wikidot.com/level-7
+- Estado: trimmed/open for rewrite.
+- Discussões oficiais registram múltiplas tentativas de reescrita e divergências sobre estrutura e exploração.
+- Gaps: conectividade, bases, entidades, mapa, dados ambientais e licenças.
