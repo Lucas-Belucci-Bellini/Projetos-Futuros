@@ -28,3 +28,15 @@ Cada aresta deve registrar origem, destino, método, condição, direção, font
 ## Próximo lote
 - Extrair integralmente 0–3 e 4–10.
 - Depois avançar para 11–20.
+
+
+## Segunda-passagem — conexões 11–15
+- Level 11 → 12: janelas específicas/no-clip, conforme documentação atual.
+- Level 11 ↔ várias regiões/níveis: a página atual documenta grande quantidade de conexões; cada aresta deve permanecer condicional e não necessariamente recíproca.
+- Level 12 → 1, 4, 10, 19, 23, 25, 34, 287: destinos documentados pela Expedição Matrix.
+- Level 13 → 0, 114, 327, 395, 410: portas específicas.
+- Level 13 → 70/208: escadas ou elevadores em condição específica.
+- Level 13 → 157: configuração específica de tabuleiro de xadrez.
+- Level 15 → entrada histórica/eventual via Level 10; saída estável não confirmada.
+- Level 15 → 15.1: relação estrutural de subnível; não tratar como simples porta universal sem condição.
+- Level 15.1: saída não consolidada na página consultada.
