@@ -1,31 +1,39 @@
 # Level 52 — Eyes On You
-- Status: Trimmed; open for rewrite
-- Fonte: https://backrooms-wiki.wikidot.com/level-52
+
+## Identidade
+- Número: 52
+- Título: Eyes On You
+- Estado editorial: trimmed/open for rewrite
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
+
 ## Aparência
-Caverna gigantesca com uma região central e vários túneis. A versão histórica estima cerca de 200 mil pés quadrados. Rochas incluem calcário, dolomita, gipsita, mármore, ardósia e granito.
-## Fenômenos
-Iluminação intermitente, sensação persistente de observação, passos sem origem, sombras anômalas e estática percebida mentalmente durante permanência prolongada.
+Grande caverna com túneis; rochas como calcário, dolomita, gipsita, mármore, ardósia e granito; iluminação intermitente; sensação persistente de observação.
+
+## Estrutura
+Caverna central e túneis estreitos.
+
 ## Entidades
-Smilers, Facelings, Wretches e Hounds. A versão histórica descreve adaptações ao ambiente; não importar detalhes de versões antigas sem nova verificação.
+Smilers, Facelings, Wretches e Hounds; adaptações ao ambiente são históricas e não devem ser ampliadas sem fonte.
+
 ## Recursos
-Metais preciosos e cristais existem, mas são raros.
+Metais preciosos e cristais raros; não presumir disponibilidade prática.
+
 ## Bases
 Nenhuma base permanente conhecida.
-## Entradas
-- No-clip em grande rocha no Level 445.
-- No-clip a partir do Level 2.1.
-## Saídas
-Túneis estreitos podem indicar destinos; algumas inscrições são incorretas.
-## Auditoria
-- [x] Aparência/geologia
-- [x] Fenômenos
-- [x] Entidades
-- [x] Recursos
-- [x] Entradas/saídas
-- [x] Status editorial
-- [ ] Mapa
-- [ ] Imagens/licenças
-- [ ] Rewrite moderno
 
-## Atribuição
-Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.
+## Entradas
+No-clip em grande rocha do Level 445; no-clip a partir do Level 2.1.
+
+## Saídas
+Túneis estreitos podem apontar destinos, mas inscrições podem estar erradas.
+
+## Mídia
+Imagem principal; autor/licença individual pendente.
+- A licença do texto não deve ser presumida para imagens individuais.
+
+## Auditoria
+- O projeto separa canon atual, versões históricas e páginas em rewrite/trimmed.
+- “Não documentado” permanece como dado válido quando a fonte não fornece informação.
+- Não foram preenchidas lacunas por inferência.
+- Próxima revisão: mapa, catálogo integral de entidades, instalações, mídia e conectividade quando a fonte permitir.
