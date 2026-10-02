@@ -22,12 +22,6 @@ A descrição atual apresenta:
 - céu eternamente estrelado;
 - árvores voltadas para o céu.
 
-## Aparência sedutora
-
-A paisagem é descrita como extremamente bela e convidativa.
-
-Ao mesmo tempo, o texto sugere perda progressiva de pensamento crítico e uma pressão psicológica para permanecer no lugar.
-
 ## Contradição
 
 O nível parece oferecer serenidade, mas a página insinua consequências graves para quem se entrega completamente a esse sentimento.
@@ -41,10 +35,6 @@ A documentação sugere:
 - desejo crescente de ficar;
 - alteração da percepção sobre outros ocupantes.
 
-## Bases, comunidades e narrativa
-
-A seção de comunidades é escrita de forma não convencional e participa da própria narrativa do artigo, em vez de funcionar apenas como relatório técnico.
-
 ## Estado editorial
 
 A versão atual recebeu uma revisão recente em agosto de 2026, o que a torna especialmente importante como referência contemporânea.
@@ -55,3 +45,37 @@ Primeira síntese concluída. Uma revisão futura deve separar cuidadosamente fa
 ## Atribuição
 
 Síntese editorial original baseada na Backrooms Wiki. O objetivo é reorganizar e explicar os fatos da página sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md` para a política completa de licença e uso de fontes.
+## Identidade
+- Número: 14
+- Título: Paradise
+- Estado: current
+- Autor indicado: CutTheBirch
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
+
+## Aparência
+Floresta noturna com cachoeiras, vegetação avermelhada, orvalho, céu estrelado permanente e árvores orientadas visualmente para o céu.
+
+## Estrutura
+A fonte não fornece cartografia técnica suficiente para dividir o nível em regiões numeradas confiáveis.
+
+## Entidades
+Nenhuma entidade catalogada como espécie residente. Ocupantes aparecem na narrativa, mas não devem ser convertidos em fichas de entidade sem confirmação.
+
+## Recursos
+Água e vegetação fazem parte do cenário, mas segurança ou utilidade como recurso não devem ser presumidas.
+
+## Bases
+Não há base técnica confirmada. A seção de comunidades da página funciona principalmente como elemento narrativo.
+
+## Entradas
+Não documentadas de forma suficiente na versão atual para formar uma lista confiável.
+
+## Saídas
+Não documentadas de forma suficiente na versão atual para formar uma lista confiável.
+
+## Mídia
+paradise.jpg — CutTheBirch — CC BY 2.0; derivada de gloomy forest, de gorchakov.artem, CC BY 2.0. O texto da página possui licença CC BY-SA 3.0.
+
+## Auditoria
+A versão atual é recente. Elementos narrativos e alegações subjetivas devem ser separados de fatos observáveis. Conteúdo sensível da fonte é mantido fora desta síntese.
