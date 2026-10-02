@@ -1,222 +1,84 @@
 # Grafo de conectividade — Levels 0–99
 
 ## Método
-Cada aresta deve registrar origem, destino, método, condição, direção, fonte, estado editorial e confiança quando disponíveis.
+Cada aresta registra, quando disponível: origem, destino, método, condição, direção, fonte, estado editorial e confiança. Não inferir bidirecionalidade.
 
-## Segunda passagem — Levels 4–10
+## Regra editorial
+- Rotas de páginas trimmed/open for rewrite ficam históricas/condicionais.
+- “Entrada” e “saída” são registradas separadamente quando a fonte faz essa distinção.
+- Rotas para níveis fora de 0–99 continuam válidas como arestas externas.
+- Subníveis recebem arestas próprias quando o método é específico.
 
-| Origem | Destino | Método/condição | Estado |
-|---|---|---|---|
-| 4 | 5 | conexão entre níveis iniciais; método detalhado pendente | documentado/histórico |
-| 4 | 6 | conexão relacionada à região/Base Omega em material do Level 6 | histórico; revalidar |
-| 5 | 6 | Boiler Room | documentado na versão publicada de Level 6 |
-| 6 | 7 | escadaria associada ao som de ondas | histórico; revalidar |
-| 6 | 129 | porta metálica fria | histórico; revalidar |
-| 6 | 6.1 | conexão acidental associada a fio | histórico; revalidar |
-| 8 | 9 | 9th Road | documentado |
-| 8 | 11 | 9th Road/Dark Highway | documentado como rota de progressão |
-| 103 | 8 | corredor escuro específico | documentado |
-| 9 | 10 | conexão da progressão inicial | método precisa ser extraído |
-| 10 | ? | conexões posteriores ainda não extraídas nesta passagem | pendente |
+## Segunda-passagem — Levels 81–90
 
-## Regras
-- Não inferir bidirecionalidade.
-- Não transformar rota recomendada em única saída.
-- Conexões de páginas trimmed/open for rewrite permanecem históricas até revalidação.
-- Subníveis devem ter arestas próprias quando o método for específico.
+### Level 81
+- 81: nenhuma entrada/saída confirmada na página atual.
 
-## Próximo lote
-- Extrair integralmente 0–3 e 4–10.
-- Depois avançar para 11–20.
+### Level 82
+- 33/9/28/147/420/888 → 82: lojas de conveniência.
+- The Crypt Reality/33/65/125/147/270/420/440 → 82: shoppings.
+- 7/60/102/108/200/233/420/482 → 82: caravanas abandonadas.
+- 370/39/69/125/129/300 → 82: grandes caminhões.
+- 9/10/39/62/83/125/ES-41 → 82: postos de gasolina.
+- 0/9/14/37/39/138/166/440/616 → 82: bancas individuais.
+- 0/4/9/44/146/178/ES-16 → 82: portas em paredes.
+- 2/44/78/134/300/37 → 82: alçapões.
+- 55/176 → 82: entrada de sentido único sob condição hostil.
+- 150 → 82: no-clipping em fase específica.
+- 167 → 82: mercado vitoriano em área específica.
+- 82 → 159: portas giratórias.
+- 82 → 241: rota de sentido único.
+- 82 → 532: portas de pedra marcadas.
+- Fechamento diário: acessos ficam bloqueados durante o período de fechamento.
 
+### Level 83
+- 7 → 83: transição durante exploração subaquática.
+- 83 → 7: permanência no exterior do submarino pelo período descrito na página.
+- 83 → 7: escotilha/rota de saída histórica associada à comunidade.
+- Status: histórico/trimmed.
 
-## Segunda-passagem — conexões 11–15
-- Level 11 → 12: janelas específicas/no-clip, conforme documentação atual.
-- Level 11 ↔ várias regiões/níveis: a página atual documenta grande quantidade de conexões; cada aresta deve permanecer condicional e não necessariamente recíproca.
-- Level 12 → 1, 4, 10, 19, 23, 25, 34, 287: destinos documentados pela Expedição Matrix.
-- Level 13 → 0, 114, 327, 395, 410: portas específicas.
-- Level 13 → 70/208: escadas ou elevadores em condição específica.
-- Level 13 → 157: configuração específica de tabuleiro de xadrez.
-- Level 15 → entrada histórica/eventual via Level 10; saída estável não confirmada.
-- Level 15 → 15.1: relação estrutural de subnível; não tratar como simples porta universal sem condição.
-- Level 15.1: saída não consolidada na página consultada.
+### Level 84
+- 903 → 84: conexão ocasional.
+- 97 → 84: no-clipping em folhagem.
+- 62 → 84: buraco em arbustos.
+- 82 → 84: porta.
+- 84 → 10/118: no-clipping em paredes.
+- 84 → 90: ser pego durante mudança das paredes.
+- 84 → 85: porta metálica azul.
+- 84 → 46: portão para área desértica.
+- 84 → 0/1/2: interações específicas em VP 3.
+- 84 → destino não numerado: chapéu de festa; não promover a rota universal.
 
+### Level 85
+- Entrada: não consolidada como rota numérica atual.
+- 85 → The End: relato de Yusuf Ibrahim após no-clipping em biblioteca.
+- Status: saída narrativa confirmada; rede adicional pendente.
 
-## Segunda-passagem — Levels 16–25
-- 16 → 75: entrada documentada por patches de metal líquido em estados históricos distintos.
-- 16 → 46: saída documentada por formação de gelo coberta de areia; posição varia conforme topografia.
-- 17 → 7: entrada por fonte luminosa submersa; saída por corredores inundados.
-- 17 → 11: porta metálica vermelha nas camadas superiores.
-- 17 → 18: conexão rara documentada.
-- 18 → 17: conexão rara documentada.
-- 18 → 19: saída simples pela própria transição do cenário.
-- 19 → 1, 18, 183: entradas históricas.
-- 19 → 38, 202, 432, 654, 289, 5, 12, 20, 40, 212, 140: destinos históricos condicionais; manter como arestas históricas.
-- 20 → 2, 21, 122: portas FUN ZONE.
-- 20 → 11: edifícios Fun Zone.
-- 20 → 16: condição específica do estado frio.
-- 20 → 19: portas danificadas raras.
-- 20 → 24, 78: no-clip por janelas.
-- 20 → 4, 21, 36: determinadas portas de atividades.
-- 21 → 13: Warp Tears são a entrada mais estável descrita.
-- 21 → 1.5: entrada por no-clip aleatório.
-- 21 → 0, 356, 46, 669 e níveis 8–20: portas específicas documentadas.
-- 22 → 21, 23: conexões estruturais atuais.
-- 22 → 1, 69, 172: entradas históricas.
-- 22 → 817: no-clip por carros/entulho em condição específica.
-- 23 → 37, 47, 135, 121: entradas por árvores/estruturas ocas.
-- 23 → 7, 121, 43, 135: saídas documentadas; 135 é bidirecional via Base Seedling.
-- 24 → 57: pintura da Lua como entrada consistente não controlada pela B.N.T.G.
-- 24 → B.N.T.G. PlasticWorks: saída documentada.
-- 25: máquinas funcionais atuam como hub de transporte; destinos individuais permanecem pendentes de revalidação durante a reescrita.
+### Level 86
+- 11 → 86: edifício cilíndrico.
+- 86 → 11: retorno pela mesma rota.
+- 86 → 4: algumas portas, raramente.
+- Status: trimmed/open for rewrite.
 
-Regra: conexões de páginas outdated/under rewrite permanecem com estado editorial explícito e não são promovidas a rotas universais.
+### Level 87
+- Entradas: não documentadas numericamente.
+- Saídas: não documentadas numericamente.
+- Fenômeno temporal não deve ser tratado como conexão entre níveis.
 
+### Level 88
+- Entrada: ocorre durante travessias de florestas densas/escuras; mecanismo numérico não documentado.
+- Saída: não documentada.
+- Não registrar “88 → ?” como aresta confirmada até a página fornecer destino.
 
-## Segunda-passagem — Levels 26–30
-- 26: entrada por itens de festa ou embarque quando a embarcação se materializa; saída por pôster invertido/desfocado e outras transições documentadas.
-- 27: Level 11 é entrada recorrente; conexões adicionais existem na página histórica e devem ser revalidadas.
-- 28: conectividade permanece pendente de extração integral.
-- 29 → 7: entrada pelo oceano em condição específica.
-- 29 → 25: máquina de arcade.
-- 29 → 114/284: destinos históricos associados à saída oceânica, atualmente não confiáveis.
-- 30 → 843: entrada por no-clip.
-- 30 → 696: item glitchado em condição específica.
-- 30: nenhuma saída confirmada.
+### Level 89
+- Origem narrativa associada a Level 0 e investigação M.E.G.
+- Saída narrativa retorna ao local de origem da equipe; destino numérico não consolidado.
+- O desaparecimento/intermitência do nível afeta a conectividade, mas não cria uma aresta nova.
 
+### Level 90
+- Entrada: método conceitual associado a “home/casa”.
+- 90 → destino desconhecido: saída junto ao velho carvalho.
+- 84 → 90: parede móvel do Level 84 é uma conexão confirmada externa ao arquivo de 90.
 
-## Segunda-passagem — Levels 31–35
-- 31 → 2/3: portas de madeira com música.
-- 31 → 67: entrada por Least Favorite/Hated Pastries.
-- 31 → 210: hyperlink específico.
-- 31 → 40: arcade funcional.
-- 31 → 70: porta branca numerada.
-- 31 → 232: porta de funcionários do food court.
-- 31 → 427/6: conexões históricas da versão arquivada.
-- 32: entrada e saída não determinísticas; estado rewrite preservado.
-- 33 → 11/22: entradas documentadas.
-- 33 → 45: entrada de escritório.
-- 34 → 33: conexão histórica.
-- 34 → 289/4/0/99/138/3-1: conexões históricas da versão acessível; revalidar após rewrite.
-- 35 → 34: parede enfraquecida.
-- 35 → outros níveis: veículos/saídas físicas documentados sem destinos consolidados.
-
-
-## Segunda-passagem — Levels 36–40
-- 36 → 36.1: qualquer portão de embarque.
-- 36.1 → destino do voo: transporte para o nível associado ao voo.
-- 36: entradas documentadas a partir de 11, 9, 159, 11.2, níveis de transporte, 864, 902, 103 e 20.
-- 37 ↔ 37.1: subnível relacionado; método exato de transição permanece parcial.
-- 38: entrada por instabilidade/sobreposição em Levels 0–37; saída depende de Interior/Exterior e pode levar a diferentes níveis.
-- 39: entradas 135/499/797; saídas 63/129/170/192/280/300/420/448/466/63.3.
-- 40: entrada histórica por Level 31; saída por porta de funcionários → 0 e exit hall → 9/10/11.
-
-
-## Segunda-passagem — Levels 41–50
-- 41: plataforma/entrada e saídas adicionais permanecem dependentes da versão atual; não inferir rotas.
-- 42: entradas/saídas não documentadas de forma confiável; estado incompleto preservado.
-- 43: parque aquático em rewrite; conectividade pendente de revalidação.
-- 44: Level 0 → 44 via porta metálica; 44 → 11/9 via porta semelhante; retorno ao ponto inicial.
-- 45: The Hub → 45; Level 90 → 45 ocasionalmente; 45 → The Hub pelo prédio central.
-- 46: 80 → 46; 0/1/21 → 46 por porta de arenito; 85 → 46; 46 → 293, 4 e 149.
-- 46.1: subnível associado a 46; retorno ao 46; conexões logísticas com bastiões dos Eyes of Argos.
-- Profane Burial Site: acesso pelo Monastery; nenhum destino de saída universal consolidado.
-- 47: no-clipping → 47 e no-clipping → saída; ocos de árvores têm maior propensão.
-- 48: Level 48 → Ground 48.1; rotas do nível principal permanecem para revalidação.
-- Ground 48.1 → Level 48: retorno pela periferia; The Enclave ↔ Ground 48.1.
-- 49.1: relação com Level 49; narrativa termina em Level 0.
-- 49.2: Level 49 → 49.2 por passagem escondida; Level 105 → 49.2; 49.2 → 105/11/Cathedrale Celeste/196.
-- 50: Level 35 → 50 via RV; Level 25 → 50 via arcade; Level 176 → 50 via caminhão; saída para 69 apenas como rumor não confirmado.
-
-
-## Segunda-passagem — Levels 51–60
-- 51 ↔ 51.2: Her Cradle é subnível de 51; métodos físicos adicionais de entrada/saída ainda não consolidados.
-- 52: 445 → 52 via no-clip em grande rocha; 2.1 → 52 via no-clip; túneis → destinos indicados, mas algumas marcações são incorretas.
-- 53: 9 → 53 por porta residencial associada ao caso de Allen Grady; demais rotas não consolidadas.
-- 54: conexões históricas com 1 e 43; manter como histórico até rewrite.
-- 55: conectividade atual precisa de extração individual da página; não usar a antiga Land of Ice.
-- 56: 8/93/5/420/135 e freezers de 55 → 56; 56 → 57 por caverna ampliada/nevada.
-- 57: pinturas/porta do Hub/Level 283 → 57; pinturas podem levar ao nível representado; orientação da Painter pode levar a 21.
-- 58: 37 → 58 sob condição específica; Level Key → 58; flyer de 9 → 58; 0 por slides coloridos é rumor; 58 → 58.1/1/Office Space EL3A.
-- 59: conectividade atual é deliberadamente narrativa; não inferir rotas literais sem confirmação.
-- 60: níveis com mar/oceano → 60 sob condição específica; The Sea → 7; 60 → 61 por dormir no Upper Area permanece hipótese não comprovada.
-
-
-## Segunda-passagem — Levels 61–70
-
-### 61
-- 9 → 61: panfleto/cartaz associado ao Country Club; narrativa atual.
-- 61 → Members-Only Course: adesão ao clube; destino desconhecido, não registrar como nível confirmado.
-
-### 62
-- 37 → 62: entrada por shed/galpão e observação da parede; condicional.
-- 62 → 445: permanência prolongada na floresta; condicional.
-- 62 → 4 ou 10: mecanismo relacionado ao shed; condicional.
-
-### 63
-- 797 → 63: portas de carvalho.
-- 39 → 63: no-clipping em colinas.
-- 11 → 63: arbustos específicos.
-- 63 → níveis naturais: queda no vazio; destino variável.
-
-### 63.3
-- 94 → 63.3: no-clipping pelo chão à noite.
-- 46 → 63.3: no-clipping através da areia.
-- 39 → 63.3: ponte na região de fronteira.
-- 63.3 → 46: queda na névoa.
-- 63.3 → 63: no-clipping pela ponte.
-
-### 64
-- 98 → 64: porão específico.
-- 6 → 64: sofá específico.
-- 2 → 64: sala decorada.
-- Elevadores em múltiplos níveis → 64: manifestação condicional.
-- 64 → 9: porta de vidro durante Safe Stage.
-- 64 → 0: sala iluminada.
-- 64 → 57: pinturas.
-- 64 → 8: abertura em parede/teto.
-
-### 65
-- The Crimson Forest → 65: entrada documentada visualmente, método exato pendente.
-- Saídas: não confirmadas na auditoria atual.
-
-### 66
-- Entradas: portas de emergência, áreas úmidas/no-clipping e certas poças; nenhuma é garantida.
-- 66 → saída: apenas portas de emergência funcionais; destino não documentado.
-
-### 67
-- 11 → 67: cheiro de pão.
-- 122 → 67: entrada ocasional.
-- 226 → 67: evento envolvendo alimento anômalo.
-- 67 → 11/31/57/98: determinados produtos.
-- 67 → 11/122: saída direta.
-- 67 → 98: rota narrativa via Jelly.
-- 67 → exterior de 153: livro Origins.
-
-### 68
-- 11 → 68: teatro/cinema.
-- 68 → 94: tela.
-- 68 → 74: determinadas portas vermelhas.
-
-### 69
-- 3/6/8/23/33 → 69: métodos específicos documentados.
-- Relatos de Almond Water → 69: não confirmado.
-- 69 → 11: túnel perpendicular.
-- 69 → 22: no-clipping pela parede.
-- 69 → 0: relato não confirmado.
-- 69 → 4: rumor não confirmado.
-
-### 70
-- 2/3/31/208/729/9 → 70: portas brancas marcadas 70.
-- 39/234 → 70: portas em árvores.
-- 43/852/979 → 70: pinturas de neve.
-- 120 → 70: servidores/no-clipping.
-- 149/170 → 70: observação do planetoide.
-- 70 → 0/13/37/120/427: portas de edifícios.
-- 70 → 369: sala rara de piso de grama.
-- 70 → 410.1: porta de funcionários em porões.
-- 70 → 540: árvores.
-- 70 → 571: portas metálicas.
-- 70 → 859: portas de restaurantes sob condição sazonal.
-
-Regra: arestas de páginas trimmed/open for rewrite permanecem históricas/condicionais; não inferir bidirecionalidade.
+## Blocos anteriores
+As conexões 4–80 permanecem documentadas nas seções anteriores deste arquivo. Conexões históricas não devem ser promovidas a atuais sem nova verificação.
