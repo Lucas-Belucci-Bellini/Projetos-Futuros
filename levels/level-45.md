@@ -1,41 +1,41 @@
 # Level 45 — Abyss Inc.
 
-## Metadados
-- **Número:** 45
-- **Título no índice oficial em 2026-10-01:** Abyss Inc.
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-45
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 45
+- Título: Abyss Inc.
+- Estado: outdated / open-to-rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+Um vazio escuro e aparentemente sem fim contém arranha-céus flutuantes. A versão histórica documenta 33 edifícios descobertos, organizados radialmente ao redor de um prédio central semelhante ao Empire State Building das Frontrooms.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 45. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+Os edifícios aparentam ser cópias de construções das Frontrooms, mas encontram-se suspensos no vazio.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Estrutura
+- vazio central;
+- conjunto radial de arranha-céus;
+- prédio central “Faux Empire State Building”;
+- cubículos e áreas internas nos edifícios.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Entidades
+Nenhum catálogo confiável de entidades nativas é estabelecido na versão acessível.
 
+## Recursos
+Escritórios e edifícios podem conter objetos de uso cotidiano, mas não existe inventário confiável.
 
-## Atribuição
+## Bases
+Nenhuma base permanente consolidada.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Entradas
+- The Hub;
+- saída próxima à árvore no Level 90, ocasionalmente.
+
+## Saídas
+- entrada frontal do Faux Empire State Building → The Hub.
+
+## Mídia
+- FC_render2 — “Picture of the abyss taken from a BRC cubicle” — Pokkin — CC BY-SA 3.0.
+
+## Auditoria
+A página está marcada como outdated. A contagem de 33 prédios e sua organização são preservadas como características da versão histórica, não como garantia de uma futura reescrita.
