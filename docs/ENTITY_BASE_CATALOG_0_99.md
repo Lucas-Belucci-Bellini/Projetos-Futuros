@@ -1635,3 +1635,21 @@ Funções:
 - distribuição para comunidades;
 - waypoint para viajantes do Level 2.
 
+
+## Sub-seções documentadas — atualização 1.2
+
+### Level 1.2 — Concrete Garden
+**Arquivo:** levels/level-01-2.md
+
+#### Entidades
+- **Nenhuma entidade:** uma das características distintivas do subnível é a ausência de entidades observadas na área principal.
+- Essa ausência é descrita como excepcional em relação ao restante do Level 1.
+- Visitantes humanos e membros de expedições não são entidades nativas.
+- Nenhuma espécie própria de entidade foi consolidada.
+
+#### Bases / comunidades / instalações
+- **Nenhuma base permanente confirmada.**
+- A fonte registra tentativas de estabelecimento humano no setor.
+- Algumas pessoas que tentaram estabelecer assentamentos deixaram de ser ouvidas posteriormente.
+- O material da M.E.G. inclui o setor em atividades de exploração e pesquisa, mas isso não equivale a um posto permanente.
+
