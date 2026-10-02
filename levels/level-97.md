@@ -1,41 +1,74 @@
 # Level 97 — Lighthouse
 
-## Metadados
-- **Número:** 97
-- **Título no índice oficial em 2026-10-01:** Lighthouse
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-97
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- **Número:** 97.
+- **Título:** Lighthouse.
+- **Estado editorial:** trimmed / open for rewrite.
+- **Subnível:** Level 97.5 — My Tears Are Becoming a Sea.
+- **Fonte principal:** Backrooms Wiki.
+- **Data-base:** 2026-10-01.
 
-## Escopo de documentação
+## Aparência
+A versão histórica descreve uma pequena ilha cercada por oceano salgado. A ilha possui vegetação alta, rochas cobertas de musgo e lápides antigas. O cenário é permanentemente noturno, com céu sem estrelas e uma grande lua crescente.
+No centro existe um farol branco. A versão histórica e a revisão posterior da página apresentam diferenças importantes sobre o estado do farol, neblina e fenômenos associados.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 97. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Ilha.
+- Oceano profundo, mas não descrito como infinito.
+- Lápides espalhadas.
+- Farol central.
+- Em versões históricas, embarcação à vela/ruína de embarcação próxima à ilha.
+- **Level 97.5** como subnível listado oficialmente.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- **Ghouls:** entidade humanoide associada à versão histórica do nível.
+- A descrição e o comportamento dos ghouls mudam entre versões do artigo.
+- Não misturar automaticamente os dados da versão antiga com a revisão posterior.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Não há inventário de recursos de sobrevivência confiável.
+- A embarcação/ruína funciona principalmente como ponto de conectividade na documentação histórica.
 
+## Bases
+- A versão antiga registra um pequeno posto da **M.E.G.** associado à embarcação.
+- Estado atual dessa instalação: não deve ser considerado permanente sem reconfirmação após rewrite.
 
-## Atribuição
+## Entradas
+A versão revisada/histórica registra:
+- portas aleatórias no **Level 17**;
+- corredores no **Level 522**.
+As rotas chegam à região da embarcação/ruína.
+Como a página está trimmed/open for rewrite, essas conexões são **históricas**, não garantidas como canon futuro.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+A mesma versão registra:
+- porta na embarcação levando ao **Level 372**;
+- hatch nas ruínas do farol levando ao **Level 522**;
+- uma rota marítima que pode conduzir ao **Level 448**.
+Essas conexões devem permanecer marcadas como pertencentes à versão documentada.
+
+## Subnível
+### Level 97.5 — My Tears Are Becoming a Sea
+Subnível listado oficialmente. A documentação deve ser mantida separada até que a página seja auditada em profundidade.
+
+## Mídia
+A página possui imagens do farol e da ilha. Os créditos/licenças devem ser verificados individualmente na versão atual da página.
+**Não copiar imagens automaticamente.**
+
+## Canon e auditoria
+- Estado editorial divergente entre versões internas do artigo.
+- A página principal está marcada como outdated/trimmed/open for rewrite.
+- Rotas, entidades e aparência devem sempre indicar a versão de origem.
+
+## Auditoria
+- [x] Identidade
+- [x] Aparência
+- [x] Estrutura
+- [x] Entidades
+- [x] Recursos
+- [x] Bases
+- [x] Entradas
+- [x] Saídas
+- [x] Subníveis
+- [x] Mídia
+- [x] Divergência de versões
