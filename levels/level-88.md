@@ -1,41 +1,60 @@
 # Level 88 — Muted Lake
 
-## Metadados
-- **Número:** 88
-- **Título no índice oficial em 2026-10-01:** Muted Lake
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-88
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 88
+- Título atual: Muted Lake
+- Estado editorial: current.
+- Classe de sobrevivência: pending.
+- Autores: LaundryFan_04 e r a t i f.
+- Tema: lago frio e silencioso encontrado em florestas escuras.
 
-## Escopo de documentação
+## Aparência
+- Corpo d'água imóvel e aparentemente sem vida.
+- Instâncias documentadas são descritas como idênticas.
+- Aparições ocorrem tarde da noite em florestas densas e escuras.
+- Água permanece extremamente fria.
+- Cheiro metálico é relatado.
+- Não há mapa ou profundidade total documentados.
+- Existe uma área de influência acústica de raio ainda desconhecido.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 88. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Lago central.
+- Floresta circundante.
+- Zona anômala de supressão de voz/som.
+- Nenhuma estrutura permanente confirmada.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Um registro M.E.G. apresenta uma massa escura/amórfica sob a água.
+- Natureza e classificação permanecem não confirmadas.
+- Não associar automaticamente a uma entidade numerada.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Água em grande quantidade, mas sem confirmação de segurança para consumo.
+- Nenhum recurso adicional confiável.
 
+## Bases
+- Nenhuma.
+- Após o registro recuperado, a M.E.G. declarou o nível inabitável.
 
-## Atribuição
+## Entradas
+- O nível é encontrado durante travessias de níveis com florestas densas e escuras.
+- Mecanismo exato não especificado.
+- Entradas numéricas: não documentadas.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- Nenhuma saída confirmada na página atual.
+- Status correto: não documentado, não “sem saída”.
+
+## Mídia
+- Sneaking Down to The Lake at Night — Jason Pratt — CC BY 2.0 — fonte indicada via Openverse.
+- Página: CC BY-SA 3.0.
+- Não copiar trechos longos do registro de exploração.
+
+## Auditoria
+- Aparência: lago, floresta e efeito acústico bem descritos.
+- Entidade: presença aquática não classificada.
+- Base: nenhuma.
+- Conectividade: incompleta.
+- Mídia: 1 fonte licenciada.
+- Pendências: mecanismo de entrada, saídas e classificação da presença aquática.
+- Fonte: https://backrooms-wiki.wikidot.com/level-88.
