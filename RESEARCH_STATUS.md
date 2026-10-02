@@ -105,3 +105,19 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 - [x] Catálogo de mídia 11–15 iniciado
 - [ ] Auditoria individual de todas as imagens de 11, 13 e 15
 - [ ] Subníveis restantes de 11: 11.3, AFTER HOURS, The Headquarters e Radio Backrooms' Studio
+
+
+## Segunda-passagem — Levels 16–25
+- [x] Level 16 — schema completo e estados históricos separados
+- [x] Level 17 — schema completo; estado under rewrite preservado
+- [x] Level 18 — schema completo; estado trimmed/open for rewrite preservado
+- [x] Level 19 — schema completo; histórico separado da futura reescrita
+- [x] Level 20 — schema completo; Fun Zone/Boreas Structure preservados
+- [x] Level 21 — schema completo; portas e conectividade detalhadas
+- [x] Level 22 — schema completo; cronologia de Emstable separada do presente
+- [x] Level 23 — schema completo; Glow Rooms, Ancient Ruins, Heart of Water e Base Seedling
+- [x] Level 24 — schema completo; corpos celestes, entidades, entradas e saída
+- [x] Level 25 — schema completo; arcade/hub e estado under rewrite
+- [x] Catálogo de mídia 16–25 criado
+- [ ] Auditoria individual de toda a mídia de 16, 18, 19, 20, 23, 24 e 25
+- [ ] Subníveis relacionados a 16–25 ainda precisam ser levantados no índice e documentados
