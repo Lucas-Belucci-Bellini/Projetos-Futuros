@@ -1,41 +1,41 @@
 # Level 49 — The Unfilled River of Phlegethon
 
-## Metadados
-- **Número:** 49
-- **Título no índice oficial em 2026-10-01:** The Unfilled River of Phlegethon
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-49
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 49
+- Título: The Unfilled River of Phlegethon
+- Estado: current
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
+- Subníveis: 49.1 Remember the Fallen; 49.2 Training Grounds M-1.
 
-## Escopo de documentação
+## Aparência
+Campo de batalha aparentemente infinito inspirado visualmente em sistemas de trincheiras da Primeira Guerra Mundial das Frontrooms. A maior parte do nível permanece inacessível; a região explorável conhecida é o sistema de trincheiras.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 49. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- trincheiras;
+- áreas de terreno aberto;
+- seções do campo de batalha;
+- regiões associadas aos subníveis 49.1 e 49.2.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+A topologia se estende muito além do que foi efetivamente explorado.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Entidades
+A página classifica o nível como possuindo infestação hostil. O catálogo completo deve ser consultado na fonte atual e mantido em linguagem não gráfica.
 
+## Recursos
+Recursos convencionais não são garantidos. Objetos encontrados em contexto de batalha devem ser tratados como elementos ambientais/históricos, não como recomendações de uso.
 
-## Atribuição
+## Bases
+Não há comunidade civil permanente consolidada na descrição principal. Instalações e zonas de treinamento devem ser documentadas separadamente nos subníveis.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Entradas
+A página atual mantém uma seção de entradas e saídas verificadas. Cada conexão deve ser registrada no grafo com seu método e estado editorial, sem inferir bidirecionalidade.
+
+## Saídas
+Existem saídas documentadas, mas o artigo distingue rotas verificadas de investigações em andamento.
+
+## Mídia
+A página utiliza imagens de seções das trincheiras. Autoria/licença individual deve ser auditada antes de redistribuição.
+
+## Auditoria
+O nível contém temas de guerra. Esta síntese mantém foco em arquitetura, história editorial e conectividade, evitando detalhes gráficos ou instruções práticas relacionadas a violência.
