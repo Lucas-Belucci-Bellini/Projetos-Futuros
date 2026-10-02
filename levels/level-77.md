@@ -1,41 +1,41 @@
 # Level 77 — Oh, Shenandoah
 
-## Metadados
-- **Número:** 77
-- **Título no índice oficial em 2026-10-01:** Oh, Shenandoah
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-77
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 77
+- Título: Oh, Shenandoah
+- Estado editorial: current
+- Fonte principal: Backrooms Wiki
+- Data-base: 2026-10-01
 
-## Escopo de documentação
+## Aparência
+25 km² central area of steep hills and valleys surrounded by a forest of undetermined size. Central area remains in daylight while the forest appears nightbound. Dense fog concentrates in valleys; flora includes grasses, moss and other vegetation.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 77. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Regiões e pontos de interesse descritos na fonte devem permanecer separados por versão editorial.
+- A arquitetura principal é resumida acima; detalhes adicionais só entram quando confirmados pela página.
+- Subníveis e páginas relacionadas devem possuir arquivos próprios quando existirem.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+Large Nguithr'xurh colony; native Shenandoah Sheep. The sheep have unusual longevity and hydration adaptations in the source.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+Sheep, wool, milk and other agricultural products; fog is ecologically important.
 
+## Bases
+Murphy Estate is the only permanent human presence described. B.N.T.G. maintains a trade relationship and calls the level The Sheephole.
 
-## Atribuição
+## Entradas
+32/48/249/415 and other heavily forested areas → 77; entries occur within the forest near the central area's border.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+Walking through surrounding forest beyond the stated boundary can cause no-clipping into another forested level. Exact destination varies.
+
+## Mídia
+Images and historical estate material need individual media audit; text CC BY-SA 3.0.
+
+## Auditoria
+Current. Preserve B.N.T.G./Murphy Estate secrecy as lore, not as a recommendation.
+- Campos não confirmados permanecem explicitamente marcados como não documentados.
+- Não inferir bidirecionalidade entre entradas e saídas.
+- Não misturar versões current, trimmed, archived ou rewrite.
+- Conteúdo gráfico ou instruções perigosas da fonte são resumidos ou omitidos.
