@@ -73,8 +73,8 @@ A licença da página não deve ser assumida como licença de todas as imagens i
 
 - **100/100** níveis principais 0–99 possuem arquivo.
 - **58** sub-seções/localizações aparecem no snapshot do índice oficial.
-- **26** dessas sub-seções já possuem arquivo dedicado nesta branch.
-- **32** ainda aguardam expansão dedicada.
+- **28** dessas sub-seções já possuem arquivo dedicado nesta branch.
+- **30** ainda aguardam expansão dedicada.
 - O grafo de conectividade está documentado, mas ainda precisa de reconciliação final de confiança/proveniência e arestas externas.
 - Catálogos de mídia existem, mas a auditoria individual de todas as licenças ainda não foi encerrada.
 - Os validadores Rust existem e estão preparados para execução local/CI; a branch não deve ser considerada 100% validada até o job global terminar com sucesso.

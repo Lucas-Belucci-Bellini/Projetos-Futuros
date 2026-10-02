@@ -32,8 +32,8 @@ O inventário está em docs/SUBLEVEL_REGISTRY.md.
 
 ## Catálogo transversal
 
-- `docs/ENTITY_BASE_CATALOG_0_99.md`: concluído para os 100 níveis principais e 26 sub-seções já documentadas.
-- Permanecem apenas as 32 sub-seções sem arquivo dedicado no registro oficial.
+- `docs/ENTITY_BASE_CATALOG_0_99.md`: concluído para os 100 níveis principais e 28 sub-seções já documentadas.
+- Permanecem apenas as 30 sub-seções sem arquivo dedicado no registro oficial.
 
 ## Mídia
 Os catálogos existentes não equivalem a licença individual fechada. Ainda é necessário:

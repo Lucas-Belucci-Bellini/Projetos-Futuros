@@ -37,7 +37,7 @@ Registro completo: docs/SUBLEVEL_REGISTRY.md
 
 ## Catálogo transversal
 
-- `docs/ENTITY_BASE_CATALOG_0_99.md` agora reúne as seções de Entidades e Bases/Instalações dos 100 níveis principais e das 27 sub-seções que já possuem arquivo dedicado.
+- `docs/ENTITY_BASE_CATALOG_0_99.md` agora reúne as seções de Entidades e Bases/Instalações dos 100 níveis principais e das 28 sub-seções que já possuem arquivo dedicado.
 - O catálogo é derivado dos próprios Markdown e não substitui a ficha individual.
 
 ## Mídia
@@ -81,5 +81,5 @@ O código está pronto, mas a execução global dos arquivos ainda não foi conc
 ### Verificação de ferramenta
 
 - `rustc` não está instalado no ambiente desta sessão; a compilação local dos validadores não pôde ser executada.
-- GitHub Actions foi configurado para executar `cargo build --all-targets`, `backrooms-levels-catalog`, `backrooms-audit` e `backrooms-inventory`.
+- GitHub Actions foi configurado para executar `cargo build --all-targets`, `backrooms-levels-catalog`, `backrooms-audit`, `backrooms-inventory` e `backrooms-quality`.
 - Não há status de CI exposto para esta branch pela integração atual; portanto, a validação global permanece como pendência real até um job concluir com sucesso.

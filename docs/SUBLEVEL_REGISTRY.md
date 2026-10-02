@@ -81,7 +81,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 
 ## Progresso desta frente
 
-Os primeiros subníveis do Level 0, o Office Space EL3A e o Level 63.3 já possuem arquivos dedicados, com schema completo. O inventário continua sendo a fonte de verdade para as demais lacunas.
+28 sub-seções/localizações já possuem arquivos dedicados com o schema completo, incluindo Zenith Station, Remodeled Mess, The Icy Rooms, Aquaclaustrophobic Infirmary, The Reminiscence District, Corrupted Corridor, Inverted, Concrete Garden, Base Alpha, Office Space EL3A, 11.1–11.3, 15.1, 36.1, 37.1, Ground 46.1/Profane Burial Site, 49.1–49.2, 51.2, 63.3, Ad Astra, Polden Point, 94.1, 97.5 e os arquivos especiais já registrados. O inventário continua sendo a fonte de verdade para as demais lacunas.
 
 ## Prioridade de expansão
 
