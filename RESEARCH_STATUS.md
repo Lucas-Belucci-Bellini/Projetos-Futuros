@@ -4,66 +4,59 @@ Data-base inicial: **2026-10-01**
 
 ## Marco 1 — Fundação
 
-- [x] Branch criada a partir da main.
-- [x] Árvore reconstruída para ficar isolada dos demais projetos.
-- [x] 100 arquivos Markdown criados.
-- [x] Levels 0–99 presentes.
-- [x] Títulos iniciais registrados.
-- [x] URLs oficiais registradas.
-- [x] Estados editoriais básicos registrados.
-- [x] Arquitetura documentada.
-- [x] Política de atribuição documentada.
-- [x] Ferramenta Rust inicial.
-- [x] Interface HTML/CSS inicial.
+- [x] Branch isolada criada.
+- [x] 100 arquivos Markdown.
+- [x] URLs oficiais.
+- [x] Estados editoriais.
+- [x] Arquitetura e licença.
+- [x] Rust inicial.
+- [x] HTML/CSS inicial.
 
-## Marco 2 — Pesquisa profunda dos Levels iniciais
+## Marco 2 — Levels 0–10
 
-- [x] Level 0 — expansão inicial.
-- [x] Level 1 — expansão inicial.
-- [x] Level 2 — arquitetura, iluminação, máquinas, recursos e história inicial.
-- [x] Level 3 — instalação elétrica, riscos, recursos e reescrita de 2026.
-- [x] Level 4 — síntese provisória com alerta de página em reescrita.
-- [x] Level 5 — hotel, regiões, atmosfera e conectividade inicial.
-- [x] Level 6 — síntese provisória; artigo aberto para reescrita.
-- [x] Level 7 — oceano, sala de entrada, zonas e alerta de reescrita.
-- [x] Level 8 — cavernas, física não convencional, gravidade e entropia.
-- [x] Level 9 — subúrbio, casas, ruas, entidades e conexões.
-- [x] Level 10 — campos, clima, água, estruturas e baixa hostilidade.
+- [x] Level 0
+- [x] Level 1
+- [x] Level 2
+- [x] Level 3
+- [x] Level 4
+- [x] Level 5
+- [x] Level 6
+- [x] Level 7
+- [x] Level 8
+- [x] Level 9
+- [x] Level 10
 
-## Critério para considerar um nível detalhado
+## Marco 3 — Levels 11–20
 
-Quando aplicável, verificar e documentar:
+- [x] Level 11 — cidade, autossuficiência, fluidez, hub, Level 11 Effect, população e grupos.
+- [x] Level 12 — autocensura, documentação, efeitos cognitivos, entradas e saídas.
+- [x] Level 13 — apartamentos, 290 andares, regeneração e habitabilidade.
+- [x] Level 14 — ambiente, efeito psicológico e atualização recente.
+- [x] Level 15 — corredores futuristas, máquinas, computadores e Level 15.1; artigo em reescrita.
+- [x] Level 16 — múltiplas topografias e política de arquivamento.
+- [x] Level 17 — porta-aviões, Imprints e camadas; artigo em reescrita.
+- [x] Level 18 — memórias personalizadas, Plush Dino e comunidade; aberto para reescrita.
+- [x] Level 19 — sótãos, decadência, brilho e histórico de revisões; em reescrita.
+- [x] Level 20 — Waiting Halls, Electric, substância laranja, Boreas e alerta do M.E.G.
 
-- panorama geral;
-- aparência;
-- escala;
-- iluminação;
-- clima;
-- temperatura;
-- sons;
-- materiais;
-- geometria;
-- propriedades anômalas;
-- mudanças espaciais;
-- perigos;
-- entidades;
-- recursos;
-- objetos;
-- bases;
-- comunidades;
-- facções;
-- entradas;
-- saídas;
-- áreas;
-- subseções;
-- história;
-- estado editorial;
-- links relacionados;
-- conflitos ou incertezas.
+## Estado geral
 
-## Próximas prioridades
+- Estrutura: 100/100.
+- Primeira expansão aprofundada: 21/100 Levels.
+- Levels com conteúdo provisório por reescrita: documentados explicitamente.
+- JavaScript: 0 arquivos.
+- Código principal: Rust.
+- Interface: HTML + CSS.
 
-1. Aprofundar Levels 11–20.
-2. Retornar aos Levels 0–10 para adicionar listas completas de entidades, grupos, entradas e saídas.
-3. Criar índice automático em Rust com status de completude.
-4. Adicionar validações para arquivos em reescrita.
+## Próximo marco
+
+Levels 21–30.
+
+Também está planejada uma segunda passagem nos Levels já cobertos para:
+1. entradas e saídas completas;
+2. entidades completas;
+3. comunidades completas;
+4. subseções e páginas relacionadas;
+5. histórico de revisões;
+6. autoria/licença específica por página;
+7. índice automático gerado em Rust.
