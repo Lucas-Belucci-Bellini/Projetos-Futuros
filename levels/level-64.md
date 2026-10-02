@@ -1,41 +1,65 @@
 # Level 64 — The Lurking Darkness
 
-## Metadados
-- **Número:** 64
-- **Título no índice oficial em 2026-10-01:** The Lurking Darkness
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-64
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 64
+- Título: The Lurking Darkness
+- Estado editorial: trimmed / open for rewrite
+- Origem: autor anônimo; reescrita por Stretchsterz
+- Fonte: Backrooms Wiki — Level 64
+- Data-base: 2026-10-01
+- Classificação publicada: Survival Difficulty 3.
 
-## Escopo de documentação
+## Aparência
+Uma casa aparentemente infinita com muitos quartos, corredores e escadas. Há decoração doméstica em excesso, poeira e mofo. A escuridão parece absorver a luz e muitas luminárias não funcionam. Livros e outros materiais escritos podem aparecer em branco. Existem espaços impossíveis, como corredores invertidos, áreas completamente negras e uma sala de relógios. A estrutura pode mudar quando não está sendo observada.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 64. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Quartos.
+- Corredores.
+- Escadarias.
+- Salas domésticas.
+- Sala de relógios e outras salas anômalas.
+- Áreas de escuridão profunda.
+- Safe Stage: transformação temporária em uma casa finita, iluminada e mais convencional.
+- Região histórica próxima à entrada do Level 0.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Lurkers: humanoides descritos com corpo semelhante a verme e múltiplas pernas. São hostis na versão histórica.
+- Outras entidades não são estabelecidas como população principal.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Móveis e objetos domésticos.
+- Materiais escritos podem existir, mas podem estar em branco.
+- Não há alimento ou água sustentável confirmados.
+- A utilidade dos objetos pode ser afetada pelas anomalias do nível.
 
+## Bases
+- M.E.G. Darkness Rangers: posto histórico associado à entrada do Level 0.
+- Abandoned Insurrection Base: instalação histórica abandonada.
+- Housekeepers: grupo associado a áreas domésticas e ao estudo dessas estruturas.
 
-## Atribuição
+## Entradas
+- Elevadores podem substituir sua localização por uma entrada para o Level 64.
+- Level 98 → 64: porão específico.
+- Level 6 → 64: sofá específico.
+- Level 2 → 64: sala grande e decorada.
+- Level 65 é citado como outro nível onde uma entrada por elevador pode surgir.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- 64 → 9: durante a Safe Stage, portas de vidro podem conduzir a um quintal.
+- 64 → 0: sala iluminada específica.
+- 64 → 57: no-clipping através de pinturas.
+- 64 → 8: buraco em parede ou teto.
+- A referência a “voltar para casa” permanece narrativa e não deve ser tratada como destino confirmado.
+
+## Mídia
+- Fotografia principal da escuridão.
+- Outras imagens da casa e estruturas anômalas.
+- Autoria/licença individual: pendente de auditoria.
+- Não copiar mídia automaticamente.
+
+## Auditoria
+- Estado: outdated/trimmed.
+- Lurkers confirmados na versão documentada.
+- Bases históricas registradas.
+- Arestas: 98/6/2/elevadores→64; 64→9/0/57/8.
+- Métodos perigosos do texto original foram resumidos sem instruções práticas.
