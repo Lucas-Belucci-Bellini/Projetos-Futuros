@@ -1,27 +1,39 @@
 # Level 55 — Pit Stop
-- Status: Current
-- Fonte: https://backrooms-wiki.wikidot.com/level-55
-## Identidade
-O índice atual usa **Pit Stop**. A concepção antiga **Land of Ice** é histórica/arquivada e não deve ser misturada com o canon atual.
-## Aparência e propriedades
-Espaço de parada/restaurante anômalo cuja disposição pode mudar. A reorganização espacial dificulta estabelecer uma instalação permanente.
-## Entidades
-Usar somente o catálogo da versão atual. Não importar automaticamente entidades do antigo Level 55.
-## Bases
-Nenhuma base permanente consolidada na versão atual.
-## Entradas e saídas
-Existem conexões documentadas na página atual; este arquivo deve receber a lista exata na segunda passagem.
-## Auditoria
-- [x] Identidade atual
-- [x] Distinção entre versões
-- [x] Propriedade espacial
-- [ ] Aparência detalhada
-- [ ] Entidades
-- [ ] Recursos
-- [ ] Entradas
-- [ ] Saídas
-- [ ] Mapa
-- [ ] Imagens/licenças
 
-## Atribuição
-Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.
+## Identidade
+- Número: 55
+- Título: Pit Stop
+- Estado editorial: current
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
+
+## Aparência
+Espaço anômalo semelhante a parada/restaurante cuja disposição se reorganiza; o layout mutável impede estabelecimento permanente estável.
+
+## Estrutura
+Áreas de atendimento, salas e espaços que mudam conforme a configuração.
+
+## Entidades
+Catálogo deve seguir exclusivamente a versão atual; versões antigas não devem ser misturadas.
+
+## Recursos
+Alimentos/bebidas e itens de parada aparecem na concepção atual; disponibilidade exata requer auditoria da página.
+
+## Bases
+Nenhuma base permanente consolidada.
+
+## Entradas
+Conexões documentadas na página atual; segunda auditoria deve registrar cada método individualmente.
+
+## Saídas
+Conexões documentadas na página atual; métodos individuais ainda precisam ser extraídos.
+
+## Mídia
+Mídia/licenças e mapa pendentes.
+- A licença do texto não deve ser presumida para imagens individuais.
+
+## Auditoria
+- O projeto separa canon atual, versões históricas e páginas em rewrite/trimmed.
+- “Não documentado” permanece como dado válido quando a fonte não fornece informação.
+- Não foram preenchidas lacunas por inferência.
+- Próxima revisão: mapa, catálogo integral de entidades, instalações, mídia e conectividade quando a fonte permitir.
