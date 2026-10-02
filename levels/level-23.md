@@ -1,84 +1,53 @@
 # Level 23 — The Petrified Garden
 
-## Metadados
-- **Número:** 23
-- **Título:** The Petrified Garden
-- **Estado editorial em 2026-10-01:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-23
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 23
+- Título: The Petrified Garden
+- Estado: current
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Visão geral
+## Aparência
+Superorganismo de escala planetária formado por árvores entrelaçadas. A superfície é uma floresta extremamente densa, sem ciclo convencional de dia/noite.
 
-O Level 23, conhecido como **The Petrified Garden**, é um superorganismo de escala planetária formado principalmente por árvores entrelaçadas.
+## Estrutura
+### Superfície
+Floresta fechada com árvores de numerosos habitats.
 
-## Escala
+### Túneis internos
+Bolsões de ar, túneis e cavidades permitem deslocamento pelo interior do organismo.
 
-A página atual compara sua área de superfície à do planeta-anão Ceres.
+### Glow Rooms
+Grandes cavernas subterrâneas onde árvores crescem para dentro das cavidades. São iluminadas por Gardener's Sorries e contêm fungos, arbustos e outras flora.
 
-Apesar dessa escala, a gravidade é muito semelhante à terrestre.
+### Ancient Ruins
+Ruínas semelhantes a monumentos históricos aparecem dentro das Glow Rooms. A página registra objetos arqueológicos, especialmente cerâmica.
 
-## Estrutura interna
-
-A movimentação é possível por:
-- túneis;
-- bolsões de ar;
-- cavidades;
-- passagens internas semelhantes a cavernas.
-
-Grande parte das entidades vive abaixo da superfície.
-
-## Superfície
-
-A superfície é coberta por floresta extremamente densa.
-
-Pouquíssima luz atravessa a copa.
-
-## Iluminação
-
-Não existe ciclo convencional de dia e noite.
-
-Uma estrela permanece visível em posição aparentemente fixa, enquanto todo o planetoide recebe iluminação de maneira anômala.
-
-## Flora
-
-A floresta mistura árvores de muitos habitats terrestres diferentes.
-
-Espécies citadas incluem:
-- Douglas fir;
-- aspens;
-- mahoganies;
-- redwoods;
-- cedars;
-- cypresses;
-- white oaks.
-
-Também existem espécies:
-- raras;
-- extintas no mundo normal;
-- não identificadas.
+### Heart of Water
+Reservatório central que fornece água ao organismo. O núcleo permanece pouco explorado.
 
 ## Entidades
+A página registra Volpes, Hounds, Clumps, Smilers, Death Rats, Deathmoths, Curabitur Birds, Wranglers raros, Gardener's Sorries e entidades nativas ainda sem classificação.
 
-A página atual cita:
-- Volpes;
-- Hounds;
-- Clumps;
-- Smilers;
-- Death Rats;
-- Deathmoths;
-- Curabitur Birds;
-- Wranglers raros;
-- entidades nativas ainda estudadas.
+## Recursos
+Água do Heart of Water, flora, fungos e outros recursos biológicos. Deve-se distinguir recursos naturais do nível de materiais realmente acessíveis aos viajantes.
 
-## Base Seedling
+## Bases
+### M.E.G. Base Seedling
+Base de exploração, antropologia e pesquisa localizada em uma Glow Room. A população documentada é de aproximadamente 30 membros ativos e cinco Wanderers voluntários resgatados.
 
-A documentação visual e textual indica presença de estruturas de abrigo e pesquisa.
+## Entradas
+- árvores ocas gigantes nos Levels 37 e 47;
+- árvore oca no Level 135, conectada à Base Seedling;
+- estrutura semelhante a tronco oco no Level 121.
 
-## Estado da pesquisa
+## Saídas
+- Heart of Water → Level 7 ou Level 121;
+- possibilidade de chegar a exposições do Level 43;
+- árvore no centro da Base Seedling → Level 135, formando conexão bidirecional documentada.
 
-Primeira expansão concluída. Próxima etapa deve detalhar biologia do superorganismo, regiões internas, glow rooms, comunidades e rotas.
+## Mídia
+A página possui imagens da Base Seedling, Glow Rooms, ruínas, superfície e elementos biológicos. Autoria e licença individual devem ser catalogadas.
 
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza os fatos relevantes sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
+## Auditoria
+O Level 23 possui forte integração com o Cov Canon. Elementos específicos desse canon devem permanecer identificados quando houver risco de confusão com a continuidade geral.
