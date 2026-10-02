@@ -1,61 +1,60 @@
 # Level 9 — The Suburbs
 
-## Metadados
-- **Número:** 9
-- **Título no índice oficial em 2026-10-01:** The Suburbs
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-9
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal:** Backrooms Wiki
-- **Data-base:** 2026-10-01
+## Identidade
+- Número: 9.
+- Título: The Suburbs.
+- Estado editorial: current no índice consultado.
+- Fonte principal: Backrooms Wiki.
+- Data-base: 2026-10-01.
+- Subníveis listados: 9.2 Black Market; 9.3 The Overcast Manifold; 9.5 Rochester Blues; 9.9 D-Day.
 
-## Visão geral
+## Aparência
+- Ambiente suburbano aparentemente interminável.
+- Ruas residenciais, casas e infraestrutura urbana.
+- A iluminação e o clima variam conforme regiões e condições anômalas.
+- Escala e conectividade não correspondem a um bairro convencional.
+- Detalhes completos de materiais, temperatura, sons e odores precisam de auditoria da página atual.
 
-O Level 9 é um subúrbio aparentemente infinito em noite permanente.
-
-## Casas
-
-As residências variam bastante em tamanho e aparência. Muitas estão mobiliadas, porém a infraestrutura elétrica comum geralmente não funciona.
-
-## Interiores
-
-Podem existir sofás, camas, televisores, geladeiras e outros objetos domésticos. Algumas casas permanecem vazias.
-
-## Anomalias arquitetônicas
-
-Há relatos de casas ocupando ou atravessando o mesmo espaço físico.
-
-## Ruas
-
-As ruas são consideradas muito mais perigosas que os interiores.
-
-Características frequentes:
-- asfalto molhado;
-- folhas;
-- poças;
-- calçadas;
-- iluminação pública instável;
-- neblina.
-
-## Transições
-
-Estradas e caminhos podem levar a outras regiões e Levels, incluindo conexões com o Level 10.
+## Estrutura
+- Rede de ruas e áreas residenciais.
+- Casas e lotes repetitivos.
+- Subníveis/localizações: 9.2, 9.3, 9.5 e 9.9.
+- Conexões com a 9th Road de Level 8 e com a progressão inicial são elementos importantes do mapa geral.
+- Mapa canônico completo: não consolidado nesta passagem.
 
 ## Entidades
+- Há entidades associadas ao ambiente suburbano em material do nível e de seus subníveis.
+- Inventário completo: pendente.
+- Aparência e comportamento devem ser separados por região e fonte.
+- Não assumir que entidades de subníveis habitam o Level 9 principal.
 
-A página atual registra várias entidades, incluindo algumas particularmente associadas ao Level 9.
+## Recursos
+- Casas e estruturas podem conter itens utilitários.
+- Água/alimentos e outros recursos: disponibilidade exata precisa ser verificada por região.
+- Recursos de subníveis não devem ser generalizados para o nível principal.
 
-## Comunidades
+## Bases
+- A infraestrutura residencial permite abrigos e ocupações temporárias.
+- Bases e comunidades nomeadas: não consolidadas nesta passagem.
+- Subníveis devem ter inventários de instalações próprios.
 
-Não há uma comunidade principal estável amplamente estabelecida na versão atual.
+## Entradas
+- Level 8: conexão pela 9th Road.
+- Outras entradas: documentadas no material do nível, mas ainda precisam de método/condição/fonte individualizados.
+- Status: parcial.
 
-## Descoberta
+## Saídas
+- Level 10: faz parte da progressão dos níveis iniciais e há material de conectividade entre os dois.
+- Outras saídas: precisam ser extraídas da página atual.
+- Não promover conexões apenas citadas em narrativas sem confirmação.
 
-O artigo preserva registros históricos ligados a grupos de exploração desaparecidos.
+## Mídia
+- A página e subníveis possuem mídia.
+- Autor/licença/fonte: auditoria individual pendente.
+- Não copiar imagens.
 
-## Próximas expansões
-
-Catalogar todas as entidades, rotas, entradas, saídas e eventos históricos.
-## Atribuição
-
-Este documento é uma síntese editorial original. Ele reorganiza e resume informações da página oficial sem reproduzir o artigo integralmente. A fonte é disponibilizada pela Backrooms Wiki sob CC BY-SA 3.0, conforme indicação da própria wiki.
+## Auditoria
+- Página oficial: https://backrooms-wiki.wikidot.com/level-9
+- Estado: current.
+- Gaps: conectividade detalhada, entidades, bases, parâmetros ambientais e catálogo de mídia.
+- Próxima ação: revisar 9.2, 9.3, 9.5 e 9.9 como documentos independentes.
