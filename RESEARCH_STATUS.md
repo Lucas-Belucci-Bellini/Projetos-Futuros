@@ -91,3 +91,17 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 3. Expandir subníveis 0–99.
 4. Completar conectividade 0–99.
 5. Rodar o validador Rust e corrigir gaps estruturais.
+
+
+## Segunda-passagem — 11–15
+- [x] Level 11 normalizado no schema completo
+- [x] Level 12 normalizado no schema completo
+- [x] Level 13 normalizado no schema completo
+- [x] Level 14 normalizado no schema completo
+- [x] Level 15 normalizado no schema completo
+- [x] Level 11.1 documentado
+- [x] Level 11.2 documentado
+- [x] Level 15.1 documentado
+- [x] Catálogo de mídia 11–15 iniciado
+- [ ] Auditoria individual de todas as imagens de 11, 13 e 15
+- [ ] Subníveis restantes de 11: 11.3, AFTER HOURS, The Headquarters e Radio Backrooms' Studio
