@@ -10,8 +10,9 @@ Data-base: 2026-10-01
 - [x] 41–50
 - [x] 51–60
 - [x] 61–70
+- [x] 71–80
 
-**Progresso: 71/100 Levels.**
+**Progresso: 81/100 Levels.**
 
 ## Auditoria reforçada
 Cada Level deve registrar explicitamente aparência, estrutura, entidades, recursos, bases/instalações, entradas, saídas, sublevels, mídia/licenças e status editorial.
@@ -30,7 +31,7 @@ Cada Level deve registrar explicitamente aparência, estrutura, entidades, recur
 - 68: under rewrite.
 
 ## Mídia
-Não copiar imagens automaticamente. Cada imagem precisa de autor, fonte e licença verificadas. Level 70 já demonstra como registrar mídia com licença explícita.
+Não copiar imagens automaticamente. Cada imagem precisa de autor, fonte e licença verificadas. Levels 70 e 71–80 demonstram como registrar mídia com licença explícita.
 
 ## Próximo bloco
 **71–80**
