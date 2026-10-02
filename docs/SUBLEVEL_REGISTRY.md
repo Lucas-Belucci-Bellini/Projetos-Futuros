@@ -60,7 +60,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 | 18 | Vultures In The Paper Oasis | sem marcador | — | pendente |
 | 36 | Level 36.1 — Astral Airplane | sem marcador | levels/level-36-1.md | documentado |
 | 37 | Level 37.1 — The Sanguine Reservoir | sem marcador | levels/level-37-1.md | documentado |
-| 39 | Level 63.3 — Sleeping Paradise | sem marcador | levels/level-63-3.md | documentado |
+| 63 | Level 63.3 — Sleeping Paradise | sem marcador | levels/level-63-3.md | documentado |
 | 46 | Ground 46.1 — The Saline Dunes and The Purgatorial Monastery | sem marcador | levels/level-46-1.md | documentado |
 | 46.1 | The Profane Burial Site | sem marcador | levels/the-profane-burial-site.md | documentado |
 | 48 | Ground 48.1 — Noctilucent Ground | Open for Rewrite | — | pendente |
@@ -76,8 +76,8 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 ## Totais
 
 - 58 sub-seções/localizações identificadas no snapshot oficial de 0–99.
-- 19 possuem arquivo dedicado na branch.
-- 39 ainda precisam de arquivo dedicado ou expansão própria.
+- 22 possuem arquivo dedicado na branch.
+- 36 ainda precisam de arquivo dedicado ou expansão própria.
 
 ## Progresso desta frente
 
