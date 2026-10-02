@@ -324,6 +324,21 @@ Cada aresta registra, quando disponível: origem, destino, método, condição, 
 ### Level 99
 - Rotas atuais e históricas devem permanecer separadas devido ao estado editorial da página.
 
+## Sub-seções adicionadas na última revisão
+
+### Level 0
+- 0 ↔ 0.1: relação hierárquica de Zenith Station; entrada/saída dimensional específica não consolidada.
+- 0 ↔ 0.2: relação hierárquica de Remodeled Mess; transições dependem da área remodelada/deteriorada.
+- 0 ↔ 0.3: relação hierárquica de The Icy Rooms; estado histórico/Open for Rewrite.
+- 0 ↔ 0.5: relação hierárquica; entrada associada às zonas de blackout do Level 0. Saída universal não consolidada.
+- 0 ↔ 0.7: relação hierárquica; métodos de entrada/saída não consolidados.
+
+### Level 1
+- 1 → 1.1: entrada documentada a partir do setor de Level 1 próximo à Base Alpha.
+- 1.1 → 1: retorno pelo corredor/entrada; noclip pode produzir retorno aleatório ao Level 1.
+- 1 ↔ 1.2: relação hierárquica entre Habitable Zone e Concrete Garden; método dimensional específico não consolidado.
+- 1.5: entrada acidental durante exploração de níveis próximos; saída conhecida somente como no-clipping na versão documentada. Tratar como baixa confiança devido ao caráter limitado do relato.
+
 ## Sub-seções importantes no grafo
 - 0.1, 0.2, 0.3: relações internas ao Level 0.
 - 11.1, 11.2, 11.3: relações internas ao Level 11.
