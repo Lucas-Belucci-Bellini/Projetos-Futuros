@@ -2,40 +2,71 @@
 
 ## Metadados
 - **Número:** 45
-- **Título no índice oficial em 2026-10-01:** Abyss Inc.
-- **Estado editorial:** open-to-rewrite
+- **Título:** Abyss Inc.
+- **Estado editorial em 2026-10-01:** open-to-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-45
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 45. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+A página está desatualizada e aberta para reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+O Level 45 é um vazio escuro contendo arranha-céus que flutuam sem peso.
 
+## Edifícios
+
+Foram documentados 33 arranha-céus.
+
+Eles aparecem organizados radialmente ao redor de uma construção equivalente ao Empire State Building.
+
+## Cópias do Frontrooms
+
+Os prédios parecem replicar edifícios reais.
+
+## Interiores
+
+Os interiores são mobiliados como suas versões originais.
+
+Porém, objetos como:
+- computadores;
+- bebedouros;
+- plantas;
+- móveis
+
+são esculturas detalhadas de isopor e não funcionam.
+
+## Transporte
+
+Escadas de incêndio não levam ao exterior.
+
+Elas funcionam como gateways consistentes para prédios vizinhos.
+
+## B.R.C. Headquarters
+
+O falso Empire State Building abriga a sede do **Backrooms Research Consortium**.
+
+A estrutura contém:
+- laboratórios;
+- escritórios;
+- instalações de pesquisa.
+
+Registros históricos também mencionam entidades mantidas em andares inferiores para estudo.
+
+## Entrada
+
+Uma rota conhecida vem de The Hub.
+
+## Saída
+
+A entrada principal do edifício central pode levar de volta ao Hub.
+
+## Estado da pesquisa
+
+Primeira expansão concluída. Faltam catálogo dos 33 prédios, estrutura do B.R.C., conexões e história editorial.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

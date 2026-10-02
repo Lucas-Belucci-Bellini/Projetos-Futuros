@@ -2,40 +2,79 @@
 
 ## Metadados
 - **Número:** 43
-- **Título no índice oficial em 2026-10-01:** Water World
-- **Estado editorial:** under-rewrite
+- **Título:** Water World
+- **Estado editorial em 2026-10-01:** open-to-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-43
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 43. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O artigo atual é considerado desatualizado e está aberto para reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+O Level 43 é um parque temático aquático e aquário aparentemente infinito.
 
+## Organização
+
+A versão histórica divide o parque em quatro grandes áreas.
+
+Essas regiões parecem formar uma progressão em direção a uma área final.
+
+## Fenômenos ambientais
+
+A página registra:
+- grandes manchas de neblina;
+- sons ocasionais de barcos;
+- silêncio prolongado;
+- ausência aparente de vida comum.
+
+## Estado do parque
+
+O ambiente parece abandonado.
+
+Há:
+- lixo;
+- atrações quebradas;
+- estruturas sem manutenção;
+- caminhos vazios.
+
+## Sistema de som
+
+Uma voz feminina toca mensagens automáticas nos alto-falantes.
+
+Os avisos comunicam fechamento do parque, manutenção e propagandas.
+
+## Park Area
+
+A primeira região é uma área externa em luz do dia.
+
+Possui:
+- calçadas;
+- banheiros;
+- bancos;
+- postes;
+- quiosques;
+- placas.
+
+Caminhar para fora das calçadas tende a devolver o viajante a outra calçada.
+
+## Sinalização
+
+Placas apontam para atrações e áreas internas, mas muitas rotas levam a:
+- becos sem saída;
+- outras placas;
+- caminhos redundantes.
+
+## Estado da pesquisa
+
+Primeira síntese concluída. Ainda faltam as quatro áreas completas, entidades, atrações, entradas, saídas e conexão com The Atrium.
+
+## Regra de manutenção
+
+Reescrever quando a versão moderna oficial for publicada.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

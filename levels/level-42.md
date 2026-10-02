@@ -2,40 +2,66 @@
 
 ## Metadados
 - **Número:** 42
-- **Título no índice oficial em 2026-10-01:** a place of interest
-- **Estado editorial:** current
+- **Título:** a place of interest
+- **Estado editorial em 2026-10-01:** incomplete-current
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-42
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
+- **Título interno usado pela página:** Level XXX
+- **Observação:** artigo incompleto com placeholders
 
-## Escopo de documentação
+## Estado excepcional
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 42. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 42 atual não funciona como um artigo convencional finalizado.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+A própria página informa que está **incompleta**, contém placeholders e possui acesso de edição restrito.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Identificação
 
+O título atual é literalmente **“a place of interest”**.
+
+Dentro do texto, o nível é chamado temporariamente de **Level XXX**, indicando que partes da identidade editorial ainda não foram consolidadas.
+
+## Ambiente conhecido
+
+A descrição disponível apresenta:
+- uma planície ampla;
+- terreno plano;
+- grama seca;
+- grandes pilares de pedra inclinados;
+- massas de pedra cinzentas e amorfas.
+
+## Pilares
+
+Os pilares são descritos como suspensos no ar e fora do alcance convencional.
+
+Essa característica é um dos poucos elementos concretos já documentados.
+
+## Temas
+
+A página possui avisos relacionados a:
+- infinito;
+- perda de identidade.
+
+## Escopo ainda desconhecido
+
+O próprio artigo afirma que a extensão do Level ainda não foi totalmente documentada.
+
+## Política deste repositório
+
+Não preencher lacunas com conteúdo antigo ou especulativo.
+
+Enquanto a página oficial permanecer incompleta, este arquivo deve registrar:
+1. o conteúdo realmente publicado;
+2. o status de placeholder;
+3. futuras alterações de título;
+4. futuras alterações de número interno;
+5. mudanças na descrição.
+
+## Estado da pesquisa
+
+Documentação atual completa dentro do que a página oficial permite no momento.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.

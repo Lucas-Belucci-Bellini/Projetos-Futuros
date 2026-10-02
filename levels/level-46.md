@@ -2,40 +2,81 @@
 
 ## Metadados
 - **Número:** 46
-- **Título no índice oficial em 2026-10-01:** Arabian Desert
-- **Estado editorial:** under-rewrite
+- **Título:** Arabian Desert
+- **Estado editorial em 2026-10-01:** under-rewrite
 - **Página oficial:** https://backrooms-wiki.wikidot.com/level-46
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+- **Data-base:** 2026-10-01
 
-## Escopo de documentação
+## Aviso editorial
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 46. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+O Level 46 está em processo de reescrita.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Visão geral
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+O ambiente é um enorme deserto de aparência árabe, com extremos de temperatura.
 
+## Estado diurno
+
+Durante o dia, temperaturas podem atingir aproximadamente 70 °C.
+
+A exposição é tratada como potencialmente fatal.
+
+Ruínas possuem propriedades que podem oferecer proteção.
+
+## Estado noturno
+
+À noite, a temperatura pode cair para aproximadamente -30 °C.
+
+O risco passa de calor extremo para hipotermia.
+
+## Higher Day
+
+Documentos chamados **Temple Scrolls** descrevem uma possível condição conhecida como Higher Day.
+
+Ilustrações sugerem temperaturas ainda mais extremas, possivelmente suficientes para afetar rochas.
+
+Nenhum evento assim foi confirmado.
+
+## The Ancient Ones
+
+Ruínas e manuscritos são ligados a uma civilização chamada The Ancient Ones.
+
+A linguagem registrada ainda não foi completamente decifrada.
+
+## M.E.G. Base Desert Rose
+
+A base:
+- pesquisa o Level 46;
+- estuda The Ancient Ones;
+- oferece água;
+- oferece abrigo;
+- possui cerca de 20 integrantes na versão atual.
+
+## Entradas
+
+Rotas históricas incluem:
+- caminhar pelo deserto em Level 80;
+- portas de arenito em Levels 0, 1 e 21;
+- região arenosa no Level 85.
+
+## Saídas
+
+Rotas incluem:
+- oasis para Level 293;
+- porta de escritório em ruínas para Level 4;
+- regiões de baixa gravidade conectadas ao Level 149.
+
+## Conteúdo relacionado
+
+A lista oficial associa ao Level 46:
+- Ground 46.1 — The Saline Dunes and The Purgatorial Monastery;
+- The Profane Burial Site.
+
+## Regra de manutenção
+
+Revisar integralmente após a reescrita.
 
 ## Atribuição
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+Síntese editorial original baseada na Backrooms Wiki. O texto reorganiza fatos da página atual sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md`.
