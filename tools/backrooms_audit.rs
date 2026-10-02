@@ -26,12 +26,20 @@ fn walk(dir: &Path, out: &mut Vec<PathBuf>) {
     }
 }
 
+fn section_body<'a>(text: &'a str, heading: &str) -> Option<&'a str> {
+    let start = text.find(heading)? + heading.len();
+    let tail = &text[start..];
+    let end = tail.find("\n## ").unwrap_or(tail.len());
+    Some(tail[..end].trim())
+}
+
 fn main() {
     let root = env::args().nth(1).unwrap_or_else(|| "levels".to_string());
     let mut files = Vec::new();
     walk(Path::new(&root), &mut files);
 
     let mut failures = 0usize;
+
     for path in files {
         let text = match fs::read_to_string(&path) {
             Ok(v) => v,
@@ -48,20 +56,35 @@ fn main() {
             .filter(|heading| !text.contains(heading))
             .collect();
 
-        let unresolved = text.matches("a verificar").count()
-            + text.matches("A verificar").count()
-            + text.matches("não documentad").count()
-            + text.matches("Não documentad").count()
-            + text.matches("[ ]").count();
+        let empty_sections: Vec<&str> = REQUIRED
+            .iter()
+            .copied()
+            .filter(|heading| {
+                section_body(&text, heading)
+                    .map(|body| body.is_empty())
+                    .unwrap_or(false)
+            })
+            .collect();
 
-        if !missing.is_empty() || unresolved > 0 {
+        let unresolved = (text.matches("TODO").count()
+            + text.matches("TBD").count()
+            + text.matches("[ ]").count()) as usize;
+
+        if !missing.is_empty() || !empty_sections.is_empty() || unresolved > 0 {
             println!("{}", path.display());
+
             if !missing.is_empty() {
                 println!("  missing headings: {}", missing.join(", "));
             }
+
+            if !empty_sections.is_empty() {
+                println!("  empty sections: {}", empty_sections.join(", "));
+            }
+
             if unresolved > 0 {
                 println!("  unresolved markers: {}", unresolved);
             }
+
             failures += 1;
         }
     }
