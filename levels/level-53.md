@@ -1,28 +1,39 @@
 # Level 53 — Alone
-- Status: Current
-- Fonte: https://backrooms-wiki.wikidot.com/level-53
-## Conceito
-Level 53 está ligado à casa de Allen Grady e ao registro “Attempt 53”.
-## Aparência
-Casa residencial aparentemente comum, com decoração doméstica e elementos deslocados após um evento anômalo. Uma porta vermelha teve papel central na descoberta.
-## História/fenômeno
-Allen relatou estar preso em sua própria casa. Uma equipe do M.E.G. localizou o caso durante exploração de Level 9, entrou pela porta e resgatou Allen. O local recebeu o nome Level 53 em referência à tentativa de comunicação.
-## Entidades
-Nenhuma entidade permanente é apresentada como foco central.
-## Bases
-Nenhuma base permanente; investigação ligada ao M.E.G.
-## Entradas
-A documentação histórica associa a entrada à porta residencial encontrada em Level 9.
-## Saídas
-O caso permitiu a Allen voltar a entrar e sair de sua residência.
-## Auditoria
-- [x] Aparência
-- [x] Fenômeno
-- [x] Entidades
-- [x] Investigação
-- [x] Entrada/saída
-- [ ] Mapa da casa
-- [ ] Catálogo completo de imagens
 
-## Atribuição
-Síntese editorial original baseada na Backrooms Wiki. Consulte a página oficial indicada no arquivo e ATTRIBUTION.md.
+## Identidade
+- Número: 53
+- Título: Alone
+- Estado editorial: current
+- Fonte principal: Backrooms Wiki
+- Auditoria: 2026-10-01
+
+## Aparência
+Casa residencial aparentemente comum, com decoração doméstica e alterações anômalas após o evento de Allen Grady; porta vermelha é elemento central.
+
+## Estrutura
+Casa, cômodos domésticos e área afetada pelo evento.
+
+## Entidades
+Nenhuma entidade permanente central confirmada.
+
+## Recursos
+Itens domésticos; não há inventário de recursos de sobrevivência consolidado.
+
+## Bases
+Nenhuma base; caso investigado pelo M.E.G.
+
+## Entradas
+Porta residencial associada ao Level 9.
+
+## Saídas
+A documentação narrativa descreve retorno/saída da residência, mas não estabelece rede ampla de conexões.
+
+## Mídia
+Mídia inclui imagens de cozinha e comida; créditos/licenças devem ser preservados.
+- A licença do texto não deve ser presumida para imagens individuais.
+
+## Auditoria
+- O projeto separa canon atual, versões históricas e páginas em rewrite/trimmed.
+- “Não documentado” permanece como dado válido quando a fonte não fornece informação.
+- Não foram preenchidas lacunas por inferência.
+- Próxima revisão: mapa, catálogo integral de entidades, instalações, mídia e conectividade quando a fonte permitir.
