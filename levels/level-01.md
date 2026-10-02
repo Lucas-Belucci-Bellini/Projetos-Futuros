@@ -1,65 +1,81 @@
 # Level 1 — Habitable Zone
 
-## Metadados
-- **Número:** 1
-- **Título no índice oficial em 2026-10-01:** Habitable Zone
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-1
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- **Número:** 1.
+- **Título:** Habitable Zone.
+- **Estado:** current.
+- **Fonte:** Backrooms Wiki.
+- **Data-base:** 2026-10-01.
 
-## Síntese atual
+## Aparência
+O nível é dominado por grandes estruturas semelhantes a armazéns e estacionamentos industriais, com concreto, pilares, corredores, tubulações e iluminação variável.
+A geometria é não euclidiana: distâncias aparentes podem não corresponder às distâncias reais.
 
-O Level 1 é uma das primeiras regiões relativamente habitáveis das Backrooms e costuma ser alcançado depois do Level 0. Seu ambiente é mais industrial e amplo, com salões semelhantes a armazéns, corredores, setores e áreas de armazenamento.
+## Estrutura
+A versão atual organiza o espaço em setores, incluindo:
+- Aquila Sector;
+- Gild Sector;
+- Gothic Sector;
+- Ouroboros Sector;
+- Garden Sector;
+- Fabled Sector.
 
-## Organização espacial
+Há também subseções oficialmente associadas ao nível, incluindo Level 1.1, Level 1.2, Level √2 e Level 1.5.
 
-A versão atual divide o nível em setores e descreve diferenças sutis entre regiões. Embora essa estrutura ofereça mais referências do que o Level 0, a geometria continua sendo anômala e não deve ser tratada como um prédio convencional.
+## Entidades
+A página registra diversas entidades no nível. Elas variam de comportamento e aparência, e algumas se tornam especialmente ativas durante eventos de iluminação conhecidos como Flickering.
+Este projeto mantém o catálogo não gráfico e recomenda consultar as fichas de entidade para detalhes individuais.
 
 ## Recursos
+- Crates/caixas anômalas.
+- Alimentos e água em determinadas caixas.
+- Baterias, roupas, itens médicos e outros suprimentos podem aparecer.
+- A distribuição é irregular e caixas podem desaparecer quando deixam de ser observadas.
 
-O Level 1 é conhecido por possuir maior disponibilidade de suprimentos e por ter histórico de caixas ou recursos encontrados ao longo de determinadas áreas.
+## Bases, instalações e comunidades
+O Level 1 possui grande concentração humana.
+### M.E.G. Base Alpha
+Grande assentamento no Aquila Sector, dedicado a exploração, treinamento e acolhimento.
+### B.N.T.G. Trader's Keep
+Ponto comercial associado ao Gild Sector.
+### Hippocrates-1
+Assentamento do Ariane Circle no Gothic Sector.
+### Outros
+A página também registra Camp Amber, Eyes of Argos, Speednoclippers, Tom's Diner e numerosos acampamentos menores.
 
-## Presença humana
+## Entradas
+- **Level 0** é a entrada clássica.
+- Também existem portas e passagens a partir de outros níveis, incluindo conexões documentadas com níveis acima de 99.
+- Alguns métodos envolvem no-clipping ou subseções específicas.
+- A lista da página atual não é exaustiva.
 
-A wiki registra assentamentos e grupos no Level 1, tornando-o um dos primeiros pontos de contato mais consistentes com outras pessoas dentro das Backrooms.
+## Saídas
+- **Level 2** é uma saída principal, normalmente alcançada por uma transição gradual de arquitetura.
+- Há portas, superfícies e no-clips que podem levar a diversos outros níveis.
+- A página atual documenta conexões com Level 22, 128, 154, 159, 201, 218, 305, 389, 710, 817 e outros.
+- A existência de uma conexão não significa que ela seja bidirecional.
 
-## Perigos
+## Subníveis
+- Level 1.1 — Corrupted Corridor.
+- Level 1.2 — Concrete Garden.
+- Level √2.
+- Level 1.5 — Inverted.
 
-O aumento de habitabilidade não elimina riscos. Fenômenos de iluminação, mudanças espaciais, entidades e a própria arquitetura anômala exigem cautela.
+## Mídia
+A página possui grande quantidade de imagens e material visual. Cada mídia deve ser catalogada individualmente com autor, fonte e licença antes de reutilização.
 
-## Conectividade
+## Canon e histórico
+A página atual é uma reescrita moderna e substitui versões arquivadas anteriores. Dados da versão antiga devem ser marcados como históricos.
 
-O Level 1 possui muitas conexões com outros níveis, utilizando portas, passagens, superfícies anômalas, no-clips e áreas específicas.
-
-## Escopo de documentação
-
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 1. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
-
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
-
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
-
-
-## Atribuição
-
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Auditoria
+- [x] Identidade
+- [x] Aparência
+- [x] Estrutura
+- [x] Entidades
+- [x] Recursos
+- [x] Bases
+- [x] Entradas
+- [x] Saídas
+- [x] Subníveis
+- [x] Mídia
+- [x] Canon
