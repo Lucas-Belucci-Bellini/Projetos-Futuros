@@ -482,3 +482,102 @@ Smilers são mencionados na versão histórica. Outras entidades aparecem em rel
 #### Bases / comunidades / instalações
 Nenhuma base, comunidade ou posto confirmado.
 
+
+## Levels 35–41
+
+### Level 35 — An Empty Car Park
+**Arquivo:** levels/level-35.md
+
+#### Entidades
+A página em rewrite não apresenta catálogo consolidado.
+
+#### Bases / comunidades / instalações
+Nenhuma base, posto avançado ou comunidade conhecida.
+
+### Level 36 — Timeless Airport
+**Arquivo:** levels/level-36.md
+
+#### Entidades
+A página atual classifica o nível como sem entidades hostis. O principal contato inteligente documentado é composto por humanos e grupos residentes/visitantes.
+
+#### Bases / comunidades / instalações
+### Backrooms Travel Agency
+Opera um posto principal na área de check-in e mantém equipes de orientação.
+
+### M.E.G.
+Uma equipe de Track Mappers mantém um posto temporário em um lounge do Concourse M para estudar a topologia e a dilatação temporal.
+
+### B.N.T.G.
+Membros ligados a entregas utilizam o nível para transporte e mantêm estoques intermediários em lounges reservados.
+
+### Gate C32 Support Group
+Grande comunidade de viajantes associada ao portão C32.
+
+### Level 37 — Sublimity
+**Arquivo:** levels/level-37.md
+
+#### Entidades
+- Nenhuma entidade nativa confirmada na página principal.
+- Relatos ocasionais devem permanecer separados de população estável.
+- Level 37.1 possui atividade de entidades própria.
+
+#### Bases / comunidades / instalações
+- Nenhuma base permanente conhecida.
+- Nenhuma comunidade organizada confirmada.
+
+### Level 38 — Fold Point
+**Arquivo:** levels/level-38.md
+
+#### Entidades
+A presença de entidades depende da região herdada. Não existe um catálogo único de população nativa estável.
+
+#### Bases / comunidades / instalações
+### The Merchant — B.N.T.G.
+Antigo posto do B.N.T.G. abandonado devido à instabilidade do ambiente e problemas relacionados a entidades.
+
+### Situação atual
+Nenhuma base permanente confirmada nesta auditoria.
+
+### Level 39 — Enchanted Forest
+**Arquivo:** levels/level-39.md
+
+#### Entidades
+- Nenhuma entidade nativa confirmada na página principal.
+- Visitantes de níveis adjacentes não devem ser tratados como fauna nativa.
+
+#### Bases / comunidades / instalações
+- Nenhuma base permanente confirmada.
+- A M.E.G. é associada a planos de exploração, não a posto permanente confirmado.
+
+### Level 40 — Roller Rockin' Pizza!
+**Arquivo:** levels/level-40.md
+
+#### Entidades
+### Pat
+- Tipo: entidade humanoide inteligente.
+- Aparência: funcionário de arcade com quatro braços.
+- Comportamento: social/conversacional.
+- Região: Level 40.
+- Status: confirmado.
+
+Não confundir Pat com funcionários visitantes ou outras entidades ocasionais.
+
+#### Bases / comunidades / instalações
+### B.N.T.G. Level 40 Resource Outpost
+Posto de recursos historicamente associado ao nível, com população na ordem de dezenas.
+
+### Scrambler Outpost
+Pequena instalação associada ao grupo/outpost Scrambler.
+
+### General Starflare's Space Cadets
+Grupo associado ao nível; população exata não consolidada.
+
+### Level 41 — The Black Lake
+**Arquivo:** levels/level-41.md
+
+#### Entidades
+A página associa entidades e fenômenos do nível ao ambiente hostil, mas o catálogo deve permanecer separado de manifestações que não tenham classificação própria.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente consolidada na documentação atual.
+
