@@ -1,41 +1,52 @@
 # Level 81 — Afterhours Ending
 
-## Metadados
-- **Número:** 81
-- **Título no índice oficial em 2026-10-01:** Afterhours Ending
-- **Estado editorial:** current
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-81
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 81
+- Título atual: Afterhours Ending
+- Estado editorial: current.
+- Autor: centurys lute.
+- Natureza: subcamada/entrada predominantemente atmosférica e literária.
 
-## Escopo de documentação
+## Aparência
+- Transição poética de um ambiente de escritório para um espaço de descanso.
+- Cobertores antigos e macios, tapetes, pinturas, salgueiros, riacho, campos, montanhas representadas em imagens, rio sinuoso e cidade silenciosa.
+- Iluminação baixa; chuva nas janelas e atmosfera noturna.
+- Sons: chuva, corujas e uma música antiga.
+- Odor: erva-cidreira.
+- Escala, temperatura, limites e geometria completa: não documentados.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 81. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Não existe mapa ou divisão formal de regiões.
+- A composição passa por escritório, área de descanso, pinturas e paisagens representadas.
+- Nenhum subnível associado confirmado.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Nenhuma entidade anômala confirmada.
+- Corujas são apenas uma referência sonora.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Cobertores, tapetes e assentos.
+- Nenhum inventário confiável de alimentos, água ou objetos anômalos.
 
+## Bases
+- Nenhuma base, comunidade ou posto confirmado.
 
-## Atribuição
+## Entradas
+- Não documentadas na página atual.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- Não documentadas na página atual.
+
+## Mídia
+- rest.png — autor: centurys lute — CC BY 3.0.
+- A página do nível é CC BY-SA 3.0; esta documentação é paráfrase.
+- Não copiar mídia automaticamente.
+
+## Auditoria
+- Aparência: alta cobertura atmosférica; geometria desconhecida.
+- Conectividade: sem rotas confirmadas.
+- Entidades: nenhuma.
+- Bases: nenhuma.
+- Mídia: 1 fonte licenciada.
+- Pendência: acompanhar revisões futuras.
+- Fonte: https://backrooms-wiki.wikidot.com/level-81.
