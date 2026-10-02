@@ -1,71 +1,40 @@
 # Level 19 — Attic Floorboards
 
-## Metadados
-- **Número:** 19
-- **Título de referência:** Attic Floorboards
-- **Estado editorial em 2026-10-01:** under-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-19
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Data-base desta revisão:** 2026-10-01
+## Identidade
+- Número: 19
+- Título: Attic Floorboards
+- Estado: under rewrite
+- Fonte: Backrooms Wiki
+- Auditoria: 2026-10-01
 
-## Aviso editorial
+## Aparência
+Complexo de sótãos antigos, úmidos e abarrotados, com cômodos irregulares, passagens estreitas, caixas, móveis vintage, poeira, pouca iluminação e tábuas antigas.
 
-O artigo está sendo reescrito.
+## Estrutura
+As áreas parecem formar uma rede de espaços de sótão. O interior de caixas e móveis pode permanecer muito mais preservado que o exterior.
 
-A página atual é apresentada como um arquivo de revisões históricas, portanto contém versões antigas e contraditórias do mesmo Level.
+### Brilho sob as tábuas
+Um brilho quente e alaranjado é documentado em determinadas áreas. Sua natureza não está estabelecida.
 
-## Conceito central
+## Entidades
+Nenhuma população residente foi confirmada nas versões arquivadas atualmente acessíveis. O brilho deve ser tratado como anomalia ambiental até que exista evidência para classificá-lo como entidade.
 
-O Level 19 é associado a uma rede de espaços semelhantes a sótãos antigos, úmidos e abarrotados.
+## Recursos
+Caixas podem conter alimentos, objetos anômalos e suprimentos. A disponibilidade varia e não deve ser considerada garantida.
 
-## Arquitetura
+## Bases
+Nenhuma base, comunidade ou posto permanente confirmado.
 
-A versão histórica mais completa descreve:
-- cômodos de formato irregular;
-- telhados inclinados;
-- passagens estreitas;
-- caixas;
-- móveis antigos;
-- poeira;
-- umidade;
-- pouca luz.
+## Entradas
+Versões históricas registram conexões com Levels 1, 18 e 183. Como o artigo está em reescrita, essas conexões permanecem históricas/provisórias.
 
-## Objetos e caixas
+## Saídas
+Arquivos históricos registram diferentes destinos conforme pisos, portas e objetos: Levels 38, 202, 432, 654, 289, 5, 12, 20, 40, 212 e 140.
 
-Caixas podem conter alimentos, objetos anômalos e suprimentos.
+Essas conexões não devem ser tratadas como uma rota universal da futura versão.
 
-Embora o exterior dos itens pareça velho ou deteriorado, seu interior pode permanecer preservado.
+## Mídia
+Existem imagens históricas do sótão e do brilho. Autoria e licença devem ser catalogadas individualmente.
 
-## Decadência
-
-Um efeito recorrente da documentação envolve deterioração acelerada de objetos retirados de determinados recipientes.
-
-Alguns indivíduos também relatam:
-- náusea;
-- paranoia;
-- tontura;
-- apagões;
-- alucinações.
-
-## Brilho sob o piso
-
-O elemento narrativo mais persistente é um brilho quente, frequentemente alaranjado, vindo de baixo das tábuas.
-
-Revisões antigas sugerem que esse fenômeno influencia psicologicamente quem passa muito tempo no local e pode interferir até na própria documentação.
-
-## Ausência de assentamentos
-
-As revisões mais recentes disponíveis não descrevem comunidades estáveis importantes.
-
-## Entradas e saídas históricas
-
-Uma versão antiga registra entradas pelo Level 1, Level 18 e Level 183.
-
-Saídas documentadas historicamente incluem vários destinos diferentes dependendo do piso, portas e objetos encontrados.
-
-## Estado da pesquisa
-
-Este arquivo não deve tentar produzir uma única versão “definitiva” enquanto a reescrita estiver em andamento. O ideal é preservar uma seção histórica separada para cada revisão relevante.
-## Atribuição
-
-Síntese editorial original baseada na Backrooms Wiki. O objetivo é reorganizar e explicar os fatos da página sem reproduzir o artigo integralmente. Consulte `ATTRIBUTION.md` para a política completa de licença e uso de fontes.
+## Auditoria
+O artigo atual reúne revisões históricas. Versões incompatíveis permanecem separadas até uma nova versão current ser publicada.
