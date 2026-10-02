@@ -121,3 +121,14 @@ Progresso estrutural da primeira passagem: 100/100 Levels.
 - [x] Catálogo de mídia 16–25 criado
 - [ ] Auditoria individual de toda a mídia de 16, 18, 19, 20, 23, 24 e 25
 - [ ] Subníveis relacionados a 16–25 ainda precisam ser levantados no índice e documentados
+
+
+## Segunda-passagem — Levels 26–30
+- [x] Level 26 — schema completo
+- [x] Level 27 — schema completo e mídia identificada
+- [x] Level 28 — schema completo
+- [x] Level 29 — schema completo; estado under rewrite preservado
+- [x] Level 30 — schema completo; versões históricas separadas
+- [x] Catálogo de mídia 26–30 criado
+- [ ] Auditoria individual das imagens de 26, 28, 29 e 30
+- [ ] Subníveis e páginas relacionadas a 26–30 ainda precisam ser levantados
