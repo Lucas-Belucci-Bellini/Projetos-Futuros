@@ -981,3 +981,85 @@ A supernatural guardian/observer is central to the narrative; Saola-related imag
 #### Bases / comunidades / instalações
 Local Charwood Hills inhabitants; permanent community details need full extraction.
 
+
+## Levels 77–83
+
+### Level 77 — Oh, Shenandoah
+**Arquivo:** levels/level-77.md
+
+#### Entidades
+Large Nguithr'xurh colony; native Shenandoah Sheep. The sheep have unusual longevity and hydration adaptations in the source.
+
+#### Bases / comunidades / instalações
+Murphy Estate is the only permanent human presence described. B.N.T.G. maintains a trade relationship and calls the level The Sheephole.
+
+### Level 78 — Space Station
+**Arquivo:** levels/level-78.md
+
+#### Entidades
+Clumps are associated with damaged space lavatories. Other entities require a separate audit; forum history mentions Null-06 as related to the level but this is not promoted to confirmed canon here.
+
+#### Bases / comunidades / instalações
+M.E.G. research presence is associated with the level; no stable settlement confirmed.
+
+### Level 79 — Ghosts in the Machine
+**Arquivo:** levels/level-79.md
+
+#### Entidades
+No stable native entity population confirmed. The level is dominated by temporal/spatial instability and anomalous machinery.
+
+#### Bases / comunidades / instalações
+No permanent base confirmed.
+
+### Level 80 — Sententia Oblita
+**Arquivo:** levels/level-80.md
+
+#### Entidades
+Dr. G. Schwartz, Tuesday Mitchell, the Administrator/Blorb Shitto and Ulysses B. Donkman are narrative persons of interest. The broader entity catalog needs separate extraction.
+
+#### Bases / comunidades / instalações
+Narrative structures include a ruined Base Alpha-like auditorium and a cabin built over a derelict gas station; these are points of interest rather than confirmed bases.
+
+### Level 81 — Afterhours Ending
+**Arquivo:** levels/level-81.md
+
+#### Entidades
+- Nenhuma entidade anômala confirmada.
+- Corujas são apenas uma referência sonora.
+
+#### Bases / comunidades / instalações
+- Nenhuma base, comunidade ou posto confirmado.
+
+### Level 82 — Self-Automated Trade
+**Arquivo:** levels/level-82.md
+
+#### Entidades
+- Bancas são operadas por entidades normalmente encontradas em outros níveis.
+- A fonte cita Smilers, Hounds, Bursters, Reviooks, Animations e Dentists.
+- Em funcionamento normal, essas entidades exibem comportamento comercial/passivo anômalo.
+- A passividade não é permanente; o texto registra mudança de comportamento quando uma negociação é considerada inadequada.
+
+#### Bases / comunidades / instalações
+- Nenhuma base permanente dentro do Level 82.
+- O M.E.O.D. mantém estruturas em níveis conectados para apoiar coleta e circulação de recursos.
+
+### Level 83 — The Sunken Submarine
+**Arquivo:** levels/level-83.md
+
+#### Entidades
+### The Great Observer
+- Entidade aquática gigantesca associada às águas externas.
+- Comparada pela fonte a um cefalópode colossal.
+- Geralmente observadora/passiva.
+- Pode produzir correntes e movimentar o submarino.
+- Observa os habitantes através das janelas.
+- Alimentação e território completo não confirmados.
+
+#### Bases / comunidades / instalações
+### Crew of the USS Ace of Spades
+- Comunidade permanente dentro do submarino.
+- Tamanho relatado: 20–100 membros.
+- Mantém alimentos e água.
+- Descrita como amistosa, aberta a trocas e receptiva a novos membros.
+- Pode indicar a saída.
+
