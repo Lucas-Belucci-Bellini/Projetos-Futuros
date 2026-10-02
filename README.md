@@ -1,35 +1,59 @@
-# Projetos-Futuros
+# Backrooms — Levels 0–99
 
-Central de planejamento para projetos futuros.
+Esta branch é um projeto isolado dentro do repositório `Projetos-Futuros`, criado especificamente para documentar os Levels 0 a 99 da Backrooms Wiki.
 
-## Estrutura de branches
+## Branch
 
-- `main` — base estável / índice geral.
-- `projeto/base-movel` — arquitetura geral da Base Móvel.
-- `base-movel/servidores` — os 4 servidores e virtualização/orquestração.
-- `pc-01-gaming` — projeto completo do PC de Gaming/workstation.
-- `pc-02-ia-hermes` — projeto completo do PC de IA/Hermes.
-- `pc-03-minecraft` — projeto completo do PC de Minecraft.
-- `pc-04-servicos` — projeto completo do PC de serviços.
-- `pc-05-storage-nas` — projeto do storage/NAS e nuvem privada.
-- `base-movel/casa` — área habitacional, móveis e organização interna.
-- `base-movel/energia` — UPS, baterias, inversor, gerador e distribuição elétrica.
-- `base-movel/rede` — switches, firewall, VLANs, Wi-Fi, VPN e internet satelital.
-- `base-movel/storage` — NAS, nuvem privada, backups e expansão de armazenamento.
-- `base-movel/notebooks` — notebooks de trabalho, desenvolvimento, jogos e IA.
-- `base-movel/veiculo` — caminhão/baú, estrutura, peso, isolamento e integração.
-- `base-movel/climatizacao` — refrigeração, fluxo de ar e sala técnica.
-- `base-movel/documentacao` — requisitos, ADRs, diagramas, inventário e decisões.
-- `site-promocoes-pc-faculdade` — futuro site de promoções e orçamentos de PCs/notebooks para estudantes e usuários gerais.
-- `sistema-operacional-linux` — projeto de sistema operacional desktop baseado em Linux, com UX inspirada em desktops modernos, segurança forte e identidade visual própria.
+`backrooms-levels-0-99`
 
-## Compra e afiliados
+Ela foi criada a partir da `main`, mas a árvore deste projeto foi reconstruída do zero para evitar carregar os outros projetos do repositório.
 
-- Comparadores de preço e histórico devem ser usados para encontrar o menor preço real antes da compra.
-- Programas de afiliados devem ser usados apenas de acordo com os termos de cada plataforma.
-- O projeto deve registrar preço, loja, data/hora da verificação e link normal/oficial.
-- Um link de afiliado nunca deve ser apresentado como se fosse um preço melhor por si só.
+## Objetivo
 
-## Regra
+Criar uma base extremamente detalhada, organizada e pesquisável dos Levels 0–99, priorizando:
 
-Cada branch deve conter somente o planejamento e os arquivos diretamente relacionados ao seu subsistema. Integrações que afetem mais de uma área devem ser documentadas em `projeto/base-movel` antes de serem incorporadas.
+- Markdown para documentação;
+- Rust para validação, automação e futuras ferramentas;
+- HTML e CSS para visualização;
+- TypeScript somente se existir alguma necessidade que não seja razoável atender com Rust.
+
+## Estrutura
+
+```text
+.
+├── README.md
+├── ATTRIBUTION.md
+├── ARCHITECTURE.md
+├── RESEARCH_STATUS.md
+├── Cargo.toml
+├── src/
+│   └── main.rs
+├── levels/
+│   ├── level-00.md
+│   ├── ...
+│   └── level-99.md
+└── web/
+    ├── index.html
+    └── styles.css
+```
+
+## Princípios
+
+1. Máximo de detalhes possíveis.
+2. Nenhuma invenção de lore.
+3. Nenhuma cópia integral dos artigos.
+4. Sempre registrar a fonte.
+5. Tratar páginas em reescrita como conteúdo instável.
+6. Manter a branch independente da `main`.
+7. Preferir Rust a JavaScript.
+8. Manter documentação suficiente para qualquer outra IA ou desenvolvedor continuar o trabalho.
+
+## Estado atual
+
+- Estrutura 0–99: concluída.
+- 100 arquivos Markdown: concluídos.
+- Metadados e URLs oficiais: concluídos.
+- Classificação editorial básica: concluída.
+- Ferramenta Rust inicial: concluída.
+- Interface HTML/CSS inicial: concluída.
+- Expansão profundamente detalhada de cada página: em andamento.
