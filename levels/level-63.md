@@ -1,41 +1,59 @@
 # Level 63 — Tranquility
 
-## Metadados
-- **Número:** 63
-- **Título no índice oficial em 2026-10-01:** Tranquility
-- **Estado editorial:** open-to-rewrite
-- **Página oficial:** https://backrooms-wiki.wikidot.com/level-63
-- **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
-- **Fonte principal do projeto:** Backrooms Wiki
-- **Data-base desta documentação:** 2026-10-01
+## Identidade
+- Número: 63
+- Título: Tranquility
+- Estado editorial: trimmed / open for rewrite
+- Autor: Sariastuff
+- Fonte: Backrooms Wiki — página histórica
+- Data-base: 2026-10-01
+- Classificação publicada: Survival Difficulty 0.
 
-## Escopo de documentação
+## Aparência
+Espaço aberto suspenso sobre um vazio, com uma extensa rede de pontes e plataformas de madeira. Escadas, trilhos e estruturas semelhantes conectam os caminhos. Grandes estruturas semelhantes a vinhas verdes emergem do vazio e mudam de forma. A temperatura publicada é de aproximadamente 18 °C; nuvens podem aparecer e a pressão atmosférica é descrita como ligeiramente abaixo de 1 atm. O sol percorre o espaço como se houvesse um ciclo diário, embora o nível permaneça visualmente em estado de dia.
 
-Este documento foi criado para reunir, em português, uma síntese estruturada do Level 63. O objetivo do projeto é detalhar o material da fonte oficial sem simplesmente copiar o artigo original.
+## Estrutura
+- Pontes de madeira.
+- Plataformas.
+- Escadas e trilhos.
+- Redes de caminhos sem destino aparente.
+- Estruturas verdes semelhantes a vinhas.
+- Meditation Points.
+- Subnível histórico 63.3 — Sleeping Paradise.
+- Não existe limite físico confiável documentado.
 
-### Tópicos que devem ser mantidos neste arquivo
-- descrição geral e identidade visual;
-- arquitetura, geografia e escala aparente;
-- condições ambientais;
-- fenômenos anômalos;
-- ameaças e perigos conhecidos;
-- entidades mencionadas;
-- recursos e objetos;
-- bases, postos avançados e comunidades;
-- entradas;
-- saídas;
-- subníveis, áreas, salas ou regiões relacionadas;
-- notas históricas e mudanças editoriais;
-- dúvidas, conflitos de canon ou pontos que exigem nova verificação.
+## Entidades
+- Nenhuma entidade nativa é confirmada na página histórica.
+- O nível é principalmente ambiental e contemplativo.
+- A ausência de entidades não deve ser generalizada para futuras reescritas.
 
-### Regras de pesquisa
-1. Sempre conferir a página oficial antes de ampliar este arquivo.
-2. Reescrever em linguagem própria.
-3. Não adicionar fatos que não estejam sustentados pela fonte.
-4. Se uma página estiver em reescrita, deixar isso explícito.
-5. Imagens devem ser tratadas separadamente, com verificação individual de autoria/licença.
+## Recursos
+- Madeira nas estruturas.
+- Pontos de descanso/meditação.
+- Não há inventário confiável de comida ou água.
+- Não há recurso material sustentável confirmado.
 
+## Bases
+- A página histórica afirma que não existem bases, comunidades ou assentamentos permanentes, para preservar o caráter do nível.
 
-## Atribuição
+## Entradas
+- 797 → 63: portas antigas de carvalho podem aparecer em paredes naturais.
+- 39 → 63: no-clipping através de colinas.
+- 11 → 63: queda através de determinados arbustos.
+- Todas são arestas históricas enquanto o nível estiver trimmed.
 
-Este arquivo é uma síntese editorial original baseada em uma obra disponibilizada pela Backrooms Wiki. Consulte `ATTRIBUTION.md` para informações sobre licença e política de uso de fontes.
+## Saídas
+- 63 → níveis naturais: queda no vazio é descrita como mecanismo geral.
+- Destinos recorrentes incluem 797 e 39, além de outros níveis classificados como naturais.
+- Não existe destino único garantido.
+
+## Mídia
+- A página contém imagem do céu e mídia associada aos Meditation Points.
+- Autoria/licença individual: pendente de auditoria.
+- 63.3 possui três fontes Flickr na página histórica; cada uma deve ser catalogada separadamente.
+
+## Auditoria
+- Estado histórico preservado.
+- Conectividade 797/39/11→63 e 63→níveis naturais.
+- 63.3 deve permanecer em arquivo próprio.
+- Não misturar esta versão com eventual reescrita futura.
