@@ -1,6 +1,6 @@
 # Level 12 — Matrix
 
-## Metadados
+## Identidade
 - **Número:** 12
 - **Título de referência:** Matrix
 - **Estado editorial em 2026-10-01:** current
@@ -8,11 +8,12 @@
 - **Índice oficial:** https://backrooms-wiki.wikidot.com/normal-levels-i
 - **Data-base desta revisão:** 2026-10-01
 
-## Visão geral
+## Aparência
 
 O Level 12 é definido menos por sua arquitetura e mais por uma propriedade anômala de autocensura.
 
-## Autocensura
+## Estrutura
+### Autocensura
 
 Tentativas de fotografar ou gravar o nível falham.
 
@@ -24,11 +25,11 @@ Registros digitais podem se transformar em:
 
 Até metadados associados ao material podem ser alterados ou censurados.
 
-## Consequência documental
+### Consequência documental
 
 Essa propriedade torna o Level 12 especialmente difícil de estudar. Informações precisam ser transmitidas principalmente por relatos, memória e registros que consigam escapar aos efeitos da censura.
 
-## Efeitos cognitivos
+### Efeitos cognitivos
 
 A documentação de exploração registra confusão e névoa mental em viajantes, que se tornam mais perceptíveis depois que a pessoa deixa o nível.
 
@@ -36,11 +37,11 @@ A documentação de exploração registra confusão e névoa mental em viajantes
 
 Não há bases, postos avançados ou comunidades conhecidas.
 
-## Entrada
+## Entradas
 
 A entrada não é totalmente compreendida. A página menciona relatos relacionados ao Level 11 e ao uso de uma Window como referência para executar um no-clip seguro.
 
-## Saída
+## Saídas
 
 Uma técnica descoberta durante a Expedição Matrix envolve esperar intervalos precisos antes de tentar abrir uma porta.
 
@@ -54,11 +55,12 @@ Dependendo do resultado, a pessoa pode ser transportada para diferentes Levels, 
 - Level 34;
 - Level 287.
 
-## Importância
+## Auditoria
+### Importância
 
 O Level 12 é um exemplo importante de anomalia que interfere diretamente com documentação e observação, não apenas com espaço físico.
 
-## Estado da pesquisa
+### Estado da pesquisa
 
 Primeira expansão concluída. Ainda faltam arquitetura detalhada e reconstrução completa do log da expedição em formato de síntese.
 ## Atribuição
