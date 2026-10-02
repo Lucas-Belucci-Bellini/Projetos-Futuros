@@ -60,6 +60,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 | 18 | Vultures In The Paper Oasis | sem marcador | — | pendente |
 | 36 | Level 36.1 — Astral Airplane | sem marcador | levels/level-36-1.md | documentado |
 | 37 | Level 37.1 — The Sanguine Reservoir | sem marcador | levels/level-37-1.md | documentado |
+| 39 | Level 63.3 — Sleeping Paradise | sem marcador | levels/level-63-3.md | documentado |
 | 46 | Ground 46.1 — The Saline Dunes and The Purgatorial Monastery | sem marcador | levels/level-46-1.md | documentado |
 | 46.1 | The Profane Burial Site | sem marcador | levels/the-profane-burial-site.md | documentado |
 | 48 | Ground 48.1 — Noctilucent Ground | Open for Rewrite | — | pendente |
@@ -80,7 +81,7 @@ Este registro é um snapshot: ele não afirma que cada item já possui arquivo n
 
 ## Progresso desta frente
 
-Os primeiros subníveis do Level 0 e o Office Space EL3A já receberam arquivos dedicados, com schema completo. O inventário continua sendo a fonte de verdade para as demais lacunas.
+Os primeiros subníveis do Level 0, o Office Space EL3A e o Level 63.3 já possuem arquivos dedicados, com schema completo. O inventário continua sendo a fonte de verdade para as demais lacunas.
 
 ## Prioridade de expansão
 
