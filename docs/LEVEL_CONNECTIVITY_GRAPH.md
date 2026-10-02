@@ -140,3 +140,83 @@ Regra: conexões de páginas outdated/under rewrite permanecem com estado editor
 - 58: 37 → 58 sob condição específica; Level Key → 58; flyer de 9 → 58; 0 por slides coloridos é rumor; 58 → 58.1/1/Office Space EL3A.
 - 59: conectividade atual é deliberadamente narrativa; não inferir rotas literais sem confirmação.
 - 60: níveis com mar/oceano → 60 sob condição específica; The Sea → 7; 60 → 61 por dormir no Upper Area permanece hipótese não comprovada.
+
+
+## Segunda-passagem — Levels 61–70
+
+### 61
+- 9 → 61: panfleto/cartaz associado ao Country Club; narrativa atual.
+- 61 → Members-Only Course: adesão ao clube; destino desconhecido, não registrar como nível confirmado.
+
+### 62
+- 37 → 62: entrada por shed/galpão e observação da parede; condicional.
+- 62 → 445: permanência prolongada na floresta; condicional.
+- 62 → 4 ou 10: mecanismo relacionado ao shed; condicional.
+
+### 63
+- 797 → 63: portas de carvalho.
+- 39 → 63: no-clipping em colinas.
+- 11 → 63: arbustos específicos.
+- 63 → níveis naturais: queda no vazio; destino variável.
+
+### 63.3
+- 94 → 63.3: no-clipping pelo chão à noite.
+- 46 → 63.3: no-clipping através da areia.
+- 39 → 63.3: ponte na região de fronteira.
+- 63.3 → 46: queda na névoa.
+- 63.3 → 63: no-clipping pela ponte.
+
+### 64
+- 98 → 64: porão específico.
+- 6 → 64: sofá específico.
+- 2 → 64: sala decorada.
+- Elevadores em múltiplos níveis → 64: manifestação condicional.
+- 64 → 9: porta de vidro durante Safe Stage.
+- 64 → 0: sala iluminada.
+- 64 → 57: pinturas.
+- 64 → 8: abertura em parede/teto.
+
+### 65
+- The Crimson Forest → 65: entrada documentada visualmente, método exato pendente.
+- Saídas: não confirmadas na auditoria atual.
+
+### 66
+- Entradas: portas de emergência, áreas úmidas/no-clipping e certas poças; nenhuma é garantida.
+- 66 → saída: apenas portas de emergência funcionais; destino não documentado.
+
+### 67
+- 11 → 67: cheiro de pão.
+- 122 → 67: entrada ocasional.
+- 226 → 67: evento envolvendo alimento anômalo.
+- 67 → 11/31/57/98: determinados produtos.
+- 67 → 11/122: saída direta.
+- 67 → 98: rota narrativa via Jelly.
+- 67 → exterior de 153: livro Origins.
+
+### 68
+- 11 → 68: teatro/cinema.
+- 68 → 94: tela.
+- 68 → 74: determinadas portas vermelhas.
+
+### 69
+- 3/6/8/23/33 → 69: métodos específicos documentados.
+- Relatos de Almond Water → 69: não confirmado.
+- 69 → 11: túnel perpendicular.
+- 69 → 22: no-clipping pela parede.
+- 69 → 0: relato não confirmado.
+- 69 → 4: rumor não confirmado.
+
+### 70
+- 2/3/31/208/729/9 → 70: portas brancas marcadas 70.
+- 39/234 → 70: portas em árvores.
+- 43/852/979 → 70: pinturas de neve.
+- 120 → 70: servidores/no-clipping.
+- 149/170 → 70: observação do planetoide.
+- 70 → 0/13/37/120/427: portas de edifícios.
+- 70 → 369: sala rara de piso de grama.
+- 70 → 410.1: porta de funcionários em porões.
+- 70 → 540: árvores.
+- 70 → 571: portas metálicas.
+- 70 → 859: portas de restaurantes sob condição sazonal.
+
+Regra: arestas de páginas trimmed/open for rewrite permanecem históricas/condicionais; não inferir bidirecionalidade.
