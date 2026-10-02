@@ -1394,3 +1394,87 @@ Nada disso deve ser promovido a comunicação confirmada.
 - Nenhuma base.
 - Nenhum posto ou comunidade confirmado.
 
+
+## Sub-seções documentadas — lote 2
+
+### Level 11.1 — Private Enterprise
+**Arquivo:** levels/level-11-1.md
+
+#### Entidades
+Nenhuma população de entidades é destacada na página consultada.
+
+#### Bases / comunidades / instalações
+O B.N.T.G. controlou o subnível em uma fase histórica. A documentação posterior registra retirada da organização e transferência de controle para investidores privados.
+
+### Level 11.2 — The Refuge
+**Arquivo:** levels/level-11-2.md
+
+#### Entidades
+A ficha deve registrar somente entidades confirmadas na página completa. Nenhuma entidade foi consolidada nesta primeira auditoria.
+
+#### Bases / comunidades / instalações
+O local foi encontrado abandonado e barricadado por uma equipe de exploração. Não tratar o abrigo histórico como base operacional atual sem confirmação adicional.
+
+### Level 11.3 — The Red Light District
+**Arquivo:** levels/level-11-3.md
+
+#### Entidades
+A página associa o subnível a Ambassadors e Servants. Esta documentação mantém apenas a classificação e relação geral:
+- Ambassadors: entidades em forma de cubo flutuante associadas ao controle/manipulação de pessoas.
+- Servants / Entity 187: pessoas sob influência de Ambassadors, apresentadas na obra como grupo organizado.
+
+#### Bases / comunidades / instalações
+### The Embassy
+Complexo situado nas regiões profundas do subnível e associado aos Ambassadors. A documentação o descreve como uma estrutura central de aparência elegante.
+
+### Level 15.1 — Futility
+**Arquivo:** levels/level-15-1.md
+
+#### Entidades
+Nenhuma entidade nativa é estabelecida como característica do subnível.
+
+#### Bases / comunidades / instalações
+### M.E.G.
+A M.E.G. assumiu controle operacional da entrada e utiliza guardas e períodos limitados de permanência para reduzir os riscos descritos pela obra.
+
+### The Line Steppers
+Grupo/aglomerado de pessoas que aguarda acesso aos simuladores.
+
+### The Marauders
+Coalizão hostil descrita como responsável por perturbações e ataques contra a operação do subnível.
+
+### Level 36.1 — Astral Airplane
+**Arquivo:** levels/level-36-1.md
+
+#### Entidades
+Nenhuma entidade nativa confirmada. Os ocupantes são principalmente wanderers transportados pelo sistema aeroportuário.
+
+#### Bases / comunidades / instalações
+Nenhuma base permanente. É um veículo/subnível de transporte.
+
+### Level 37.1 — The Sanguine Reservoir
+**Arquivo:** levels/level-37-1.md
+
+#### Entidades
+### Ambassadors
+- Atividade de entidade claramente documentada.
+- Em registros da fonte, frequentemente ignoram viajantes.
+
+### Presença não identificada
+- Relato de presença em áreas muito escuras.
+- Status: não confirmado como entidade independente.
+
+#### Bases / comunidades / instalações
+- Nenhuma base permanente confirmada.
+- Nenhuma comunidade organizada documentada.
+
+### Level 46.1 — The Saline Dunes and The Purgatorial Monastery
+**Arquivo:** levels/level-46-1.md
+
+#### Entidades
+A página associa o local principalmente aos Sons of Guilt e aos Eyes of Argos. A documentação não transforma membros organizacionais em entidades sobrenaturais.
+
+#### Bases / comunidades / instalações
+### The Monastery
+Principal instalação do subnível e um dos bastiões dos Eyes of Argos. Funciona como santuário, centro de reunião, estudo e proteção do Profane Burial Site.
+
