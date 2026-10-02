@@ -896,3 +896,88 @@ Grupo religioso associado às árvores e à ideia de que o nível escolhe seus s
 #### Bases / comunidades / instalações
 - Nenhuma base, comunidade ou posto permanente conhecido.
 
+
+## Levels 70–76
+
+### Level 70 — Froidetown
+**Arquivo:** levels/level-70.md
+
+#### Entidades
+- Facelings e variante local Froidlings.
+- Architects.
+- Smilers, especialmente em porões sem iluminação.
+- Deathmoths.
+- Hounds.
+- Skin-Stealers.
+- Snow Dunks.
+- Nguithr'xurhs.
+- Crawlers e regiões afetadas pelo fungo associado.
+- Death Rats adaptados ao frio.
+- Scrambies.
+- Drowners associados ao Burns River.
+- O catálogo deve ser mantido separado do nível para evitar duplicação de páginas de entidades.
+
+#### Bases / comunidades / instalações
+### Froidetownites
+Nome usado pelas populações das habitable pockets. Cada pocket desenvolveu cultura própria.
+
+### Habitable pockets
+Assentamentos humanos e de entidades inteligentes dóceis. São distantes uns dos outros e conectados por rotas de comércio.
+
+### União política
+As pockets formam uma democracia parlamentar. Noahtown, New Lviv, Lachance, New Bonavista e Cooktown são citadas na história de formação. Um hotel em Noahtown serve como edifício parlamentar na versão documentada.
+
+### Level 71 — Void Basement
+**Arquivo:** levels/level-71.md
+
+#### Entidades
+No reliable native entity catalog; the page is heavily narrative and corruption-themed.
+
+#### Bases / comunidades / instalações
+No permanent base confirmed.
+
+### Level 72 — The Pit
+**Arquivo:** levels/level-72.md
+
+#### Entidades
+Shelf Crawlers, The Repeater and The Long One are described in the bog. Other fauna is possible but not fully cataloged.
+
+#### Bases / comunidades / instalações
+No permanent base or community documented.
+
+### Level 73 — 𝕿𝖍𝖊 𝕽𝖊𝖉𝖑𝖆𝖓𝖉𝖘
+**Arquivo:** levels/level-73.md
+
+#### Entidades
+Windows, Smilers, Deathmoths, Clumps, Dullers, Hounds, Skin-Stealers, Death Rats and Camo Crawlers are documented. CORAN is the protective force associated with the Silver Castle.
+
+#### Bases / comunidades / instalações
+Silver Castle and the Children of Coran are the only clearly described protected human presence.
+
+### Level 74 — Stage Fright
+**Arquivo:** levels/level-74.md
+
+#### Entidades
+White-masked stage figures and familiar humanoid audience figures are central phenomena; later perceptions are described as hallucination-like effects.
+
+#### Bases / comunidades / instalações
+No bases/outposts/communities.
+
+### Level 75 — Liminality
+**Arquivo:** levels/level-75.md
+
+#### Entidades
+No entities documented in the current page.
+
+#### Bases / comunidades / instalações
+No bases, outposts or communities.
+
+### Level 76 — Back from the Charwood Brink
+**Arquivo:** levels/level-76.md
+
+#### Entidades
+A supernatural guardian/observer is central to the narrative; Saola-related imagery and local fauna are documented. Full entity catalog pending.
+
+#### Bases / comunidades / instalações
+Local Charwood Hills inhabitants; permanent community details need full extraction.
+
