@@ -1,21 +1,42 @@
 # Backrooms — Levels 0–99
 
-Esta branch é um projeto isolado dentro do repositório `Projetos-Futuros`, criado especificamente para documentar os Levels 0 a 99 da Backrooms Wiki.
+Esta branch é um projeto isolado dentro do repositório `Projetos-Futuros`, dedicado à documentação detalhada dos Levels 0–99 e das sub-seções relacionadas identificadas na fonte.
 
 ## Branch
 
 `backrooms-levels-0-99`
 
-Ela foi criada a partir da `main`, mas a árvore deste projeto foi reconstruída do zero para evitar carregar os outros projetos do repositório.
+A branch foi criada a partir da `main` e mantém uma árvore específica para este projeto.
 
 ## Objetivo
 
-Criar uma base extremamente detalhada, organizada e pesquisável dos Levels 0–99, priorizando:
+Construir uma base documental que registre, para cada nível e sub-seção pesquisada:
+- identidade e estado editorial;
+- aparência e condições ambientais;
+- estrutura, regiões e pontos de interesse;
+- entidades;
+- recursos;
+- bases, comunidades e instalações;
+- entradas e saídas;
+- subníveis;
+- mídia, autoria e licenças;
+- canon, histórico e incertezas.
 
-- Markdown para documentação;
-- Rust para validação, automação e futuras ferramentas;
-- HTML e CSS para visualização;
-- TypeScript somente se existir alguma necessidade que não seja razoável atender com Rust.
+O objetivo é maximizar a cobertura **sem inventar dados**.
+
+## Fontes e direitos
+
+A fonte principal é a Backrooms Wiki. O projeto produz sínteses editoriais próprias e não copia artigos integralmente.
+
+A licença da página não deve ser assumida como licença de todas as imagens incorporadas. Cada mídia precisa de autoria, origem e licença próprias. Consulte `ATTRIBUTION.md`.
+
+## Stack
+
+- **Markdown:** fonte documental primária.
+- **Rust:** validação, parsing, indexação e futuras ferramentas.
+- **HTML/CSS:** apresentação estática e visualização.
+- **TypeScript:** somente se uma necessidade real não puder ser atendida de forma razoável por Rust, geração estática ou HTML/CSS.
+- **JavaScript:** evitado diretamente.
 
 ## Estrutura
 
@@ -28,6 +49,16 @@ Criar uma base extremamente detalhada, organizada e pesquisável dos Levels 0–
 ├── Cargo.toml
 ├── src/
 │   └── main.rs
+├── tools/
+│   ├── backrooms_audit.rs
+│   └── backrooms_inventory.rs
+├── docs/
+│   ├── LEVEL_AUDIT_SCHEMA.md
+│   ├── CANON_STATUS_MATRIX.md
+│   ├── LEVEL_CONNECTIVITY_GRAPH.md
+│   ├── SUBLEVEL_REGISTRY.md
+│   ├── SECOND_PASS_GAPS.md
+│   └── IMAGE_CATALOG_*.md
 ├── levels/
 │   ├── level-00.md
 │   ├── ...
@@ -37,23 +68,32 @@ Criar uma base extremamente detalhada, organizada e pesquisável dos Levels 0–
     └── styles.css
 ```
 
-## Princípios
+## Estado real em 2026-10-02
 
-1. Máximo de detalhes possíveis.
-2. Nenhuma invenção de lore.
-3. Nenhuma cópia integral dos artigos.
-4. Sempre registrar a fonte.
-5. Tratar páginas em reescrita como conteúdo instável.
-6. Manter a branch independente da `main`.
-7. Preferir Rust a JavaScript.
-8. Manter documentação suficiente para qualquer outra IA ou desenvolvedor continuar o trabalho.
+- **100/100** níveis principais 0–99 possuem arquivo.
+- **58** sub-seções/localizações aparecem no snapshot do índice oficial.
+- **26** dessas sub-seções já possuem arquivo dedicado nesta branch.
+- **32** ainda aguardam expansão dedicada.
+- O grafo de conectividade está documentado, mas ainda precisa de reconciliação final de confiança/proveniência e arestas externas.
+- Catálogos de mídia existem, mas a auditoria individual de todas as licenças ainda não foi encerrada.
+- Os validadores Rust existem; a execução global em todos os Markdown ainda não foi concluída.
 
-## Estado atual
+## Regra editorial central
 
-- Estrutura 0–99: concluída.
-- 100 arquivos Markdown: concluídos.
-- Metadados e URLs oficiais: concluídos.
-- Classificação editorial básica: concluída.
-- Ferramenta Rust inicial: concluída.
-- Interface HTML/CSS inicial: concluída.
-- Expansão profundamente detalhada de cada página: em andamento.
+Uma informação desconhecida é melhor do que uma informação inventada.
+
+Valores ausentes devem ser rotulados como:
+- Não documentado;
+- Não confirmado;
+- Licença pendente;
+- Versão histórica;
+- Rota não consolidada.
+
+Quando duas versões divergem, elas permanecem separadas por estado editorial.
+
+## Continuidade
+
+Qualquer outra pessoa ou IA deve conseguir retomar o trabalho pela combinação de:
+`RESEARCH_STATUS.md` → `docs/SUBLEVEL_REGISTRY.md` → `docs/SECOND_PASS_GAPS.md` → `docs/LEVEL_CONNECTIVITY_GRAPH.md` → arquivos em `levels/`.
+
+A prioridade é sempre fechar lacunas verificáveis antes de aumentar artificialmente a contagem de “concluído”.

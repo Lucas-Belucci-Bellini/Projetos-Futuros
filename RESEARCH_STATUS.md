@@ -64,7 +64,7 @@ tools/backrooms_audit.rs exige dez seções estruturais em cada Markdown, além 
 O código está pronto, mas a execução global dos arquivos ainda não foi concluída nesta rodada. Não declarar 100% validado sem executar o binário.
 
 ## Próximas frentes
-1. Criar os 43 arquivos de sub-seções faltantes.
+1. Criar os 32 arquivos de sub-seções faltantes.
 2. Fazer auditoria individual de mídia.
 3. Criar catálogos globais de entidades.
 4. Criar catálogos globais de bases e instalações.

@@ -2,8 +2,7 @@
 
 ## 1. Objetivo técnico
 
-Construir uma base documental dos Levels 0–99 que possa futuramente alimentar:
-
+Construir uma base documental dos Levels 0–99 e suas sub-seções que possa futuramente alimentar:
 - site estático;
 - catálogo pesquisável;
 - API;
@@ -11,9 +10,69 @@ Construir uma base documental dos Levels 0–99 que possa futuramente alimentar:
 - banco de dados;
 - ferramenta CLI;
 - visualizador offline;
-- integração com projetos de jogos.
+- integrações externas.
 
-## 2. Linguagens permitidas
+## 2. Fonte de verdade
+
+- Cada arquivo de nível em `levels/` é uma unidade documental.
+- Um nível principal usa `level-NN.md`.
+- Uma sub-seção usa um identificador de arquivo derivado do nome, como `level-00-1.md` ou `level-01-5.md`.
+- `docs/SUBLEVEL_REGISTRY.md` é a fonte de verdade para cobertura do inventário de sub-seções.
+- `docs/LEVEL_CONNECTIVITY_GRAPH.md` é a fonte de verdade para o grafo editorial de entradas/saídas.
+
+## 3. Schema documental
+
+Todo arquivo de nível/sub-seção deve conter:
+1. `## Identidade`
+2. `## Aparência`
+3. `## Estrutura`
+4. `## Entidades`
+5. `## Recursos`
+6. `## Bases`
+7. `## Entradas`
+8. `## Saídas`
+9. `## Mídia`
+10. `## Auditoria`
+
+A ordem pode incluir subseções `###`, mas essas dez seções são o contrato mínimo.
+
+## 4. Estado editorial
+
+Estados comuns:
+- current;
+- trimmed;
+- outdated;
+- Open for Rewrite;
+- Under Rewrite;
+- historical;
+- não confirmado.
+
+O estado da fonte nunca deve ser substituído por opinião da documentação local.
+
+## 5. Conectividade
+
+Cada aresta deve, quando possível, indicar:
+- origem;
+- destino;
+- método;
+- condição;
+- direção;
+- fonte;
+- estado editorial;
+- confiança.
+
+Nunca inferir bidirecionalidade apenas porque existe uma rota em uma direção.
+
+## 6. Mídia
+
+A página da wiki e cada imagem incorporada são objetos de direitos diferentes. A branch deve:
+- registrar autor;
+- registrar URL/origem;
+- registrar licença;
+- registrar status de confirmação;
+- evitar copiar binários quando a licença não estiver clara.
+
+## 7. Linguagens
 
 ### Preferência 1 — Rust
 
@@ -22,46 +81,47 @@ Usar Rust para:
 - parsing;
 - geração;
 - indexação;
-- ferramentas CLI;
+- CLI;
 - transformação de Markdown;
-- futura API/backend;
-- processamento pesado.
+- processamento pesado;
+- futuras APIs/backend.
 
-### Preferência 2 — HTML/CSS
+### HTML/CSS
 
-Usar HTML e CSS para:
-- apresentação;
-- documentação navegável;
-- protótipos estáticos.
+Usar para apresentação estática e protótipos.
 
-### Preferência 3 — TypeScript
+### TypeScript
 
-Só introduzir TypeScript quando uma função de navegador realmente exigir lógica cliente que não seja prática em Rust/WebAssembly ou geração estática.
+Somente quando lógica cliente real não for prática em Rust/WebAssembly ou geração estática.
 
 ### JavaScript
 
 Evitar código JavaScript escrito diretamente.
 
-## 3. Fonte de verdade
+## 8. Ferramentas Rust
 
-Cada arquivo em `levels/` é a unidade documental primária de um Level.
+- `src/main.rs`: verificador de presença dos 100 níveis principais e consistência de fonte/schema.
+- `tools/backrooms_audit.rs`: auditor detalhado de seções, seções vazias e marcadores unresolved.
+- `tools/backrooms_inventory.rs`: inventário e relatório de cobertura por arquivo.
 
-## 4. Convenção de nomes
+## 9. Expansão de sub-seções
 
-`levels/level-NN.md`
+O índice oficial lista sub-seções que podem ser:
+- pequenas áreas;
+- regiões;
+- níveis dentro de níveis;
+- bases/postos importantes.
 
-NN sempre possui dois dígitos entre 00 e 99.
+Elas devem ser documentadas separadamente quando houver material suficiente. O registro mantém pendências explícitas quando só o título está disponível.
 
-## 5. Metadados mínimos
+## 10. Evolução para dados estruturados
 
-Todo arquivo deve conter:
-- número;
-- título;
-- estado editorial;
-- página oficial;
-- índice;
-- data-base.
+Uma futura etapa poderá gerar automaticamente:
+- JSON;
+- SQL;
+- índices;
+- páginas HTML;
+- grafos;
+- relatórios de cobertura.
 
-## 6. Evolução
-
-Uma futura migração para dados estruturados poderá usar Rust para extrair os metadados Markdown e gerar JSON, SQL ou HTML automaticamente.
+O Markdown continua sendo a fonte editorial até uma migração explícita.
