@@ -1287,3 +1287,110 @@ e comunidades
 ## Nota de integridade
 
 Este catálogo é uma visão transversal dos próprios Markdown do projeto. Ele não substitui os arquivos individuais e não cria dados que não estejam presentes neles. Para pesquisa histórica, leia também a seção de canon de cada nível e o grafo de conectividade.
+
+## Sub-seções documentadas — lote 1
+
+### Level 0.1 — Zenith Station
+**Arquivo:** levels/level-00-1.md
+
+#### Entidades
+- Automatons de diferentes modelos são observados dentro da sub-seção.
+- Os poucos automatons funcionais realizam tarefas automáticas, como limpeza e preparo de alimentos.
+- As anomalias gerais do Level 0, incluindo isolamento entre viajantes e alterações perceptivas, também se aplicam à sub-seção segundo a descrição da fonte.
+
+#### Bases / comunidades / instalações
+- Nenhuma base humana permanente é considerada viável no estado documentado.
+- A B.N.T.G. é associada a incursões de coleta de materiais.
+- A M.E.G. não recomenda transformar a sub-seção em posto permanente por causa das anomalias herdadas de Level 0.
+
+### Level 0.2 — Remodeled Mess
+**Arquivo:** levels/level-00-2.md
+
+#### Entidades
+Nenhuma entidade nativa específica foi consolidada nesta primeira ficha além das possíveis manifestações herdadas do ambiente de Level 0.
+
+#### Bases / comunidades / instalações
+- A Backrooms Remodeling Co. é diretamente associada à origem da sub-seção.
+- A organização deve ser tratada como grupo criador/interventor, não como base populacional permanente.
+
+### Level 0.3 — The Icy Rooms
+**Arquivo:** levels/level-00-3.md
+
+#### Entidades
+Nenhuma entidade nativa própria foi consolidada no artigo utilizado para esta ficha.
+
+#### Bases / comunidades / instalações
+### Task Force 104-CX
+O artigo histórico apresenta a Task Force 104-CX em atividade de remodelação. Isso é contexto de expedição/projeto e não deve ser confundido com base permanente.
+
+### Backrooms Remodeling Co.
+A história da sub-seção está diretamente ligada a intervenções de remodelação.
+
+### Level 0.5 — Aquaclaustrophobic Infirmary
+**Arquivo:** levels/level-00-5.md
+
+#### Entidades
+A fonte indica presença hostil limitada/moderada na classificação geral de sobrevivência, mas o catálogo nominal de entidades ainda não está consolidado.
+
+- Presença hostil: indicada.
+- Espécies específicas: não documentadas nesta auditoria.
+
+#### Bases / comunidades / instalações
+- Nenhuma base permanente conhecida.
+- A M.E.G. mantém aviso sobre a descoberta e solicita informações à Base Alpha.
+- Isso não equivale a uma base dentro de 0.5.
+
+### Level 0.7 — The Reminiscence District
+**Arquivo:** levels/level-00-7.md
+
+#### Entidades
+Nenhuma entidade nativa específica é consolidada nesta ficha.
+
+Personagens e membros de grupos históricos devem permanecer como registros históricos, não como fauna permanente.
+
+#### Bases / comunidades / instalações
+### N.T.G. — New Traders Group
+Grupo histórico descoberto através dos registros preservados na sub-seção. É explicitamente distinto da B.N.T.G.
+
+A organização é descrita como dedicada à coleta de informação e grandes operações de comércio.
+
+A associação é histórica; não tratar o N.T.G. como base ativa contemporânea sem evidência adicional.
+
+### Level 1.1 — Corrupted Corridor
+**Arquivo:** levels/level-01-1.md
+
+#### Entidades
+A contagem varia por setor.
+- Sector 1: nenhuma entidade perigosa documentada na fonte consultada.
+- Setores posteriores: maior presença de entidades, de acordo com a versão histórica.
+
+#### Bases / comunidades / instalações
+### M.E.G. Team Corridor
+Equipe da M.E.G. dedicada à exploração e documentação.
+- cerca de uma dúzia de membros permanentes;
+- pesquisadores temporários;
+- suporte a expedições;
+- gerenciamento de alguns postos.
+
+### Tunnel Gang
+Grupo de exploradores vigilantes que reivindica controle do subnível.
+- liderança atribuída a Blade;
+- conflito histórico com a M.E.G.;
+- interesse especial nos setores profundos.
+
+### Level 1.5 — Inverted
+**Arquivo:** levels/level-01-5.md
+
+#### Entidades
+A página menciona “denizens”, mas não apresenta um catálogo confiável de espécies.
+- Identidade: desconhecida.
+- Sussurros são relatados.
+- A intensidade dos sussurros varia com a proximidade.
+- Algumas interpretações tratam as vocalizações como alerta; outras admitem possibilidade de atração.
+
+Nada disso deve ser promovido a comunicação confirmada.
+
+#### Bases / comunidades / instalações
+- Nenhuma base.
+- Nenhum posto ou comunidade confirmado.
+
