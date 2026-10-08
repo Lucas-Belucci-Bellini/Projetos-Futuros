@@ -29,3 +29,8 @@ Prioridade: **Média**. Caderno prático com código próprio, exercícios e rev
 - [Checklist de domínio](./10-checklist.md)
 
 - [Conteúdo completo](./11-conteudo-completo.md)
+
+## Biblioteca compartilhável
+
+- [Aulas](./aulas/) · [Exercícios](./exercicios/) · [Soluções](./solucoes/)
+- [Projetos](./projetos/) · [Simulados](./simulados/) · [Flashcards](./flashcards/) · [Referências](./referencias/)

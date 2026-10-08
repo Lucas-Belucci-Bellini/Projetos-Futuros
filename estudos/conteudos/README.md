@@ -33,3 +33,16 @@ Porta de entrada para as 20 trilhas do inventário de linguagens/. Cada pasta se
 - Resolva sem olhar a solução e registre o erro.
 - Termine o projeto mínimo antes de aumentar o escopo.
 - Use a revisão para medir domínio e escolher o próximo retorno.
+
+## Biblioteca de cada trilha
+
+Além dos módulos progressivos, cada pasta contém:
+
+- aulas guiadas;
+- exercícios e soluções comentadas;
+- projetos individuais e em dupla;
+- simulados;
+- flashcards;
+- referências com registro de versão e data.
+
+Para estudar em grupo, consulte também o [Guia colaborativo](../GUIA-COLABORATIVO.md).
