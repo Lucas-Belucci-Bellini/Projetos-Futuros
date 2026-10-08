@@ -20,3 +20,10 @@ Prioridade: **Baixa**. Caderno prático com código próprio, exercícios e revi
 - [ ] Resolvi exercícios.
 - [ ] Finalizei o projeto.
 
+
+## Conteúdo complementar
+
+- [Sequência de aulas](./07-aulas.md)
+- [Laboratório](./08-laboratorio.md)
+- [Glossário](./09-glossario.md)
+- [Checklist de domínio](./10-checklist.md)
