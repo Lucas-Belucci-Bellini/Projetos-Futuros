@@ -34,3 +34,5 @@ Prioridade: **Alta**. Caderno prático com código próprio, exercícios e revis
 
 - [Aulas](./aulas/) · [Exercícios](./exercicios/) · [Soluções](./solucoes/)
 - [Projetos](./projetos/) · [Simulados](./simulados/) · [Flashcards](./flashcards/) · [Referências](./referencias/)
+
+- [200 tópicos com exemplos](./12-topicos-200.md)

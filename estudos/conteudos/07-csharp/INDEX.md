@@ -16,3 +16,5 @@
 | [10 — Checklist](./10-checklist.md) | domínio e revisão |
 
 | [11 — Conteúdo completo](./11-conteudo-completo.md) | capítulo integrado |
+
+| [12 — 200 tópicos](./12-topicos-200.md) | catálogo aprofundado |

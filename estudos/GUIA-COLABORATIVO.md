@@ -9,6 +9,7 @@
 5. Faça o simulado e crie flashcards a partir dos erros.
 6. Desenvolva o projeto guiado.
 7. Registre a nota de domínio e a próxima revisão.
+8. Escolha de 5 a 10 tópicos do catálogo de 200 por sessão.
 
 ## Como estudar em grupo
 
