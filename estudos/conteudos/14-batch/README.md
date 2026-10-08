@@ -40,3 +40,8 @@ Prioridade: **Baixa**. Caderno prático com código próprio, exercícios e revi
 ## Biblioteca de exemplos
 
 - [Índice de 1.000 exemplos](./exemplos/README.md)
+
+## Aula de consulta
+
+- [Manual explicado](./13-manual-explicado.md)
+

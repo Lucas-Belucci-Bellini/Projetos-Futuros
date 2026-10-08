@@ -12,3 +12,6 @@ Meta: 1.000 exemplos práticos, numerados de 0001 a 1000.
 - [Exemplos 0701–0800 — erros](./08-erros.md)
 - [Exemplos 0801–0900 — testes](./09-testes.md)
 - [Exemplos 0901–1000 — integracao-profissional](./10-integracao-profissional.md)
+
+- [Manual explicado da trilha](../13-manual-explicado.md)
+

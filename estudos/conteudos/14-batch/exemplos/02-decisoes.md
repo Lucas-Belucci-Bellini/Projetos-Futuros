@@ -1,6 +1,6 @@
 # Exemplos de Batch — decisoes
 
-100 exemplos práticos sobre decisoes. Cada item traz código, significado, aplicação e variação.
+100 exemplos práticos sobre decisoes. Cada item traz código, leitura linha a linha, significado, resultado, aplicação, erros, variação e exercício.
 
 ## Exemplo 0101 — decisoes
 
@@ -9,9 +9,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0101 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_101=1 && echo %item_101%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 101, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 1 por 2, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 101 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -22,9 +36,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0102 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_102=2 && echo %item_102%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 102, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 2 por 3, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 102 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -35,9 +63,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0103 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_103=3 && echo %item_103%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 103, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 3 por 4, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 103 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -48,9 +90,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0104 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_104=4 && echo %item_104%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 104, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 4 por 5, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 104 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -61,9 +117,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0105 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_105=5 && echo %item_105%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 105, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 5 por 6, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 105 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -74,9 +144,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0106 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_106=6 && echo %item_106%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 106, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 6 por 7, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 106 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -87,9 +171,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0107 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_107=7 && echo %item_107%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 107, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 7 por 8, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 107 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -100,9 +198,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0108 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_108=8 && echo %item_108%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 108, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 8 por 9, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 108 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -113,9 +225,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0109 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_109=9 && echo %item_109%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 109, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 9 por 10, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 109 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -126,9 +252,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0110 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_110=10 && echo %item_110%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 110, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 10 por 11, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 110 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -139,9 +279,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0111 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_111=11 && echo %item_111%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 111, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 11 por 12, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 111 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -152,9 +306,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0112 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_112=12 && echo %item_112%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 112, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 12 por 13, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 112 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -165,9 +333,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0113 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_113=13 && echo %item_113%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 113, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 13 por 14, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 113 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -178,9 +360,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0114 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_114=14 && echo %item_114%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 114, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 14 por 15, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 114 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -191,9 +387,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0115 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_115=15 && echo %item_115%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 115, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 15 por 16, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 115 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -204,9 +414,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0116 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_116=16 && echo %item_116%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 116, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 16 por 17, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 116 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -217,9 +441,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0117 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_117=17 && echo %item_117%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 117, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 17 por 18, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 117 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -230,9 +468,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0118 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_118=18 && echo %item_118%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 118, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 18 por 19, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 118 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -243,9 +495,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0119 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_119=19 && echo %item_119%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 119, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 19 por 20, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 119 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -256,9 +522,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0120 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_120=20 && echo %item_120%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 120, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 20 por 21, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 120 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -269,9 +549,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0121 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_121=21 && echo %item_121%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 121, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 21 por 22, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 121 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -282,9 +576,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0122 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_122=22 && echo %item_122%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 122, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 22 por 23, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 122 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -295,9 +603,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0123 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_123=23 && echo %item_123%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 123, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 23 por 24, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 123 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -308,9 +630,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0124 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_124=24 && echo %item_124%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 124, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 24 por 25, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 124 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -321,9 +657,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0125 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_125=25 && echo %item_125%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 125, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 25 por 26, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 125 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -334,9 +684,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0126 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_126=26 && echo %item_126%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 126, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 26 por 27, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 126 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -347,9 +711,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0127 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_127=27 && echo %item_127%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 127, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 27 por 28, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 127 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -360,9 +738,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0128 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_128=28 && echo %item_128%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 128, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 28 por 29, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 128 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -373,9 +765,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0129 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_129=29 && echo %item_129%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 129, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 29 por 30, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 129 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -386,9 +792,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0130 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_130=30 && echo %item_130%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 130, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 30 por 31, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 130 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -399,9 +819,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0131 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_131=31 && echo %item_131%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 131, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 31 por 32, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 131 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -412,9 +846,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0132 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_132=32 && echo %item_132%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 132, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 32 por 33, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 132 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -425,9 +873,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0133 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_133=33 && echo %item_133%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 133, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 33 por 34, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 133 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -438,9 +900,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0134 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_134=34 && echo %item_134%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 134, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 34 por 35, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 134 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -451,9 +927,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0135 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_135=35 && echo %item_135%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 135, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 35 por 36, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 135 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -464,9 +954,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0136 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_136=36 && echo %item_136%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 136, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 36 por 37, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 136 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -477,9 +981,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0137 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_137=37 && echo %item_137%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 137, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 37 por 38, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 137 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -490,9 +1008,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0138 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_138=38 && echo %item_138%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 138, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 38 por 39, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 138 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -503,9 +1035,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0139 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_139=39 && echo %item_139%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 139, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 39 por 40, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 139 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -516,9 +1062,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0140 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_140=40 && echo %item_140%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 140, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 40 por 41, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 140 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -529,9 +1089,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0141 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_141=41 && echo %item_141%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 141, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 41 por 42, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 141 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -542,9 +1116,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0142 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_142=42 && echo %item_142%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 142, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 42 por 43, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 142 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -555,9 +1143,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0143 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_143=43 && echo %item_143%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 143, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 43 por 44, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 143 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -568,9 +1170,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0144 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_144=44 && echo %item_144%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 144, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 44 por 45, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 144 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -581,9 +1197,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0145 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_145=45 && echo %item_145%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 145, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 45 por 46, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 145 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -594,9 +1224,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0146 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_146=46 && echo %item_146%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 146, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 46 por 47, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 146 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -607,9 +1251,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0147 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_147=47 && echo %item_147%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 147, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 47 por 48, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 147 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -620,9 +1278,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0148 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_148=48 && echo %item_148%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 148, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 48 por 49, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 148 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -633,9 +1305,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0149 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_149=49 && echo %item_149%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 149, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 49 por 50, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 149 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -646,9 +1332,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0150 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_150=50 && echo %item_150%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 150, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 50 por 51, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 150 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -659,9 +1359,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0151 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_151=51 && echo %item_151%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 151, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 51 por 52, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 151 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -672,9 +1386,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0152 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_152=52 && echo %item_152%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 152, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 52 por 53, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 152 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -685,9 +1413,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0153 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_153=53 && echo %item_153%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 153, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 53 por 54, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 153 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -698,9 +1440,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0154 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_154=54 && echo %item_154%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 154, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 54 por 55, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 154 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -711,9 +1467,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0155 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_155=55 && echo %item_155%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 155, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 55 por 56, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 155 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -724,9 +1494,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0156 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_156=56 && echo %item_156%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 156, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 56 por 57, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 156 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -737,9 +1521,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0157 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_157=57 && echo %item_157%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 157, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 57 por 58, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 157 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -750,9 +1548,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0158 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_158=58 && echo %item_158%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 158, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 58 por 59, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 158 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -763,9 +1575,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0159 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_159=59 && echo %item_159%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 159, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 59 por 60, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 159 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -776,9 +1602,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0160 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_160=60 && echo %item_160%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 160, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 60 por 61, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 160 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -789,9 +1629,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0161 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_161=61 && echo %item_161%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 161, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 61 por 62, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 161 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -802,9 +1656,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0162 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_162=62 && echo %item_162%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 162, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 62 por 63, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 162 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -815,9 +1683,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0163 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_163=63 && echo %item_163%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 163, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 63 por 64, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 163 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -828,9 +1710,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0164 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_164=64 && echo %item_164%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 164, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 64 por 65, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 164 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -841,9 +1737,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0165 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_165=65 && echo %item_165%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 165, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 65 por 66, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 165 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -854,9 +1764,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0166 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_166=66 && echo %item_166%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 166, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 66 por 67, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 166 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -867,9 +1791,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0167 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_167=67 && echo %item_167%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 167, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 67 por 68, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 167 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -880,9 +1818,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0168 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_168=68 && echo %item_168%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 168, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 68 por 69, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 168 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -893,9 +1845,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0169 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_169=69 && echo %item_169%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 169, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 69 por 70, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 169 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -906,9 +1872,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0170 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_170=70 && echo %item_170%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 170, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 70 por 71, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 170 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -919,9 +1899,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0171 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_171=71 && echo %item_171%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 171, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 71 por 72, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 171 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -932,9 +1926,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0172 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_172=72 && echo %item_172%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 172, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 72 por 73, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 172 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -945,9 +1953,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0173 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_173=73 && echo %item_173%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 173, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 73 por 74, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 173 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -958,9 +1980,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0174 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_174=74 && echo %item_174%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 174, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 74 por 75, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 174 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -971,9 +2007,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0175 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_175=75 && echo %item_175%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 175, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 75 por 76, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 175 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -984,9 +2034,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0176 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_176=76 && echo %item_176%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 176, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 76 por 77, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 176 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -997,9 +2061,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0177 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_177=77 && echo %item_177%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 177, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 77 por 78, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 177 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1010,9 +2088,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0178 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_178=78 && echo %item_178%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 178, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 78 por 79, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 178 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1023,9 +2115,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0179 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_179=79 && echo %item_179%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 179, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 79 por 80, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 179 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1036,9 +2142,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0180 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_180=80 && echo %item_180%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 180, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 80 por 81, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 180 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1049,9 +2169,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0181 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_181=81 && echo %item_181%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 181, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 81 por 82, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 181 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1062,9 +2196,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0182 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_182=82 && echo %item_182%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 182, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 82 por 83, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 182 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1075,9 +2223,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0183 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_183=83 && echo %item_183%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 183, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 83 por 84, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 183 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1088,9 +2250,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0184 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_184=84 && echo %item_184%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 184, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 84 por 85, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 184 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1101,9 +2277,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0185 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_185=85 && echo %item_185%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 185, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 85 por 86, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 185 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1114,9 +2304,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0186 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_186=86 && echo %item_186%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 186, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 86 por 87, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 186 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1127,9 +2331,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0187 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_187=87 && echo %item_187%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 187, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 87 por 88, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 187 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1140,9 +2358,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0188 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_188=88 && echo %item_188%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 188, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 88 por 89, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 188 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1153,9 +2385,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0189 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_189=89 && echo %item_189%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 189, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 89 por 90, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 189 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1166,9 +2412,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0190 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_190=90 && echo %item_190%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 190, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 90 por 91, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 190 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1179,9 +2439,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0191 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_191=91 && echo %item_191%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 191, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 91 por 92, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 191 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1192,9 +2466,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0192 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_192=92 && echo %item_192%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 192, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 92 por 93, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 192 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1205,9 +2493,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0193 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_193=93 && echo %item_193%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 193, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 93 por 94, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 193 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1218,9 +2520,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0194 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_194=94 && echo %item_194%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 194, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 94 por 95, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 194 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1231,9 +2547,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0195 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_195=95 && echo %item_195%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 195, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 95 por 96, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 195 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1244,9 +2574,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0196 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_196=96 && echo %item_196%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 196, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 96 por 97, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 196 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1257,9 +2601,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0197 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_197=97 && echo %item_197%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 197, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 97 por 98, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 197 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1270,9 +2628,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0198 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_198=98 && echo %item_198%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 198, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 98 por 99, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 198 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1283,9 +2655,23 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0199 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_199=99 && echo %item_199%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 199, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
 
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
+
 **Variação:** troque o valor 99 por 100, mude o nome do elemento e explique o resultado esperado.
+
+**Exercício de fixação:** Reescreva o exemplo 199 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
 
 ---
 
@@ -1296,9 +2682,26 @@ Código:
 
 **O que significa:** este exemplo cria ou demonstra um elemento de decisoes em Batch. O identificador 0200 ajuda a localizar a prática e comparar alterações.
 
+**Leitura linha a linha:**
+
+1. `set item_200=100 && echo %item_200%;` — A linha 1 usa set para criar a variável; && encadeia o próximo comando somente se o primeiro for bem-sucedido. Em blocos, a expansão %VAR% pode ocorrer antes da execução.
+
+**Resultado esperado:** A saída esperada é o valor associado ao item 200, exibido ou devolvido pelo mecanismo de saída da tecnologia. Teste o exemplo e compare o resultado com a previsão.
+
+**Conceitos envolvidos:** identifique a declaração, o valor, a operação de saída e o escopo. Relacione este microexemplo ao módulo de decisoes e anote qual parte mudaria se a entrada viesse de usuário, arquivo, banco ou API.
+
 **Onde usar:** adapte a ideia para uma atividade acadêmica, uma tarefa profissional ou um projeto pessoal.
+
+**Erros comuns neste exemplo:** procure erro de sintaxe, tipo incompatível, nome incorreto, escopo inadequado, entrada inválida e diferença entre ambiente de desenvolvimento e produção.
 
 **Variação:** troque o valor 100 por 101, mude o nome do elemento e explique o resultado esperado.
 
+**Exercício de fixação:** Reescreva o exemplo 200 sem copiar. Depois altere o valor, explique o resultado e crie uma segunda versão que receba uma entrada real ou seja usada por outra parte do projeto.
+
+**Checkpoint:** explique o que aconteceria se você removesse cada linha, trocasse o valor e executasse em outro ambiente.
+
 ---
+
+
+
 
