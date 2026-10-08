@@ -1,6 +1,6 @@
 # Central prática de estudos
 
-Porta de entrada para as 20 trilhas do inventário de linguagens/. Cada pasta segue: fundamentos → intermediário → avançado → exercícios → projeto → revisão, e agora também inclui aulas, laboratório, glossário e checklist de domínio.
+Porta de entrada para as 20 trilhas do inventário de linguagens/. Cada pasta segue: fundamentos → intermediário → avançado → exercícios → projeto → revisão, e agora também inclui aulas, laboratório, glossário, checklist de domínio e um capítulo longo de conteúdo integrado.
 
 ## Índice
 
