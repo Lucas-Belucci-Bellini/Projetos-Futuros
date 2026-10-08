@@ -1,6 +1,18 @@
 # Central prática de estudos
 
-Porta de entrada para as 20 trilhas do inventário de linguagens/. Cada pasta segue: fundamentos → intermediário → avançado → exercícios → projeto → revisão, e agora também inclui aulas, laboratório, glossário, checklist de domínio, conteúdo integrado e um catálogo de 200 tópicos com exemplos.
+Porta de entrada para as 20 trilhas do inventário de linguagens/. Cada pasta segue: fundamentos → intermediário → avançado → exercícios → projeto → revisão, e também inclui aulas, laboratório, glossário, checklist de domínio, conteúdo integrado, 200 tópicos guiados e uma biblioteca de 1.000 exemplos de código.
+
+## Meta da biblioteca de exemplos
+
+O catálogo reúne **20.000 exemplos de código**: 1.000 por tecnologia. Cada exemplo foi organizado com:
+
+- código curto e legível;
+- explicação do que cada parte significa;
+- indicação de onde aplicar na vida acadêmica, profissional ou em projetos pessoais;
+- uma variação para praticar e adaptar;
+- progressão por fundamentos, decisões, laços, funções, coleções, texto, arquivos e dados, erros, testes e integração profissional.
+
+Os exemplos de HTML, CSS, Makefile e Dockerfile são tratados como tecnologias de apoio: eles ajudam a estruturar interfaces, estilos, automação e ambientes de execução junto das linguagens principais.
 
 ## Índice
 
@@ -46,3 +58,7 @@ Além dos módulos progressivos, cada pasta contém:
 - referências com registro de versão e data.
 
 Para estudar em grupo, consulte também o [Guia colaborativo](../GUIA-COLABORATIVO.md).
+
+## Como usar os 20.000 exemplos
+
+Leia a explicação, tente prever o resultado, copie o código para um ambiente de prática, altere pelo menos uma parte e registre o que mudou. Depois avance para o exercício ou projeto da mesma trilha. O catálogo foi escrito para continuar útil mesmo quando você estiver sem acesso aos repositórios privados.

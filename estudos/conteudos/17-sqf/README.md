@@ -36,3 +36,7 @@ Prioridade: **Baixa**. Caderno prático com código próprio, exercícios e revi
 - [Projetos](./projetos/) · [Simulados](./simulados/) · [Flashcards](./flashcards/) · [Referências](./referencias/)
 
 - [200 tópicos com exemplos](./12-topicos-200.md)
+
+## Biblioteca de exemplos
+
+- [Índice de 1.000 exemplos](./exemplos/README.md)
