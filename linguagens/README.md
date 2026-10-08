@@ -23,6 +23,12 @@
 | 19 | Makefile | [19-makefile.md](./19-makefile.md) | Média |
 | 20 | Dockerfile | [20-dockerfile.md](./20-dockerfile.md) | Média |
 
+## Conteúdo prático
+
+Use a [central prática](../estudos/conteudos/README.md), com uma pasta por entrada e módulos de fundamentos, exercícios, projeto e revisão.
+
+HTML e CSS apoiam estrutura e apresentação; Makefile e Dockerfile apoiam build, automação e containers.
+
 ## Como usar
 
 Acesse uma linguagem somente quando ela for necessária para a aula, projeto ou revisão.

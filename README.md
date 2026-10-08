@@ -74,7 +74,8 @@ Nem todas são linguagens de programação estritas: HTML é marcação, CSS é 
 - `PLANO-GERAL.md` — método de estudo e ordem recomendada.
 - `templates/TEMPLATE-LINGUAGEM.md` — modelo para futuras linguagens.
 - `templates/TEMPLATE-AULA.md` — modelo para transformar uma aula em memória técnica.
-- `linguagens/` — uma trilha individual para cada tecnologia.
+- `linguagens/` — inventário e visão geral das tecnologias.
+- `estudos/conteudos/` — cadernos práticos para as 20 entradas.
 
 ## Ordem recomendada
 
@@ -89,6 +90,10 @@ Nem todas são linguagens de programação estritas: HTML é marcação, CSS é 
 **Fase 4 — especializações:** GDScript, Swift, ShaderLab, SQF e Batch.
 
 Não estudar todas simultaneamente. O catálogo existe para permitir alternância conforme a faculdade, projeto ou necessidade de revisão.
+
+## Central prática
+
+Consulte o [índice dos conteúdos](./estudos/conteudos/README.md). HTML, CSS, Makefile e Dockerfile são tecnologias de apoio, mas também têm prática, projeto e revisão.
 
 ## Método de retenção
 
