@@ -33,3 +33,86 @@ Central de planejamento para projetos futuros.
 ## Regra
 
 Cada branch deve conter somente o planejamento e os arquivos diretamente relacionados ao seu subsistema. Integrações que afetem mais de uma área devem ser documentadas em `projeto/base-movel` antes de serem incorporadas.
+
+---
+
+# Central de Estudos de Programação
+
+Branch dedicada à organização catalogada dos meus estudos.
+
+## Inventário atual
+
+O inventário do meu perfil GitHub registra 20 entradas técnicas:
+
+1. JavaScript
+2. TypeScript
+3. HTML
+4. CSS
+5. Python
+6. Java
+7. C#
+8. Rust
+9. PL/pgSQL
+10. Shell
+11. GDScript
+12. PowerShell
+13. Portugol
+14. Batch
+15. C++
+16. Swift
+17. SQF
+18. ShaderLab
+19. Makefile
+20. Dockerfile
+
+Nem todas são linguagens de programação estritas: HTML é marcação, CSS é estilo, Makefile é automação/build e Dockerfile é uma especificação de build de imagens. Elas entram no catálogo porque fazem parte do meu histórico técnico.
+
+**Nota de inventário:** esta lista acompanha a matriz disponível no perfil. Repositórios privados podem conter outras tecnologias que não aparecem na matriz pública.
+
+## Estrutura
+
+- `PLANO-GERAL.md` — método de estudo e ordem recomendada.
+- `templates/TEMPLATE-LINGUAGEM.md` — modelo para futuras linguagens.
+- `templates/TEMPLATE-AULA.md` — modelo para transformar uma aula em memória técnica.
+- `linguagens/` — uma trilha individual para cada tecnologia.
+
+## Ordem recomendada
+
+**Fase 0 — fundamentos:** Portugol e lógica.
+
+**Fase 1 — base principal:** Java, Python, JavaScript, HTML e CSS.
+
+**Fase 2 — aplicações:** TypeScript, SQL/PL/pgSQL e C#.
+
+**Fase 3 — sistemas:** Rust, C++, Shell, PowerShell, Makefile e Dockerfile.
+
+**Fase 4 — especializações:** GDScript, Swift, ShaderLab, SQF e Batch.
+
+Não estudar todas simultaneamente. O catálogo existe para permitir alternância conforme a faculdade, projeto ou necessidade de revisão.
+
+## Método de retenção
+
+Para cada assunto:
+
+1. tentar lembrar sem consultar;
+2. estudar documentação/livro/vídeo;
+3. codar um exemplo próprio;
+4. resolver exercícios;
+5. aplicar em um projeto;
+6. registrar erros e dúvidas;
+7. revisar depois.
+
+Usar a escala 0–5:
+
+- 0 — nunca estudei;
+- 1 — reconheço;
+- 2 — adapto exemplos;
+- 3 — consigo fazer sozinho;
+- 4 — consigo explicar;
+- 5 — consigo revisar/otimizar e ensinar.
+
+## Regra de fontes
+
+Prioridade: documentação oficial → livros reconhecidos → cursos → canais técnicos → exercícios → artigos complementares.
+
+O arquivo de cada linguagem deve ser atualizado quando uma fonte ficar desatualizada ou quando surgir uma fonte melhor.
