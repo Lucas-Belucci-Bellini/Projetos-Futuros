@@ -39,6 +39,7 @@ O plano de arquitetura foi dividido em documentos menores para facilitar impleme
 
 ## Diretório de pisos e profissionais
 
+- [OBJETIVO_COMPARADOR_DE_PRECOS.md](OBJETIVO_COMPARADOR_DE_PRECOS.md) — visão do produto como comparador de preços, regras de equivalência e métricas.
 - [PROFISSIONAIS_E_LOJAS_DE_PISOS.md](PROFISSIONAIS_E_LOJAS_DE_PISOS.md) — lista inicial de lojas e prestadores candidatos, categorias, campos cadastrais e regras de verificação.
 - [PROFISSIONAIS_OUTRAS_CATEGORIAS.md](PROFISSIONAIS_OUTRAS_CATEGORIAS.md) — categorias e candidatos de hidráulica, elétrica, pintura, drywall, vidraçaria, telhados, impermeabilização, climatização, arquitetura e engenharia.
 - [Planejamento arquitetural do diretório](docs/arquitetura/16_DIRETORIO_LOJAS_E_PROFISSIONAIS.md) — requisitos de site, modelo de dados e critérios para publicação.
