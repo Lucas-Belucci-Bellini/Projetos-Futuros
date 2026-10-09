@@ -6,8 +6,8 @@
 - **Produtos candidatos no template:** 105 registros em treze lotes de descoberta.
 - **Produtos verificados para a meta pública:** 0 até que os critérios de revisão sejam aplicados.
 - **Ofertas registradas:** 6 observações de preço publicadas em páginas individuais da Romani, ainda sujeitas à confirmação de condições, unidade atendente, estoque e entrega; nenhuma parceria comercial foi presumida.
-- **Empresas/unidades cadastradas no CSV:** 32.
-- **Fontes cadastradas no CSV:** 22.
+- **Empresas/unidades cadastradas no CSV:** 34.
+- **Fontes cadastradas no CSV:** 25.
 - **Status comercial:** os estabelecimentos continuam como `pending`; nenhum foi declarado parceiro.
 
 ## Lotes
@@ -24,6 +24,8 @@
 - [Lote 009 — cimento, tintas e rejuntes especiais](LOTE_PILOTO_009.md): 8 candidatos pendentes.
 - [Lote 007 — pisos, revestimentos e ofertas observadas](LOTE_PILOTO_007.md): 5 candidatos novos e 6 observações de preço em páginas individuais.
 - [Lote 006 — impermeabilização, limpeza e ferramentas](LOTE_PILOTO_006.md): 6 candidatos pendentes.
+
+- [Onda de pesquisa 005 — novas fontes locais e filas de identificação](PESQUISA_FONTES_ONDA_005.md): 3 novas fontes, 2 unidades candidatas e 11 leads para identificação individual; leads não são contados como produtos.
 
 ## Próximas ações de qualidade
 
