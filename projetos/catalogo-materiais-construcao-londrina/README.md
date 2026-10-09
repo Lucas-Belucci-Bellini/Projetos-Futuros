@@ -68,6 +68,8 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 
 - [Lote piloto 012 — preparação de superfícies e rejuntes](LOTE_PILOTO_012.md) — candidatos de catálogo com variantes explícitas e revisão pendente.
 
+- [Lote piloto 013 — madeiras, forros, decks e assoalhos](LOTE_PILOTO_013.md) — candidatos de catálogo da Madeireste, aguardando SKU e cotação individual.
+
 ## Plano de catalogação e empresas da primeira leva
 
 - [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
