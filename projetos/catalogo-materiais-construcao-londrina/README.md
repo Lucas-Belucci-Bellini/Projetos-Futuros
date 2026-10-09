@@ -16,6 +16,10 @@ O catálogo deverá separar produtos, variantes, lojas, ofertas e fontes. Preço
 - Planejar atualização periódica sem contornar logins, CAPTCHA, bloqueios ou controles técnicos.
 - Construir e validar o pipeline de importação antes de escalar para 50.000 produtos.
 
+## Lotes recentes de catalogação
+
+- [Lote piloto 011 — argamassas, tintas e impermeabilizantes](LOTE_PILOTO_011.md) — novos candidatos com páginas individuais da Romani, pendentes de validação.
+
 ## Referências iniciais
 
 - [Balaroti — loja online](https://www.balaroti.com.br/)
