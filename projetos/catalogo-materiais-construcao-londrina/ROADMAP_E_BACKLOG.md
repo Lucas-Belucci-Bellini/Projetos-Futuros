@@ -11,8 +11,13 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [x] Contrato inicial de CSV.
 - [x] Registro de fontes e requisitos do MVP.
 - [x] Plano de testes.
-- [ ] Confirmar tecnologia e ambiente de desenvolvimento.
-- [ ] Registrar decisões técnicas com justificativas.
+- [x] Definir React + TypeScript + Vite para frontend.
+- [x] Definir Rust + Axum para API.
+- [x] Definir Tailwind CSS v4 para estilos.
+- [x] Definir Python para automação e PostgreSQL como banco alvo de produção.
+- [x] Registrar arquitetura de site e contrato inicial da API.
+- [x] Criar scaffold inicial do frontend e endpoint de health check em Rust.
+- [ ] Confirmar builds no GitHub Actions e corrigir falhas.
 
 **Saída:** regras claras para implementar sem misturar dados inventados e reais.
 
@@ -51,7 +56,8 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [x] Criar checklist operacional do lote piloto, com aprovação manual, dry-run e critérios de qualidade.
 
 ## Fase 3 — Catálogo navegável
-- [ ] Busca e paginação.
+- [ ] Busca e paginação conectadas ao backend.
+- [x] Criar primeira tela responsiva do frontend (apresentação, ainda sem busca real).
 - [ ] Filtros por categoria, loja, marca e preço disponível.
 - [ ] Página de produto e lista de ofertas.
 - [ ] Página de loja com dados verificados.
