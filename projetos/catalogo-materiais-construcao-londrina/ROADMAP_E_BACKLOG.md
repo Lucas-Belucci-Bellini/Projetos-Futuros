@@ -29,9 +29,11 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 **Critério de saída:** ao menos uma fonte aprovada e um lote real reproduzível com relatório de qualidade.
 
 ## Fase 2 — Banco e importador
-- [ ] Definir banco e migrações.
+- [x] Definir schema SQLite inicial para fontes, lojas, produtos, ofertas e lotes.
+- [ ] Avaliar se SQLite atende a primeira implantação ou se o projeto precisa começar diretamente com PostgreSQL.
 - [ ] Implementar fontes, lojas, produtos, variantes, ofertas e lotes.
-- [ ] Implementar importação CSV idempotente.
+- [x] Implementar importação CSV idempotente inicial para SQLite.
+- [ ] Executar testes em ambiente local/CI e corrigir falhas encontradas.
 - [ ] Implementar validação e normalização.
 - [ ] Criar fila de revisão de conflitos.
 - [ ] Criar testes automatizados.
