@@ -24,6 +24,7 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [ ] Avaliar termos, licenças, feeds e parcerias.
 - [x] Registrar estrutura de inventário e importador de fontes.
 - [x] Criar importador de lojas com estado pendente.
+- [x] Criar inventário inicial de fontes e lojas candidatas com URLs oficiais.
 - [ ] Obter pequeno lote com uso permitido.
 - [ ] Importar lote piloto localmente.
 - [ ] Revisar amostra manualmente.
@@ -35,9 +36,12 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [x] Definir schema SQLite inicial para fontes, lojas, produtos, ofertas e lotes.
 - [ ] Avaliar se SQLite atende a primeira implantação ou se o projeto precisa começar diretamente com PostgreSQL.
 - [ ] Implementar fontes, lojas, produtos, variantes, ofertas e lotes.
-- [x] Implementar importação CSV idempotente inicial para SQLite.
+- [x] Implementar importação CSV idempotente inicial de produtos para SQLite.
+- [x] Implementar importação CSV de ofertas, separada do cadastro de produtos.
+- [x] Criar importadores de fontes e lojas que não aprovam/confirmam registros automaticamente.
+- [x] Criar relatório JSON de contagens, fontes e categorias.
 - [x] Adicionar workflow de testes Python no GitHub Actions.
-- [ ] Executar testes em CI e corrigir falhas encontradas.
+- [ ] Confirmar execução verde da suíte no GitHub Actions e corrigir falhas encontradas.
 - [x] Criar relatório de contagens e qualidade do banco SQLite.
 - [ ] Implementar validação e normalização.
 - [ ] Criar fila de revisão de conflitos.
