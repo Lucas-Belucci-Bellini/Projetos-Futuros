@@ -21,6 +21,10 @@ Foi criado o [Lote Piloto 001](LOTE_PILOTO_001.md) com **5 registros candidatos 
 
 A mesma torneira vendida por cinco lojas deve ser, quando realmente equivalente, um produto canônico com cinco ofertas — não cinco produtos únicos artificiais.
 
+## Taxonomia ampliada
+
+A taxonomia detalhada está em [TAXONOMIA_AMPLIADA.md](TAXONOMIA_AMPLIADA.md). Ela organiza 36 famílias e os atributos necessários para normalizar itens, sem presumir disponibilidade local.
+
 ## Estratégia de aquisição de dados
 
 Ordem de preferência:
