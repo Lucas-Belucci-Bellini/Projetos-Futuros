@@ -18,7 +18,7 @@ async fn health() -> Json<HealthResponse> {
 #[tokio::main]
 async fn main() {
     tracing_subscriber::registry()
-        .with(tracing_subscriber::EnvFilter::try_from_default_env().unwrap_or_else(|_| "catalogo_api=info,tower_http=info".into()))
+        .with(tracing_subscriber::EnvFilter::try_from_default_env().unwrap_or_else(|_| tracing_subscriber::EnvFilter::new("catalogo_api=info,tower_http=info")))
         .with(tracing_subscriber::fmt::layer())
         .init();
 
