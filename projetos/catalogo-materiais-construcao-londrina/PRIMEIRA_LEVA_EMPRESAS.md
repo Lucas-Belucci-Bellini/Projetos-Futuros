@@ -23,9 +23,9 @@ Priorizar empresas com presença em Londrina e sortimento relevante para compara
 | P1 | [Príncipe Casa e Construção](https://principecec.com.br/) | Materiais de construção e itens gerais | [Site oficial](https://principecec.com.br/) | Confirmar catálogo por filial, preços e entrega |
 | P1 | [Eletroluz Londrina](https://www.eletroluz.net/) | Materiais elétricos | [Site oficial](https://www.eletroluz.net/) | Solicitar catálogo elétrico e especificações de unidade/embalagem |
 | P1 | [Balaroti](https://www.balaroti.com.br/) | Materiais gerais e acabamento | [Localizador de lojas em Londrina](https://lojas.balaroti.com.br/parana/londrina) | Confirmar lojas ativas, abrangência de preços online e autorização para dados estruturados |
-| P2 | [ALLURE — pisos e vinílicos](https://www.instagram.com/) | Pisos laminados e vinílicos | Registro de estabelecimento encontrado em pesquisa local; URL de catálogo próprio ainda precisa ser confirmada | Confirmar canal oficial correto, marcas, unidades por caixa, área por embalagem e disponibilidade |
-| P2 | [ROPEL Ferramentas](https://www.ropel.com.br/) | Ferramentas e equipamentos | Candidato encontrado em pesquisa local; validar domínio oficial antes de importar | Confirmar identidade, site oficial e catálogo |
-| P2 | [Eletro Rede — Materiais Elétricos](https://www.eletrorede.com.br/) | Materiais elétricos | Candidato encontrado em pesquisa local; domínio precisa ser confirmado com a empresa | Validar site/canal oficial e catálogo antes de usar dados |
+| P2 | ALLURE — pisos e vinílicos | Pisos laminados e vinílicos | Estabelecimento encontrado em pesquisa local; URL oficial e catálogo ainda precisam ser confirmados | Confirmar canal oficial correto, marcas, unidades por caixa, área por embalagem e disponibilidade |
+| P2 | ROPEL Ferramentas | Ferramentas e equipamentos | Candidato encontrado em pesquisa local; domínio oficial ainda precisa ser validado | Confirmar identidade, site oficial e catálogo antes de importar |
+| P2 | Eletro Rede — Materiais Elétricos | Materiais elétricos | Candidato encontrado em pesquisa local; domínio oficial ainda precisa ser confirmado | Validar site/canal oficial e catálogo antes de usar dados |
 
 ## Dados públicos encontrados para validação operacional
 
