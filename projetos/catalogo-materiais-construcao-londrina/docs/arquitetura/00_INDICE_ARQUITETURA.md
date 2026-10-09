@@ -54,3 +54,5 @@ Esta documentação é o plano-alvo. O scaffold inicial da web e o health check 
 
 - [Diretório de lojas e profissionais de pisos](../../PROFISSIONAIS_E_LOJAS_DE_PISOS.md)
 - [Outras categorias de profissionais da construção](../../PROFISSIONAIS_OUTRAS_CATEGORIAS.md)
+
+- [Comparador de preços](17_COMPARADOR_DE_PRECOS.md) — requisitos, dados, API e regras de comparação.
