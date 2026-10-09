@@ -8,7 +8,7 @@ A Balaroti declara em sua página institucional trabalhar com aproximadamente 52
 
 ## Situação dos lotes de descoberta — 2026-10-09
 
-Os [Lotes Piloto 001](LOTE_PILOTO_001.md), [002](LOTE_PILOTO_002.md), [003](LOTE_PILOTO_003.md), [004](LOTE_PILOTO_004.md), [005](LOTE_PILOTO_005.md), [006](LOTE_PILOTO_006.md), [007](LOTE_PILOTO_007.md) e [008](LOTE_PILOTO_008.md), [009](LOTE_PILOTO_009.md), [010](LOTE_PILOTO_010.md) somam **81 registros candidatos a produto**. O lote 008 adiciona 4 candidatos de argamassas e impermeabilização; o lote 009 adiciona 8 candidatos de cimento, tintas e rejuntes especiais. Todos continuam pendentes de revisão; a contagem de produtos verificados para a meta permanece em **0**. As ofertas já registradas nos lotes anteriores não substituem a confirmação de preço final, estoque, unidade atendente e entrega. As fontes e permissões de reutilização precisam ser avaliadas antes de qualquer publicação.
+Os [Lotes Piloto 001](LOTE_PILOTO_001.md), [002](LOTE_PILOTO_002.md), [003](LOTE_PILOTO_003.md), [004](LOTE_PILOTO_004.md), [005](LOTE_PILOTO_005.md), [006](LOTE_PILOTO_006.md), [007](LOTE_PILOTO_007.md) e [008](LOTE_PILOTO_008.md), [009](LOTE_PILOTO_009.md), [010](LOTE_PILOTO_010.md) somam **95 registros candidatos a produto**. O lote 008 adiciona 4 candidatos de argamassas e impermeabilização; o lote 009 adiciona 8 candidatos de cimento, tintas e rejuntes especiais. Todos continuam pendentes de revisão; a contagem de produtos verificados para a meta permanece em **0**. As ofertas já registradas nos lotes anteriores não substituem a confirmação de preço final, estoque, unidade atendente e entrega. As fontes e permissões de reutilização precisam ser avaliadas antes de qualquer publicação.
 
 ## Definições para não inflar os números
 
