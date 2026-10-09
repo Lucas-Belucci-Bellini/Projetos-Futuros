@@ -116,6 +116,14 @@ CREATE TABLE IF NOT EXISTS offers (
     created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
+CREATE UNIQUE INDEX IF NOT EXISTS ux_offers_source_offer_id
+ON offers(source_id, source_offer_id)
+WHERE source_offer_id IS NOT NULL AND source_offer_id <> '';
+
+CREATE UNIQUE INDEX IF NOT EXISTS ux_offers_source_store_url
+ON offers(source_id, store_id, offer_url)
+WHERE source_offer_id IS NULL OR source_offer_id = '';
+
 CREATE INDEX IF NOT EXISTS ix_offers_product ON offers(source_product_id);
 CREATE INDEX IF NOT EXISTS ix_offers_store ON offers(store_id);
 CREATE INDEX IF NOT EXISTS ix_offers_observed ON offers(observed_at);
