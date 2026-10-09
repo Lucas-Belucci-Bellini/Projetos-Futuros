@@ -34,6 +34,7 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [CATEGORIAS.md](CATEGORIAS.md) — taxonomia inicial.
 - [CONTRATO_IMPORTACAO_CSV.md](CONTRATO_IMPORTACAO_CSV.md) — formato e validação de arquivos.
 - [REGISTRO_DE_FONTES.md](REGISTRO_DE_FONTES.md) — inventário de fontes e permissões.
+- [PESQUISA_FONTES_LOCAIS.md](PESQUISA_FONTES_LOCAIS.md) — primeiras fontes oficiais encontradas em Londrina.
 - [REQUISITOS_MVP.md](REQUISITOS_MVP.md) — requisitos funcionais e não funcionais.
 - [PLANO_DE_TESTES.md](PLANO_DE_TESTES.md) — testes de dados, importação, interface e segurança.
 - [ROADMAP_E_BACKLOG.md](ROADMAP_E_BACKLOG.md) — tarefas priorizadas e critérios de saída.
@@ -41,6 +42,8 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [DECISOES_TECNICAS.md](DECISOES_TECNICAS.md) — decisões técnicas e pontos pendentes.
 - [database/README.md](database/README.md) — criação do banco SQLite.
 - [templates/produtos.csv](templates/produtos.csv) — modelo vazio de produtos.
+- [templates/fontes.csv](templates/fontes.csv) — fontes descobertas, ainda não aprovadas.
+- [templates/lojas.csv](templates/lojas.csv) — lojas candidatas, ainda pendentes de confirmação.
 - [templates/ofertas.csv](templates/ofertas.csv) — modelo vazio de ofertas por loja.
 - [tests/README.md](tests/README.md) — execução dos testes automatizados.
 - [scripts/validar_catalogo_csv.py](scripts/validar_catalogo_csv.py) — validador estrutural de importação.
@@ -48,10 +51,13 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [scripts/importar_ofertas_csv.py](scripts/importar_ofertas_csv.py) — importador de ofertas com validação de loja, produto e fonte.
 - [scripts/registrar_fontes_csv.py](scripts/registrar_fontes_csv.py) — registra fontes sem aprová-las automaticamente.
 - [scripts/registrar_lojas_csv.py](scripts/registrar_lojas_csv.py) — registra lojas sem confirmá-las automaticamente.
+- [scripts/registrar_fontes_csv.py](scripts/registrar_fontes_csv.py) — registra fontes sem aprová-las automaticamente.
+- [scripts/registrar_lojas_csv.py](scripts/registrar_lojas_csv.py) — registra lojas sem confirmá-las automaticamente.
 - [tests/test_validar_catalogo_csv.py](tests/test_validar_catalogo_csv.py) — testes do validador.
 - [tests/test_importar_catalogo_csv.py](tests/test_importar_catalogo_csv.py) — testes do importador SQLite.
 - [tests/test_relatorio_catalogo.py](tests/test_relatorio_catalogo.py) — testes do relatório do banco.
 - [tests/test_importar_ofertas_csv.py](tests/test_importar_ofertas_csv.py) — testes do importador de ofertas.
+- [tests/test_registro_catalogo_csv.py](tests/test_registro_catalogo_csv.py) — testes de cadastro de fontes e lojas.
 - [tests/test_registro_catalogo_csv.py](tests/test_registro_catalogo_csv.py) — testes de cadastro de fontes e lojas.
 - [Workflow de testes](../../.github/workflows/catalogo-tests.yml) — execução automática dos testes no GitHub Actions.
 
