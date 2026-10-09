@@ -54,6 +54,7 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 - [Lote piloto 004 — hidráulica e elétrica](LOTE_PILOTO_004.md) — dez candidatos pendentes, sem ofertas presumidas.
 
 - [Lote piloto 005 — cobertura, madeira, hidráulica e pisos](LOTE_PILOTO_005.md) — novos candidatos pendentes das fontes Romani e Depósito Brasil Sul.
+- [Lote piloto 007 — pisos, revestimentos e primeiras ofertas observadas](LOTE_PILOTO_007.md) — candidatos adicionais e preços publicados por páginas individuais da Romani, sujeitos à confirmação comercial.
 - [Lote piloto 006 — impermeabilização, limpeza e ferramentas](LOTE_PILOTO_006.md) — candidatos pendentes do Depósito Romani.
 
 ## Plano de catalogação e empresas da primeira leva
