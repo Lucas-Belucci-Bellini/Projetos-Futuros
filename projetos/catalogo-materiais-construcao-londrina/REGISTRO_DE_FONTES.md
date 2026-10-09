@@ -61,3 +61,7 @@ Manter um inventário auditável das fontes usadas para descobrir lojas, produto
 - Lojas Balaroti em Londrina: https://lojas.balaroti.com.br/parana/londrina
 
 Esses links são pontos de partida para pesquisa, não autorização automática para extração em massa.
+
+
+## Registro inicial
+Veja [PESQUISA_FONTES_LOCAIS.md](PESQUISA_FONTES_LOCAIS.md) e os modelos `templates/fontes.csv` e `templates/lojas.csv`. Eles documentam candidatos e URLs oficiais para revisão. Os estados permanecem `discovered` e `pending` até a verificação.
