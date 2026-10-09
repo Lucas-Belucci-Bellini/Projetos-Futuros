@@ -80,6 +80,16 @@ class ImportCatalogTests(unittest.TestCase):
         self.assertEqual(report["status"], "rejected")
         self.assertTrue(report["errors"])
 
+    def test_rejects_csv_with_different_source_id(self):
+        with self.csv_path.open("w", encoding="utf-8", newline="") as handle:
+            wrong_row = dict(ROW, source_id="another-source")
+            writer = csv.DictWriter(handle, fieldnames=FIELDS)
+            writer.writeheader()
+            writer.writerow(wrong_row)
+        report = import_csv(self.csv_path, self.db_path, SCHEMA, "source-demo")
+        self.assertEqual(report["status"], "rejected")
+        self.assertTrue(any("source_id do CSV difere" in error for error in report["errors"]))
+
     def test_dry_run_does_not_persist_product(self):
         report = import_csv(self.csv_path, self.db_path, SCHEMA, "source-demo", dry_run=True)
         self.assertEqual(report["status"], "dry_run")
