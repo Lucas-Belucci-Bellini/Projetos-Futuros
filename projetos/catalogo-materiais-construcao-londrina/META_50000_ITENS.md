@@ -8,7 +8,7 @@ A Balaroti declara em sua página institucional trabalhar com aproximadamente 52
 
 ## Situação do primeiro lote — 2026-10-09
 
-Foi criado o [Lote Piloto 001](LOTE_PILOTO_001.md) com **5 registros candidatos a produto**, identificados em páginas oficiais da Leroy Merlin. Todos estão marcados como pendentes de revisão; não foram adicionadas ofertas porque os preços consultados não podiam ser tratados com segurança como atuais. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 5 candidatos registrados para validação. A loja e a fonte também permanecem pendentes de avaliação de termos e reutilização.
+Os [Lotes Piloto 001](LOTE_PILOTO_001.md) e [002](LOTE_PILOTO_002.md) somam **15 registros candidatos a produto**: 5 da Leroy Merlin, 9 da Romani e 1 da Econolux. Todos estão marcados como pendentes de revisão. Nenhuma oferta foi criada nesses lotes, pois preços de páginas de catálogo exigem confirmação de data, canal, unidade, condições e disponibilidade para Londrina. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 15 candidatos registrados para validação. As fontes permanecem pendentes de avaliação dos termos e do escopo de reutilização.
 
 ## Definições para não inflar os números
 
