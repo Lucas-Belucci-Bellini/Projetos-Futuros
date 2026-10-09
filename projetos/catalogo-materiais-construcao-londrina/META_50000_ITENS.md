@@ -6,6 +6,10 @@ Projetar a primeira grande carga do catálogo para chegar a **50.000 produtos ú
 
 A Balaroti declara em sua página institucional trabalhar com aproximadamente 52 mil itens de construção. Isso mostra que a ordem de grandeza existe em um varejista do setor, mas não comprova que todos esses itens estejam disponíveis em Londrina, tenham preço público ou possam ser reutilizados por este projeto. Fonte consultada em 2026-10-09: https://www.balaroti.com.br/sobre-a-balaroti
 
+## Situação do primeiro lote — 2026-10-09
+
+Foi criado o [Lote Piloto 001](LOTE_PILOTO_001.md) com **5 registros candidatos a produto**, identificados em páginas oficiais da Leroy Merlin. Todos estão marcados como pendentes de revisão; não foram adicionadas ofertas porque os preços consultados não podiam ser tratados com segurança como atuais. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 5 candidatos registrados para validação. A loja e a fonte também permanecem pendentes de avaliação de termos e reutilização.
+
 ## Definições para não inflar os números
 
 - **Produto canônico:** produto normalizado com marca/modelo/código e especificações identificáveis.
