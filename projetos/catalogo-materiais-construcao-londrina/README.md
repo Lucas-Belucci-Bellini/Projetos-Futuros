@@ -30,6 +30,7 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [API_CONTRACT.md](API_CONTRACT.md) — contrato planejado dos endpoints REST.
 - [apps/web/README.md](apps/web/README.md) — scaffold React + TypeScript + Vite + Tailwind CSS.
 - [apps/api/README.md](apps/api/README.md) — API inicial Rust + Axum.
+- [Workflow da stack](../../.github/workflows/catalogo-stack.yml) — verifica TypeScript/Vite e compila/testa a API Rust.
 - [automation/README.md](automation/README.md) — responsabilidades da automação Python.
 
 ## Documentação
