@@ -33,6 +33,10 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [Workflow da stack](../../.github/workflows/catalogo-stack.yml) — verifica TypeScript/Vite e compila/testa a API Rust.
 - [automation/README.md](automation/README.md) — responsabilidades da automação Python.
 
+## Planejamento detalhado da arquitetura
+
+O plano de arquitetura foi dividido em documentos menores para facilitar implementação, revisão e atualização por etapa: [índice mestre da arquitetura](docs/arquitetura/00_INDICE_ARQUITETURA.md). A pasta cobre visão geral, requisitos, arquitetura geral, frontend, API Rust, banco de dados, contrato REST, automação Python, governança dos dados, segurança, testes/CI, deploy/operação, UX/acessibilidade, roadmap e decisões pendentes.
+
 ## Documentação
 
 - [PLANO.md](PLANO.md) — fases de pesquisa e desenvolvimento.
