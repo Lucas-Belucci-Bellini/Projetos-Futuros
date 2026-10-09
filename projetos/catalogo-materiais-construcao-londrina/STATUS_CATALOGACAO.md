@@ -3,11 +3,11 @@
 ## Estado atual dos arquivos de trabalho
 
 - **Meta de produtos canônicos:** 50.000.
-- **Produtos candidatos no template:** 64 registros em sete lotes de descoberta.
+- **Produtos candidatos no template:** 68 registros em oito lotes de descoberta.
 - **Produtos verificados para a meta pública:** 0 até que os critérios de revisão sejam aplicados.
 - **Ofertas registradas:** 6 observações de preço publicadas em páginas individuais da Romani, ainda sujeitas à confirmação de condições, unidade atendente, estoque e entrega; nenhuma parceria comercial foi presumida.
-- **Empresas/unidades cadastradas no CSV:** 29.
-- **Fontes cadastradas no CSV:** 20.
+- **Empresas/unidades cadastradas no CSV:** 31.
+- **Fontes cadastradas no CSV:** 21.
 - **Status comercial:** os estabelecimentos continuam como `pending`; nenhum foi declarado parceiro.
 
 ## Lotes
@@ -28,7 +28,8 @@
 4. Conferir duplicatas entre lotes e corrigir a categoria principal.
 5. Validar termos e escopo de uso de cada fonte.
 6. Coletar observações atuais de oferta em separado, com URL, data, preço, condições, unidade e disponibilidade.
-7. Só então atualizar o estado dos produtos para verificado e publicar comparações.
+7. Validar a nova fonte Madeireira Luzitano e confirmar as duas unidades antes de eventual publicação.
+8. Só então atualizar o estado dos produtos para verificado e publicar comparações.
 
 ## Limitação importante
 
