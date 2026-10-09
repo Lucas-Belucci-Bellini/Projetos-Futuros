@@ -53,6 +53,7 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 - [Empresas adicionais — onda 2](EMPRESAS_ONDA_2.md) — novas lojas especializadas, fontes e próximos passos.
 - [Taxonomia ampliada](TAXONOMIA_AMPLIADA.md) — 36 famílias, subcategorias e atributos de comparação.
 - [Lote piloto 001](LOTE_PILOTO_001.md) — cinco produtos identificados em fonte oficial, ainda pendentes de revisão; sem preços tratados como atuais.
+- [Lote piloto 002](LOTE_PILOTO_002.md) — dez novos candidatos de produtos locais, ainda pendentes de revisão.
 
 ## Documentação
 
