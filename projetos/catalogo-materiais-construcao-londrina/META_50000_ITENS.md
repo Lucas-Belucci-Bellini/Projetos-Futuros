@@ -8,7 +8,7 @@ A Balaroti declara em sua página institucional trabalhar com aproximadamente 52
 
 ## Situação dos lotes de descoberta — 2026-10-09
 
-Os [Lotes Piloto 001](LOTE_PILOTO_001.md), [002](LOTE_PILOTO_002.md), [003](LOTE_PILOTO_003.md), [004](LOTE_PILOTO_004.md) e [005](LOTE_PILOTO_005.md) somam **53 registros candidatos a produto**. O lote 005 adiciona 18 candidatos de cobertura, madeira, hidráulica, pisos, ferramentas e itens gerais. Todos estão marcados como pendentes de revisão. Nenhuma oferta foi criada nesses lotes, pois preços de páginas de catálogo exigem confirmação de data, canal, unidade, condições e disponibilidade para Londrina. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 53 candidatos registrados para validação. As fontes permanecem pendentes de avaliação dos termos e do escopo de reutilização.
+Os [Lotes Piloto 001](LOTE_PILOTO_001.md), [002](LOTE_PILOTO_002.md), [003](LOTE_PILOTO_003.md), [004](LOTE_PILOTO_004.md), [005](LOTE_PILOTO_005.md) e [006](LOTE_PILOTO_006.md) somam **59 registros candidatos a produto**. O lote 006 adiciona 6 candidatos de impermeabilização, limpeza e ferramentas. Todos estão marcados como pendentes de revisão. Nenhuma oferta foi criada nesses lotes, pois preços de páginas de catálogo exigem confirmação de data, canal, unidade, condições e disponibilidade para Londrina. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 59 candidatos registrados para validação. As fontes permanecem pendentes de avaliação dos termos e do escopo de reutilização.
 
 ## Definições para não inflar os números
 
