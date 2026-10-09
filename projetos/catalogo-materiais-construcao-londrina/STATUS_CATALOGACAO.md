@@ -3,7 +3,7 @@
 ## Estado atual dos arquivos de trabalho
 
 - **Meta de produtos canônicos:** 50.000.
-- **Produtos candidatos no template:** 81 registros em dez lotes de descoberta.
+- **Produtos candidatos no template:** 91 registros em onze lotes de descoberta.
 - **Produtos verificados para a meta pública:** 0 até que os critérios de revisão sejam aplicados.
 - **Ofertas registradas:** 6 observações de preço publicadas em páginas individuais da Romani, ainda sujeitas à confirmação de condições, unidade atendente, estoque e entrega; nenhuma parceria comercial foi presumida.
 - **Empresas/unidades cadastradas no CSV:** 31.
@@ -11,6 +11,7 @@
 - **Status comercial:** os estabelecimentos continuam como `pending`; nenhum foi declarado parceiro.
 
 ## Lotes
+- [Lote 011 — argamassas, tintas e impermeabilizantes](LOTE_PILOTO_011.md): 10 candidatos pendentes de revisão.
 
 - [Lote 001 — Leroy Merlin](LOTE_PILOTO_001.md): 5 candidatos.
 - [Lote 002 — Romani e Econolux](LOTE_PILOTO_002.md): 10 candidatos.
