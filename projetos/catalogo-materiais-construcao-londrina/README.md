@@ -49,6 +49,7 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [tests/README.md](tests/README.md) — execução dos testes automatizados.
 - [scripts/validar_catalogo_csv.py](scripts/validar_catalogo_csv.py) — validador estrutural de importação.
 - [scripts/relatorio_catalogo.py](scripts/relatorio_catalogo.py) — relatório de contagens, fontes e categorias.
+- [scripts/auditar_catalogo.py](scripts/auditar_catalogo.py) — auditoria de integridade somente leitura.
 - [scripts/importar_ofertas_csv.py](scripts/importar_ofertas_csv.py) — importador de ofertas com validação de loja, produto e fonte.
 - [scripts/registrar_fontes_csv.py](scripts/registrar_fontes_csv.py) — registra fontes sem aprová-las automaticamente.
 - [scripts/registrar_lojas_csv.py](scripts/registrar_lojas_csv.py) — registra lojas sem confirmá-las automaticamente.
