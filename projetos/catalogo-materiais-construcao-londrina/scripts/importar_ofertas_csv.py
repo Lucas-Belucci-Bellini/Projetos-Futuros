@@ -38,19 +38,21 @@ def valid_timestamp(value: str) -> bool:
         return False
 
 
-def validate_rows(csv_path: Path) -> tuple[list[dict[str, str]], list[str]]:
+def validate_rows(csv_path: Path) -> tuple[list[dict[str, str]], list[str], int]:
     errors: list[str] = []
     rows: list[dict[str, str]] = []
+    rows_read = 0
     try:
         with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
             reader = csv.DictReader(handle)
             if not reader.fieldnames:
-                return [], ["arquivo vazio ou sem cabeçalho"]
+                return [], ["arquivo vazio ou sem cabeçalho"], 0
             headers = {header.strip() for header in reader.fieldnames if header}
             missing = sorted(REQUIRED - headers)
             if missing:
-                return [], ["colunas obrigatórias ausentes: " + ", ".join(missing)]
+                return [], ["colunas obrigatórias ausentes: " + ", ".join(missing)], 0
             for line, raw in enumerate(reader, start=2):
+                rows_read += 1
                 row = {(key or "").strip(): (value or "").strip() for key, value in raw.items() if key is not None}
                 row_errors = []
                 for field in REQUIRED:
@@ -83,14 +85,14 @@ def validate_rows(csv_path: Path) -> tuple[list[dict[str, str]], list[str]]:
                     rows.append(row)
     except (OSError, UnicodeDecodeError, csv.Error) as exc:
         errors.append(f"falha lendo CSV: {exc}")
-    return rows, errors
+    return rows, errors, rows_read
 
 
 def import_offers(csv_path: Path, db_path: Path, schema_path: Path, source_id: str, dry_run: bool = False) -> dict:
-    rows, errors = validate_rows(csv_path)
+    rows, errors, rows_read = validate_rows(csv_path)
     report = {
         "file": str(csv_path), "source_id": source_id, "dry_run": dry_run,
-        "rows_read": len(rows) + len(errors), "accepted_rows": len(rows),
+        "rows_read": rows_read, "accepted_rows": len(rows),
         "inserted_rows": 0, "updated_rows": 0, "unchanged_rows": 0,
         "rejected_rows": len(errors), "errors": errors, "status": "rejected",
     }
