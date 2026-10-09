@@ -2,19 +2,19 @@
 
 ## Objetivo
 
-Planejar um site independente para pesquisar e comparar materiais de construção vendidos por lojas de Londrina, Paraná. A referência inicial de navegação e variedade de produtos é a **Balaroti**, sem copiar sua identidade visual ou apresentar o catálogo como se fosse afiliado a ela.
+Planejar e construir um site independente para pesquisar e comparar materiais de construção vendidos por lojas que atendem Londrina, Paraná. A Balaroti é uma referência inicial de variedade, não a única fonte nem parceira presumida do projeto.
 
-O projeto deverá evoluir para um catálogo local com diversas lojas, produtos, categorias, marcas, preços publicados, disponibilidade informada, localização e links para as páginas oficiais das lojas.
+O catálogo deverá separar produtos, variantes, lojas, ofertas e fontes. Preços e disponibilidade sempre terão origem e data de observação.
 
 ## Escopo inicial
 
-- Pesquisar lojas de materiais de construção e home centers de Londrina.
-- Catalogar categorias e produtos usando fontes públicas oficiais.
-- Registrar URL da fonte, data/hora da consulta e confiança do dado.
-- Permitir filtrar por categoria, loja, marca, faixa de preço e região quando houver dados confiáveis.
-- Comparar preços apenas quando os produtos e as condições forem realmente equivalentes.
-- Direcionar o visitante para a página da loja para confirmar preço, estoque, frete e compra.
-- Planejar atualizações periódicas sem contornar logins, CAPTCHA, bloqueios ou controles técnicos.
+- Pesquisar lojas locais, depósitos, home centers e lojas especializadas.
+- Catalogar produtos apenas com dados rastreáveis e método de uso permitido.
+- Filtrar por categoria, loja, marca, unidade e preço disponível.
+- Comparar ofertas realmente equivalentes, mostrando modalidade e condições.
+- Direcionar o visitante à página oficial da loja para confirmar preço, estoque, frete e compra.
+- Planejar atualização periódica sem contornar logins, CAPTCHA, bloqueios ou controles técnicos.
+- Construir e validar o pipeline de importação antes de escalar para 50.000 produtos.
 
 ## Referências iniciais
 
@@ -22,23 +22,32 @@ O projeto deverá evoluir para um catálogo local com diversas lojas, produtos, 
 - [Balaroti — lojas em Londrina](https://lojas.balaroti.com.br/parana/londrina)
 - [Balaroti — sobre a empresa](https://www.balaroti.com.br/sobre-a-balaroti)
 
-A Balaroti informa trabalhar com ampla variedade de categorias de construção, acabamento e decoração. Ela será uma fonte de referência, não a única fonte do catálogo.
+Essas páginas são pontos de partida para pesquisa. Não constituem autorização automática para extração em massa ou republicação de imagens e textos.
 
-## Estrutura desta documentação
+## Documentação
 
-- `PLANO.md`: fases de pesquisa e desenvolvimento.
-- `FONTES_E_REGRAS.md`: fontes, atribuição, atualização e limites de coleta.
-- `ESQUEMA_CATALOGO.md`: campos sugeridos para lojas, produtos e preços.
+- [PLANO.md](PLANO.md) — fases de pesquisa e desenvolvimento.
+- [FONTES_E_REGRAS.md](FONTES_E_REGRAS.md) — fontes, atribuição e limites de coleta.
+- [ESQUEMA_CATALOGO.md](ESQUEMA_CATALOGO.md) — modelo de loja, produto e oferta.
+- [META_50000_ITENS.md](META_50000_ITENS.md) — meta de volume e critérios de contagem.
+- [ARQUITETURA_DADOS.md](ARQUITETURA_DADOS.md) — arquitetura de ingestão e armazenamento.
+- [CATEGORIAS.md](CATEGORIAS.md) — taxonomia inicial.
+- [CONTRATO_IMPORTACAO_CSV.md](CONTRATO_IMPORTACAO_CSV.md) — formato e validação de arquivos.
+- [REGISTRO_DE_FONTES.md](REGISTRO_DE_FONTES.md) — inventário de fontes e permissões.
+- [REQUISITOS_MVP.md](REQUISITOS_MVP.md) — requisitos funcionais e não funcionais.
+- [PLANO_DE_TESTES.md](PLANO_DE_TESTES.md) — testes de dados, importação, interface e segurança.
+- [ROADMAP_E_BACKLOG.md](ROADMAP_E_BACKLOG.md) — tarefas priorizadas e critérios de saída.
 
 ## Princípios
 
 1. Não inventar preços, marcas, estoque, endereços ou disponibilidade.
-2. Preços são variáveis e devem ter data da última verificação.
-3. Não copiar descrições extensas, imagens ou identidade visual de terceiros sem autorização/licença adequada.
-4. Preferir links para as páginas originais e descrições curtas escritas para este projeto.
+2. Preços variam e precisam de data da última verificação.
+3. Não copiar descrições extensas, imagens ou identidade visual de terceiros sem permissão/licença adequada.
+4. Preferir links para páginas originais e descrições curtas próprias.
 5. Separar informação confirmada, informação declarada pela loja e informação ainda não verificada.
-6. Não publicar avaliações falsas nem apresentar uma listagem parcial como se incluísse todas as lojas de Londrina.
+6. Não publicar avaliações falsas nem apresentar uma amostra como se incluísse todas as lojas da cidade.
+7. Contar produto e oferta separadamente: um produto listado em cinco lojas continua sendo um produto, com até cinco ofertas.
 
-## Status
+## Status real
 
-**Fase atual: planejamento e pesquisa de fontes.** A branch contém documentação inicial; ainda não representa um site funcional nem um catálogo completo.
+**Etapa atual: documentação e preparação do pipeline.** A branch ainda não contém site funcional nem catálogo com 50.000 produtos. A próxima entrega técnica é validar importações com dados autorizados, testar qualidade e então desenvolver banco e interface.
