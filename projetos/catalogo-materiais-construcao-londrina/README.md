@@ -57,6 +57,9 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 - [Lote piloto 007 — pisos, revestimentos e primeiras ofertas observadas](LOTE_PILOTO_007.md) — candidatos adicionais e preços publicados por páginas individuais da Romani, sujeitos à confirmação comercial.
 - [Lote piloto 006 — impermeabilização, limpeza e ferramentas](LOTE_PILOTO_006.md) — candidatos pendentes do Depósito Romani.
 
+- [Lote piloto 008 — argamassas e impermeabilização](LOTE_PILOTO_008.md) — cinco candidatos com páginas individuais da Romani.
+- [Empresas — onda 5: madeiras](EMPRESAS_ONDA_5.md) — cadastro pendente da Madeireira Luzitano e duas unidades em Londrina.
+
 ## Plano de catalogação e empresas da primeira leva
 
 - [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
