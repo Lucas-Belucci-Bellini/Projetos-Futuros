@@ -50,6 +50,7 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 
 - [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
 - [Empresas candidatas da primeira leva](PRIMEIRA_LEVA_EMPRESAS.md) — prioridades de pesquisa, fontes públicas e processo de validação/parceria.
+- [Lote piloto 001](LOTE_PILOTO_001.md) — cinco produtos identificados em fonte oficial, ainda pendentes de revisão; sem preços tratados como atuais.
 
 ## Documentação
 
