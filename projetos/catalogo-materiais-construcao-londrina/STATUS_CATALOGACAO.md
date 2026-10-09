@@ -3,14 +3,15 @@
 ## Estado atual dos arquivos de trabalho
 
 - **Meta de produtos canônicos:** 50.000.
-- **Produtos candidatos no template:** 95 registros em doze lotes de descoberta.
+- **Produtos candidatos no template:** 105 registros em treze lotes de descoberta.
 - **Produtos verificados para a meta pública:** 0 até que os critérios de revisão sejam aplicados.
 - **Ofertas registradas:** 6 observações de preço publicadas em páginas individuais da Romani, ainda sujeitas à confirmação de condições, unidade atendente, estoque e entrega; nenhuma parceria comercial foi presumida.
-- **Empresas/unidades cadastradas no CSV:** 31.
-- **Fontes cadastradas no CSV:** 21.
+- **Empresas/unidades cadastradas no CSV:** 0.
+- **Fontes cadastradas no CSV:** 0.
 - **Status comercial:** os estabelecimentos continuam como `pending`; nenhum foi declarado parceiro.
 
 ## Lotes
+- [Lote 013 — madeiras, forros, decks e assoalhos](LOTE_PILOTO_013.md): 10 candidatos pendentes com identificadores internos provisórios.
 - [Lote 012 — preparação de superfícies e rejuntes](LOTE_PILOTO_012.md): 4 candidatos de páginas individuais da Romani, pendentes de revisão.
 - [Lote 011 — argamassas, tintas e impermeabilizantes](LOTE_PILOTO_011.md): 10 candidatos pendentes de revisão.
 
