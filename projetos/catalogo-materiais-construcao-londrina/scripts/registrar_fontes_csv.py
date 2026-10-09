@@ -83,6 +83,22 @@ def register_sources(csv_path: Path, db_path: Path, schema_path: Path) -> dict:
                          source_type=excluded.source_type,
                          geographic_scope=excluded.geographic_scope,
                          access_method=excluded.access_method,
+                         permission_status=CASE
+                           WHEN sources.official_url <> excluded.official_url
+                             OR COALESCE(sources.product_listing_url, '') <> COALESCE(excluded.product_listing_url, '')
+                             OR sources.source_type <> excluded.source_type
+                             OR sources.access_method <> excluded.access_method
+                             OR COALESCE(sources.permission_evidence_url, '') <> COALESCE(excluded.permission_evidence_url, '')
+                             OR COALESCE(sources.permitted_fields, '') <> COALESCE(excluded.permitted_fields, '')
+                             OR sources.media_permission <> excluded.media_permission
+                           THEN 'under_review'
+                           ELSE sources.permission_status
+                         END,
+                         permission_evidence_url=excluded.permission_evidence_url,
+                         permitted_fields=excluded.permitted_fields,
+                         media_permission=excluded.media_permission,
+                         expected_refresh=excluded.expected_refresh,
+                         last_checked_at=excluded.last_checked_at,
                          notes=excluded.notes,
                          updated_at=CURRENT_TIMESTAMP""",
                     (row["source_id"], row["organization_name"], row["official_url"],
