@@ -17,10 +17,13 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 **Saída:** regras claras para implementar sem misturar dados inventados e reais.
 
 ## Fase 1 — Fontes e lote piloto
-- [ ] Catalogar lojas de Londrina por especialidade.
+- [x] Pesquisar um primeiro conjunto de fontes oficiais e lojas candidatas.
+- [x] Criar CSVs iniciais de fontes e lojas, todos sem aprovação/confirmacão automática.
+- [ ] Ampliar e validar a lista de lojas de Londrina por especialidade.
 - [ ] Verificar sites, endereços e atendimento geográfico.
 - [ ] Avaliar termos, licenças, feeds e parcerias.
-- [ ] Registrar fontes no inventário.
+- [x] Registrar estrutura de inventário e importador de fontes.
+- [x] Criar importador de lojas com estado pendente.
 - [ ] Obter pequeno lote com uso permitido.
 - [ ] Importar lote piloto localmente.
 - [ ] Revisar amostra manualmente.
