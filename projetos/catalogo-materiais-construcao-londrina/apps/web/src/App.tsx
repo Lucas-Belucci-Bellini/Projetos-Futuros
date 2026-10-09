@@ -4,6 +4,7 @@ type HealthResponse = { status: string; service: string; version: string };
 
 export default function App() {
   const [query, setQuery] = useState("");
+  const [searchMessage, setSearchMessage] = useState("");
   const [apiState, setApiState] = useState<"checking" | "online" | "offline">("checking");
   const [health, setHealth] = useState<HealthResponse | null>(null);
 
@@ -28,6 +29,7 @@ export default function App() {
     if (!cleaned) return;
     const params = new URLSearchParams({ q: cleaned });
     window.location.hash = `/buscar?${params.toString()}`;
+    setSearchMessage("A interface está pronta para receber a busca; o endpoint de produtos ainda será implementado.");
   }
 
   return (
@@ -53,6 +55,7 @@ export default function App() {
               <button type="submit">Pesquisar</button>
             </form>
             <p className="privacy-note">Catálogo independente. A disponibilidade precisa ser confirmada na loja.</p>
+            {searchMessage && <p className="search-message" role="status">{searchMessage}</p>}
           </div>
           <div className="hero-panel">
             <div className="panel-icon" aria-hidden="true">⌂</div>
