@@ -44,3 +44,8 @@ Para salvar o relatório JSON:
     python projetos/catalogo-materiais-construcao-londrina/scripts/relatorio_catalogo.py --db catalogo-materiais.sqlite3 --output relatorio-catalogo.json
 
 O relatório não baixa dados nem altera o banco. Se o banco não existir, informa isso e retorna código de saída diferente de zero.
+
+
+## Modelo de ofertas
+
+O arquivo `../templates/ofertas.csv` contém somente o cabeçalho, sem dados fictícios. Para cada oferta, inclua a fonte, a loja, o link específico e a data observada. Se houver preço condicionado a CEP ou forma de pagamento, descreva a condição no campo `conditions`.
