@@ -1,0 +1,27 @@
+name: Catalogo - testes Python
+
+on:
+  push:
+    branches:
+      - catalogo-materiais-construcao-londrina
+    paths:
+      - "projetos/catalogo-materiais-construcao-londrina/**"
+      - ".github/workflows/catalogo-tests.yml"
+  pull_request:
+    paths:
+      - "projetos/catalogo-materiais-construcao-londrina/**"
+      - ".github/workflows/catalogo-tests.yml"
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Executar testes automatizados
+        run: python -m unittest discover -s projetos/catalogo-materiais-construcao-londrina/tests -v
