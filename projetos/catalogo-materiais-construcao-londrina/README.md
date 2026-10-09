@@ -46,6 +46,9 @@ O plano de arquitetura foi dividido em documentos menores para facilitar impleme
 
 Os registros atuais são candidatos de pesquisa e **não devem ser publicados como verificados** antes da confirmação de dados, especialidades, contatos e fontes.
 
+- [Empresas adicionais — onda 3](EMPRESAS_ONDA_3.md) — novos candidatos locais e critérios de validação.
+- [Lote piloto 003](LOTE_PILOTO_003.md) — dez candidatos de ferramentas, sem preços considerados atuais.
+
 ## Plano de catalogação e empresas da primeira leva
 
 - [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
