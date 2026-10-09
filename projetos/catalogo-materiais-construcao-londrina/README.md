@@ -24,6 +24,14 @@ O catálogo deverá separar produtos, variantes, lojas, ofertas e fontes. Preço
 
 Essas páginas são pontos de partida para pesquisa. Não constituem autorização automática para extração em massa ou republicação de imagens e textos.
 
+## Arquitetura e aplicações
+
+- [ARQUITETURA_SITE.md](ARQUITETURA_SITE.md) — divisão entre frontend TypeScript, API Rust, automação Python e banco.
+- [API_CONTRACT.md](API_CONTRACT.md) — contrato planejado dos endpoints REST.
+- [apps/web/README.md](apps/web/README.md) — scaffold React + TypeScript + Vite + Tailwind CSS.
+- [apps/api/README.md](apps/api/README.md) — API inicial Rust + Axum.
+- [automation/README.md](automation/README.md) — responsabilidades da automação Python.
+
 ## Documentação
 
 - [PLANO.md](PLANO.md) — fases de pesquisa e desenvolvimento.
@@ -72,4 +80,4 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 
 ## Status real
 
-**Etapa atual: documentação e preparação do pipeline.** A branch ainda não contém site funcional nem catálogo com 50.000 produtos. A próxima entrega técnica é validar importações com dados autorizados, testar qualidade e então desenvolver banco e interface.
+**Etapa atual: documentação, pipeline inicial e scaffold de frontend/API.** A interface já tem uma primeira tela de apresentação e a API tem um health check planejado/implementado em código; ainda é necessário executar build e testes. A busca real, o banco PostgreSQL, as ofertas e o catálogo de 50.000 produtos ainda não estão implementados.
