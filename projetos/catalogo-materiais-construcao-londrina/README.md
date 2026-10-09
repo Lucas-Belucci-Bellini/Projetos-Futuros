@@ -46,6 +46,11 @@ O plano de arquitetura foi dividido em documentos menores para facilitar impleme
 
 Os registros atuais são candidatos de pesquisa e **não devem ser publicados como verificados** antes da confirmação de dados, especialidades, contatos e fontes.
 
+## Plano de catalogação e empresas da primeira leva
+
+- [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
+- [Empresas candidatas da primeira leva](PRIMEIRA_LEVA_EMPRESAS.md) — prioridades de pesquisa, fontes públicas e processo de validação/parceria.
+
 ## Documentação
 
 - [PLANO.md](PLANO.md) — fases de pesquisa e desenvolvimento.
