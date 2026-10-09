@@ -50,3 +50,7 @@ Esta documentação é o plano-alvo. O scaffold inicial da web e o health check 
 - Atualizar este índice e o roadmap quando novos documentos forem criados.
 - Marcar tarefas como concluídas somente com evidência verificável: código, teste, workflow verde ou fonte validada.
 - Não colocar credenciais, dados pessoais desnecessários ou dados de produto inventados nos exemplos.
+## Documentação complementar do diretório profissional
+
+- [Diretório de lojas e profissionais de pisos](../../PROFISSIONAIS_E_LOJAS_DE_PISOS.md)
+- [Outras categorias de profissionais da construção](../../PROFISSIONAIS_OUTRAS_CATEGORIAS.md)
