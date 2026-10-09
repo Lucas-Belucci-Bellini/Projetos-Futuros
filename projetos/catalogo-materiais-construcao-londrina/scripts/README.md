@@ -49,3 +49,14 @@ O relatório não baixa dados nem altera o banco. Se o banco não existir, infor
 ## Modelo de ofertas
 
 O arquivo `../templates/ofertas.csv` contém somente o cabeçalho, sem dados fictícios. Para cada oferta, inclua a fonte, a loja, o link específico e a data observada. Se houver preço condicionado a CEP ou forma de pagamento, descreva a condição no campo `conditions`.
+
+
+## Cadastro inicial de fontes e lojas
+
+Os modelos `../templates/fontes.csv` e `../templates/lojas.csv` contêm candidatos iniciais pesquisados. Registre-os no banco com:
+
+    python projetos/catalogo-materiais-construcao-londrina/scripts/registrar_fontes_csv.py projetos/catalogo-materiais-construcao-londrina/templates/fontes.csv --db catalogo-materiais.sqlite3
+
+    python projetos/catalogo-materiais-construcao-londrina/scripts/registrar_lojas_csv.py projetos/catalogo-materiais-construcao-londrina/templates/lojas.csv --db catalogo-materiais.sqlite3
+
+Os importadores não aprovam fontes nem confirmam lojas por CSV. A revisão humana precisa ocorrer antes de marcar a fonte como `approved` e a loja como `confirmed`. Reimportar o CSV de lojas volta o registro para `pending`, para que uma atualização do arquivo não mantenha silenciosamente uma confirmação antiga.
