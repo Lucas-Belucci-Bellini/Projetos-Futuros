@@ -46,7 +46,8 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [ ] Implementar validação e normalização.
 - [ ] Criar fila de revisão de conflitos.
 - [ ] Criar testes automatizados.
-- [ ] Documentar execução local e recuperação de falhas.
+- [x] Documentar execução local e recuperação de falhas.
+- [x] Criar checklist operacional do lote piloto, com aprovação manual, dry-run e critérios de qualidade.
 
 ## Fase 3 — Catálogo navegável
 - [ ] Busca e paginação.
@@ -77,4 +78,4 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 Contar apenas produtos únicos com nome/categoria válidos, fonte rastreável, uso permitido dos campos publicados, sem duplicatas conhecidas e com variantes comerciais preservadas. Oferta é contada separadamente: um produto vendido em cinco lojas continua sendo um produto e pode ter cinco ofertas.
 
 ## Próxima tarefa recomendada
-Implementar o registro de fontes, importador CSV e relatório de validação antes de construir uma interface completa ou prometer um volume ainda não coletado.
+Executar a suíte no GitHub Actions e corrigir qualquer falha; em seguida revisar e confirmar a permissão de uma fonte, obter um pequeno lote real autorizado e rodar o piloto completo antes de iniciar a interface pública.
