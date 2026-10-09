@@ -60,6 +60,22 @@ def import_csv(csv_path: Path, db_path: Path, schema_path: Path, source_id: str,
         report["errors"].append("CSV reprovado na validação; nenhuma linha foi importada.")
         return report
 
+    # The command-line source ID must match every row, preventing accidental
+    # attribution of a file to the wrong store or permission record.
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
+        preview_rows = list(csv.DictReader(handle))
+    mismatched_rows = [
+        index for index, row in enumerate(preview_rows, start=2)
+        if (row.get("source_id") or "").strip() != source_id
+    ]
+    if mismatched_rows:
+        report["errors"].append(
+            "source_id do CSV difere do --source-id nas linhas: "
+            + ", ".join(map(str, mismatched_rows[:50]))
+        )
+        report["status"] = "rejected"
+        return report
+
     schema_path = Path(schema_path)
     db_path = Path(db_path)
     if not schema_path.is_file():
@@ -69,7 +85,7 @@ def import_csv(csv_path: Path, db_path: Path, schema_path: Path, source_id: str,
     try:
         with csv_path.open("r", encoding="utf-8-sig", newline="") as handle:
             rows = list(csv.DictReader(handle))
-        connection = sqlite3.connect(":memory:" if dry_run else db_path)
+        connection = sqlite3.connect(db_path)
         connection.row_factory = sqlite3.Row
         try:
             initialize_database(connection, schema_path)
@@ -169,7 +185,7 @@ def main() -> int:
     parser.add_argument("--db", type=Path, default=Path("catalogo-materiais.sqlite3"))
     parser.add_argument("--source-id", required=True, help="ID da fonte já aprovada no banco")
     parser.add_argument("--schema", type=Path, default=Path(__file__).resolve().parents[1] / "database" / "001_initial_schema.sql")
-    parser.add_argument("--dry-run", action="store_true", help="simula a importação sem persistir alterações")
+    parser.add_argument("--dry-run", action="store_true", help="simula a importação e reverte as alterações ao final")
     args = parser.parse_args()
 
     report = import_csv(args.csv_file, args.db, args.schema, args.source_id, args.dry_run)
