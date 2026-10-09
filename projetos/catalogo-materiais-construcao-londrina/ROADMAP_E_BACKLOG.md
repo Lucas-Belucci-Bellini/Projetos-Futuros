@@ -43,6 +43,7 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [x] Adicionar workflow de testes Python no GitHub Actions.
 - [ ] Confirmar execução verde da suíte no GitHub Actions e corrigir falhas encontradas.
 - [x] Criar relatório de contagens e qualidade do banco SQLite.
+- [x] Criar auditoria somente leitura para fontes não aprovadas, lojas pendentes, preços antigos e integridade referencial.
 - [ ] Implementar validação e normalização.
 - [ ] Criar fila de revisão de conflitos.
 - [ ] Criar testes automatizados.
