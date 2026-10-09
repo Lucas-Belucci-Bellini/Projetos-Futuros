@@ -11,10 +11,10 @@
 
 | SKU na fonte | Produto | Categoria | Página individual |
 |---|---|---|---|
-| 916519 | Massa corrida acrílica 25 kg Suvinil | Pintura > Preparação de superfícies > Massas | [Abrir página]( |
-| 914500 | Rejunte epóxi Superfácil branco 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte epóxi | [Abrir página]( |
-| 916438 | Rejunte acrílico para piscina azul cobalto 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página]( |
-| pendente | Rejunte acrílico para piscina verde floresta 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página]( |
+| 916519 | Massa corrida acrílica 25 kg Suvinil | Pintura > Preparação de superfícies > Massas | [Abrir página](https://romaniacabamentos.com.br/produto/massa-corrida-acrilica-25kg-lata-suvinil/) |
+| 914500 | Rejunte epóxi Superfácil branco 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte epóxi | [Abrir página](https://romaniacabamentos.com.br/en/product/rejunte-epoxi-superfacil-1kg-branco-quartzolit/) |
+| 916438 | Rejunte acrílico para piscina azul cobalto 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página](https://romaniacabamentos.com.br/produto/rejunte-acrilico-piscina-1kg-azul-cobalto-quartzolit/) |
+| pendente | Rejunte acrílico para piscina verde floresta 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página](https://romaniacabamentos.com.br/produto/rejunte-acrilico-piscina-1kg-verde-floresta-quartzolit/) |
 
 ## Revisões pendentes
 
