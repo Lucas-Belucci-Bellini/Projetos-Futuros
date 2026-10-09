@@ -6,8 +6,8 @@
 - **Produtos candidatos no template:** 105 registros em treze lotes de descoberta.
 - **Produtos verificados para a meta pública:** 0 até que os critérios de revisão sejam aplicados.
 - **Ofertas registradas:** 6 observações de preço publicadas em páginas individuais da Romani, ainda sujeitas à confirmação de condições, unidade atendente, estoque e entrega; nenhuma parceria comercial foi presumida.
-- **Empresas/unidades cadastradas no CSV:** 0.
-- **Fontes cadastradas no CSV:** 0.
+- **Empresas/unidades cadastradas no CSV:** 32.
+- **Fontes cadastradas no CSV:** 22.
 - **Status comercial:** os estabelecimentos continuam como `pending`; nenhum foi declarado parceiro.
 
 ## Lotes
