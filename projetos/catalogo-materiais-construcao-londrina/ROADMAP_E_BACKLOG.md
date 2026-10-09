@@ -33,7 +33,9 @@ A meta de 50.000 produtos é uma meta de catálogo, não uma autorização para 
 - [ ] Avaliar se SQLite atende a primeira implantação ou se o projeto precisa começar diretamente com PostgreSQL.
 - [ ] Implementar fontes, lojas, produtos, variantes, ofertas e lotes.
 - [x] Implementar importação CSV idempotente inicial para SQLite.
-- [ ] Executar testes em ambiente local/CI e corrigir falhas encontradas.
+- [x] Adicionar workflow de testes Python no GitHub Actions.
+- [ ] Executar testes em CI e corrigir falhas encontradas.
+- [x] Criar relatório de contagens e qualidade do banco SQLite.
 - [ ] Implementar validação e normalização.
 - [ ] Criar fila de revisão de conflitos.
 - [ ] Criar testes automatizados.
