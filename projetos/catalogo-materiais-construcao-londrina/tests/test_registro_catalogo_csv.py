@@ -71,6 +71,22 @@ class RegistryImporterTests(unittest.TestCase):
         self.assertEqual(rows, [])
         self.assertTrue(any("não pode aprovar" in error for error in errors))
 
+    def test_changed_source_access_details_require_review_again(self):
+        self.assertEqual(register_sources(self.sources_csv, self.db, SCHEMA)["status"], "completed")
+        with sqlite3.connect(self.db) as connection:
+            connection.execute("UPDATE sources SET permission_status='approved' WHERE id='source-demo'")
+            connection.commit()
+
+        changed = dict(SOURCE_ROW, official_url="https://new-example.com")
+        self.write_csv(self.sources_csv, SOURCE_FIELDS, changed)
+        report = register_sources(self.sources_csv, self.db, SCHEMA)
+        self.assertEqual(report["status"], "completed")
+        with sqlite3.connect(self.db) as connection:
+            status = connection.execute(
+                "SELECT permission_status FROM sources WHERE id='source-demo'"
+            ).fetchone()[0]
+        self.assertEqual(status, "under_review")
+
     def test_registers_store_as_pending(self):
         report = register_stores(self.stores_csv, self.db, SCHEMA)
         self.assertEqual(report["status"], "completed")
