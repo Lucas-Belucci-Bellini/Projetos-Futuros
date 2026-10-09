@@ -6,9 +6,9 @@ Projetar a primeira grande carga do catálogo para chegar a **50.000 produtos ú
 
 A Balaroti declara em sua página institucional trabalhar com aproximadamente 52 mil itens de construção. Isso mostra que a ordem de grandeza existe em um varejista do setor, mas não comprova que todos esses itens estejam disponíveis em Londrina, tenham preço público ou possam ser reutilizados por este projeto. Fonte consultada em 2026-10-09: https://www.balaroti.com.br/sobre-a-balaroti
 
-## Situação do primeiro lote — 2026-10-09
+## Situação dos lotes de descoberta — 2026-10-09
 
-Os [Lotes Piloto 001](LOTE_PILOTO_001.md), [002](LOTE_PILOTO_002.md), [003](LOTE_PILOTO_003.md) e [004](LOTE_PILOTO_004.md) somam **35 registros candidatos a produto**: 5 da Leroy Merlin, 9 da Romani, 1 da Econolux, 10 de ferramentas e 10 de hidráulica/elétrica. Todos estão marcados como pendentes de revisão. Nenhuma oferta foi criada nesses lotes, pois preços de páginas de catálogo exigem confirmação de data, canal, unidade, condições e disponibilidade para Londrina. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 35 candidatos registrados para validação. As fontes permanecem pendentes de avaliação dos termos e do escopo de reutilização.
+Os [Lotes Piloto 001](LOTE_PILOTO_001.md), [002](LOTE_PILOTO_002.md), [003](LOTE_PILOTO_003.md), [004](LOTE_PILOTO_004.md) e [005](LOTE_PILOTO_005.md) somam **53 registros candidatos a produto**. O lote 005 adiciona 18 candidatos de cobertura, madeira, hidráulica, pisos, ferramentas e itens gerais. Todos estão marcados como pendentes de revisão. Nenhuma oferta foi criada nesses lotes, pois preços de páginas de catálogo exigem confirmação de data, canal, unidade, condições e disponibilidade para Londrina. Assim, a contagem de produtos verificados para a meta continua em **0**, enquanto existem 53 candidatos registrados para validação. As fontes permanecem pendentes de avaliação dos termos e do escopo de reutilização.
 
 ## Definições para não inflar os números
 
