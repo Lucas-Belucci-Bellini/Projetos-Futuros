@@ -37,6 +37,9 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [REQUISITOS_MVP.md](REQUISITOS_MVP.md) — requisitos funcionais e não funcionais.
 - [PLANO_DE_TESTES.md](PLANO_DE_TESTES.md) — testes de dados, importação, interface e segurança.
 - [ROADMAP_E_BACKLOG.md](ROADMAP_E_BACKLOG.md) — tarefas priorizadas e critérios de saída.
+- [scripts/README.md](scripts/README.md) — execução do validador CSV inicial.
+- [scripts/validar_catalogo_csv.py](scripts/validar_catalogo_csv.py) — validador estrutural de importação.
+- [tests/test_validar_catalogo_csv.py](tests/test_validar_catalogo_csv.py) — testes automatizados iniciais.
 
 ## Princípios
 
