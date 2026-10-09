@@ -3,9 +3,9 @@
 ## Estado atual dos arquivos de trabalho
 
 - **Meta de produtos canônicos:** 50.000.
-- **Produtos candidatos no template:** 59 registros em seis lotes de descoberta.
+- **Produtos candidatos no template:** 64 registros em sete lotes de descoberta.
 - **Produtos verificados para a meta pública:** 0 até que os critérios de revisão sejam aplicados.
-- **Ofertas registradas:** 0; não usar preços de catálogo sem confirmação atual das condições.
+- **Ofertas registradas:** 6 observações de preço publicadas em páginas individuais da Romani, ainda sujeitas à confirmação de condições, unidade atendente, estoque e entrega; nenhuma parceria comercial foi presumida.
 - **Empresas/unidades cadastradas no CSV:** 29.
 - **Fontes cadastradas no CSV:** 20.
 - **Status comercial:** os estabelecimentos continuam como `pending`; nenhum foi declarado parceiro.
@@ -17,6 +17,7 @@
 - [Lote 003 — ferramentas do Depósito Eldorado](LOTE_PILOTO_003.md): 10 candidatos, com identificadores internos provisórios.
 - [Lote 004 — hidráulica e elétrica](LOTE_PILOTO_004.md): 10 candidatos pendentes.
 - [Lote 005 — cobertura, madeira, hidráulica e pisos](LOTE_PILOTO_005.md): 18 candidatos pendentes.
+- [Lote 007 — pisos, revestimentos e ofertas observadas](LOTE_PILOTO_007.md): 5 candidatos novos e 6 observações de preço em páginas individuais.
 - [Lote 006 — impermeabilização, limpeza e ferramentas](LOTE_PILOTO_006.md): 6 candidatos pendentes.
 
 ## Próximas ações de qualidade
