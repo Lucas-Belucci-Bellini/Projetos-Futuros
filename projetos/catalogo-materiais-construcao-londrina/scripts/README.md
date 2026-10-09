@@ -31,3 +31,16 @@ Se o relatório estiver correto, repita sem `--dry-run` para persistir a importa
 O importador exige que o `source_id` de cada linha do CSV seja igual ao argumento `--source-id` e que a fonte esteja aprovada na tabela `sources`. A opção de simulação usa o banco informado para validar as condições, mas reverte as alterações da importação. O schema pode ser criado caso ainda não exista; o banco precisa conter a fonte aprovada para a simulação funcionar.
 
 O importador não busca dados na internet, não cria fontes automaticamente e não comprova a suficiência jurídica de uma autorização. Faça a revisão da evidência da fonte antes de marcar o status como aprovado.
+
+
+## Relatório do catálogo
+
+Gera um resumo somente de leitura com contagens de lojas, fontes, produtos observados, ofertas, lotes, erros, fontes por estado, categorias principais e alertas simples de qualidade:
+
+    python projetos/catalogo-materiais-construcao-londrina/scripts/relatorio_catalogo.py --db catalogo-materiais.sqlite3
+
+Para salvar o relatório JSON:
+
+    python projetos/catalogo-materiais-construcao-londrina/scripts/relatorio_catalogo.py --db catalogo-materiais.sqlite3 --output relatorio-catalogo.json
+
+O relatório não baixa dados nem altera o banco. Se o banco não existir, informa isso e retorna código de saída diferente de zero.
