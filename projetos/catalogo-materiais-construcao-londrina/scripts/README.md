@@ -60,3 +60,12 @@ Os modelos `../templates/fontes.csv` e `../templates/lojas.csv` contêm candidat
     python projetos/catalogo-materiais-construcao-londrina/scripts/registrar_lojas_csv.py projetos/catalogo-materiais-construcao-londrina/templates/lojas.csv --db catalogo-materiais.sqlite3
 
 Os importadores não aprovam fontes nem confirmam lojas por CSV. A revisão humana precisa ocorrer antes de marcar a fonte como `approved` e a loja como `confirmed`. Reimportar o CSV de lojas volta o registro para `pending`, para que uma atualização do arquivo não mantenha silenciosamente uma confirmação antiga.
+
+
+## Auditoria de integridade
+
+Verifica chaves estrangeiras, produtos/ofertas ligados a fontes não aprovadas, ofertas de lojas não confirmadas, observações antigas e ofertas sem preço. O script é somente de leitura e não corrige nem remove dados automaticamente:
+
+    python projetos/catalogo-materiais-construcao-londrina/scripts/auditar_catalogo.py --db catalogo-materiais.sqlite3 --stale-days 30
+
+Retorna código diferente de zero quando há erros estruturais ou o banco não pode ser lido. Avisos sobre loja pendente, observação antiga ou preço ausente precisam de revisão; nem todo preço ausente é erro.
