@@ -11,10 +11,10 @@
 
 | SKU na fonte | Produto | Categoria | Página individual |
 |---|---|---|---|
-| 916519 | Massa corrida acrílica 25 kg Suvinil | Pintura > Preparação de superfícies > Massas | [Abrir página](undefined) |
-| 914500 | Rejunte epóxi Superfácil branco 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte epóxi | [Abrir página](undefined) |
-| 916438 | Rejunte acrílico para piscina azul cobalto 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página](undefined) |
-| pendente | Rejunte acrílico para piscina verde floresta 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página](undefined) |
+| 916519 | Massa corrida acrílica 25 kg Suvinil | Pintura > Preparação de superfícies > Massas | [Abrir página]( |
+| 914500 | Rejunte epóxi Superfácil branco 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte epóxi | [Abrir página]( |
+| 916438 | Rejunte acrílico para piscina azul cobalto 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página]( |
+| pendente | Rejunte acrílico para piscina verde floresta 1 kg Quartzolit | Pisos e revestimentos > Argamassas e rejuntes > Rejunte acrílico | [Abrir página]( |
 
 ## Revisões pendentes
 
