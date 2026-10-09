@@ -40,13 +40,16 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [scripts/README.md](scripts/README.md) — execução do validador, importador e relatório.
 - [DECISOES_TECNICAS.md](DECISOES_TECNICAS.md) — decisões técnicas e pontos pendentes.
 - [database/README.md](database/README.md) — criação do banco SQLite.
-- [templates/produtos.csv](templates/produtos.csv) — modelo vazio de CSV, sem produtos fictícios.
+- [templates/produtos.csv](templates/produtos.csv) — modelo vazio de produtos.
+- [templates/ofertas.csv](templates/ofertas.csv) — modelo vazio de ofertas por loja.
 - [tests/README.md](tests/README.md) — execução dos testes automatizados.
 - [scripts/validar_catalogo_csv.py](scripts/validar_catalogo_csv.py) — validador estrutural de importação.
 - [scripts/relatorio_catalogo.py](scripts/relatorio_catalogo.py) — relatório de contagens, fontes e categorias.
+- [scripts/importar_ofertas_csv.py](scripts/importar_ofertas_csv.py) — importador de ofertas com validação de loja, produto e fonte.
 - [tests/test_validar_catalogo_csv.py](tests/test_validar_catalogo_csv.py) — testes do validador.
 - [tests/test_importar_catalogo_csv.py](tests/test_importar_catalogo_csv.py) — testes do importador SQLite.
 - [tests/test_relatorio_catalogo.py](tests/test_relatorio_catalogo.py) — testes do relatório do banco.
+- [tests/test_importar_ofertas_csv.py](tests/test_importar_ofertas_csv.py) — testes do importador de ofertas.
 - [Workflow de testes](../../.github/workflows/catalogo-tests.yml) — execução automática dos testes no GitHub Actions.
 
 ## Princípios
