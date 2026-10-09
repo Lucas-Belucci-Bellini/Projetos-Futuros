@@ -56,3 +56,8 @@ Uma empresa só fica pronta para lançamento quando:
 - a empresa autorizou o uso dos dados quando essa autorização for necessária.
 
 A lista pode mudar conforme a qualidade das fontes e a disposição das empresas em colaborar.
+
+
+## Ampliação da pesquisa
+
+- [Empresas adicionais para pesquisa — onda 2](EMPRESAS_ONDA_2.md) — empresas especializadas e fontes públicas adicionais, ainda pendentes de validação.
