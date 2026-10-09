@@ -70,6 +70,8 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 
 - [Lote piloto 013 — madeiras, forros, decks e assoalhos](LOTE_PILOTO_013.md) — candidatos de catálogo da Madeireste, aguardando SKU e cotação individual.
 
+- [Onda de pesquisa 005 — novas fontes locais e filas de identificação](PESQUISA_FONTES_ONDA_005.md): Açofer, Hydraulica Comercial, Tintas Diniz e Tintas Aurora.
+
 ## Plano de catalogação e empresas da primeira leva
 
 - [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
