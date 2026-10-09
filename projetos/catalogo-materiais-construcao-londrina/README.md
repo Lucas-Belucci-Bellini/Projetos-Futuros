@@ -39,10 +39,12 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 - [ROADMAP_E_BACKLOG.md](ROADMAP_E_BACKLOG.md) — tarefas priorizadas e critérios de saída.
 - [scripts/README.md](scripts/README.md) — execução do validador e importador CSV.
 - [database/README.md](database/README.md) — criação do banco SQLite.
+- [templates/produtos.csv](templates/produtos.csv) — modelo vazio de CSV, sem produtos fictícios.
 - [tests/README.md](tests/README.md) — execução dos testes automatizados.
 - [scripts/validar_catalogo_csv.py](scripts/validar_catalogo_csv.py) — validador estrutural de importação.
 - [tests/test_validar_catalogo_csv.py](tests/test_validar_catalogo_csv.py) — testes do validador.
 - [tests/test_importar_catalogo_csv.py](tests/test_importar_catalogo_csv.py) — testes do importador SQLite.
+- [Workflow de testes](../../.github/workflows/catalogo-tests.yml) — execução automática dos testes no GitHub Actions.
 
 ## Princípios
 
