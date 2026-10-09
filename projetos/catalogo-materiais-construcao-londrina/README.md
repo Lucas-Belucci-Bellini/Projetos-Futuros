@@ -37,6 +37,8 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 
 O plano de arquitetura foi dividido em documentos menores para facilitar implementação, revisão e atualização por etapa: [índice mestre da arquitetura](docs/arquitetura/00_INDICE_ARQUITETURA.md). A pasta cobre visão geral, requisitos, arquitetura geral, frontend, API Rust, banco de dados, contrato REST, automação Python, governança dos dados, segurança, testes/CI, deploy/operação, UX/acessibilidade, roadmap e decisões pendentes.
 
+- [Empresas — onda 4](EMPRESAS_ONDA_4.md) — novas fontes locais para hidráulica e elétrica.
+
 ## Diretório de pisos e profissionais
 
 - [OBJETIVO_COMPARADOR_DE_PRECOS.md](OBJETIVO_COMPARADOR_DE_PRECOS.md) — visão do produto como comparador de preços, regras de equivalência e métricas.
@@ -48,6 +50,8 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 
 - [Empresas adicionais — onda 3](EMPRESAS_ONDA_3.md) — novos candidatos locais e critérios de validação.
 - [Lote piloto 003](LOTE_PILOTO_003.md) — dez candidatos de ferramentas, sem preços considerados atuais.
+
+- [Lote piloto 004 — hidráulica e elétrica](LOTE_PILOTO_004.md) — dez candidatos pendentes, sem ofertas presumidas.
 
 ## Plano de catalogação e empresas da primeira leva
 
