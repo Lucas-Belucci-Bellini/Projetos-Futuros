@@ -53,6 +53,8 @@ Os registros atuais são candidatos de pesquisa e **não devem ser publicados co
 
 - [Lote piloto 004 — hidráulica e elétrica](LOTE_PILOTO_004.md) — dez candidatos pendentes, sem ofertas presumidas.
 
+- [Lote piloto 005 — cobertura, madeira, hidráulica e pisos](LOTE_PILOTO_005.md) — novos candidatos pendentes das fontes Romani e Depósito Brasil Sul.
+
 ## Plano de catalogação e empresas da primeira leva
 
 - [Plano operacional para os 50.000 produtos](PLANO_CATALOGACAO_50000.md) — cotas de planejamento, etapas, qualidade e critérios de contagem.
