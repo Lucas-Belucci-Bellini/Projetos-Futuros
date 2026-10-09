@@ -37,6 +37,13 @@ Essas páginas são pontos de partida para pesquisa. Não constituem autorizaç�
 
 O plano de arquitetura foi dividido em documentos menores para facilitar implementação, revisão e atualização por etapa: [índice mestre da arquitetura](docs/arquitetura/00_INDICE_ARQUITETURA.md). A pasta cobre visão geral, requisitos, arquitetura geral, frontend, API Rust, banco de dados, contrato REST, automação Python, governança dos dados, segurança, testes/CI, deploy/operação, UX/acessibilidade, roadmap e decisões pendentes.
 
+## Diretório de pisos e profissionais
+
+- [PROFISSIONAIS_E_LOJAS_DE_PISOS.md](PROFISSIONAIS_E_LOJAS_DE_PISOS.md) — lista inicial de lojas e prestadores candidatos, categorias, campos cadastrais e regras de verificação.
+- [Planejamento arquitetural do diretório](docs/arquitetura/16_DIRETORIO_LOJAS_E_PROFISSIONAIS.md) — requisitos de site, modelo de dados e critérios para publicação.
+
+Os registros atuais são candidatos de pesquisa e **não devem ser publicados como verificados** antes da confirmação de dados, especialidades, contatos e fontes.
+
 ## Documentação
 
 - [PLANO.md](PLANO.md) — fases de pesquisa e desenvolvimento.
