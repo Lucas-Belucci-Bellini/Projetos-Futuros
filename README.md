@@ -21,6 +21,7 @@ Central de planejamento para projetos futuros.
 - `base-movel/climatizacao` — refrigeração, fluxo de ar e sala técnica.
 - `base-movel/documentacao` — requisitos, ADRs, diagramas, inventário e decisões.
 - `site-promocoes-pc-faculdade` — futuro site de promoções e orçamentos de PCs/notebooks para estudantes e usuários gerais.
+- `catalogo-materiais-construcao-londrina` — planejamento e protótipo do catálogo de materiais de construção para Londrina; índice em [`docs/catalogo/README.md`](docs/catalogo/README.md), código experimental em `prototipo/`.
 - `sistema-operacional-linux` — projeto de sistema operacional desktop baseado em Linux, com UX inspirada em desktops modernos, segurança forte e identidade visual própria.
 
 ## Compra e afiliados

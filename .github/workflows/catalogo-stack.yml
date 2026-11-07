@@ -5,13 +5,13 @@ on:
     branches:
       - catalogo-materiais-construcao-londrina
     paths:
-      - "projetos/catalogo-materiais-construcao-londrina/apps/web/**"
-      - "projetos/catalogo-materiais-construcao-londrina/apps/api/**"
+      - "prototipo/apps/web/**"
+      - "prototipo/apps/api/**"
       - ".github/workflows/catalogo-stack.yml"
   pull_request:
     paths:
-      - "projetos/catalogo-materiais-construcao-londrina/apps/web/**"
-      - "projetos/catalogo-materiais-construcao-londrina/apps/api/**"
+      - "prototipo/apps/web/**"
+      - "prototipo/apps/api/**"
       - ".github/workflows/catalogo-stack.yml"
   workflow_dispatch:
 
@@ -20,13 +20,13 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: projetos/catalogo-materiais-construcao-londrina/apps/web
+        working-directory: prototipo/apps/web
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
-      - run: npm install
+      - run: npm ci
       - run: npm run typecheck
       - run: npm run build
 
@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: projetos/catalogo-materiais-construcao-londrina/apps/api
+        working-directory: prototipo/apps/api
     steps:
       - uses: actions/checkout@v4
       - uses: dtolnay/rust-toolchain@stable
